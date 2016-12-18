@@ -26,25 +26,25 @@
       * Pedestrians
       * Intersections
       * Traffic Control
-    * Rail
-      * Stations
-      * Trains
-        * Propulsion
-          * Power Configuration
-            * Locomotive
-              * Cab Cars
-            * Multiple Unit
-          * Motive Power
-            * Electric
-            * Diesel
-        * Braking
-        * Suspension
-      * Switches, Crossings, and Interlockings
-      * Intersections
-        * Level Junction
-        * Level Crossings
-        * Bridges and Tunnels
-    * Water
-      * Ports
-    * Air
-      * Airports
+  * Rail
+    * Stations
+    * Trains
+      * Propulsion
+        * Power Configuration
+          * Locomotive
+            * Cab Cars
+          * Multiple Unit
+        * Motive Power
+          * Electric
+          * Diesel
+      * Braking
+      * Suspension
+    * Switches, Crossings, and Interlockings
+    * Intersections
+      * Level Junction
+      * Level Crossings
+      * Bridges and Tunnels
+  * Water
+    * Ports
+  * Air
+    * Airports
