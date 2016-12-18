@@ -6,7 +6,7 @@
     * Ways
       * Pedestrian Paths
       * Bicycle Paths
-      * Shared (Pedestrian and Bicycle) Paths
+      * Shared (Pedestrian and Bicycle) Paths
       * Roads
         * General Use Lanes
         * Bus Lanes
