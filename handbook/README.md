@@ -1,7 +1,7 @@
 # Transportation
 
 1. Land Use and Planning
-2. Infrastructure
+* Infrastructure
   * Road
     * Ways
       * Pedestrian Paths
@@ -44,7 +44,28 @@
       * Level Junction
       * Level Crossings
       * Bridges and Tunnels
+    * Control
   * Water
     * Ports
   * Air
     * Airports
+* Research
+  * Material Testing
+     * Destructive
+     * Nondestructive 
+  * Modeling and Simulation
+    * Macrosimulation
+    * Microsimulation
+  * Traffic Counts
+    * Subjects
+      * Pedestrians
+      * Bicycles
+      * Cars
+        * Vehicle Miles Traveled
+    * Methods
+      * Manual
+      * Automated
+        * Loop Detector
+        * Automatic Number Plate Recognition
+        * Bluetooth
+* Education
