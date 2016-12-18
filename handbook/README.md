@@ -1,7 +1,7 @@
 # Transportation
 
 1. Land Use and Planning
-* Infrastructure
+2. Infrastructure
   * Road
     * Ways
       * Pedestrian Paths
