@@ -72,6 +72,9 @@
 * Education
   * Organizations
     * Transportation Research Board
+  * Universities
+    * Massachusetts Institute of Technology
+      * https://ocw.mit.edu/courses/transportation-courses/
 * Governance
   * United States
     * Department of Transportation
