@@ -68,7 +68,7 @@
         * Loop Detector
         * Automatic Number Plate Recognition
         * Bluetooth
-    * Geographic Information Systems
+  * Geographic Information Systems
 * Education
   * Organizations
     * Transportation Research Board
