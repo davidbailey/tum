@@ -45,6 +45,7 @@
       * Level Crossings
       * Bridges and Tunnels
     * Control
+    * High-speed Rail
   * Water
     * Ports
   * Air
