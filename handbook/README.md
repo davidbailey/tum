@@ -78,6 +78,7 @@
     * Duration
       * Long Term - to research temporal variances
       * Short Term - to research spacial variances
+    * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
   * Geographic Information Systems
 * Education
   * Organizations
