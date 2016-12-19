@@ -68,6 +68,11 @@
         * Loop Detector
         * Automatic Number Plate Recognition
         * Bluetooth
+        * App
+          * Strava
+    * Duration
+      * Long Term - to research temporal variances
+      * Short Term - to research spacial variances
   * Geographic Information Systems
 * Education
   * Organizations
