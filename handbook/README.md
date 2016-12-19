@@ -70,7 +70,8 @@
         * Loop Detector
         * Automatic Number Plate Recognition
         * Bluetooth
-        * App
+        * Apps
+          * Navigation
           * Strava
     * Duration
       * Long Term - to research temporal variances
