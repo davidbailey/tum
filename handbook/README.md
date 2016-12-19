@@ -56,6 +56,11 @@
      * Nondestructive 
   * Modeling and Simulation
     * Macrosimulation
+      * Four-step Model
+        * Trip Generation
+        * Trip Distribution
+        * Mode Choice
+        * Route Assignment
     * Microsimulation
       * Agent-based Model
         * MATSim
