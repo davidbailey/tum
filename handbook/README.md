@@ -73,6 +73,8 @@
         * Apps
           * Navigation
           * Strava
+      * Surveys
+      * Models
     * Duration
       * Long Term - to research temporal variances
       * Short Term - to research spacial variances
