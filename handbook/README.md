@@ -45,7 +45,13 @@
       * Level Crossings
       * Bridges and Tunnels
     * Control
-    * High-speed Rail
+    * Passenger
+      * Inter-city Rail
+        * High-speed Rail
+      * Surburban Rail
+      * Urban Rail
+    * Freight
+    * https://www.youtube.com/playlist?list=PL6EF5E8751546E017
   * Water
     * Ports
   * Air
@@ -85,7 +91,8 @@
       * Long Term - to research temporal variances
       * Short Term - to research spacial variances
     * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
-  * Geographic Information Systems
+    * *be aware of selection biases*
+ * Geographic Information Systems
 * Education
   * Organizations
     * Transportation Research Board
@@ -104,3 +111,4 @@
         * City
           * City Police
     
+*Safety and Security are a component of sll sections*
