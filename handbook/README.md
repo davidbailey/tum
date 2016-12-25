@@ -99,9 +99,11 @@
     * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
     * *be aware of selection biases*
  * Geographic Information Systems
-* Education
-  * Organizations
+* Education and Research Organizations
+  * Independent
     * Transportation Research Board
+  * Government 
+    * Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
   * Universities
     * Massachusetts Institute of Technology
       * https://ocw.mit.edu/courses/transportation-courses/
@@ -116,5 +118,7 @@
         * County Sheriff
         * City
           * City Police
-    
+* Other Networks
+  * Electricity
+  * Telecommunications
 *Safety and Security are a component of sll sections*
