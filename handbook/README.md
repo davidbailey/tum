@@ -62,6 +62,11 @@
     * Airports
     * Airplanes
   * Pipeline
+    * Goods
+      * Oil
+      * Gas
+      * Water
+      * Sewage
 * Research
   * Material Testing
      * Destructive
@@ -118,6 +123,7 @@
         * County Sheriff
         * City
           * City Police
+* Recreation
 * Other Networks
   * Electricity
   * Telecommunications
