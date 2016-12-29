@@ -8,6 +8,7 @@
         * https://www.cnu.org
       * http://m.imdb.com/title/tt1701976/
     * Transit-oriented Development
+    * Smart Growth
   * Architecture/Design
     * https://vimeo.com/169726761
 * Infrastructure
