@@ -63,8 +63,8 @@
       * [Bridges](https://en.wikipedia.org/wiki/Rail_bridge)
       * [Tunnels](https://en.wikipedia.org/wiki/Rail_tunnel)
     * Control
-      * Signal Control
-        * Running a Red Light (Signal Passed at Danger)
+      * [Signal Control](https://en.wikipedia.org/wiki/Railway_signalling)
+        * [Running a Red Light (Signal Passed at Danger)](https://en.wikipedia.org/wiki/Signal_passed_at_danger)
           * Causes
             * Distraction
             * Miscommunication
@@ -72,56 +72,63 @@
                 * Weather
             * Forgetfulness
             * Speeding
-      * Positive Train Control
-      * Automatic Train Control
+      * [Positive Train Control](https://en.wikipedia.org/wiki/Positive_train_control)
+      * [Automatic Train Control](https://en.wikipedia.org/wiki/Automatic_train_control)
     * Passenger
-      * Inter-city Rail
-        * High-speed Rail
-      * Surburban Rail
+      * [Inter-city Rail](https://en.wikipedia.org/wiki/Inter-city_rail)
+        * [High-speed Rail](https://en.wikipedia.org/wiki/High-speed_rail)
+      * [Surburban/Commuter Rail](https://en.wikipedia.org/wiki/Commuter_rail)
       * Urban Rail
-    * Freight
+        * [Rapid Transport](https://en.wikipedia.org/wiki/Rapid_transit)
+        * [Light Rail](https://en.wikipedia.org/wiki/Light_rail)
+        * [Tram](https://en.wikipedia.org/wiki/Tram)
+        * [Monorail](https://en.wikipedia.org/wiki/Monorail)
+    * [Freight](https://en.wikipedia.org/wiki/Rail_freight_transport)
     * https://www.youtube.com/playlist?list=PL6EF5E8751546E01
-  * Waterways
-    * Ports
-  * Aqueducts
-  * Air
-    * Airports
-    * Airplanes
-  * Pipeline
+  * [Waterways](https://en.wikipedia.org/wiki/Waterway)
+    * [Ports](https://en.wikipedia.org/wiki/Port)
+  * [Aqueducts](https://en.wikipedia.org/wiki/Aqueduct_(water_supply))
+  * [Air](https://en.wikipedia.org/wiki/Aviation)
+    * [Airports](https://en.wikipedia.org/wiki/Airport)
+    * [Airplanes](https://en.wikipedia.org/wiki/Airplane)
+  * [Pipeline](https://en.wikipedia.org/wiki/Pipeline_transport)
     * Goods
       * Oil
       * Gas
       * Water
       * Sewage
 * Research
-  * Material Testing
-     * Destructive
-     * Nondestructive 
+  * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
+     * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
+     * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
   * Modeling and Simulation
-    * Macrosimulation
-      * Four-step Model
-        * Trip Generation
-        * Trip Distribution
-        * Mode Choice
-        * Route Assignment
-    * Microsimulation
-      * Agent-based Model
-        * MATSim
-  * Traffic Counts
+    * Method
+      * Macrosimulation
+        * Four-step Model
+          * Trip Generation
+          * Trip Distribution
+          * Mode Choice
+          * Route Assignment
+      * [Microsimulation](https://en.wikipedia.org/wiki/Microsimulation)
+        * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+          * [MATSim](https://en.wikipedia.org/wiki/MATSim)
+    * Purpose
+      * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
+  * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
     * Subjects
       * Pedestrians
       * Bicycles
       * Cars
-        * Vehicle Miles Traveled
+        * [Vehicle Miles Traveled](https://en.wikipedia.org/wiki/Vehicle_miles_of_travel)
     * Methods
       * Manual
       * Automated
-        * Loop Detector
-        * Automatic Number Plate Recognition
-        * Bluetooth
+        * [Loop Detector](https://en.wikipedia.org/wiki/Induction_loop)
+        * [Automatic Number Plate Recognition](https://en.wikipedia.org/wiki/Automatic_number_plate_recognition)
+        * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
         * Apps
-          * Navigation
-          * Strava
+          * [Navigation](https://en.wikipedia.org/wiki/Turn-by-turn_navigation)
+          * [Strava](https://en.wikipedia.org/wiki/Strava)
       * Surveys
       * Models
     * Duration
@@ -129,28 +136,31 @@
       * Short Term - to research spacial variances
     * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
     * *be aware of selection biases*
- * Geographic Information Systems
+ * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)
 * Education and Research Organizations
   * Independent
-    * Transportation Research Board
+    * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
   * Government 
-    * Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
+    * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
   * Universities
-    * Massachusetts Institute of Technology
+    * [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
       * https://ocw.mit.edu/courses/transportation-courses/
 * Governance
   * United States
-    * Department of Transportation
+    * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
+    * [National Transportation Safety Board](https://en.wikipedia.org/wiki/National_Transportation_Safety_Board)
+    * [Transportation Security Administration](https://en.wikipedia.org/wiki/Transportation_Security_Administration)
+    * [Federal Bureau of Investigation](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)
     * State
-      * Department of Transportation
-      * Department of Motor Vehicles
-      * State Police
+      * [Department of Transportation](https://en.wikipedia.org/wiki/Department_of_transportation)
+      * [Department of Motor Vehicles](https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles)
+      * [State Police](https://en.wikipedia.org/wiki/State_police_(United_States))
       * County
-        * County Sheriff
+        * [County Sheriff](https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States)
         * City
           * City Police
 * Recreation
 * Other Networks
-  * Electricity
-  * Telecommunications
+  * [Electricity](https://en.wikipedia.org/wiki/Electrical_grid)
+  * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
 *Safety and Security are a component of sll sections*
