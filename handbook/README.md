@@ -53,13 +53,15 @@
         * Motive Power
           * [Electric](https://en.wikipedia.org/wiki/Electric_train)
           * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
-      * Braking
+      * [Braking](https://en.wikipedia.org/wiki/Railway_brake)
       * Suspension
-    * Switches, Crossings, and Interlockings
+    * [Switches](https://en.wikipedia.org/wiki/Railroad_switch)
+    * [Interlockings](https://en.wikipedia.org/wiki/Interlocking)
     * Intersections
-      * Level Junction
-      * Level Crossings
-      * Bridges and Tunnels
+      * [Level Junction](https://en.wikipedia.org/wiki/Level_junction)
+      * [Level Crossings](https://en.wikipedia.org/wiki/Level_crossing)
+      * [Bridges](https://en.wikipedia.org/wiki/Rail_bridge)
+      * [Tunnels](https://en.wikipedia.org/wiki/Rail_tunnel)
     * Control
       * Signal Control
         * Running a Red Light (Signal Passed at Danger)
