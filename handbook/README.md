@@ -12,19 +12,19 @@
   * Architecture/Design
     * https://vimeo.com/169726761
 * Infrastructure
-  * Road
+  * (Road Transport)[https://en.wikipedia.org/wiki/Road_transport]
     * Ways
       * Pedestrian Paths
-      * Bicycle Paths
-      * Shared (Pedestrian and Bicycle) Paths
-      * Roads
+      * [Bicycle Paths](https://en.wikipedia.org/wiki/Bike_path)
+      * [Shared (Pedestrian and Bicycle) Paths](https://en.wikipedia.org/wiki/Shared_use_path)
+      * [Roads](https://en.wikipedia.org/wiki/Road)
         * General Use Lanes
-        * Bus Lanes
-        * Bicycle Lanes
-          * Protected
-          * Unprotected
+        * [Bus Lanes](https://en.wikipedia.org/wiki/Bus_lane)
+        * [Bicycle Lanes](https://en.wikipedia.org/wiki/Cycling_infrastructure#Bike_lanes)
+          * [Protected](https://en.wikipedia.org/wiki/Cycle_track)
+          * [Unprotected](https://en.wikipedia.org/wiki/Bike_lane)
             * Buffered
-        * Sidewalks
+        * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
       * Bicycle Street
       * Freeways/Motorways
       * Motorized Vehicles
