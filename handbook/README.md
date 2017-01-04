@@ -25,33 +25,34 @@
           * [Unprotected](https://en.wikipedia.org/wiki/Bike_lane)
             * Buffered
         * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
-      * Bicycle Street
-      * Freeways/Motorways
-      * Motorized Vehicles
-        * Cars
-        * Trucks
-        * Buses
-          * Bus Rapid Transit
-      * Bicycles
-      * Pedestrians
-      * Intersections
+      * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
+      * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
+      * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
+        * [Cars](https://en.wikipedia.org/wiki/Car)
+        * [Trucks](https://en.wikipedia.org/wiki/Truck)
+        * [Buses](https://en.wikipedia.org/wiki/Bus)
+          * [Bus Rapid Transit]()
+        * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
+      * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
+      * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
+      * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road))
         * Turns
           * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
           * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
           * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
           * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
       * Traffic Control
-  * Rail
-    * Stations
-    * Trains
+  * [Rail](https://en.wikipedia.org/wiki/Rail_transport)
+    * [Stations](https://en.wikipedia.org/wiki/Train_station)
+    * [Trains](https://en.wikipedia.org/wiki/Train)
       * Propulsion
         * Power Configuration
-          * Locomotive
-            * Cab Cars
-          * Multiple Unit
+          * [Locomotive](https://en.wikipedia.org/wiki/Locomotive)
+            * [Cab Cars](https://en.wikipedia.org/wiki/Control_car)
+          * [Multiple Unit](https://en.wikipedia.org/wiki/Multiple_unit)
         * Motive Power
-          * Electric
-          * Diesel
+          * [Electric](https://en.wikipedia.org/wiki/Electric_train)
+          * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
       * Braking
       * Suspension
     * Switches, Crossings, and Interlockings
