@@ -12,7 +12,7 @@
   * Architecture/Design
     * https://vimeo.com/169726761
 * Infrastructure
-  * (Road Transport)[https://en.wikipedia.org/wiki/Road_transport]
+  * [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
     * Ways
       * Pedestrian Paths
       * [Bicycle Paths](https://en.wikipedia.org/wiki/Bike_path)
@@ -163,4 +163,5 @@
 * Other Networks
   * [Electricity](https://en.wikipedia.org/wiki/Electrical_grid)
   * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
+  
 *Safety and Security are a component of sll sections*
