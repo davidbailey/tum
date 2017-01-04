@@ -164,4 +164,4 @@
   * [Electricity](https://en.wikipedia.org/wiki/Electrical_grid)
   * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
   
-*Safety and Security are a component of sll sections*
+*Safety and Security are a component of all sections*
