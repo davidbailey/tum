@@ -44,6 +44,16 @@
       * Traffic Control
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport)
     * [Stations](https://en.wikipedia.org/wiki/Train_station)
+      * [Layout](https://en.wikipedia.org/wiki/Railway_station_layout)
+        * [Platforms](https://en.wikipedia.org/wiki/Railway_platform)
+          * [Cross-platform Interchange](https://en.wikipedia.org/wiki/Cross-platform_interchange)
+          * [Side Platform](https://en.wikipedia.org/wiki/Side_platform)
+          * [Island Platform](https://en.wikipedia.org/wiki/Island_platform)
+          * [Spanish Solution](https://en.wikipedia.org/wiki/Spanish_solution)
+    * [Track](https://en.wikipedia.org/wiki/Track_(rail_transport))
+      * [Track Gague](https://en.wikipedia.org/wiki/Track_gauge)
+      * [Break of Gague](https://en.wikipedia.org/wiki/Break-of-gauge)
+        *
     * [Trains](https://en.wikipedia.org/wiki/Train)
       * Propulsion
         * Power Configuration
@@ -80,11 +90,12 @@
       * [Surburban/Commuter Rail](https://en.wikipedia.org/wiki/Commuter_rail)
       * Urban Rail
         * [Rapid Transport](https://en.wikipedia.org/wiki/Rapid_transit)
+          * [Rubber-tyred Metro](https://en.wikipedia.org/wiki/Rubber-tyred_metro)
         * [Light Rail](https://en.wikipedia.org/wiki/Light_rail)
         * [Tram](https://en.wikipedia.org/wiki/Tram)
         * [Monorail](https://en.wikipedia.org/wiki/Monorail)
     * [Freight](https://en.wikipedia.org/wiki/Rail_freight_transport)
-    * https://www.youtube.com/playlist?list=PL6EF5E8751546E01
+    * [YouTube - Network Rail - Investing in Engineering Education](https://www.youtube.com/playlist?list=PL6EF5E8751546E017)
   * [Waterways](https://en.wikipedia.org/wiki/Waterway)
     * [Ports](https://en.wikipedia.org/wiki/Port)
   * [Aqueducts](https://en.wikipedia.org/wiki/Aqueduct_(water_supply))
