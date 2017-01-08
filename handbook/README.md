@@ -1,6 +1,12 @@
 # [Transportation](https://en.wikipedia.org/wiki/Transport)
 
 1. [Land Use](https://en.wikipedia.org/wiki/Land_use) and Planning
+  * [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
+    * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
+    * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
+    * [Suburb](https://en.wikipedia.org/wiki/Suburb)
+      * [Streetcar Suburb](https://en.wikipedia.org/wiki/Streetcar_suburb)
+    * [Slum](https://en.wikipedia.org/wiki/Slum)
   * Theories
     * Garden City
     * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
