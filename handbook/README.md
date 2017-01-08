@@ -133,6 +133,7 @@
         * [Vehicle Miles Traveled](https://en.wikipedia.org/wiki/Vehicle_miles_of_travel)
     * Methods
       * Manual
+        * [Javascript Traffic Counter](https://davidbailey.github.io/counter)
       * Automated
         * [Loop Detector](https://en.wikipedia.org/wiki/Induction_loop)
         * [Automatic Number Plate Recognition](https://en.wikipedia.org/wiki/Automatic_number_plate_recognition)
