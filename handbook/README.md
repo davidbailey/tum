@@ -4,7 +4,7 @@
   * [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
     * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
     * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
-      * [Municipal Research and Services Center - Mixed Use](http://mrsc.org/Home/Explore-Topics/Planning/Development-Types-and-Land-Uses/Mixed-Use.aspx)
+      * http://mrsc.org/Home/Explore-Topics/Planning/Development-Types-and-Land-Uses/Mixed-Use.aspx
     * [Suburb](https://en.wikipedia.org/wiki/Suburb)
       * [Streetcar Suburb](https://en.wikipedia.org/wiki/Streetcar_suburb)
     * [Slum](https://en.wikipedia.org/wiki/Slum)
