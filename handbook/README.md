@@ -148,7 +148,9 @@
         * Apps
           * [Navigation](https://en.wikipedia.org/wiki/Turn-by-turn_navigation)
           * [Strava](https://en.wikipedia.org/wiki/Strava)
-          * https://movement.uber.com/cities
+            * http://metro.strava.com
+          * [Uber](https://en.wikipedia.org/wiki/Uber_(company))
+            * https://movement.uber.com/cities
       * Surveys
       * Models
     * Duration
