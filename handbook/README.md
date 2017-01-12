@@ -60,8 +60,7 @@
           * [Spanish Solution](https://en.wikipedia.org/wiki/Spanish_solution)
     * [Track](https://en.wikipedia.org/wiki/Track_(rail_transport))
       * [Track Gague](https://en.wikipedia.org/wiki/Track_gauge)
-      * [Break of Gague](https://en.wikipedia.org/wiki/Break-of-gauge)
-        *
+        * [Break of Gague](https://en.wikipedia.org/wiki/Break-of-gauge)
     * [Trains](https://en.wikipedia.org/wiki/Train)
       * Propulsion
         * Power Configuration
@@ -92,6 +91,9 @@
             * Speeding
       * [Positive Train Control](https://en.wikipedia.org/wiki/Positive_train_control)
       * [Automatic Train Control](https://en.wikipedia.org/wiki/Automatic_train_control)
+      * [European Rail Traffic Management System](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
+        * [European Train Control System](https://en.wikipedia.org/wiki/European_Train_Control_System)
+        * [GSM-R](https://en.wikipedia.org/wiki/GSM-R)
     * Passenger
       * [Inter-city Rail](https://en.wikipedia.org/wiki/Inter-city_rail)
         * [High-speed Rail](https://en.wikipedia.org/wiki/High-speed_rail)
