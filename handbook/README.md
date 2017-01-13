@@ -34,25 +34,26 @@
         * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
       * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
       * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
+    * Users
       * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
         * [Cars](https://en.wikipedia.org/wiki/Car)
         * [Trucks](https://en.wikipedia.org/wiki/Truck)
         * [Buses](https://en.wikipedia.org/wiki/Bus)
-          * [Bus Rapid Transit]()
+          * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
         * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
       * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
       * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
-      * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road))
-        * Turns
-          * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
-          * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
-          * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
-          * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
-          * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
-        * [Roundabout](https://en.wikipedia.org/wiki/Roundabout)
-          * http://www.wimp.com/mythbusters-test-a-four-way-stop-vs-a-roundabout/
-          * [YouTube - MichiganDOT - How to use a roundabout](https://www.youtube.com/watch?v=ONacAiKXe-8)
-      * Traffic Control
+    * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road))
+      * Turns
+        * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
+        * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
+        * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left
+        * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
+        * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
+      * [Roundabout](https://en.wikipedia.org/wiki/Roundabout)
+        * http://www.wimp.com/mythbusters-test-a-four-way-stop-vs-a-roundabout/
+        * [YouTube - MichiganDOT - How to use a roundabout](https://www.youtube.com/watch?v=ONacAiKXe-8)
+    * Traffic Control
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport)
     * [Stations](https://en.wikipedia.org/wiki/Train_station)
       * [Layout](https://en.wikipedia.org/wiki/Railway_station_layout)
