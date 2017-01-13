@@ -52,6 +52,9 @@
         * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
       * [Roundabout](https://en.wikipedia.org/wiki/Roundabout)
         * http://www.wimp.com/mythbusters-test-a-four-way-stop-vs-a-roundabout/
+          * 4-way Roundabout averages 460 crossings in 15 minutes (+20% vs. Stop)
+          * 4-way Stop: 378 crossings in 15 minutes; 391 crossings in 15 minutes; averages 384.5 crossings
+          * Traffic Cop: 289 crossings
         * [YouTube - MichiganDOT - How to use a roundabout](https://www.youtube.com/watch?v=ONacAiKXe-8)
     * Traffic Control
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport)
