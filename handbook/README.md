@@ -184,14 +184,14 @@
       * Trip Generation Manual
       * Trip Generation
       * Trip Generation Handbook
+  * Government 
+    * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
   * Universities
     * [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
       * https://ocw.mit.edu/courses/transportation-courses/
     * Texas A&M Transportation Institute
       * Texas Trip Generation Manual
         * http://tti.tamu.edu/documents/0-6760-P1.pdf
-  * Government 
-    * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
 * Governance
   * United States
     * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
