@@ -193,6 +193,9 @@
     * Texas A&M Transportation Institute
       * Texas Trip Generation Manual
         * http://tti.tamu.edu/documents/0-6760-P1.pdf
+      * University of North Carolina Highway Safety Research Center
+        * Crash Modification Factors Clearinghouse
+          * http://www.cmfclearinghouse.org
 * Governance
   * United States
     * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
