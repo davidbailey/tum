@@ -184,7 +184,9 @@
       * Trip Generation Manual
       * Trip Generation
       * Trip Generation Handbook
-  * Government 
+  * Government
+    * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
+      * http://www.slideshare.net/ICLEI_Media/public-transport-improvement
   * Universities
     * [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
       * https://ocw.mit.edu/courses/transportation-courses/
