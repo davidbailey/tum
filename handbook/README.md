@@ -172,11 +172,26 @@
 * Education and Research Organizations
   * Independent
     * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
+      * [Highway Capacity Manual](https://en.wikipedia.org/wiki/Highway_Capacity_Manual)
+    * [American Association of State Highway and Transportation Officials](https://en.wikipedia.org/wiki/American_Association_of_State_Highway_and_Transportation_Officials)
+      * A Policy on Geometric Design of Highways and Streets
+      * Standard Specifications for Transportation Materials and Methods of Sampling and Testing
+      * AASHTO LRFD Bridge Design Specifications
+      * Manual for Assessing Safety Hardware
+      * [Highway Safety Manual](https://en.wikipedia.org/wiki/Highway_Safety_Manual)
+        * http://www.highwaysafetymanual.org
+    * [Institute of Transportation Engineers](https://en.wikipedia.org/wiki/Institute_of_Transportation_Engineers)
+      * Trip Generation Manual
+      * Trip Generation
+      * Trip Generation Handbook
   * Government 
     * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
   * Universities
     * [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
       * https://ocw.mit.edu/courses/transportation-courses/
+    * Texas A&M Transportation Institute
+      * Texas Trip Generation Manual
+        * http://tti.tamu.edu/documents/0-6760-P1.pdf
 * Governance
   * United States
     * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
