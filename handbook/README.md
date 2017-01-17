@@ -134,13 +134,13 @@
     * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
     * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) and [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
       * Method
-        * Macrosimulation
+        * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
           * Four-step Model
             * Trip Generation
             * Trip Distribution
             * Mode Choice
             * Route Assignment
-        * [Microsimulation](https://en.wikipedia.org/wiki/Microsimulation)
+        * [Microsimulation](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
           * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
             * [MATSim](https://en.wikipedia.org/wiki/MATSim)
       * Purpose
