@@ -142,35 +142,35 @@
           * [MATSim](https://en.wikipedia.org/wiki/MATSim)
     * Purpose
       * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
-  * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
-    * Subjects
-      * Pedestrians
-      * Bicycles
-      * Cars
-        * [Vehicle Miles Traveled](https://en.wikipedia.org/wiki/Vehicle_miles_of_travel)
-    * Methods
-      * Manual
-        * [Javascript Traffic Counter](https://davidbailey.github.io/counter)
-      * Automated
-        * [Loop Detector](https://en.wikipedia.org/wiki/Induction_loop)
-        * [Automatic Number Plate Recognition](https://en.wikipedia.org/wiki/Automatic_number_plate_recognition)
-        * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
-        * Apps
-          * [Navigation](https://en.wikipedia.org/wiki/Turn-by-turn_navigation)
-          * [Strava](https://en.wikipedia.org/wiki/Strava)
-            * http://metro.strava.com
-          * [Uber](https://en.wikipedia.org/wiki/Uber_(company))
-            * https://movement.uber.com/cities
-      * Surveys
-      * Models
-    * Duration
-      * Long Term - to research temporal variances
-      * Short Term - to research spacial variances
-    * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
-    * *be aware of selection biases*
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
+    * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
+      * Subjects
+        * Pedestrians
+        * Bicycles
+        * Cars
+          * [Vehicle Miles Traveled](https://en.wikipedia.org/wiki/Vehicle_miles_of_travel)
+      * Methods
+        * Manual
+          * [Javascript Traffic Counter](https://davidbailey.github.io/counter)
+        * Automated
+          * [Loop Detector](https://en.wikipedia.org/wiki/Induction_loop)
+          * [Automatic Number Plate Recognition](https://en.wikipedia.org/wiki/Automatic_number_plate_recognition)
+          * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
+          * Apps
+            * [Navigation](https://en.wikipedia.org/wiki/Turn-by-turn_navigation)
+            * [Strava](https://en.wikipedia.org/wiki/Strava)
+              * http://metro.strava.com
+            * [Uber](https://en.wikipedia.org/wiki/Uber_(company))
+              * https://movement.uber.com/cities
+        * Surveys
+        * Models
+      * Duration
+        * Long Term - to research temporal variances
+        * Short Term - to research spacial variances
+      * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
+      * *be aware of selection biases*
 * Education and Research Organizations
   * Independent
     * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
