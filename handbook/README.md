@@ -168,7 +168,9 @@
       * Short Term - to research spacial variances
     * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
     * *be aware of selection biases*
- * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)
+  * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)
+  * [Traffic](https://en.wikipedia.org/wiki/Traffic)
+    * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
 * Education and Research Organizations
   * Independent
     * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
