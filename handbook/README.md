@@ -129,22 +129,22 @@
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
      * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
-  * Modeling and Simulation
-    * Method
-      * Macrosimulation
-        * Four-step Model
-          * Trip Generation
-          * Trip Distribution
-          * Mode Choice
-          * Route Assignment
-      * [Microsimulation](https://en.wikipedia.org/wiki/Microsimulation)
-        * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
-          * [MATSim](https://en.wikipedia.org/wiki/MATSim)
-    * Purpose
-      * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
+    * Modeling and Simulation
+      * Method
+        * Macrosimulation
+          * Four-step Model
+            * Trip Generation
+            * Trip Distribution
+            * Mode Choice
+            * Route Assignment
+        * [Microsimulation](https://en.wikipedia.org/wiki/Microsimulation)
+          * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+            * [MATSim](https://en.wikipedia.org/wiki/MATSim)
+      * Purpose
+        * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
     * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
       * Subjects
         * Pedestrians
