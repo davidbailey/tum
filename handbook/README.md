@@ -198,6 +198,10 @@
         * [Federal Highway Administration](https://en.wikipedia.org/wiki/Federal_Highway_Administration)
           * [Manual on Uniform Traffic Control Devices](https://en.wikipedia.org/wiki/Manual_on_Uniform_Traffic_Control_Devices)
             * http://mutcd.fhwa.dot.gov
+        * [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration)
+          * [Federal Motor Vehicle Safety Standards](https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards)
+          * [Fatality Analysis Reporting System](https://en.wikipedia.org/wiki/Fatality_Analysis_Reporting_System)
+            * https://www-fars.nhtsa.dot.gov
       * [National Transportation Safety Board](https://en.wikipedia.org/wiki/National_Transportation_Safety_Board)
       * [Transportation Security Administration](https://en.wikipedia.org/wiki/Transportation_Security_Administration)
       * [Federal Bureau of Investigation](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)
