@@ -44,6 +44,9 @@
       * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
       * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
     * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road))
+      * [Traffic Lights](https://en.wikipedia.org/wiki/Traffic_light)
+        * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
+          * [Traffic Light Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination)
       * Turns
         * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
         * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
@@ -171,7 +174,7 @@
         * Short Term - to research spacial variances
       * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
       * *be aware of selection biases*
-* Education and Research Organizations
+* Education, Research, and Governance Organizations
   * Independent
     * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
       * [Highway Capacity Manual](https://en.wikipedia.org/wiki/Highway_Capacity_Manual)
@@ -187,8 +190,25 @@
       * Trip Generation
       * Trip Generation Handbook
   * Government
-    * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
-      * http://www.slideshare.net/ICLEI_Media/public-transport-improvement
+    * United States
+      * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
+        * [Federal Highway Administration](https://en.wikipedia.org/wiki/Federal_Highway_Administration)
+          * [Manual on Uniform Traffic Control Devices](https://en.wikipedia.org/wiki/Manual_on_Uniform_Traffic_Control_Devices)
+            * http://mutcd.fhwa.dot.gov
+      * [National Transportation Safety Board](https://en.wikipedia.org/wiki/National_Transportation_Safety_Board)
+      * [Transportation Security Administration](https://en.wikipedia.org/wiki/Transportation_Security_Administration)
+      * [Federal Bureau of Investigation](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)
+      * State
+        * [Department of Transportation](https://en.wikipedia.org/wiki/Department_of_transportation)
+        * [Department of Motor Vehicles](https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles)
+        * [State Police](https://en.wikipedia.org/wiki/State_police_(United_States))
+        * County
+          * [County Sheriff](https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States)
+          * City
+            * City Police
+    * Germany
+      * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
+        * http://www.slideshare.net/ICLEI_Media/public-transport-improvement
   * Universities
     * [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
       * https://ocw.mit.edu/courses/transportation-courses/
@@ -198,21 +218,6 @@
     * University of North Carolina Highway Safety Research Center
       * Crash Modification Factors Clearinghouse 
         * http://www.cmfclearinghouse.org
-* Governance
-  * United States
-    * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
-      * [Federal Highway Administration](https://en.wikipedia.org/wiki/Federal_Highway_Administration)
-    * [National Transportation Safety Board](https://en.wikipedia.org/wiki/National_Transportation_Safety_Board)
-    * [Transportation Security Administration](https://en.wikipedia.org/wiki/Transportation_Security_Administration)
-    * [Federal Bureau of Investigation](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)
-    * State
-      * [Department of Transportation](https://en.wikipedia.org/wiki/Department_of_transportation)
-      * [Department of Motor Vehicles](https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles)
-      * [State Police](https://en.wikipedia.org/wiki/State_police_(United_States))
-      * County
-        * [County Sheriff](https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States)
-        * City
-          * City Police
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
 * [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
   * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
