@@ -13,7 +13,7 @@
     * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
       * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
         * https://www.cnu.org
-      * http://m.imdb.com/title/tt1701976/
+      * http://imdb.com/title/tt1701976/
     * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
     * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
   * Architecture/Design
@@ -58,7 +58,7 @@
           * 4-way Roundabout averages 460 crossings in 15 minutes (+20% vs. Stop)
           * 4-way Stop: 378 crossings in 15 minutes; 391 crossings in 15 minutes; averages 384.5 crossings
           * Traffic Cop: 289 crossings
-        * [YouTube - MichiganDOT - How to use a roundabout](https://www.youtube.com/watch?v=ONacAiKXe-8)
+        * https://www.youtube.com/watch?v=ONacAiKXe-8
     * Traffic Control
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport)
     * [Stations](https://en.wikipedia.org/wiki/Train_station)
@@ -138,6 +138,7 @@
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
     * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) and [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
       * Method
+        * [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model)
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
           * PTV VISUM
           * Four-step Model
@@ -146,6 +147,7 @@
             * Mode Choice
             * Route Assignment
         * [Microsimulation](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
+          * http://www.traffic-simulation.de
           * PTV VISSIM
           * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
             * [MATSim](https://en.wikipedia.org/wiki/MATSim)
@@ -159,7 +161,7 @@
           * [Vehicle Miles Traveled](https://en.wikipedia.org/wiki/Vehicle_miles_of_travel)
       * Methods
         * Manual
-          * [Javascript Traffic Counter](https://davidbailey.github.io/counter)
+          * https://davidbailey.github.io/counter
         * Automated
           * [Loop Detector](https://en.wikipedia.org/wiki/Induction_loop)
           * [Automatic Number Plate Recognition](https://en.wikipedia.org/wiki/Automatic_number_plate_recognition)
@@ -179,8 +181,12 @@
       * *be aware of selection biases*
 * Education, Research, and Governance Organizations
   * Independent
+    * CROW
+      * Design manual for bicycle traffic
+        * http://www.crow.nl/publicaties/design-manual-for-bicycle-traffic
     * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
       * [Highway Capacity Manual](https://en.wikipedia.org/wiki/Highway_Capacity_Manual)
+        * http://www.trb.org/publications/hcm6e.aspx
     * [American Association of State Highway and Transportation Officials](https://en.wikipedia.org/wiki/American_Association_of_State_Highway_and_Transportation_Officials)
       * A Policy on Geometric Design of Highways and Streets
       * Standard Specifications for Transportation Materials and Methods of Sampling and Testing
@@ -192,6 +198,8 @@
       * Trip Generation Manual
       * Trip Generation
       * Trip Generation Handbook
+      * Traffic Control Devices Handbook
+        * https://trid.trb.org/view.aspx?id=1265112
   * Government
     * United States
       * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
@@ -225,11 +233,18 @@
     * University of North Carolina Highway Safety Research Center
       * Crash Modification Factors Clearinghouse 
         * http://www.cmfclearinghouse.org
+    * University of Minnesota Center for Transportation Studies
+      * [Journal of Transport and Land Use](https://en.wikipedia.org/wiki/Journal_of_Transport_and_Land_Use)
+        * https://www.jtlu.org/
 * Accessibility
   * http://www.accessibilityplanning.eu
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
-* [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
-  * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
+* [Transport and the Environment]
+  * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
+    * Transportation Life Cycle Assessment
+      * http://transportationlca.org
+  * [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
+    * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
 * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
 * Recreation
 * Other Networks
