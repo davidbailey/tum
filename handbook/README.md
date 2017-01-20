@@ -224,6 +224,9 @@
           * [Federal Motor Vehicle Safety Standards](https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards)
           * [Fatality Analysis Reporting System](https://en.wikipedia.org/wiki/Fatality_Analysis_Reporting_System)
             * https://www-fars.nhtsa.dot.gov
+        * Office of the Assistant Secretary of Research and Technology
+          * National ITS Architecture
+            * https://www.standards.its.dot.gov/LearnAboutStandards/NationalITSArchitecture
       * [National Transportation Safety Board](https://en.wikipedia.org/wiki/National_Transportation_Safety_Board)
       * [Transportation Security Administration](https://en.wikipedia.org/wiki/Transportation_Security_Administration)
       * [Federal Bureau of Investigation](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)
