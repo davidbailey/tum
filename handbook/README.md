@@ -237,6 +237,10 @@
             * City Police
     * Germany
       * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
+        * Sustainable Urban Transport Project
+          * http://www.sutp.org/en/
+            * How to plan and develop apedestrian and cycling network
+              * http://www.sutp.org/files/contents/documents/resources/J_Others/GIZ_SUTP_NMT-Pedestrian-cycling-network-Windhoek_2016.pdf
         * http://www.slideshare.net/ICLEI_Media/public-transport-improvement
   * Universities
     * [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
@@ -250,6 +254,10 @@
     * University of Minnesota Center for Transportation Studies
       * [Journal of Transport and Land Use](https://en.wikipedia.org/wiki/Journal_of_Transport_and_Land_Use)
         * https://www.jtlu.org/
+    * Portland State University Transportation Research and Education Center
+      * National Institute for Transportation and Communities
+        * http://nitc.trec.pdx.edu/
+        * http://nitc.trec.pdx.edu/events/archive
 * Accessibility
   * http://www.accessibilityplanning.eu
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
