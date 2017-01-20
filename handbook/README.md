@@ -178,6 +178,9 @@
         * Long Term - to research temporal variances
         * Short Term - to research spacial variances
       * http://nitc.trec.pdx.edu/events/professional-development/webinar-state-wide-pedestrian-and-bicycle-miles-traveled-can-we
+      * https://www.pdx.edu/ibpi/count
+      * https://www.fhwa.dot.gov/policyinformation/tmguide/
+      * http://bikepeddocumentation.org
       * *be aware of selection biases*
 * Education, Research, and Governance Organizations
   * Independent
