@@ -189,6 +189,7 @@
         * http://www.trb.org/publications/hcm6e.aspx
     * [American Association of State Highway and Transportation Officials](https://en.wikipedia.org/wiki/American_Association_of_State_Highway_and_Transportation_Officials)
       * A Policy on Geometric Design of Highways and Streets
+        * https://bookstore.transportation.org/collection_detail.aspx?ID=110
       * Standard Specifications for Transportation Materials and Methods of Sampling and Testing
       * AASHTO LRFD Bridge Design Specifications
       * Manual for Assessing Safety Hardware
