@@ -257,10 +257,13 @@
     * University of Minnesota Center for Transportation Studies
       * [Journal of Transport and Land Use](https://en.wikipedia.org/wiki/Journal_of_Transport_and_Land_Use)
         * https://www.jtlu.org/
-    * Portland State University Transportation Research and Education Center
-      * National Institute for Transportation and Communities
-        * http://nitc.trec.pdx.edu/
-        * http://nitc.trec.pdx.edu/events/archive
+    * Portland State University
+      * Understanding and Communicating Multimodal Transportation Data
+        * http://web.cecs.pdx.edu/~monserec/t.data/
+      * Transportation Research and Education Center
+        * National Institute for Transportation and Communities
+          * http://nitc.trec.pdx.edu/
+          * http://nitc.trec.pdx.edu/events/archive
 * Accessibility
   * http://www.accessibilityplanning.eu
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
@@ -271,6 +274,7 @@
   * [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
     * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
 * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
+* Probability and Statistics
 * Recreation
 * Other Networks
   * [Electricity](https://en.wikipedia.org/wiki/Electrical_grid)
