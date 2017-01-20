@@ -194,6 +194,14 @@
       * Manual for Assessing Safety Hardware
       * [Highway Safety Manual](https://en.wikipedia.org/wiki/Highway_Safety_Manual)
         * http://www.highwaysafetymanual.org
+    * [National Association of City Transportation Officials](https://en.wikipedia.org/wiki/National_Association_of_City_Transportation_Officials)
+      * Urban Bikeway Design Guide
+        * http://nacto.org/publication/urban-bikeway-design-guide/
+      * Urban Street Design Guide
+        * http://nacto.org/publication/urban-street-design-guide/
+      * Global Street Design Guide
+      * Transit Street Design Guide
+        * http://nacto.org/publication/transit-street-design-guide/
     * [Institute of Transportation Engineers](https://en.wikipedia.org/wiki/Institute_of_Transportation_Engineers)
       * Trip Generation Manual
       * Trip Generation
@@ -206,6 +214,8 @@
         * [Federal Highway Administration](https://en.wikipedia.org/wiki/Federal_Highway_Administration)
           * [Manual on Uniform Traffic Control Devices](https://en.wikipedia.org/wiki/Manual_on_Uniform_Traffic_Control_Devices)
             * http://mutcd.fhwa.dot.gov
+          * Separated Bike Lane Planning and Design Guide
+            * https://www.fhwa.dot.gov/environment/bicycle_pedestrian/publications/separated_bikelane_pdg/
         * [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration)
           * [Federal Motor Vehicle Safety Standards](https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards)
           * [Fatality Analysis Reporting System](https://en.wikipedia.org/wiki/Fatality_Analysis_Reporting_System)
