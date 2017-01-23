@@ -37,6 +37,14 @@
     * Users
       * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
         * [Cars](https://en.wikipedia.org/wiki/Car)
+          * [Autonomous Cars](https://en.wikipedia.org/wiki/Autonomous_car)
+            * Level 0 No Automation
+            * Level 1 Driver Assistance
+            * Level 2 Partial Automation
+            * Level 3 Conditional Automation
+            * Level 4 High Automation
+            * Level 5 Full Automation
+            * http://www.sae.org/misc/pdfs/automated_driving.pdf
         * [Trucks](https://en.wikipedia.org/wiki/Truck)
         * [Buses](https://en.wikipedia.org/wiki/Bus)
           * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
