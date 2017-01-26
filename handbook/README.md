@@ -55,6 +55,8 @@
       * [Traffic Lights](https://en.wikipedia.org/wiki/Traffic_light)
         * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
           * [Traffic Light Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination)
+        * [Pedestrian Scramble](https://en.wikipedia.org/wiki/Pedestrian_scramble)
+        * Leading Pedestrian Interval
       * Turns
         * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
         * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
