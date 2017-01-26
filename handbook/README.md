@@ -208,6 +208,7 @@
       * Manual for Assessing Safety Hardware
       * [Highway Safety Manual](https://en.wikipedia.org/wiki/Highway_Safety_Manual)
         * http://www.highwaysafetymanual.org
+      * Guide for the Development of Bicycling Facilities
     * [National Association of City Transportation Officials](https://en.wikipedia.org/wiki/National_Association_of_City_Transportation_Officials)
       * Urban Bikeway Design Guide
         * http://nacto.org/publication/urban-bikeway-design-guide/
