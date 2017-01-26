@@ -230,6 +230,8 @@
             * http://mutcd.fhwa.dot.gov
           * Separated Bike Lane Planning and Design Guide
             * https://www.fhwa.dot.gov/environment/bicycle_pedestrian/publications/separated_bikelane_pdg/
+          * PEDBIKESAFE
+            * http://www.pedbikesafe.org
         * [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration)
           * [Federal Motor Vehicle Safety Standards](https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards)
           * [Fatality Analysis Reporting System](https://en.wikipedia.org/wiki/Fatality_Analysis_Reporting_System)
