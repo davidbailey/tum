@@ -245,6 +245,9 @@
       * [Federal Bureau of Investigation](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)
       * State
         * [Department of Transportation](https://en.wikipedia.org/wiki/Department_of_transportation)
+          * Massachusetts Department of Transportation
+            * Seperated Bike Lane Planning & Design Guide
+              * https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx
         * [Department of Motor Vehicles](https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles)
         * [State Police](https://en.wikipedia.org/wiki/State_police_(United_States))
         * County
