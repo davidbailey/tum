@@ -48,6 +48,17 @@
         * [Trucks](https://en.wikipedia.org/wiki/Truck)
         * [Buses](https://en.wikipedia.org/wiki/Bus)
           * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
+            * Features
+              * High-quality buses
+              * Level boarding
+              * Off-vehicle fare collection
+              * High-quality stations (Microdesign), not just stops
+                * Elevators, escalators, ample ticket counters/machines, good lighting, clean, well maintained, secure, good signage
+              * Pedestrian and bicycle access to stations and lots of transfer options with fare/schedule integration
+              * High frequency (>12 buses/hour)
+              * Exclusive right-of-way (including no local buses)
+              * Marketing, education, and outreach
+              * Transit-oriented development
         * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
       * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
       * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
@@ -286,7 +297,7 @@
           * http://nitc.trec.pdx.edu/events/archive
 * Public Transportation
   * Integrated Synchronized Timetable (Timed Transfer)
-    * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other
+    * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
 * Accessibility
   * http://www.accessibilityplanning.eu
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
