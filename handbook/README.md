@@ -1,6 +1,11 @@
 # [Transportation](https://en.wikipedia.org/wiki/Transport)
 
 1. [Land Use](https://en.wikipedia.org/wiki/Land_use) and Planning
+  * History
+    * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich)
+    * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. Development concentrated around train stations (tram, subway, commuter rail, etc.) on lines radiating out from city center. Garden City movement. Beginning of seperation of uses: industry, residential, commercial.
+    * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). Increasing seperation of uses (residential, job centers, commercial, industrial).
+    * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? 
   * [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
     * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
     * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
