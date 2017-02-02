@@ -52,7 +52,7 @@
               * High-quality buses
               * Level boarding
               * Off-vehicle fare collection
-              * High-quality stations (Microdesign), not just stops
+              * High-quality stations (microdesign), not just stops
                 * Elevators, escalators, ample ticket counters/machines, good lighting, clean, well maintained, secure, good signage
               * Pedestrian and bicycle access to stations and lots of transfer options with fare/schedule integration
               * High frequency (>12 buses/hour)
