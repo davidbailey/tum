@@ -14,7 +14,7 @@
       * [Streetcar Suburb](https://en.wikipedia.org/wiki/Streetcar_suburb)
     * [Slum](https://en.wikipedia.org/wiki/Slum)
   * Theories
-    * Garden City
+    * [Garden City](https://en.wikipedia.org/wiki/Garden_city_movement)
     * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
       * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
         * https://www.cnu.org
