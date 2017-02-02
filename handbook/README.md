@@ -156,6 +156,7 @@
      * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
+    * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
     * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
     * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) and [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
