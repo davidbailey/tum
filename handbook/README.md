@@ -310,6 +310,11 @@
         * http://transportationlca.org
     * [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
       * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
+        * Features
+          * Bicycles don't experience congestion (nearly as much as cars)
+          * Bicycles don't pollute (increased health and land value)
+          * Bicycles cost less (social mobility)
+          * Bicycles don't take up space or divide communities
 * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
 * Probability and Statistics
 * Recreation
