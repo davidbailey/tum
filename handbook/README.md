@@ -22,6 +22,7 @@
       * Rail, Car/Bus, Bicycle
     * **Neighborhood**
       * Car/Bus, Bicycle, Walk
+  * [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
   * Accessibility
     * "The more or less easiness with which one can reach a location (a) to perform an activity (b)"
     * http://www.accessibilityplanning.eu
@@ -47,6 +48,7 @@
       * Remove "bad" areas and create "good" areas
     * [Sustainable City](https://en.wikipedia.org/wiki/Sustainable_city)
     * [Urban Sprawl](https://en.wikipedia.org/wiki/Urban_sprawl)
+      * low density, single-use, auto-centric
   * Architecture/Design
     * https://vimeo.com/169726761
 * Infrastructure
