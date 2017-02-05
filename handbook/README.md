@@ -11,8 +11,8 @@
       * "The more or less easiness with which one can reach a location (a) to perform an activity (b)"
       * Depends on costs (time, money) and perception of those costs.
       * http://www.accessibilityplanning.eu
-  * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
-    * spacial distance, temporal distance, traffic-dependent, mode-dependent
+      * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
+        * spacial distance, temporal distance, traffic-dependent, mode-dependent
   * History
     * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich) -> Walking city
     * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. At the same time, improved farming technology caused people to move to cities. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial. -> Transit city
