@@ -43,6 +43,10 @@
     * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
     * Urbanity by destiny
       * Dense, single-use, auto-centric. E.g. Wilshire Blvd, West Los Angeles; Century City
+    * [Urban Renewal](https://en.wikipedia.org/wiki/Urban_renewal)
+      * Remove "bad" areas and create "good" areas
+    * [Sustainable City](https://en.wikipedia.org/wiki/Sustainable_city)
+    * [Urban Sprawl](https://en.wikipedia.org/wiki/Urban_sprawl)
   * Architecture/Design
     * https://vimeo.com/169726761
 * Infrastructure
