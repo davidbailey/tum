@@ -19,9 +19,22 @@
       * number of trips/person/day
   * [Transport System](https://en.wikipedia.org/wiki/Transport_network)
     * technical and orgazational structure for transport. e.g. track, vehicles, shoes, rules, services
+    * Elements: Nodes (important for capacity/performance) and Links
+    * Types: Road, Rail, Water, Air, Information, Relations, [Electricity](https://en.wikipedia.org/wiki/Electrical_grid), [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
+    * Qualities
+      * Connexity: are the points connected or not?
+      * Connectivity: quality of interconnection = number of links / number of nodes. cul-de-sacs are poor connectivity
+    * Shapes
+      * Radial e.g. Los Angeles Metrolink
+      * Radial Ring e.g. European motorways around a city
+      * Grid (Raster) e.g. Manhattan street network, Munich Maxvorstadt street network
+    * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
+      * dense in city center vs. car network which goes into the center, but is not dense in the center
+      * https://www.youtube.com/watch?v=N0OGqjPS47E
+      * Integrated Synchronized Timetable (Timed Transfer)
+        * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
     * Transport Offer
       * network + services
-      
    <table>
    <tr>
        <td></td>
@@ -371,10 +384,6 @@
         * National Institute for Transportation and Communities
           * http://nitc.trec.pdx.edu/
           * http://nitc.trec.pdx.edu/events/archive
-* Public Transportation
-  * https://www.youtube.com/watch?v=N0OGqjPS47E
-  * Integrated Synchronized Timetable (Timed Transfer)
-    * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
 * Transportation Economics
   * Monetary Budget ~ 15% of household budget
@@ -393,9 +402,6 @@
           * Bicycles don't take up space or divide communities
 * Probability and Statistics
 * Recreation
-* Other Networks
-  * [Electricity](https://en.wikipedia.org/wiki/Electrical_grid)
-  * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
 * Transportation Apps
   1. Maps/Routing
     1. Apple Maps
