@@ -317,6 +317,9 @@
   * http://www.accessibilityplanning.eu
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
 * Transportation Economics
+  * Monetary Budget ~ 15% of household budget
+  * Time Budget ~ 1 hour/day
+    * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
   * [Transport and the Environment](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
     * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
       * Transportation Life Cycle Assessment
@@ -328,8 +331,6 @@
           * Bicycles don't pollute (increased health and land value)
           * Bicycles cost less (social mobility)
           * Bicycles don't take up space or divide communities
-* Travel Time Budget
-  * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant) ~ 1 hour/day
 * Probability and Statistics
 * Recreation
 * Other Networks
