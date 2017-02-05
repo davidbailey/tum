@@ -24,16 +24,16 @@
     <table>
     <tr>
         <td></td>
-        <td>Private</td>
-        <td>Public</td>
+        <td>Private Operator</td>
+        <td>Public Operator</td>
     </tr>
      <tr>
-        <td>Rail</td>
+        <td>Rail Infrastructure</td>
         <td>X</td>
         <td>National, Regional, Commuter, Metro</td>
     </tr>
     <tr>
-        <td>Road</td>
+        <td>Road Infrastructure</td>
         <td>Car, Motorcycle, Bicycle, Pedestrian</td>
         <td>Bus, Taxi</td>
     </tr>
