@@ -13,6 +13,9 @@
       * http://www.accessibilityplanning.eu
       * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
         * spacial distance, temporal distance, traffic-dependent, mode-dependent
+    * Rate of Change
+      * Slow - Transport Network, Zoning
+      * Fast - Freight, Commuting, Employment, Population
   * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
     * ability to move - related to an activity - individual perspective
     * Mobility Rate
@@ -72,9 +75,6 @@
       * Rail, Car/Bus, Bicycle
     * **Neighborhood**
       * Car/Bus, Bicycle, Walk
-  * Rate of Change
-    * Slow - Transport Network, Zoning
-    * Fast - Freight, Commuting, Employment, Population
   * [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
     * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
     * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
