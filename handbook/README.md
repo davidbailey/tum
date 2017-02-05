@@ -1,11 +1,12 @@
 # [Transportation](https://en.wikipedia.org/wiki/Transport)
 
 1. [Land Use](https://en.wikipedia.org/wiki/Land_use) and Planning
+  * Land Use -> Activity -> Transport -> Accessibility -> Land Use...
   * History
     * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich)
     * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. At the same time, improved farming technology caused people to move to cities. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial.
-    * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). Increasing seperation of uses (residential, job centers, commercial, industrial) (zoning). Airplanes for long distance transportation.
-    * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? 
+    * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). High amount of uncoordinated growth. Increasing seperation of uses (residential, job centers, commercial, industrial) (zoning). Airplanes for long distance transportation.
+    * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? More walking and cycling?
   * Scale
     * International
       * Airplane and High-speed Rail, Car/Bus
@@ -40,6 +41,8 @@
     * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
       * ~2km around station (30 minute walk)
     * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
+    * Urbanity by destiny
+      * Dense, single-use, auto-centric. E.g. Wilshire Blvd, West Los Angeles; Century City
   * Architecture/Design
     * https://vimeo.com/169726761
 * Infrastructure
