@@ -31,6 +31,21 @@
       * Radial e.g. Los Angeles Metrolink
       * Radial Ring e.g. European motorways around a city
       * Grid (Raster) e.g. Manhattan street network, Munich Maxvorstadt street network
+    * Scale
+      * International
+        * Airplane and High-speed Rail, Car/Bus
+      * National
+        * Airplane, High-speed Rail, Rail, Car/Bus
+      * State
+        * Airplane, High-speed Rail, Rail, Car/Bus
+      * **Regional**
+        * Rail, Car/Bus
+      * County
+        * Rail, Car/Bus
+      * City
+        * Rail, Car/Bus, Bicycle
+      * **Neighborhood**
+        * Car/Bus, Bicycle, Walk
     * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
       * dense in city center vs. car network which goes into the center, but is not dense in the center
       * https://www.youtube.com/watch?v=N0OGqjPS47E
@@ -60,21 +75,6 @@
     * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. At the same time, improved farming technology caused people to move to cities. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial. -> Transit city
     * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). High amount of uncoordinated growth. Increasing seperation of uses (residential, job centers, commercial, industrial) (zoning). Airplanes for long distance transportation. -> Car city
     * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? More walking and cycling?
-  * Scale
-    * International
-      * Airplane and High-speed Rail, Car/Bus
-    * National
-      * Airplane, High-speed Rail, Rail, Car/Bus
-    * State
-      * Airplane, High-speed Rail, Rail, Car/Bus
-    * **Regional**
-      * Rail, Car/Bus
-    * County
-      * Rail, Car/Bus
-    * City
-      * Rail, Car/Bus, Bicycle
-    * **Neighborhood**
-      * Car/Bus, Bicycle, Walk
   * [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
     * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
     * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
