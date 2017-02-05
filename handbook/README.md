@@ -21,23 +21,24 @@
     * technical and orgazational structure for transport. e.g. track, vehicles, shoes, rules, services
     * Transport Offer
       * network + services
- <table>
- <tr>
-     <td></td>
-     <td>Private Operator</td>
-     <td>Public Operator</td>
- </tr>
-  <tr>
-     <td>Rail Infrastructure</td>
-     <td>X</td>
-     <td>National, Regional, Commuter, Metro</td>
- </tr>
- <tr>
-     <td>Road Infrastructure</td>
-     <td>Car, Motorcycle, Bicycle, Pedestrian</td>
-     <td>Bus, Taxi</td>
- </tr>
- </table>  
+      
+   <table>
+   <tr>
+       <td></td>
+       <td>Private Operator</td>
+       <td>Public Operator</td>
+   </tr>
+    <tr>
+       <td>Rail Infrastructure</td>
+       <td>X</td>
+       <td>National, Regional, Commuter, Metro</td>
+   </tr>
+   <tr>
+       <td>Road Infrastructure</td>
+       <td>Car, Motorcycle, Bicycle, Pedestrian</td>
+       <td>Bus, Taxi</td>
+   </tr>
+   </table>  
   * History
     * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich) -> Walking city
     * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. At the same time, improved farming technology caused people to move to cities. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial. -> Transit city
