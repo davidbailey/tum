@@ -3,17 +3,27 @@
 1. [Land Use](https://en.wikipedia.org/wiki/Land_use) and Planning
   * History
     * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich)
-    * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. Development concentrated around train stations (tram, subway, commuter rail, etc.) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial.
-    * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). Increasing seperation of uses (residential, job centers, commercial, industrial).
+    * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial.
+    * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). Increasing seperation of uses (residential, job centers, commercial, industrial) (zoning). Airplanes for long distance transportation.
     * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? 
   * Scale
     * International
+      * Airplane and High-speed Rail, Car/Bus
     * National
+      * Airplane, High-speed Rail, Rail, Car/Bus
     * State
+      * Airplane, High-speed Rail, Rail, Car/Bus
     * **Regional**
+      * Rail, Car/Bus
     * County
+      * Rail, Car/Bus
     * City
+      * Rail, Car/Bus, Bicycle
     * **Neighborhood**
+      * Car/Bus, Bicycle, Walk
+  * Accessibility
+    * "The more or less easiness with which one can reach a location (a) to perform an activity (b)"
+    * http://www.accessibilityplanning.eu
   * [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
     * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
     * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
@@ -28,6 +38,7 @@
         * https://www.cnu.org
       * http://imdb.com/title/tt1701976/
     * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
+      * ~2km around station (30 minute walk)
     * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
   * Architecture/Design
     * https://vimeo.com/169726761
@@ -313,12 +324,10 @@
 * Public Transportation
   * Integrated Synchronized Timetable (Timed Transfer)
     * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
-* Accessibility
-  * http://www.accessibilityplanning.eu
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
 * Transportation Economics
   * Monetary Budget ~ 15% of household budget
-  * Time Budget ~ 1 hour/day
+  * Time Budget ~ 1 hour/day, stable through history - we are traveling further today, not more
     * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
   * [Transport and the Environment](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
     * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
