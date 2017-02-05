@@ -47,7 +47,12 @@
         * https://www.cnu.org
       * http://imdb.com/title/tt1701976/
     * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
-      * ~2km around station (30 minute walk)
+      * max 2km around station (30 minute walk), but hopefully more like 5-7 minute walk
+      * mix of uses w/ moderate to high density
+      * pedestrian oreientation/connectivity
+      * transportation choices
+      * reduced parking
+      * high quality design
     * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
     * Urbanity by destiny
       * Dense, single-use, auto-centric. E.g. Wilshire Blvd, West Los Angeles; Century City
@@ -362,5 +367,30 @@
 * Other Networks
   * [Electricity](https://en.wikipedia.org/wiki/Electrical_grid)
   * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
-  
+* Transportation Apps
+  1. Maps/Routing
+    1. Apple Maps
+    2. Google Maps
+    3. Citymapper
+    4. moovel
+    5. Transit
+    6. Avenza Maps
+  2. Ticketing/Routing
+    1. DB Navigator
+    2. München Navigator
+    3. FlixBus
+    4. ÖBB
+  3. Taxi/Ride Share
+    1. Uber
+    2. Lyft
+    3. taxi.eu
+  4. Bike/Car Share
+    1. Spotcycle
+    2. Social Bicycles
+    3. Call a Bike
+    4. MVG more
+  5. Parking
+  6. ODB2
+    1. Automatic
+
 *Safety and Security are a component of all sections*
