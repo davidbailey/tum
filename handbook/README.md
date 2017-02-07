@@ -410,6 +410,11 @@
       * Transportation Life Cycle Assessment
         * http://transportationlca.org
     * [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
+      * Economic
+      * Social
+        * Social Justice, Safety, Public Health, Seperation, Socialization 
+      * Ecological
+        * Energy, Noise, Air Pollution, Land-use
       * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
         * Features
           * Bicycles don't experience congestion (nearly as much as cars)
