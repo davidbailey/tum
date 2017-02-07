@@ -53,6 +53,9 @@
         * **Regional**
           * **Rail**, Car/Bus
           * [Functional Urban Area](https://en.wikipedia.org/wiki/Larger_urban_zone)
+          * Polycentric to spread the demand, but keep it concentrated
+          * Transit-oriented Development
+          * Integration - professional, spatial, temporal, orgazational, methodological, poltical
         * County
           * Rail, Car/Bus
         * City
