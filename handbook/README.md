@@ -59,7 +59,9 @@
           * Rail, Car/Bus, Bicycle
         * **Neighborhood**
           * Car/Bus, **Bicycle**, **Walk**
-      * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
+          * Neighborhood is imporant for livable places, urban mobility, economic development, space/time efficency, pollution reduction, environmental friendliness, cost effectiveness, health, young and old mobility...
+          * Neighborhood needs close destinations, network connections, bike/walk spaces, protection, a positive cultural climate, processes, involvement, data, tools.
+     * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
         * dense in city center vs. car network which goes into the center, but is not dense in the center
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
