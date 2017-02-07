@@ -1,6 +1,6 @@
 # [Transportation](https://en.wikipedia.org/wiki/Transport)
 
-1. [Land Use](https://en.wikipedia.org/wiki/Land_use) and Planning
+1. [Land Use](https://en.wikipedia.org/wiki/Land_use) and Transport
   * Land Use -> Transport -> Land Use...
   * Land Use -> Activity -> Transport (Supply <-> Demand) -> Accessibility -> Land Use...
     * [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
@@ -13,98 +13,98 @@
       * http://www.accessibilityplanning.eu
       * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
         * spacial distance, temporal distance, traffic-dependent, mode-dependent
-    * Rate of Change
-      * Slow - Transport Network, Zoning
-      * Fast - Freight, Commuting, Employment, Population
-  * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
-    * ability to move - related to an activity - individual perspective
-    * Mobility Rate
-      * number of trips/person/day
-  * [Transport System](https://en.wikipedia.org/wiki/Transport_network)
-    * technical and orgazational structure for transport. e.g. track, vehicles, shoes, rules, services
-    * Elements: Nodes (important for capacity/performance) and Links
-    * Types: Road, Rail, Water, Air, Information, Relations, [Electricity](https://en.wikipedia.org/wiki/Electrical_grid), [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
-    * Qualities
-      * Connexity: are the points connected or not?
-      * Connectivity: quality of interconnection = number of links / number of nodes. cul-de-sacs are poor connectivity
-    * Shapes
-      * Radial e.g. Los Angeles Metrolink
-      * Radial Ring e.g. European motorways around a city
-      * Grid (Raster) e.g. Manhattan street network, Munich Maxvorstadt street network
-    * Scale
-      * International
-        * Airplane and High-speed Rail, Car/Bus
-      * National
-        * Airplane, High-speed Rail, Rail, Car/Bus
-      * State
-        * Airplane, High-speed Rail, Rail, Car/Bus
-      * **Regional**
-        * Rail, Car/Bus
-      * County
-        * Rail, Car/Bus
-      * City
-        * Rail, Car/Bus, Bicycle
-      * **Neighborhood**
-        * Car/Bus, Bicycle, Walk
-    * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
-      * dense in city center vs. car network which goes into the center, but is not dense in the center
-      * https://www.youtube.com/watch?v=N0OGqjPS47E
-      * Integrated Synchronized Timetable (Timed Transfer)
-        * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
-    * Transport Offer
-      * network + services
-   <table>
-   <tr>
-       <td></td>
-       <td>Private Operator</td>
-       <td>Public Operator</td>
-   </tr>
-    <tr>
-       <td>Rail Infrastructure</td>
-       <td>X</td>
-       <td>National, Regional, Commuter, Metro</td>
-   </tr>
-   <tr>
-       <td>Road Infrastructure</td>
-       <td>Car, Motorcycle, Bicycle, Pedestrian</td>
-       <td>Bus, Taxi</td>
-   </tr>
-   </table>  
+      * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
+        * ability to move - related to an activity - individual perspective
+        * Mobility Rate
+          * number of trips/person/day
+    * [Transport System](https://en.wikipedia.org/wiki/Transport_network)
+      * technical and orgazational structure for transport. e.g. track, vehicles, shoes, rules, services
+      * Elements: Nodes (important for capacity/performance) and Links
+      * Types: Road, Rail, Water, Air, Information, Relations, [Electricity](https://en.wikipedia.org/wiki/Electrical_grid), [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
+      * Qualities
+        * Connexity: are the points connected or not?
+        * Connectivity: quality of interconnection = number of links / number of nodes. cul-de-sacs are poor connectivity
+      * Shapes
+        * Radial e.g. Los Angeles Metrolink
+        * Radial Ring e.g. European motorways around a city
+        * Grid (Raster) e.g. Manhattan street network, Munich Maxvorstadt street network
+      * Scale
+        * International
+          * Airplane and High-speed Rail, Car/Bus
+        * National
+          * Airplane, High-speed Rail, Rail, Car/Bus
+        * State
+          * Airplane, High-speed Rail, Rail, Car/Bus
+        * **Regional**
+          * Rail, Car/Bus
+        * County
+          * Rail, Car/Bus
+        * City
+          * Rail, Car/Bus, Bicycle
+        * **Neighborhood**
+          * Car/Bus, Bicycle, Walk
+      * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
+        * dense in city center vs. car network which goes into the center, but is not dense in the center
+        * https://www.youtube.com/watch?v=N0OGqjPS47E
+        * Integrated Synchronized Timetable (Timed Transfer)
+          * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
+      * Transport Offer
+        * network + services
+     <table>
+     <tr>
+         <td></td>
+         <td>Private Operator</td>
+         <td>Public Operator</td>
+     </tr>
+      <tr>
+         <td>Rail Infrastructure</td>
+         <td>X</td>
+         <td>National, Regional, Commuter, Metro</td>
+     </tr>
+     <tr>
+         <td>Road Infrastructure</td>
+         <td>Car, Motorcycle, Bicycle, Pedestrian</td>
+         <td>Bus, Taxi</td>
+     </tr>
+     </table>  
+    * [Land Use](https://en.wikipedia.org/wiki/Land_use), [Zoning](https://en.wikipedia.org/wiki/Zoning), [Spacial Planning](https://en.wikipedia.org/wiki/Spatial_planning), [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
+      * Forest -> Farms -> Cities
+      * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
+      * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
+        * http://mrsc.org/Home/Explore-Topics/Planning/Development-Types-and-Land-Uses/Mixed-Use.aspx
+      * [Suburb](https://en.wikipedia.org/wiki/Suburb)
+        * [Streetcar Suburb](https://en.wikipedia.org/wiki/Streetcar_suburb)
+      * [Slum](https://en.wikipedia.org/wiki/Slum)
+      * [Garden City](https://en.wikipedia.org/wiki/Garden_city_movement)
+      * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
+        * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
+          * https://www.cnu.org
+        * http://imdb.com/title/tt1701976/
+      * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
+        * max 2km around station (30 minute walk), but hopefully more like 5-7 minute walk
+        * mix of uses w/ moderate to high density
+        * pedestrian oreientation/connectivity
+        * transportation choices
+        * reduced parking
+        * high quality design
+      * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
+      * Urbanity by destiny
+        * Dense, single-use, auto-centric. E.g. Wilshire Blvd, West Los Angeles; Century City
+      * [Urban Renewal](https://en.wikipedia.org/wiki/Urban_renewal)
+        * Remove "bad" areas and create "good" areas
+      * [Sustainable City](https://en.wikipedia.org/wiki/Sustainable_city)
+      * [Urban Sprawl](https://en.wikipedia.org/wiki/Urban_sprawl)
+        * low density, single-use, auto-centric
+  * Rate of Change
+    * Slow - Transport Network, Zoning
+    * Fast - Freight, Commuting, Employment, Population
+  * Architecture/Design
+    * https://vimeo.com/169726761
   * History
     * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich) -> Walking city
     * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. At the same time, improved farming technology caused people to move to cities. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial. -> Transit city
     * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). High amount of uncoordinated growth. Increasing seperation of uses (residential, job centers, commercial, industrial) (zoning). Airplanes for long distance transportation. -> Car city
     * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? More walking and cycling?
-  * [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
-    * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
-    * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
-      * http://mrsc.org/Home/Explore-Topics/Planning/Development-Types-and-Land-Uses/Mixed-Use.aspx
-    * [Suburb](https://en.wikipedia.org/wiki/Suburb)
-      * [Streetcar Suburb](https://en.wikipedia.org/wiki/Streetcar_suburb)
-    * [Slum](https://en.wikipedia.org/wiki/Slum)
-  * Theories
-    * [Garden City](https://en.wikipedia.org/wiki/Garden_city_movement)
-    * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
-      * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
-        * https://www.cnu.org
-      * http://imdb.com/title/tt1701976/
-    * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
-      * max 2km around station (30 minute walk), but hopefully more like 5-7 minute walk
-      * mix of uses w/ moderate to high density
-      * pedestrian oreientation/connectivity
-      * transportation choices
-      * reduced parking
-      * high quality design
-    * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
-    * Urbanity by destiny
-      * Dense, single-use, auto-centric. E.g. Wilshire Blvd, West Los Angeles; Century City
-    * [Urban Renewal](https://en.wikipedia.org/wiki/Urban_renewal)
-      * Remove "bad" areas and create "good" areas
-    * [Sustainable City](https://en.wikipedia.org/wiki/Sustainable_city)
-    * [Urban Sprawl](https://en.wikipedia.org/wiki/Urban_sprawl)
-      * low density, single-use, auto-centric
-  * Architecture/Design
-    * https://vimeo.com/169726761
 * Infrastructure
   * [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
     * Ways
