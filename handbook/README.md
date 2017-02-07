@@ -1,7 +1,7 @@
 # [Transportation](https://en.wikipedia.org/wiki/Transport)
 
 1. [Land Use](https://en.wikipedia.org/wiki/Land_use) and Transport
-  * Land Use -> Transport -> Land Use...
+  * Land Use -> Transport -> Land Use... (Feedback Loop, and Chicken and Egg Problem)
   ![wulfhorst2003](https://github.com/davidbailey/tum/raw/master/handbook/wulfhorst2003.png)
   * Land Use -> Activity -> Transport (Supply <-> Demand) -> Accessibility -> Land Use...
     * [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
@@ -9,13 +9,24 @@
       * Institutional - irregular and according to lifestyle
       * Production - complex network of relationships between firms, activities, regions, nations
     * Accessibility
-      * "The more or less easiness with which one can reach a location (a) to perform an activity (b)"
+      * "The more or less easiness with which one can reach a location (a) to perform an activity (b)" - both geometric and economic
+      * Accessibility = sum(destinations * function of generalized costs)
+      * Density, Diversity, Design
       * Depends on costs (time, money) and perception of those costs.
+        * Monetary Budget ~ 15% of household budget
+        * Time Budget ~ 1 hour/day, stable through history - we are traveling further today, not more; if we have free time in our budget, we use it to increase happiness
+          * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
+      * Increase accessibility by increasing the quality of the transport system or increasing the number of activities in an area. An increase in accessibility causes positive feedback in the loop. This is balanced by negative feedback from the transport system. When transportation demand goes up, quality goes down. e.g. traffic, overcrowding.
+      * Action Space
+        * where your activities take place
+        * Capacity constraints - money, time, availability modes
+        * Coupling constraints - location, time
+        * Insitutional constraints - opening hours, entrance fee
       * http://www.accessibilityplanning.eu
       * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
         * spacial distance, temporal distance, traffic-dependent, mode-dependent
       * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
-        * ability to move - related to an activity - individual perspective
+        * ability to move - related to an activity - individual perspective, depends on [Built Environment](https://en.wikipedia.org/wiki/Built_environment)
         * Mobility Rate
           * number of trips/person/day
     * [Transport System](https://en.wikipedia.org/wiki/Transport_network)
@@ -401,26 +412,22 @@
           * http://nitc.trec.pdx.edu/
           * http://nitc.trec.pdx.edu/events/archive
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
-* Transportation Economics
-  * Monetary Budget ~ 15% of household budget
-  * Time Budget ~ 1 hour/day, stable through history - we are traveling further today, not more
-    * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
-  * [Transport and the Environment](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
-    * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
-      * Transportation Life Cycle Assessment
-        * http://transportationlca.org
-    * [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
-      * Economic
-      * Social
-        * Social Justice, Safety, Public Health, Seperation, Socialization 
-      * Ecological
-        * Energy, Noise, Air Pollution, Land-use
-      * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
-        * Features
-          * Bicycles don't experience congestion (nearly as much as cars)
-          * Bicycles don't pollute (increased health and land value)
-          * Bicycles cost less (social mobility)
-          * Bicycles don't take up space or divide communities
+* [Transport and the Environment](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
+  * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
+    * Transportation Life Cycle Assessment
+      * http://transportationlca.org
+  * [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
+    * Economic
+    * Social
+      * Social Justice, Safety, Public Health, Seperation, Socialization 
+    * Ecological
+      * Energy, Noise, Air Pollution, Land-use
+    * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
+      * Features
+        * Bicycles don't experience congestion (nearly as much as cars)
+        * Bicycles don't pollute (increased health and land value)
+        * Bicycles cost less (social mobility)
+        * Bicycles don't take up space or divide communities
 * Probability and Statistics
 * Recreation
 * Transportation Apps
