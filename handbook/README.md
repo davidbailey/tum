@@ -72,7 +72,7 @@
           * Different speeds builds a hierarchy where cars naturally find faster streets - don't make everything slow
           * Traffic Calming goals - equality for all, more safe, less air and noise pollution | methods - shrink the road, disallow through traffic / shift vehicles to other streets, shift people to other modes
           * Marketing and communication
-      * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
+      * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
         * dense in city center vs. car network which goes into the center, but is not dense in the center
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
