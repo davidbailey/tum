@@ -45,20 +45,20 @@
         * Grid (Raster) e.g. Manhattan street network, Munich Maxvorstadt street network
       * Scale
         * International
-          * Airplane and High-speed Rail, Car/Bus
+          * Airplane, (High-speed) Rail, Car/Bus
         * National
-          * Airplane, High-speed Rail, Rail, Car/Bus
+          * Airplane, (High-speed) Rail, Car/Bus
         * State
-          * Airplane, High-speed Rail, Rail, Car/Bus
+          * Airplane, (High-speed) Rail, Car/Bus
         * **Regional**
-          * Rail, Car/Bus
+          * **Rail**, Car/Bus
           * [Functional Urban Area](https://en.wikipedia.org/wiki/Larger_urban_zone)
         * County
           * Rail, Car/Bus
         * City
           * Rail, Car/Bus, Bicycle
         * **Neighborhood**
-          * Car/Bus, Bicycle, Walk
+          * Car/Bus, **Bicycle**, **Walk**
       * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
         * dense in city center vs. car network which goes into the center, but is not dense in the center
         * https://www.youtube.com/watch?v=N0OGqjPS47E
