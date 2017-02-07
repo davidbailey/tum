@@ -2,6 +2,7 @@
 
 1. [Land Use](https://en.wikipedia.org/wiki/Land_use) and Transport
   * Land Use -> Transport -> Land Use...
+  ![wulfhorst2003](https://github.com/davidbailey/tum/raw/master/handbook/wulfhorst2003.png)
   * Land Use -> Activity -> Transport (Supply <-> Demand) -> Accessibility -> Land Use...
     * [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
       * Routine - regular and predictable
@@ -108,6 +109,8 @@
       * Courtyard block structure
         * Seperates public space (noise/air pollution), from private space e.g. Maxvorstadt in Munich
         * parking inside?
+      * [European Spatial Development Perspective](https://en.wikipedia.org/wiki/European_Spatial_Development_Perspective)
+        * http://ec.europa.eu/regional_policy/sources/docoffic/official/reports/pdf/sum_en.pdf
   * Rate of Change
     * Slow - Transport Network, Zoning
     * Fast - Freight, Commuting, Employment, Population
