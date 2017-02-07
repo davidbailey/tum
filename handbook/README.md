@@ -37,6 +37,7 @@
           * Airplane, High-speed Rail, Rail, Car/Bus
         * **Regional**
           * Rail, Car/Bus
+          * [Functional Urban Area](https://en.wikipedia.org/wiki/Larger_urban_zone)
         * County
           * Rail, Car/Bus
         * City
@@ -69,32 +70,44 @@
      </table>  
     * [Land Use](https://en.wikipedia.org/wiki/Land_use), [Zoning](https://en.wikipedia.org/wiki/Zoning), [Spacial Planning](https://en.wikipedia.org/wiki/Spatial_planning), [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
       * Forest -> Farms -> Cities
-      * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
+      * Residential zone home types
+        * [Single-family Home](https://en.wikipedia.org/wiki/Single-family_detached_home)
+          * requires parking
+        * [Row House](https://en.wikipedia.org/wiki/Terraced_house)
+          * high density, small plot size, often no backyard e.g. Liverpool
+        * [Apartment](https://en.wikipedia.org/wiki/Apartment) / [Condominium](https://en.wikipedia.org/wiki/Condominium)
+          * often requires parking
       * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
         * http://mrsc.org/Home/Explore-Topics/Planning/Development-Types-and-Land-Uses/Mixed-Use.aspx
+        * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
+          * [Garden City](https://en.wikipedia.org/wiki/Garden_city_movement)
+          * max 2km around station (30 minute walk), but hopefully more like 5-7 minute walk
+          * mix of uses w/ moderate to high density
+          * pedestrian oreientation/connectivity
+          * transportation choices
+          * reduced parking
+          * high quality design
       * [Suburb](https://en.wikipedia.org/wiki/Suburb)
         * [Streetcar Suburb](https://en.wikipedia.org/wiki/Streetcar_suburb)
+        * [Urban Sprawl](https://en.wikipedia.org/wiki/Urban_sprawl)
+          * low density, single-use, auto-centric, high mobility costs (time + money), socially exclusive/segregated, high satisfaction, long travel distances, high infrastructure costs, high land consumption
       * [Slum](https://en.wikipedia.org/wiki/Slum)
-      * [Garden City](https://en.wikipedia.org/wiki/Garden_city_movement)
+      * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
       * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
         * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
           * https://www.cnu.org
         * http://imdb.com/title/tt1701976/
-      * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
-        * max 2km around station (30 minute walk), but hopefully more like 5-7 minute walk
-        * mix of uses w/ moderate to high density
-        * pedestrian oreientation/connectivity
-        * transportation choices
-        * reduced parking
-        * high quality design
       * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
       * Urbanity by destiny
-        * Dense, single-use, auto-centric. E.g. Wilshire Blvd, West Los Angeles; Century City
+        * Dense, single-use, auto-centric, often high costs. E.g. Wilshire Blvd, West Los Angeles; Century City
       * [Urban Renewal](https://en.wikipedia.org/wiki/Urban_renewal)
         * Remove "bad" areas and create "good" areas
       * [Sustainable City](https://en.wikipedia.org/wiki/Sustainable_city)
-      * [Urban Sprawl](https://en.wikipedia.org/wiki/Urban_sprawl)
-        * low density, single-use, auto-centric
+      * [Central Place Theory](https://en.wikipedia.org/wiki/Central_place_theory)
+        * "The less often a product or service is needed, the bigger the cachment area has to be in order to run the offer economically"
+      * Courtyard block structure
+        * Seperates public space (noise/air pollution), from private space e.g. Maxvorstadt in Munich
+        * parking inside?
   * Rate of Change
     * Slow - Transport Network, Zoning
     * Fast - Freight, Commuting, Employment, Population
