@@ -59,9 +59,17 @@
           * Rail, Car/Bus, Bicycle
         * **Neighborhood**
           * Car/Bus, **Bicycle**, **Walk**
+          * Up to 2km (30 minute walk) (more feeling than strict rule - could be shorter or longer)
+          * Minimum 100 people/hectar for compact, walkable, bikeable.
           * Neighborhood is imporant for livable places, urban mobility, economic development, space/time efficency, pollution reduction, environmental friendliness, cost effectiveness, health, young and old mobility...
           * Neighborhood needs close destinations, network connections, bike/walk spaces, protection, a positive cultural climate, processes, involvement, data, tools.
-      * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
+          * Ground floor is the interaction between people and building - needs shops, restaurants, life - provides safety/security
+          * Good things: parklets, benches, walking school bus, snow removal from sidewalk/bike lanes, slow/safe traffic, curb bulb-outs, elevated intersections, traffic island
+          * Traffic Calming Areas - no priority for cars, max speed 4-7km/h, no sidewalk - hard for non-sighted orientation - still need a safe place. Similar to shared spaces.
+          * Different speeds builds a hierarchy where cars naturally find faster streets - don't make everything slow
+          * Traffic Calming goals - equality for all, more safe, less air and noise pollution | methods - shrink the road, disallow through traffic / shift vehicles to other streets, shift people to other modes
+          * Marketing and communication
+      * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
         * dense in city center vs. car network which goes into the center, but is not dense in the center
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
