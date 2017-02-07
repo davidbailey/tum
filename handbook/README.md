@@ -22,6 +22,9 @@
         * Capacity constraints - money, time, availability modes
         * Coupling constraints - location, time
         * Insitutional constraints - opening hours, entrance fee
+      * Land use and public transport accessibility index (LUPTAI) tool
+        * Build pubilc transport where it is lacking and there is high density
+        * Increase density where it is low and there is good public transport
       * http://www.accessibilityplanning.eu
       * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
         * spacial distance, temporal distance, traffic-dependent, mode-dependent
@@ -269,6 +272,9 @@
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
      * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)
+    * Data Types
+      * Nodes (0D), Lines (1D), and Polygons (2D)
+      * Raster, Vector
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
