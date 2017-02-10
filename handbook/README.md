@@ -315,15 +315,46 @@
     * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
     * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) and [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
+      * Model error is based on data error and specification error
+        * Data error increases w/ complexity
+        * Specification error decreases w/ complexity
+      * Types
+        * Relationship Model e.g. function w/ inputs and outputs
+        * Process Model e.g. complex system w/ many relationships, interfaces (input/output), and feedback loops
+        * Modelling Platform e.g. a tool
+      * Objectives
+        * Visualize/analyze/understand today
+        * Predict the future w/ and w/o implementing changes
       * Method
         * [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model)
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
           * PTV VISUM
           * Four-step Model
-            * Trip Generation
-            * Trip Distribution
-            * Mode Choice
-            * Route Assignment
+            * Assumptions / Recommendations
+              * Zones (and traffic to/from a zone) is consolidated into one point via a connector. Lot of calibration needed here.
+              * Create single-use zones. e.g. all residential, all commercial, etc.
+              * Use natural and political boundaries if appropriate.
+              * Create smaller zones in more dense areas
+              * Create a study area bigger than the planning area
+              * Does not consider feedback between land use and transportation
+              * Ignores internal trips and through trips (to/from outside the region)
+              * Ignores trip chaining
+            * Required Information
+              * Links: speeds, capacity (number of lanes), congestion, permissible transport modes, public transport lines
+              * Nodes: capacity, turn restrictions, mean delay time for each traffic stream, public transport stops
+            * Steps
+              * Trip Generation
+                * Number of person/vehicle trips entering or leaving a zone.
+                * Structural data (population, jobs, square feet of retail space, number of seats, etc.) * Mobility rate for that data
+                * Hopefully this is symmetric. e.g. number of people who leave for work = number of people who arrive at work.
+              * Trip Distribution
+                * Based on a gravity function.
+                * Not necessarily symmetric.
+              * Mode Choice
+                * Generalized cost term = time + cost + comfort
+                  * Public transport times from timetable/reality
+                  * Comfort includes stress, reliability, 
+              * Route Assignment
         * [Microsimulation](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
           * http://www.traffic-simulation.de
           * PTV VISSIM
