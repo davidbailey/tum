@@ -475,6 +475,7 @@
     4. moovel
     5. Transit
     6. Avenza Maps
+    7. Bayern Info
   2. Ticketing/Routing
     1. DB Navigator
     2. München Navigator
