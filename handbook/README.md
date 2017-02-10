@@ -348,8 +348,14 @@
                 * Structural data (population, jobs, square feet of retail space, number of seats, etc.) * Mobility rate for that data
                 * Hopefully this is symmetric. e.g. number of people who leave for work = number of people who arrive at work.
               * Trip Distribution
-                * Based on a gravity function.
+                * Based on a gravity function Tij = Oi * Dj * f(cij)
+                  * Tij = trips from i to j
+                  * Oi = trips w/ origin i
+                  * Dj = trips w/ destination j
+                  * cij = resistance based on distance, travel time, costs, etc.
+                  * f() = deterrence function e.g. power function or exponential function
                 * Not necessarily symmetric.
+                * Big problem is a lack of understanding of spacial decision making. E.g. what if you visit a friend across town?
               * Mode Choice
                 * Generalized cost term = time + cost + comfort
                   * Public transport times from timetable/reality
