@@ -227,6 +227,7 @@
     * [Track](https://en.wikipedia.org/wiki/Track_(rail_transport))
       * [Track Geometry](https://en.wikipedia.org/wiki/Track_geometry)
         * [Speed Limit](https://en.wikipedia.org/wiki/Rail_speed_limits_in_the_United_States)
+          * https://davidbailey.github.io/rail
         * [Track Gague](https://en.wikipedia.org/wiki/Track_gauge)
           * [Break of Gague](https://en.wikipedia.org/wiki/Break-of-gauge)
         * [Curve](https://en.wikipedia.org/wiki/Curve)
@@ -239,6 +240,7 @@
               * [Euler Spiral](https://en.wikipedia.org/wiki/Euler_spiral)
             * https://www.law.cornell.edu/cfr/text/49/213.57
             * http://www.highspeed-rail.org/Documents/PRIIA%20305%20DocSpec%20and%20other%20NGEC%20Documents/305%20PRIIA%20Tilt%20presentation.pdf
+          * https://github.com/davidbailey/py/blob/master/railRadius.py
     * [Trains](https://en.wikipedia.org/wiki/Train)
       * Propulsion
         * Power Configuration
@@ -338,6 +340,7 @@
       * Methods
         * Manual
           * https://davidbailey.github.io/counter
+          * https://github.com/davidbailey/js/blob/master/trafficcounter-index.ios.js
         * Automated
           * [Loop Detector](https://en.wikipedia.org/wiki/Induction_loop)
           * [Automatic Number Plate Recognition](https://en.wikipedia.org/wiki/Automatic_number_plate_recognition)
