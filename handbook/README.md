@@ -344,7 +344,7 @@
               * Nodes: capacity, turn restrictions, mean delay time for each traffic stream, public transport stops
             * Steps
               * Trip Generation
-                * Number of person/vehicle trips entering or leaving a zone.
+                * Number of person/vehicle trips entering or leaving a zone.
                 * Structural data (population, jobs, square feet of retail space, number of seats, etc.) * Mobility rate for that data
                 * Hopefully this is symmetric. e.g. number of people who leave for work = number of people who arrive at work.
               * Trip Distribution
