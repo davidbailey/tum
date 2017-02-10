@@ -232,6 +232,7 @@
             * [Cant Deficiency](https://en.wikipedia.org/wiki/Cant_deficiency)
             * [Transition Curve](https://en.wikipedia.org/wiki/Track_transition_curve)
               * [Euler Spiral](https://en.wikipedia.org/wiki/Euler_spiral)
+            * https://www.law.cornell.edu/cfr/text/49/213.57
             * http://www.highspeed-rail.org/Documents/PRIIA%20305%20DocSpec%20and%20other%20NGEC%20Documents/305%20PRIIA%20Tilt%20presentation.pdf
     * [Trains](https://en.wikipedia.org/wiki/Train)
       * Propulsion
