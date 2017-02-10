@@ -141,6 +141,11 @@
   * Rate of Change
     * Slow - Transport Network, Zoning
     * Fast - Freight, Commuting, Employment, Population
+  * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
+    * http://www.vtpi.org/tdm/
+    * Mobility Management
+    * Avoid, Shift, Improve
+      * http://gelookahead.economist.com/avoid-shift-improve/
   * Architecture/Design
     * https://vimeo.com/169726761
   * History
@@ -302,6 +307,8 @@
       * Raster, Vector
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
+      * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
+      * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
     * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
@@ -442,7 +449,6 @@
         * National Institute for Transportation and Communities
           * http://nitc.trec.pdx.edu/
           * http://nitc.trec.pdx.edu/events/archive
-* [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
 * [Transport and the Environment](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
   * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
     * Transportation Life Cycle Assessment
