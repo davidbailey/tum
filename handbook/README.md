@@ -347,7 +347,7 @@
                 * Number of person/vehicle trips entering or leaving a zone.
                 * Structural data (population, jobs, square feet of retail space, number of seats, etc.) * Mobility rate for that data
                 * Hopefully this is symmetric. e.g. number of people who leave for work = number of people who arrive at work.
-              * Trip Distribution
+              * Trip Distribution
                 * Based on a gravity function.
                 * Not necessarily symmetric.
               * Mode Choice
