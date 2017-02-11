@@ -77,6 +77,11 @@
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
           * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
+        * Right-of-Way Class
+          * A: Exclusive right-of-way across nodes and links. e.g. LACMTA Red Line
+          * B: Exclusive right-of-way across links; shared right-of-way across nodes. e.g. LACMTA Expo Line
+          * C: Shared right-of-way across nodes and links. e.g. Buses
+          * http://humantransit.org/2011/03/rail-bus-differences-contd.html
       * Transport Offer
         * network + services
      <table>
@@ -197,7 +202,9 @@
         * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
       * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
       * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
-    * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road))
+    * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road)) / [Junctions](https://en.wikipedia.org/wiki/Junction_(road))
+      * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
+      * [Grade Seperation](https://en.wikipedia.org/wiki/Grade_separation)
       * [Traffic Lights](https://en.wikipedia.org/wiki/Traffic_light)
         * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
           * [Traffic Light Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination)
@@ -252,6 +259,7 @@
           * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
       * [Braking](https://en.wikipedia.org/wiki/Railway_brake)
       * Suspension
+    * [Junction](https://en.wikipedia.org/wiki/Junction_(rail))
     * [Switches](https://en.wikipedia.org/wiki/Railroad_switch)
     * [Interlockings](https://en.wikipedia.org/wiki/Interlocking)
     * Intersections
