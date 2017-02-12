@@ -345,6 +345,8 @@
               * Create smaller zones in more dense areas
               * Create a study area bigger than the planning area
               * Does not consider feedback between land use and transportation
+              * Does not consider feedback between the four stages.
+              * Mode choice is done after destination choice
               * Ignores internal trips and through trips (to/from outside the region)
               * Ignores trip chaining
             * Required Information
@@ -365,25 +367,29 @@
                 * Not necessarily symmetric.
                 * Big problem is a lack of understanding of spacial decision making. E.g. what if you visit a friend across town?
               * Mode Choice
-                * Generalized cost term = (time + cost + comfort) * perception of each
-                  * Based on the person (income, car availability, etc.) and the mode (travel time, comfort, etc.)
-                  * Public transport times from timetable/reality
-                  * Time includes wait time, access time (walk to car or public tranportation)
-                  * Comfort includes stress, reliability, safety, etc.
-                  * Captive riders must use public transportation (no car). Captive drivers must drive (no public tranportation).
+                * Generalized cost term (utility) = (time + cost + comfort) * perception of each
+                * Based on the person (income, car availability, etc.) and the mode (travel time, comfort, etc.)
+                * Public transport times from timetable/reality
+                * Time includes wait time, access time (walk to car or public tranportation)
+                * Comfort includes stress, reliability, safety, etc.
+                * Captive riders must use public transportation (no car). Captive drivers must drive (no public tranportation).
+                * Methods
+                  * [Kirchhoff's Law](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
+                  * [Binary Logit Model](https://en.wikipedia.org/wiki/Logistic_regression)
               * Route Assignment
                 * Car: which roads to take
                 * Public transportation: which lines, which transfers
                 * Inputs are travel demands (O/D Matrix, mode choice), transportation network with qualities for each mode, and a methodology for route choice and assignment
                 * Convert from input (people) to output (vehicles) by dividing by an occupancy rate e.g. 1.1 people/vehicle for commuting
                 * Outputs are impacts: traffic, congestion, noise, air pollution, loads on nodes and links
-                * All or nothing
-                  1. Route identification for each O/D pair
-                  2. Route choice
-                  3. Load routes onto the network
-                  4. Evaluate the effects of congestion on 1.
-                * Capacity-restraint function
-                  * Iterative method. e.g. add 50%, then 30%, then 20%
+                * Methods
+                  * All or nothing
+                    1. Route identification for each O/D pair
+                    2. Route choice
+                    3. Load routes onto the network
+                    4. Evaluate the effects of congestion on 1.
+                  * Capacity-restraint function
+                    * Iterative method. e.g. add 50%, then 30%, then 20%
                 * Limitations
                   * Drivers do not assign themselves logically and change assignments over time
                   * Congestion affects destination choice, mode choice, whether to take the trip at all
