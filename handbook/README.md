@@ -389,6 +389,12 @@
                     3. Load routes onto the network
                     4. Evaluate the effects of congestion on 1.
                   * Capacity-restraint function
+                    * t = t0 * (1 + a * (V / C) ^ b
+                      * t = congested travel time
+                      * t0 = free flow travel time
+                      * V = traffic volume on the link
+                      * C = capacity of the link
+                      * a,b = parameters
                     * Iterative method. e.g. add 50%, then 30%, then 20%
                 * Limitations
                   * Drivers do not assign themselves logically and change assignments over time
