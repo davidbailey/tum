@@ -1,0 +1,4 @@
+digraph graphname {
+  "Nonexistant and poor quality infrastructure" -> "High fatality and injury rates\nfor cyclists and pedestrians" -> "Low rates of cycling and walking" -> "Continued promotion of auto-centric infrastructure" -> "Nonexistant and poor quality infrastructure"
+  "Nonexistant and poor quality infrastructure" -> "Low rates of cycling and walking"
+}
