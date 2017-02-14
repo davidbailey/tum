@@ -130,6 +130,9 @@
         * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
           * https://www.cnu.org
           * https://www.ted.com/talks/jeff_speck_4_ways_to_make_a_city_more_walkable
+            * reason to walk, safe and feel safe, comfortable, interesting
+            * 200 foot blocks (Portland) -> 2 lane city
+            * 600 foot blocks (Salt Lake City) -> 6 lane city
         * http://imdb.com/title/tt1701976/
       * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
       * Urbanity by destiny
