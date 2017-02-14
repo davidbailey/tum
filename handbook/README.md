@@ -268,6 +268,7 @@
       * [Bridges](https://en.wikipedia.org/wiki/Rail_bridge)
       * [Tunnels](https://en.wikipedia.org/wiki/Rail_tunnel)
     * Control
+      * [Centralized Traffic Control](https://en.wikipedia.org/wiki/Centralized_traffic_control)
       * [Signal Control](https://en.wikipedia.org/wiki/Railway_signalling)
         * [Running a Red Light (Signal Passed at Danger)](https://en.wikipedia.org/wiki/Signal_passed_at_danger)
           * Causes
