@@ -129,6 +129,7 @@
       * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
         * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
           * https://www.cnu.org
+          * https://www.ted.com/talks/jeff_speck_4_ways_to_make_a_city_more_walkable
         * http://imdb.com/title/tt1701976/
       * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
       * Urbanity by destiny
