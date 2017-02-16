@@ -327,7 +327,14 @@
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
     * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
-    * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) and [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
+    * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) -> [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
+      * Requirements for Models
+        * sensativity: as close to reality as necessary
+        * logical consistancy: makes sense
+        * operability: easy and cheap to use
+        * transparency: clear and understandable
+        * reliability: same result with the same external conditions
+        * validity: suitable for representation and analysis
       * Model error is based on data error and specification error
         * Data error increases w/ complexity
         * Specification error decreases w/ complexity
