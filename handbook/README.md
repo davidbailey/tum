@@ -321,7 +321,15 @@
       * Nodes (0D), Lines (1D), and Polygons (2D)
       * Raster, Vector
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
-    * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
+    * Definations
+      * Net Distance = Time Gap = Back of 1st car to Front of 2nd car => Distance necessary to drive perpendicular across the direction of traffic
+      * Gross Distance = Headway = Front of 1st car to Front of 2nd car => For measuring vehicles/hour
+      * Braking Distance
+        * Absolute = minimum distance to stop before hitting a stopped object in front of you
+        * Relative = minimum distance to stop before hitting a moving object in front of you
+      * Time-to-crash: seconds until a vehicle hits the vehicle in front if neither speed changes
+      * Post-encroachment Time: seconds between perpindicular vehicles occupying the same point
+    * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
       * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
@@ -347,6 +355,12 @@
         * Predict the future w/ and w/o implementing changes
       * Method
         * [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model)
+        * Sub-Microscopic
+          * PELOPS - Program for the dEvelopment of Longitudinal micrOscopic traffic Processes in a Systemrelevant environment
+            * Driver Model
+            * Environment Model
+            * Vehicle Model
+          * Driving Simulator
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
           * [Mass Point Model](https://en.wikipedia.org/wiki/Mass_point_geometry)
             * with constant velocity
