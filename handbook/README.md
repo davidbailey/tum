@@ -348,6 +348,21 @@
       * Method
         * [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model)
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
+          * [Mass Point Model](https://en.wikipedia.org/wiki/Mass_point_geometry)
+            * with constant velocity
+              * a = 0
+              * v = constant
+              * s = s0 + v*t
+              * Centrifugal Force = (m*v^2)/R
+            * with constant acceleration
+              * a = constant
+              * v = v0 + a*t
+              * s = 1/2*a*t^2 + v0*t
+              * F = m*a
+            * [Weight](https://en.wikipedia.org/wiki/Weight) = m*g
+            * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
+              * Dry Concrete and Rubber: µ = 1.0
+              * Lubricated Steel and Steel: µ = 0.16
           * PTV VISUM
           * Four-step Model
             * Assumptions / Recommendations
