@@ -321,14 +321,6 @@
       * Nodes (0D), Lines (1D), and Polygons (2D)
       * Raster, Vector
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
-    * Definations
-      * Net Distance = Time Gap = Back of 1st car to Front of 2nd car => Distance necessary to drive perpendicular across the direction of traffic
-      * Gross Distance = Headway = Front of 1st car to Front of 2nd car => For measuring vehicles/hour
-      * Braking Distance
-        * Absolute = minimum distance to stop before hitting a stopped object in front of you
-        * Relative = minimum distance to stop before hitting a moving object in front of you
-      * Time-to-crash: seconds until a vehicle hits the vehicle in front if neither speed changes
-      * Post-encroachment Time: seconds between perpindicular vehicles occupying the same point
     * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
       * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
@@ -360,8 +352,24 @@
             * Driver Model
             * Environment Model
             * Vehicle Model
-          * Driving Simulator
-        * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
+          * Driving Simulaton
+        * [Microsimulation](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
+          * Definations
+            * Net Distance = Time Gap = Back of 1st car to Front of 2nd car => Distance necessary to drive perpendicular across the direction of traffic
+            * Gross Distance = Headway = Front of 1st car to Front of 2nd car => For measuring vehicles/hour
+            * Braking Distance
+              * Absolute = minimum distance to stop before hitting a stopped object in front of you
+              * Relative = minimum distance to stop before hitting a moving object in front of you
+            * Time-to-crash: seconds until a vehicle hits the vehicle in front if neither speed changes
+            * Post-encroachment Time: seconds between perpindicular vehicles occupying the same point
+          * Variables
+            * Temporal Distance = headway = seconds
+            * Spatial Distance = meters
+            * Velocity = kilometers / hour = meters / seconds
+          * http://www.traffic-simulation.de
+          * PTV VISSIM
+          * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+            * [MATSim](https://en.wikipedia.org/wiki/MATSim)
           * [Mass Point Model](https://en.wikipedia.org/wiki/Mass_point_geometry)
             * with constant velocity
               * a = 0
@@ -377,6 +385,16 @@
             * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
               * Dry Concrete and Rubber: µ = 1.0
               * Lubricated Steel and Steel: µ = 0.16
+        * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
+          * Traffic Flow Models
+            * Variables
+              * Traffic Volume = q = vehicles / hour
+                * Max capacity per lane = 1800 vehicles per hour = 1 vehicle every 2 seconds
+              * Traffic Density = k = vehicles / km
+                * Max density per lane = 150 vehicles per kilometer in congestions = 7 meters per vehicle
+              * Average velocity = v = km / hour
+                * Local = space is constant, time is variable overcounts fast vehicles = higher than momentary
+                * Momentary = time is constant, space is variable
           * PTV VISUM
           * Four-step Model
             * Assumptions / Recommendations
@@ -441,11 +459,6 @@
                   * Drivers do not assign themselves logically and change assignments over time
                   * Congestion affects destination choice, mode choice, whether to take the trip at all
             * [John Glen Wardrop](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
-        * [Microsimulation](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
-          * http://www.traffic-simulation.de
-          * PTV VISSIM
-          * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
-            * [MATSim](https://en.wikipedia.org/wiki/MATSim)
       * Purpose
         * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
     * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
@@ -454,6 +467,11 @@
         * Bicycles
         * Cars
           * [Vehicle Miles Traveled](https://en.wikipedia.org/wiki/Vehicle_miles_of_travel)
+      * Types
+        * Local: constant space, variable time
+        * Momentary: constant time, variable space
+        * Time-space measurement: measurement across space and time
+        * Moving observer: one measurement with variable space and time
       * Methods
         * Manual
           * https://davidbailey.github.io/counter
