@@ -389,6 +389,12 @@
             * Vehicle Model
           * Driving Simulaton
         * [Microsimulation](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
+          * Purpose
+            * car-following behavior
+            * lane change behavior
+            * merge behavior
+            * driver-infrastructure interaction behavior
+            * driver-vehicle interaction behavior
           * Definations
             * Net Distance = Time Gap = Back of 1st car to Front of 2nd car => Distance necessary to drive perpendicular across the direction of traffic
             * Gross Distance = Headway = Front of 1st car to Front of 2nd car => For measuring vehicles/hour
@@ -401,10 +407,6 @@
             * Temporal Distance = headway = seconds
             * Spatial Distance = meters
             * Velocity = kilometers / hour = meters / seconds
-          * http://www.traffic-simulation.de
-          * PTV VISSIM
-          * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
-            * [MATSim](https://en.wikipedia.org/wiki/MATSim)
           * [Mass Point Model](https://en.wikipedia.org/wiki/Mass_point_geometry)
             * with constant velocity
               * a = 0
@@ -420,6 +422,22 @@
             * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
               * Dry Concrete and Rubber: µ = 1.0
               * Lubricated Steel and Steel: µ = 0.16
+          * Car-Following Model
+            * [Gipps' model](https://en.wikipedia.org/wiki/Gipps%27_model) (1970s)
+            * [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model) (2000)
+            * [Newell's car-following model](https://en.wikipedia.org/wiki/Newell%27s_car-following_model) (2002)
+            * Psycho-physical car-following model
+              * incorporates the driver - following distance is not fixed, but oscillates
+              * drivers cannot judge the speed of a car in front of them well -> design roads like ~~~~~~~ not -------
+            * PTV VISSIM
+            * http://www.traffic-simulation.de
+          * Lane Changing Model
+            * to change or not
+          * Cellular Automation Model
+            * discrete car on discrete road
+            * fast to compute
+          * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+            * [MATSim](https://en.wikipedia.org/wiki/MATSim)
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
           * Definations
             * Passenger Car Unit = [Passenger Car Equivalent](https://en.wikipedia.org/wiki/Passenger_car_equivalent)
