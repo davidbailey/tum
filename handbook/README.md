@@ -386,15 +386,20 @@
               * Dry Concrete and Rubber: µ = 1.0
               * Lubricated Steel and Steel: µ = 0.16
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
-          * Traffic Flow Models
-            * Variables
-              * Traffic Volume = q = vehicles / hour
-                * Max capacity per lane = 1800 vehicles per hour = 1 vehicle every 2 seconds
-              * Traffic Density = k = vehicles / km
-                * Max density per lane = 150 vehicles per kilometer in congestions = 7 meters per vehicle
-              * Average velocity = v = km / hour
-                * Local = space is constant, time is variable overcounts fast vehicles = higher than momentary
-                * Momentary = time is constant, space is variable
+          * Definations
+            * Passenger Car Unit = [Passenger Car Equivalent](https://en.wikipedia.org/wiki/Passenger_car_equivalent)
+              * Car = 1
+              * Motorcycle = .5
+              * Bus = 2-4
+              * Truck = 2-4
+          * Variables
+            * Traffic Volume = q = vehicles / hour
+              * Max capacity per lane = 1800 vehicles per hour = 1 vehicle every 2 seconds
+            * Traffic Density = k = vehicles / km
+              * Max density per lane = 150 vehicles per kilometer in congestions = 7 meters per vehicle
+            * Average velocity = v = km / hour
+              * Local = space is constant, time is variable overcounts fast vehicles = higher than momentary
+              * Momentary = time is constant, space is variable
           * PTV VISUM
           * Four-step Model
             * Assumptions / Recommendations
@@ -507,6 +512,7 @@
     * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
       * [Highway Capacity Manual](https://en.wikipedia.org/wiki/Highway_Capacity_Manual)
         * http://www.trb.org/publications/hcm6e.aspx
+        * German Equivalent: Handbuch für die Bemessung von Straßenverkehrsanlagen (HBS)
     * [American Association of State Highway and Transportation Officials](https://en.wikipedia.org/wiki/American_Association_of_State_Highway_and_Transportation_Officials)
       * A Policy on Geometric Design of Highways and Streets
         * https://bookstore.transportation.org/collection_detail.aspx?ID=110
