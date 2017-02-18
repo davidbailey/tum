@@ -360,15 +360,6 @@
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
       * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
-    * Fundamental Equation of Traffic Flow
-      * Volume = Density * Velocity
-        * q = k * v
-      * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
-      ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/schick2003.png)
-      * [Three Phases of Traffic](https://en.wikipedia.org/wiki/Three-phase_traffic_theory)
-        * Free flow (stable)
-        * Transitional (unstable)
-        * Congested (stable)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
     * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) -> [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
       * Requirements for Models
@@ -446,6 +437,20 @@
             * fast to compute
           * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
             * [MATSim](https://en.wikipedia.org/wiki/MATSim)
+          * Fundamental Equation of Traffic Flow (Greenshields, 1935)
+            * Volume = Density * Velocity (momentary, not local)
+              * q = k * v
+            * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
+            ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/schick2003.png)
+            * Two Areas of Traffic
+              * Free flow (stable)
+              * Transitional (unstable)
+              * Congested (stable)
+            * [Three Phases of Traffic](https://en.wikipedia.org/wiki/Three-phase_traffic_theory) (Kerner 2003)
+              * Free flow
+              * Synchronized flow
+              * Wide moving jam
+            * Van Aerde Model
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
           * Definations
             * Passenger Car Unit = [Passenger Car Equivalent](https://en.wikipedia.org/wiki/Passenger_car_equivalent)
