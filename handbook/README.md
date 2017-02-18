@@ -622,6 +622,10 @@
       * https://www.fhwa.dot.gov/policyinformation/tmguide/
       * http://bikepeddocumentation.org
       * *be aware of selection biases*
+  * Routing
+    * [Shortest Path](https://en.wikipedia.org/wiki/Shortest_path_problem)
+      * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+      * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 * Education, Research, and Governance Organizations
   * Independent
     * Victoria Transport Policy Institute
