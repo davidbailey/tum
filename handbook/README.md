@@ -360,7 +360,14 @@
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
       * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
-    * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
+    * Fundamental Equation of Traffic Flow
+      * Volume = Density * Velocity
+        * q = k * v
+      * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
+      * [Three Phases of Traffic](https://en.wikipedia.org/wiki/Three-phase_traffic_theory)
+        * Free flow (stable)
+        * Transitional (unstable)
+        * Congested (stable)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
     * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) -> [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
       * Requirements for Models
