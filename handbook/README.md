@@ -68,9 +68,9 @@
           * Neighborhood needs close destinations, network connections, bike/walk spaces, protection, a positive cultural climate, processes, involvement, data, tools.
           * Ground floor is the interaction between people and building - needs shops, restaurants, life - provides safety/security
           * Good things: parklets, benches, walking school bus, snow removal from sidewalk/bike lanes, slow/safe traffic, curb bulb-outs, elevated intersections, traffic island
-          * Traffic Calming Areas - no priority for cars, max speed 4-7km/h, no sidewalk - hard for non-sighted orientation - still need a safe place. Similar to shared spaces.
+          * Traffic Calming Areas - no priority for cars, max speed 4-7km/h, no sidewalk - hard for non-sighted orientation - still need a safe place. Similar to shared spaces.
           * Different speeds builds a hierarchy where cars naturally find faster streets - don't make everything slow
-          * Traffic Calming goals - equality for all, more safe, less air and noise pollution | methods - shrink the road, disallow through traffic / shift vehicles to other streets, shift people to other modes
+          * Traffic Calming goals - equality for all, more safe, less air and noise pollution | methods - shrink the road, disallow through traffic / shift vehicles to other streets, shift people to other modes
           * Marketing and communication
       * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
         * dense in city center vs. car network which goes into the center, but is not dense in the center
