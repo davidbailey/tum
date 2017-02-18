@@ -227,6 +227,10 @@
           * Traffic Cop: 289 crossings
         * https://www.youtube.com/watch?v=ONacAiKXe-8
     * Traffic Control
+      * Urban
+      * Motorway
+        * Dynamnic Speed Limit
+          * Purpose: allows more people ot travel closer to the free flow speed, reduces critical braking that causes brakeing shock waves
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
     * [Stations](https://en.wikipedia.org/wiki/Train_station)
       * [Layout](https://en.wikipedia.org/wiki/Railway_station_layout)
@@ -430,6 +434,7 @@
               * drivers cannot judge the speed of a car in front of them well -> design roads like ~~~~~~~ not -------
             * PTV VISSIM
             * http://www.traffic-simulation.de
+            * https://www.youtube.com/watch?v=Suugn-p5C1M
           * Lane Changing Model
             * to change or not
           * Cellular Automation Model
@@ -440,6 +445,7 @@
           * Fundamental Equation of Traffic Flow (Greenshields, 1935)
             * Volume = Density * Velocity (momentary, not local)
               * q = k * v
+              * cars/hr = cars/km * km/hr
             * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
             ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/schick2003.png)
             * Two Areas of Traffic
@@ -451,6 +457,9 @@
               * Synchronized flow
               * Wide moving jam
             * Van Aerde Model
+            * Uses
+              * design capacity determination
+              * probablilty of congestion / level of service prediction
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
           * Definations
             * Passenger Car Unit = [Passenger Car Equivalent](https://en.wikipedia.org/wiki/Passenger_car_equivalent)
