@@ -448,14 +448,6 @@
               * cars/hr = cars/km * km/hr
             * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
             ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/schick2003.png)
-            * Two Areas of Traffic
-              * Free flow (stable)
-              * Transitional (unstable)
-              * Congested (stable)
-            * [Three Phases of Traffic](https://en.wikipedia.org/wiki/Three-phase_traffic_theory) (Kerner 2003)
-              * Free flow
-              * Synchronized flow
-              * Wide moving jam
      <table>
      <tr>
          <td></td>
@@ -482,6 +474,14 @@
          <td>Low</td>
      </tr>
      </table>  
+            * Two Areas of Traffic
+              * Free flow (stable)
+              * Transitional (unstable)
+              * Congested (stable)
+            * [Three Phases of Traffic](https://en.wikipedia.org/wiki/Three-phase_traffic_theory) (Kerner 2003)
+              * Free flow
+              * Synchronized flow
+              * Wide moving jam
             * Van Aerde Model
             * Uses
               * design capacity determination
