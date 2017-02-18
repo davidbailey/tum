@@ -460,6 +460,39 @@
             * Uses
               * design capacity determination
               * probablilty of congestion / level of service prediction
+     <table>
+     <tr>
+         <td></td>
+         <td>Density (k)</td>
+         <td>Volume (q)</td>
+         <td>Velocity (v)</td>
+     </tr>
+      <tr>
+         <td>Free Flow</td>
+         <td>Low</td>
+         <td>Low</td>
+         <td>High</td>
+     </tr>
+     <tr>
+         <td>Partially Dense</td>
+         <td>Medium</td>
+         <td>High</td>
+         <td>Medium-High</td>
+     </tr>
+     <tr>
+         <td>Dense</td>
+         <td>High</td>
+         <td>Low</td>
+         <td>Low</td>
+     </tr>
+     </table>  
+          * Continuum Theory and Dynamic Modeling
+            * [Kinematic Wave](https://en.wikipedia.org/wiki/Kinematic_wave)
+              * q = v * k => q = f(k) = q(k(x)) => k = f(x - c * t), c = speed of the wave
+              * [shock waves](https://en.wikipedia.org/wiki/Shock_wave) occur where two waves meet
+                * shock wave velocity, u = (q2 – q1) / (k2 – k1)
+                  * positive: downstream, no effect on congestion
+                  * negative: upstream, causes congestion
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
           * Definations
             * Passenger Car Unit = [Passenger Car Equivalent](https://en.wikipedia.org/wiki/Passenger_car_equivalent)
