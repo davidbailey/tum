@@ -356,7 +356,7 @@
           * [Logarithmic Normal Distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
             * e.g. arrival of vehicles in free flow, low density, medium random sample
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
-    * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
+    * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
       * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
