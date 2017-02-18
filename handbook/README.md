@@ -489,7 +489,7 @@
             * [Kinematic Wave](https://en.wikipedia.org/wiki/Kinematic_wave)
               * q = v * k => q = f(k) = q(k(x)) => k = f(x - c * t), c = speed of the wave
               * [shock waves](https://en.wikipedia.org/wiki/Shock_wave) occur where two waves meet
-                * shock wave velocity, u = (q2 – q1) / (k2 – k1)
+                * shock wave velocity, u = (q2 – q1) / (k2 – k1)
                   * positive: downstream, no effect on congestion
                   * negative: upstream, causes congestion
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
