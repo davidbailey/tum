@@ -456,10 +456,6 @@
               * Free flow
               * Synchronized flow
               * Wide moving jam
-            * Van Aerde Model
-            * Uses
-              * design capacity determination
-              * probablilty of congestion / level of service prediction
      <table>
      <tr>
          <td></td>
@@ -486,6 +482,11 @@
          <td>Low</td>
      </tr>
      </table>  
+            * Van Aerde Model
+            * Uses
+              * design capacity determination
+              * probablilty of congestion / level of service prediction
+
           * Continuum Theory and Dynamic Modeling
             * [Kinematic Wave](https://en.wikipedia.org/wiki/Kinematic_wave)
               * q = v * k => q = f(k) = q(k(x)) => k = f(x - c * t), c = speed of the wave
