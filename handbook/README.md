@@ -320,6 +320,41 @@
     * Data Types
       * Nodes (0D), Lines (1D), and Polygons (2D)
       * Raster, Vector
+  * Probability and Statistics
+    * Definations
+      * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
+      * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
+      * [Discrete](https://en.wikipedia.org/wiki/Discrete-time_signal) e.g. number of passengers in a vehicle
+      * [Continious](https://en.wikipedia.org/wiki/Continuous_signal) e.g. velocity of a vehicle
+    * Purpose
+      * Visual Data Analysis
+      * Descriptive Statistics
+        * Mean, mode, median, standard deviation
+      * Inferential Statistics
+        * Probability
+          * Null-hypothesis
+            * Errors
+              * Type I
+              * Type II
+          * ANOVA (Analysis of Variance)
+          * Student's t-test
+          * Correlation
+          * Regression
+        * Distributions
+          * [Uniform Distribution](https://en.wikipedia.org/wiki/Uniform_distribution)
+            * e.g. arrival of vehicles in a platoon
+          * [Poisson](https://en.wikipedia.org/wiki/Poisson_distribution)
+            * e.g. arrival of vehicles in free flow, low density, medium random sample
+          * [Normal](https://en.wikipedia.org/wiki/Normal_distribution)
+            * Standard Normal
+              * μ=0 and σ=1
+            * e.g. arrival of vehicles in free flow, low density, large random sample; speed of vehicles
+          * [Binomial](https://en.wikipedia.org/wiki/Binomial_distribution)
+            * e.g. arrival of vehicles in free flow, low density, small random sample
+          * [Shifted Negative Exponential Distribution](https://en.wikipedia.org/wiki/Exponential_distribution)
+            * e.g. arrival of vehicles in free flow, low density, medium random sample
+          * [Logarithmic Normal Distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
+            * e.g. arrival of vehicles in free flow, low density, medium random sample
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
@@ -394,17 +429,6 @@
               * Truck = 2-4
             * Homogeneous = gradiant at point in time is constant
             * [Stationary](https://en.wikipedia.org/wiki/Stationary_state) = gradiant at point in space is constant
-            * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
-            * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
-            * [Discrete](https://en.wikipedia.org/wiki/Discrete-time_signal) e.g. number of passengers in a vehicle
-            * [Continious](https://en.wikipedia.org/wiki/Continuous_signal) e.g. velocity of a vehicle
-            * Distributions
-              * Poisson
-              * Normal
-              * Standard Normal
-              * Binomial
-              * Shifted Negative Exponential Distribution
-              * Logarithmic Normal Distribution
           * Variables
             * Traffic Volume = q = vehicles / hour
               * Max capacity per lane = 1800 vehicles per hour = 1 vehicle every 2 seconds
@@ -622,8 +646,7 @@
         * Bicycles don't pollute (increased health and land value)
         * Bicycles cost less (social mobility)
         * Bicycles don't take up space or divide communities
-* Probability and Statistics
-* Recreation
+* [Recreation](https://en.wikipedia.org/wiki/Recreation)
 * Transportation Apps
   1. Maps/Routing
     1. Apple Maps
