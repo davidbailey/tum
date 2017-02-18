@@ -733,6 +733,10 @@
 * [Recreation](https://en.wikipedia.org/wiki/Recreation)
 * [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
   * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
+    * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
+    * Safety: crashes, fatalities,
+    * Environmental: emissions, pollution,
+    * Social: accessibility,
 * Transportation Apps
   1. Maps/Routing
     1. Apple Maps
