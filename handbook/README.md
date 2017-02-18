@@ -384,7 +384,6 @@
         * Visualize/analyze/understand today
         * Predict the future w/ and w/o implementing changes
       * Method
-        * [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model)
         * Sub-Microscopic
           * PELOPS - Program for the dEvelopment of Longitudinal micrOscopic traffic Processes in a Systemrelevant environment
             * Driver Model
