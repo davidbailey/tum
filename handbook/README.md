@@ -392,6 +392,19 @@
               * Motorcycle = .5
               * Bus = 2-4
               * Truck = 2-4
+            * Homogeneous = gradiant at point in time is constant
+            * [Stationary](https://en.wikipedia.org/wiki/Stationary_state) = gradiant at point in space is constant
+            * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
+            * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
+            * [Discrete](https://en.wikipedia.org/wiki/Discrete-time_signal) e.g. number of passengers in a vehicle
+            * [Continious](https://en.wikipedia.org/wiki/Continuous_signal) e.g. velocity of a vehicle
+            * Distributions
+              * Poisson
+              * Normal
+              * Standard Normal
+              * Binomial
+              * Shifted Negative Exponential Distribution
+              * Logarithmic Normal Distribution
           * Variables
             * Traffic Volume = q = vehicles / hour
               * Max capacity per lane = 1800 vehicles per hour = 1 vehicle every 2 seconds
@@ -512,7 +525,7 @@
     * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
       * [Highway Capacity Manual](https://en.wikipedia.org/wiki/Highway_Capacity_Manual)
         * http://www.trb.org/publications/hcm6e.aspx
-        * German Equivalent: Handbuch für die Bemessung von Straßenverkehrsanlagen (HBS)
+        * German Equivalent: [Handbuch für die Bemessung von Straßenverkehrsanlagen](https://de.wikipedia.org/wiki/Handbuch_für_die_Bemessung_von_Straßenverkehrsanlagen) (HBS)
     * [American Association of State Highway and Transportation Officials](https://en.wikipedia.org/wiki/American_Association_of_State_Highway_and_Transportation_Officials)
       * A Policy on Geometric Design of Highways and Streets
         * https://bookstore.transportation.org/collection_detail.aspx?ID=110
