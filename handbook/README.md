@@ -364,6 +364,7 @@
       * Volume = Density * Velocity
         * q = k * v
       * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
+      ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/schick2003.png)
       * [Three Phases of Traffic](https://en.wikipedia.org/wiki/Three-phase_traffic_theory)
         * Free flow (stable)
         * Transitional (unstable)
