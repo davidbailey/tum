@@ -575,7 +575,7 @@
             * [John Glen Wardrop](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
       * Purpose
         * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
-    * [Traffic Counts and Estimation](https://en.wikipedia.org/wiki/Traffic_count)
+    * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
       * Subjects
         * Pedestrians
         * Bicycles
@@ -606,7 +606,14 @@
               * Estimate
               * Display
         * Surveys
-        * Models
+      * Traffic Count Estimation
+        * Models w/o a Traffic Model
+          * Neural Networks
+          * Pattern Matching
+          * Regression
+        * Models w/ a Traffic Model
+          * PTV Optima
+            * http://vision-traffic.ptvgroup.com/en-us/products/ptv-optima/
       * Duration
         * Long Term - to research temporal variances
         * Short Term - to research spacial variances
@@ -724,6 +731,8 @@
         * Bicycles cost less (social mobility)
         * Bicycles don't take up space or divide communities
 * [Recreation](https://en.wikipedia.org/wiki/Recreation)
+* [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
+  * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
 * Transportation Apps
   1. Maps/Routing
     1. Apple Maps
