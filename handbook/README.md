@@ -321,7 +321,23 @@
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
      * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
-  * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)
+  * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system) (GIS)
+    * Definations
+      * Geoinformation: where, what, how much, how, why
+      * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
+      * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
+    * Workflow
+      * Spatial Data Modeling
+        * Acquisition
+          * Satellite
+            * Camera
+            * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS) / [Galielo](https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)) / [GLONASS](https://en.wikipedia.org/wiki/GLONASS) / [BeiDou Navigation Satellite System](https://en.wikipedia.org/wiki/BeiDou_Navigation_Satellite_System)
+        * Integration
+        * Updating
+      * Spatial Data Handling
+        * Visualization
+        * Analysis
+      * Quality Assessment
     * Data Types
       * Nodes (0D), Lines (1D), and Polygons (2D)
       * Raster, Vector
