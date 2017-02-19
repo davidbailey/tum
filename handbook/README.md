@@ -324,6 +324,21 @@
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system) (GIS)
     * Definations
       * Geoinformation: where, what, how much, how, why
+        * Categories
+          * Entities: things (discrete objects) e.g. cities, roads, rivers
+          * Phenomena: dynamic things (temporal continuity) e.g. fires, floods, urban growth
+          * Fields: functions (spatially continuity) e.g. elevation, temperature, soil moisture
+        * 7 Dimensions
+          * 3 Space: coordinates, address
+          * Time: time
+          * Themematic Layers
+            * Settlement
+            * Water
+            * Boundaries
+            * Vegetation
+            * Human e.g. Yelp
+          * Scale/Resolution: level of detail
+          * Quality: difference from reality
       * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
       * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
     * Workflow
