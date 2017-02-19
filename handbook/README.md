@@ -332,7 +332,7 @@
           * Satellite
             * Camera
               * [Landsat 8](https://en.wikipedia.org/wiki/Landsat_8) (USA: NASA/USGS)
-              * [IKONOS](https://en.wikipedia.org/wiki/Ikonos) (USA: DigitalGlobe)
+              * [IKONOS](https://en.wikipedia.org/wiki/Ikonos) (USA: DigitalGlobe)
               * [QuickBird](https://en.wikipedia.org/wiki/QuickBird) (USA)
               * [SPOT](https://en.wikipedia.org/wiki/SPOT_(satellite)) (FR)
               * [RapidEye](https://en.wikipedia.org/wiki/RapidEye) (DE)
