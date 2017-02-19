@@ -226,8 +226,26 @@
           * 4-way Stop: 378 crossings in 15 minutes; 391 crossings in 15 minutes; averages 384.5 crossings
           * Traffic Cop: 289 crossings
         * https://www.youtube.com/watch?v=ONacAiKXe-8
-    * Traffic Control
+    * [Traffic Control](https://en.wikipedia.org/wiki/Road_traffic_control)
+      * [Control Systems](https://en.wikipedia.org/wiki/Control_system)
+        * [Open Loop](https://en.wikipedia.org/wiki/Open-loop_controller)
+        * Open Loop [Feedforward](https://en.wikipedia.org/wiki/Feed_forward_(control))
+        * Closed Loop w/ [Feedback](https://en.wikipedia.org/wiki/Feedback)
+      * Objective: Sustainable Transportation
+        * environmental
+        * economic
+        * social
+          * safe
+          * efficient
+          * comfortable
+      * Components
+        * Information (voluntary)
+        * Recommendations and Guidance (voluntary)
+        * Regulation and Control (mandatory)
+        * Static or Dynamic
       * Urban
+        * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
+          * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
       * Motorway
         * Dynamnic Speed Limit
           * Purpose: allows more people ot travel closer to the free flow speed, reduces critical braking that causes brakeing shock waves
