@@ -367,28 +367,6 @@
     * Data Types
       * Nodes (0D), Lines (1D), and Polygons (2D)
       * Raster, Vector
-  * [Queuing Theory](https://en.wikipedia.org/wiki/Queueing_theory)
-    * e.g. intersections, toll plazas, merging at bottlenecks, loading and unloading boats, planes, buses, trains
-    * Arriaval Process ([FIFO](https://en.wikipedia.org/wiki/First-come,_first-served), LIFO, Service in Random Order) -> Queuing Order -> Service Process
-    * [Kendall's notation](https://en.wikipedia.org/wiki/Kendall%27s_notation)
-      * A/B/m/n
-        * A = arrival time distribution (often stochastic)
-        * B = service time distribution (often deterministic)
-        * m = number of service points
-        * n = number of waiting places before entering the system
-        * e.g. One Lane @ Traffic Signal = A/B/1/1; Two Lanes @ Traffic Signal = A/B/1/2; Toll Plaza w/ 3 approaching lanes and 5 gates = A/B/5/3
-    * ~ 2 seconds / vehicle to leave the queue
-    * [Degree of Saturation](https://en.wikipedia.org/wiki/Degree_of_saturation_(traffic)) 
-      * Deterministic Degree of Saturation = r = Arrival Volume / Capacity e.g. Traffic Signal
-        * r > 1 = oversaturated (realistic here)
-        * at a traffic signal r = Arrival Rate / (Service Rate * α) where α = Effective Greentime / Cycle Length
-      * Stochastic Degree of Saturation = ρ = Arrival Rate / Service Rate e.g. Toll Gate
-        * ρ < 1 = undersaturation (realistic here)
-        * mean waiting time = 1 / (Service Rate - Arrival Rate)
-        * mean queue length = Arrival Rate / (Service Rate - Arrival Rate)
-      * Use Stochastic for ρ < 1 and Deterministic for r > 1. Problem at 1.
-        * Webster Formula - useful for Traffic Signals
-        * Kimber/Hollis Model
   * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
     * Definations
       * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
@@ -430,7 +408,7 @@
       * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
-    * [Modeling](https://en.wikipedia.org/wiki/Traffic_model)
+    * [Traffic Models](https://en.wikipedia.org/wiki/Traffic_model)
       * Requirements for Models
         * sensativity: as close to reality as necessary
         * logical consistancy: makes sense
@@ -628,6 +606,28 @@
                   * Drivers do not assign themselves logically and change assignments over time
                   * Congestion affects destination choice, mode choice, whether to take the trip at all
             * [John Glen Wardrop](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
+        * [Queuing Theory](https://en.wikipedia.org/wiki/Queueing_theory)
+          * e.g. intersections, toll plazas, merging at bottlenecks, loading and unloading boats, planes, buses, trains
+          * Arriaval Process ([FIFO](https://en.wikipedia.org/wiki/First-come,_first-served), LIFO, Service in Random Order) -> Queuing Order -> Service Process
+          * [Kendall's notation](https://en.wikipedia.org/wiki/Kendall%27s_notation)
+            * A/B/m/n
+              * A = arrival time distribution (often stochastic)
+              * B = service time distribution (often deterministic)
+              * m = number of service points
+              * n = number of waiting places before entering the system
+              * e.g. One Lane @ Traffic Signal = A/B/1/1; Two Lanes @ Traffic Signal = A/B/1/2; Toll Plaza w/ 3 approaching lanes and 5 gates = A/B/5/3
+          * ~ 2 seconds / vehicle to leave the queue
+          * [Degree of Saturation](https://en.wikipedia.org/wiki/Degree_of_saturation_(traffic)) 
+            * Deterministic Degree of Saturation = r = Arrival Volume / Capacity e.g. Traffic Signal
+              * r > 1 = oversaturated (realistic here)
+              * at a traffic signal r = Arrival Rate / (Service Rate * α) where α = Effective Greentime / Cycle Length
+            * Stochastic Degree of Saturation = ρ = Arrival Rate / Service Rate e.g. Toll Gate
+              * ρ < 1 = undersaturation (realistic here)
+              * mean waiting time = 1 / (Service Rate - Arrival Rate)
+              * mean queue length = Arrival Rate / (Service Rate - Arrival Rate)
+            * Use Stochastic for ρ < 1 and Deterministic for r > 1. Problem at 1.
+              * Webster Formula - useful for Traffic Signals
+              * Kimber/Hollis Model
     * [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
       * Model -> Simulation, replace physical systems w/ mathmatical models
       * Purpose
