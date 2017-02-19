@@ -633,21 +633,40 @@
       * Purpose
         * Study things too expensive, too dangerous, not possible
         * Compare multiple options
+      * Benefits
+        * Less cost, less time, less risk
+        * Detailed data about all components
+        * Reproducible, modifiable
+      * Inputs
+        * Network Model: Links, Nodes, Rules
+        * Traffic Demand: O/D Matrix
+        * Behavioral Models: Car-following Model, Lane Changing Model, Route Choice Model
+        * Driver and Vehicle Parameters
       * Sub-Microscopic
         * PELOPS - Program for the dEvelopment of Longitudinal micrOscopic traffic Processes in a Systemrelevant environment
           * Driver Model
           * Environment Model
           * Vehicle Model
         * Driving Simulaton
-      * Mesoscopic
-        * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
-          * [MATSim](https://en.wikipedia.org/wiki/MATSim)
       * Microscopic
         * PTV VISSIM
+        * Paramics
+          * http://www.paramics-online.com
         * http://www.traffic-simulation.de
         * https://www.youtube.com/watch?v=Suugn-p5C1M
+      * Mesoscopic
+        * Aimsun
+          * https://www.aimsun.com
+        * DYNEMO
+          * https://trid.trb.org/view.aspx?id=210825
+        * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+          * [MATSim](https://en.wikipedia.org/wiki/MATSim)
       * Macroscopic
         * PTV VISUM
+        * Emme
+          * https://www.inrosoftware.com/en/products/emme/
+        * METANET
+        * SiMoNe
     * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
       * Subjects
         * Pedestrians
