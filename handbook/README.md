@@ -372,19 +372,24 @@
     * Arriaval Process ([FIFO](https://en.wikipedia.org/wiki/First-come,_first-served), LIFO, Service in Random Order) -> Queuing Order -> Service Process
     * [Kendall's notation](https://en.wikipedia.org/wiki/Kendall%27s_notation)
       * A/B/m/n
-        * A = arrival time distribution
-        * B = service time distribution
+        * A = arrival time distribution (often stochastic)
+        * B = service time distribution (often deterministic)
         * m = number of service points
         * n = number of waiting places before entering the system
-        * A and B are deterministic or stochastic distributions
         * e.g. One Lane @ Traffic Signal = A/B/1/1; Two Lanes @ Traffic Signal = A/B/1/2; Toll Plaza w/ 3 approaching lanes and 5 gates = A/B/5/3
     * ~ 2 seconds / vehicle to leave the queue
     * [Degree of Saturation](https://en.wikipedia.org/wiki/Degree_of_saturation_(traffic)) 
-      * Deterministic Degree of Saturation = Arrival Volume / Capacity
-        * r <= 1 = undersaturation
-        * r > 1 = oversaturated
-      * Stochastic Degree of Saturation = Arrival Rate / Service Rate
-  * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
+      * Deterministic Degree of Saturation = r = Arrival Volume / Capacity e.g. Traffic Signal
+        * r > 1 = oversaturated (realistic here)
+        * at a traffic signal r = Arrival Rate / (Service Rate * α) where α = Effective Greentime / Cycle Length
+      * Stochastic Degree of Saturation = ρ = Arrival Rate / Service Rate e.g. Toll Gate
+        * ρ < 1 = undersaturation (realistic here)
+        * mean waiting time = 1 / (Service Rate - Arrival Rate)
+        * mean queue length = Arrival Rate / (Service Rate - Arrival Rate)
+      * Use Stochastic for ρ < 1 and Deterministic for r > 1. Problem at 1.
+        * Webster Formula - useful for Traffic Signals
+        * Kimber/Hollis Model
+  * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
     * Definations
       * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
       * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
@@ -723,6 +728,8 @@
       * Trip Generation Handbook
       * Traffic Control Devices Handbook
         * https://trid.trb.org/view.aspx?id=1265112
+    * Wikibooks
+      * https://en.wikibooks.org/wiki/Fundamentals_of_Transportation
   * Government
     * United States
       * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
@@ -833,5 +840,5 @@
     1. https://www.fixmystreet.com
     2. http://streetswiki.wikispaces.com
     3. http://cyclopath.org
-
+  
 *Safety and Security are a component of all sections*
