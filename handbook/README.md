@@ -430,7 +430,7 @@
       * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
-    * [Modeling](https://en.wikipedia.org/wiki/Traffic_model) -> [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
+    * [Modeling](https://en.wikipedia.org/wiki/Traffic_model)
       * Requirements for Models
         * sensativity: as close to reality as necessary
         * logical consistancy: makes sense
@@ -449,12 +449,6 @@
         * Visualize/analyze/understand today
         * Predict the future w/ and w/o implementing changes
       * Method
-        * Sub-Microscopic
-          * PELOPS - Program for the dEvelopment of Longitudinal micrOscopic traffic Processes in a Systemrelevant environment
-            * Driver Model
-            * Environment Model
-            * Vehicle Model
-          * Driving Simulaton
         * [Microsimulation](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
           * Purpose
             * car-following behavior
@@ -496,16 +490,11 @@
             * Psycho-physical car-following model
               * incorporates the driver - following distance is not fixed, but oscillates
               * drivers cannot judge the speed of a car in front of them well -> design roads like ~~~~~~~ not -------
-            * PTV VISSIM
-            * http://www.traffic-simulation.de
-            * https://www.youtube.com/watch?v=Suugn-p5C1M
           * Lane Changing Model
             * to change or not
           * Cellular Automation Model
             * discrete car on discrete road
             * fast to compute
-          * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
-            * [MATSim](https://en.wikipedia.org/wiki/MATSim)
           * Fundamental Equation of Traffic Flow (Greenshields, 1935)
             * Volume = Density * Velocity (momentary, not local)
               * q = k * v
@@ -574,8 +563,9 @@
             * Average velocity = v = km / hour
               * Local = space is constant, time is variable overcounts fast vehicles = higher than momentary
               * Momentary = time is constant, space is variable
-          * PTV VISUM
           * Four-step Model
+            * Purpose
+              * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
             * Assumptions / Recommendations
               * Zones (and traffic to/from a zone) is consolidated into one point via a connector. Lot of calibration needed here.
               * Create single-use zones. e.g. all residential, all commercial, etc.
@@ -638,8 +628,26 @@
                   * Drivers do not assign themselves logically and change assignments over time
                   * Congestion affects destination choice, mode choice, whether to take the trip at all
             * [John Glen Wardrop](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
+    * [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
+      * Model -> Simulation, replace physical systems w/ mathmatical models
       * Purpose
-        * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
+        * Study things too expensive, too dangerous, not possible
+        * Compare multiple options
+      * Sub-Microscopic
+        * PELOPS - Program for the dEvelopment of Longitudinal micrOscopic traffic Processes in a Systemrelevant environment
+          * Driver Model
+          * Environment Model
+          * Vehicle Model
+        * Driving Simulaton
+      * Mesoscopic
+        * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+          * [MATSim](https://en.wikipedia.org/wiki/MATSim)
+      * Microscopic
+        * PTV VISSIM
+        * http://www.traffic-simulation.de
+        * https://www.youtube.com/watch?v=Suugn-p5C1M
+      * Macroscopic
+        * PTV VISUM
     * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
       * Subjects
         * Pedestrians
@@ -671,14 +679,14 @@
               * Estimate
               * Display
         * Surveys
-      * Traffic Count Estimation
-        * Models w/o a Traffic Model
-          * Neural Networks
-          * Pattern Matching
-          * Regression
-        * Models w/ a Traffic Model
-          * PTV Optima
-            * http://vision-traffic.ptvgroup.com/en-us/products/ptv-optima/
+        * Traffic Count Estimation
+          * Models w/o a Traffic Model
+            * Neural Networks
+            * Pattern Matching
+            * Regression
+          * Models w/ a Traffic Model
+            * PTV Optima
+              * http://vision-traffic.ptvgroup.com/en-us/products/ptv-optima/
       * Duration
         * Long Term - to research temporal variances
         * Short Term - to research spacial variances
