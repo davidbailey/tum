@@ -317,7 +317,6 @@
       * Sewage
   * [Cable](https://en.wikipedia.org/wiki/Cable_transport)
 * Research
-  * Models
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
      * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
@@ -648,7 +647,7 @@
         * Initialization
         * Calibration and Validation
         * Simulation
-        * Documentation
+        * Documentation      
       * Sub-Microscopic
         * PELOPS - Program for the dEvelopment of Longitudinal micrOscopic traffic Processes in a Systemrelevant environment
           * Driver Model
@@ -661,6 +660,15 @@
           * http://www.paramics-online.com
         * http://www.traffic-simulation.de
         * https://www.youtube.com/watch?v=Suugn-p5C1M
+        * Pedestrian Simulation
+          * Purpose: building design, station design, emergency evacuation
+          * [Social Force Model](https://en.wikipedia.org/wiki/Social_force_model)
+        * Bicycle Simulation
+          * Traditional Microscopic Simulation e.g. small, slow cars
+          * [Cellular Automation](https://en.wikipedia.org/wiki/Cellular_automaton)
+          * [Social Force Model](https://en.wikipedia.org/wiki/Social_force_model)
+          * [Fuzzy Logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
+          * [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
       * Mesoscopic
         * Aimsun
           * https://www.aimsun.com
@@ -674,7 +682,7 @@
           * https://www.inrosoftware.com/en/products/emme/
         * METANET
         * SiMoNe
-    * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count)
+    * [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count) and (Speed Surveys)
       * Subjects
         * Pedestrians
         * Bicycles
@@ -693,6 +701,11 @@
           * [Loop Detector](https://en.wikipedia.org/wiki/Induction_loop)
           * [Automatic Number Plate Recognition](https://en.wikipedia.org/wiki/Automatic_number_plate_recognition)
           * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
+          * [Radar](https://en.wikipedia.org/wiki/Radar)
+          * [Lidar](https://en.wikipedia.org/wiki/Lidar)
+          * Photography
+          * Video
+          * Audio
           * Apps / [Floating Car Data](https://en.wikipedia.org/wiki/Floating_car_data)
             * [Navigation](https://en.wikipedia.org/wiki/Turn-by-turn_navigation)
             * [Strava](https://en.wikipedia.org/wiki/Strava)
@@ -839,6 +852,25 @@
         * Bicycles don't pollute (increased health and land value)
         * Bicycles cost less (social mobility)
         * Bicycles don't take up space or divide communities
+  * Environmental Sensors
+    * Weather
+      * air temperature
+      * humidity
+      * visability (fog)
+      * wind speed
+      * precipitation
+      * road surface temperature
+      * road surface condition
+    * Light
+    * Noise
+    * Air Pollution
+      * carbon dioxide
+      * sulfur oxides
+      * nitrogen oxides
+      * carbon monoxide
+      * volatile organic compounds
+      * particulates
+      * ozone
 * [Recreation](https://en.wikipedia.org/wiki/Recreation)
 * [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
   * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
