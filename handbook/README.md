@@ -367,7 +367,24 @@
     * Data Types
       * Nodes (0D), Lines (1D), and Polygons (2D)
       * Raster, Vector
-  * Probability and Statistics
+  * [Queuing Theory](https://en.wikipedia.org/wiki/Queueing_theory)
+    * e.g. intersections, toll plazas, merging at bottlenecks, loading and unloading boats, planes, buses, trains
+    * Arriaval Process ([FIFO](https://en.wikipedia.org/wiki/First-come,_first-served), LIFO, Service in Random Order) -> Queuing Order -> Service Process
+    * [Kendall's notation](https://en.wikipedia.org/wiki/Kendall%27s_notation)
+      * A/B/m/n
+        * A = arrival time distribution
+        * B = service time distribution
+        * m = number of service points
+        * n = number of waiting places before entering the system
+        * A and B are deterministic or stochastic distributions
+        * e.g. One Lane @ Traffic Signal = A/B/1/1; Two Lanes @ Traffic Signal = A/B/1/2; Toll Plaza w/ 3 approaching lanes and 5 gates = A/B/5/3
+    * ~ 2 seconds / vehicle to leave the queue
+    * [Degree of Saturation](https://en.wikipedia.org/wiki/Degree_of_saturation_(traffic)) 
+      * Deterministic Degree of Saturation = Arrival Volume / Capacity
+        * r <= 1 = undersaturation
+        * r > 1 = oversaturated
+      * Stochastic Degree of Saturation = Arrival Rate / Service Rate
+  * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
     * Definations
       * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
       * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
