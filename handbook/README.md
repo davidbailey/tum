@@ -153,8 +153,17 @@
   * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
     * http://www.vtpi.org/tdm/
     * Mobility Management
-    * Avoid, Shift, Improve
+    * Avoid, Shift, Improve (Vermeiden, verlagern und verträglicher machen)
       * http://gelookahead.economist.com/avoid-shift-improve/
+    * [Intelligent Transportation Systems](https://en.wikipedia.org/wiki/Intelligent_transportation_system)
+      * Telematics (Telecommunications and Informatics)
+        * Acquisition
+        * Transmission
+        * Storage
+        * Processing
+      * Architectures
+        * US: http://www.its.dot.gov/research_archives/arch/
+        * EU: http://frame-online.eu
   * Architecture/Design
     * https://vimeo.com/169726761
   * History
