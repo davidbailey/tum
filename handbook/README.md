@@ -331,7 +331,18 @@
         * Acquisition
           * Satellite
             * Camera
-            * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS) / [Galielo](https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)) / [GLONASS](https://en.wikipedia.org/wiki/GLONASS) / [BeiDou Navigation Satellite System](https://en.wikipedia.org/wiki/BeiDou_Navigation_Satellite_System)
+              * [Landsat 8](https://en.wikipedia.org/wiki/Landsat_8) (USA: NASA/USGS)
+              * [IKONOS](https://en.wikipedia.org/wiki/Ikonos) (USA: DigitalGlobe)
+              * [QuickBird](https://en.wikipedia.org/wiki/QuickBird) (USA)
+              * [SPOT](https://en.wikipedia.org/wiki/SPOT_(satellite)) (FR)
+              * [RapidEye](https://en.wikipedia.org/wiki/RapidEye) (DE)
+              * [TanDEM-X](https://en.wikipedia.org/wiki/TanDEM-X) (DE: DLR)
+            * [Geodesy](https://en.wikipedia.org/wiki/Geodesy)
+              * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
+              * [Galielo](https://en.wikipedia.org/wiki/Galileo_(satellite_navigation))
+              * [GLONASS](https://en.wikipedia.org/wiki/GLONASS)
+              * [BeiDou Navigation Satellite System](https://en.wikipedia.org/wiki/BeiDou_Navigation_Satellite_System)
+              * [Indian Regional Navigation Satellite System](https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System)
         * Integration
         * Updating
       * Spatial Data Handling
