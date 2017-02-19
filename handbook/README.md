@@ -785,6 +785,13 @@
     * [Transportation Research Board](https://en.wikipedia.org/wiki/Transportation_Research_Board)
       * [Highway Capacity Manual](https://en.wikipedia.org/wiki/Highway_Capacity_Manual)
         * http://www.trb.org/publications/hcm6e.aspx
+        * [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) (German: Qualitätsstufen des Verkehrsablaufs)
+          * A
+          * B
+          * C
+          * D
+          * E
+          * F
         * German Equivalent: [Handbuch für die Bemessung von Straßenverkehrsanlagen](https://de.wikipedia.org/wiki/Handbuch_für_die_Bemessung_von_Straßenverkehrsanlagen) (HBS)
     * [American Association of State Highway and Transportation Officials](https://en.wikipedia.org/wiki/American_Association_of_State_Highway_and_Transportation_Officials)
       * A Policy on Geometric Design of Highways and Streets
