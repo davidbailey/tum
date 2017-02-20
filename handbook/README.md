@@ -332,14 +332,54 @@
             * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
             * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
         * Adaptive Traffic Control
+          * Inputs (excluding Vehicle and Environment (See Detection))
+            * time of day
+            * day of week
+            * season of year
+            * special events
+            * incidents
+            * traffic management
           * Coverage
             * Local
             * Line (e.g. coordinated signals)
             * Network
+              * Types
+                * Centralized
+                * Central-Decentralized
+                * Decentralized
+              * Procedure
+                1. Inputs
+                2. Traffic Demand Model
+                3. Traffic Flow Model
+                4. Traffic Impact Model
+                5. Control Model
+                6. Signal Program
+                7. Repeat from 3. until optimized
+                8. Outputs
+              * Examples
+                * Los Angeles Automated Traffic Surveillance and Control
+                  * http://www.trafficinfo.lacity.org/about-atsac.php
+                * SCOOT (Split Cycle Offset Optimisation Technique)
+                  * http://www.scoot-utc.com
           * Levels
             * Strategic - long-term
             * Tactical - mid-term
             * Operational - short-term
+          * Online Modifications
+            * cycle time
+            * offset
+            * phase sequence
+            * number of phases
+            * split
+          * Types
+            * rule-based e.g. end a green phase early if queue on other stream builds up
+            * model-based
+          * Public Transportation Prioritization (Signal Preemption)
+            1. detect vehicle / request signal
+            2. end current phase (or extend current phase)
+            3. begin public transportation phase
+            4. detect vehicle / release signal
+            5. resume normal operations
       * Motorway
         * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
         * Dynamnic Speed Limit
