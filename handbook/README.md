@@ -222,26 +222,6 @@
         * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
       * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
       * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
-    * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road)) / [Junctions](https://en.wikipedia.org/wiki/Junction_(road))
-      * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
-      * [Grade Seperation](https://en.wikipedia.org/wiki/Grade_separation)
-      * [Traffic Lights](https://en.wikipedia.org/wiki/Traffic_light)
-        * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
-          * [Traffic Light Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination)
-        * [Pedestrian Scramble](https://en.wikipedia.org/wiki/Pedestrian_scramble)
-        * Leading Pedestrian Interval
-      * Turns
-        * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
-        * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
-        * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
-        * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
-        * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
-      * [Roundabout](https://en.wikipedia.org/wiki/Roundabout)
-        * http://www.wimp.com/mythbusters-test-a-four-way-stop-vs-a-roundabout/
-          * 4-way Roundabout averages 460 crossings in 15 minutes (+20% vs. Stop)
-          * 4-way Stop: 378 crossings in 15 minutes; 391 crossings in 15 minutes; averages 384.5 crossings
-          * Traffic Cop: 289 crossings
-        * https://www.youtube.com/watch?v=ONacAiKXe-8
     * [Traffic Control](https://en.wikipedia.org/wiki/Road_traffic_control)
       * [Control Systems](https://en.wikipedia.org/wiki/Control_system)
         * [Open Loop](https://en.wikipedia.org/wiki/Open-loop_controller)
@@ -258,12 +238,18 @@
         * Information (voluntary)
         * Recommendations and Guidance (voluntary)
         * Regulation and Control (mandatory)
-        * Static or Dynamic
+        * Static (e.g. Yield Sign) or Dynamic (e.g. Traffic Signal)
+        * Global (e.g. Yield Sign) or Individual (e.g. GPS)
       * Components
         * Central Systems
           * Human-Machine Interface
         * Distributed Systems
         * Communication Network
+          * Wired
+          * Wireless
+            * V2X
+              * [802.11p](https://en.wikipedia.org/wiki/IEEE_802.11p)
+          * TCP/IP
         * Signs and Actuators
         * Detection
           * Vehicle (See Traffic Counts)
@@ -288,12 +274,49 @@
               * ozone
         * Software
           * Data Processing
+            * Aggregation
+            * Filtering
+            * Plausibility Checks
           * [National Transportation Communications for Intelligent Transportation System Protocol](https://en.wikipedia.org/wiki/National_Transportation_Communications_for_Intelligent_Transportation_System_Protocol)
             * http://www.ntcip.org
       * Urban
-        * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
-          * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
+        * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road)) / [Junctions](https://en.wikipedia.org/wiki/Junction_(road))
+          * Types
+            * Non-Signalized
+              * Priortiy Intersection
+                * [Priority to the Right](https://en.wikipedia.org/wiki/Priority_to_the_right)
+                * [Yield Sign](https://en.wikipedia.org/wiki/Yield_sign) / * [Stop Sign](https://en.wikipedia.org/wiki/Stop_sign)
+                  * [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) Procedure
+                    1. Determine ranks of different streams
+                    2. Determine design hour traffic volume
+                    3. Determine basic capacity of subordinate streams
+                    4. Determine maximum effective capacity
+                    5. Consider influence of mixed lanes
+                    6. Assess level of service
+                    * Ground Capacity = number of vehicles that can cross superordinate stream in 1 hour. Depends on rank of the stream, type and location of intersection, and volume of superordinate streams
+                    * Effective Capacity = number of vehicles that can cross superordinate stream in 1 hour, including effects of queuing. Depends on ground capacity and probability of queues in superordinate streams
+              * [Roundabout](https://en.wikipedia.org/wiki/Roundabout)
+                * http://www.wimp.com/mythbusters-test-a-four-way-stop-vs-a-roundabout/
+                  * 4-way Roundabout averages 460 crossings in 15 minutes (+20% vs. Stop)
+                  * 4-way Stop: 378 crossings in 15 minutes; 391 crossings in 15 minutes; averages 384.5 crossings
+                  * Traffic Cop: 289 crossings
+                * https://www.youtube.com/watch?v=ONacAiKXe-8
+            * Signalized
+              * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
+                * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
+                  * (See Traffic Signal Timing Manual)
+                  * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
+                  * [Pedestrian Scramble](https://en.wikipedia.org/wiki/Pedestrian_scramble)
+                  * Leading Pedestrian Interval
+                * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
+            * [Grade Seperation](https://en.wikipedia.org/wiki/Grade_separation)
+          * Turns
+            * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
+            * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
+            * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
+            * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
       * Motorway
+        * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
         * Dynamnic Speed Limit
           * Purpose: allows more people ot travel closer to the free flow speed, reduces critical braking that causes brakeing shock waves
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
@@ -820,9 +843,9 @@
         * [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) (German: Qualitätsstufen des Verkehrsablaufs)
           * A
           * B
-          * C
-          * D
-          * E
+          * C <- Design for this (rural)
+          * D <- Design for this (urban)
+          * E <- Capacity reached
           * F
         * German Equivalent: [Handbuch für die Bemessung von Straßenverkehrsanlagen](https://de.wikipedia.org/wiki/Handbuch_für_die_Bemessung_von_Straßenverkehrsanlagen) (HBS)
     * [American Association of State Highway and Transportation Officials](https://en.wikipedia.org/wiki/American_Association_of_State_Highway_and_Transportation_Officials)
@@ -862,6 +885,8 @@
             * http://www.pedbikesafe.org
           * Traffic Analysis Toolbox Volume III: Guidelines for Applying Traffic Microsimulation Modeling Software
             * https://ops.fhwa.dot.gov/trafficanalysistools/tat_vol3/vol3_guidelines.pdf
+          * Traffic Signal Timing Manual
+            * https://ops.fhwa.dot.gov/arterial_mgmt/tstmanual.htm
         * [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration)
           * [Federal Motor Vehicle Safety Standards](https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards)
           * [Fatality Analysis Reporting System](https://en.wikipedia.org/wiki/Fatality_Analysis_Reporting_System)
