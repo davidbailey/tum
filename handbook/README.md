@@ -331,6 +331,15 @@
             * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
             * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
             * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
+        * Adaptive Traffic Control
+          * Coverage
+            * Local
+            * Line (e.g. coordinated signals)
+            * Network
+          * Levels
+            * Strategic - long-term
+            * Tactical - mid-term
+            * Operational - short-term
       * Motorway
         * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
         * Dynamnic Speed Limit
