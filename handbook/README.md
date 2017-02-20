@@ -74,6 +74,10 @@
           * Marketing and communication
       * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
         * dense in city center vs. car network which goes into the center, but is not dense in the center
+        * Public Transportation Control
+          * Goals
+            * Shift people from private transportation to public transportation by providing safe, reliable, efficient service
+            * Shift public tranportation demand from peak hours to off peak hours
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
           * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
