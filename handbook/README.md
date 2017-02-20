@@ -285,7 +285,7 @@
             * Non-Signalized
               * Priortiy Intersection
                 * [Priority to the Right](https://en.wikipedia.org/wiki/Priority_to_the_right)
-                * [Yield Sign](https://en.wikipedia.org/wiki/Yield_sign) / * [Stop Sign](https://en.wikipedia.org/wiki/Stop_sign)
+                * [Yield Sign](https://en.wikipedia.org/wiki/Yield_sign) / [Stop Sign](https://en.wikipedia.org/wiki/Stop_sign)
                   * [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) Procedure
                     1. Determine ranks of different streams
                     2. Determine design hour traffic volume
