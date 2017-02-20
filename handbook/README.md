@@ -254,11 +254,42 @@
           * safe
           * efficient
           * comfortable
-      * Components
+      * Outputs
         * Information (voluntary)
         * Recommendations and Guidance (voluntary)
         * Regulation and Control (mandatory)
         * Static or Dynamic
+      * Components
+        * Central Systems
+          * Human-Machine Interface
+        * Distributed Systems
+        * Communication Network
+        * Signs and Actuators
+        * Detection
+          * Vehicle (See Traffic Counts)
+          * Environmental Sensors
+            * Weather
+              * air temperature
+              * humidity
+              * visability (fog)
+              * wind speed
+              * precipitation
+              * road surface temperature
+              * road surface condition
+            * Light
+            * Noise
+            * Air Pollution
+              * carbon dioxide
+              * sulfur oxides
+              * nitrogen oxides
+              * carbon monoxide
+              * volatile organic compounds
+              * particulates
+              * ozone
+        * Software
+          * Data Processing
+          * [National Transportation Communications for Intelligent Transportation System Protocol](https://en.wikipedia.org/wiki/National_Transportation_Communications_for_Intelligent_Transportation_System_Protocol)
+            * http://www.ntcip.org
       * Urban
         * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
           * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
@@ -298,6 +329,7 @@
           * [Multiple Unit](https://en.wikipedia.org/wiki/Multiple_unit)
         * Motive Power
           * [Electric](https://en.wikipedia.org/wiki/Electric_train)
+            * https://pedestrianobservations.wordpress.com/2017/02/19/where-is-electrification-warranted/
           * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
       * [Braking](https://en.wikipedia.org/wiki/Railway_brake)
       * Suspension
@@ -893,25 +925,6 @@
         * Bicycles don't pollute (increased health and land value)
         * Bicycles cost less (social mobility)
         * Bicycles don't take up space or divide communities
-  * Environmental Sensors
-    * Weather
-      * air temperature
-      * humidity
-      * visability (fog)
-      * wind speed
-      * precipitation
-      * road surface temperature
-      * road surface condition
-    * Light
-    * Noise
-    * Air Pollution
-      * carbon dioxide
-      * sulfur oxides
-      * nitrogen oxides
-      * carbon monoxide
-      * volatile organic compounds
-      * particulates
-      * ozone
 * [Recreation](https://en.wikipedia.org/wiki/Recreation)
 * [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
   * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
@@ -920,34 +933,41 @@
     * Environmental: emissions, pollution,
     * Social: accessibility,
 * Transportation Apps
-  1. Maps/Routing
-    1. Apple Maps
-    2. Google Maps
-    3. Citymapper
-    4. moovel
-    5. Transit
-    6. Avenza Maps
-    7. Bayern Info
-  2. Ticketing/Routing
-    1. DB Navigator
-    2. München Navigator
-    3. FlixBus
-    4. ÖBB
-  3. Taxi/Ride Share
-    1. Uber
-    2. Lyft
-    3. taxi.eu
-  4. Bike/Car Share
-    1. Spotcycle
-    2. Social Bicycles
-    3. Call a Bike
-    4. MVG more
-  5. Parking
-  6. ODB2
-    1. Automatic
-  7. Wiki
-    1. https://www.fixmystreet.com
-    2. http://streetswiki.wikispaces.com
-    3. http://cyclopath.org
-  
+  * Mobile Apps
+    1. Maps/Routing/Traffic
+      1. Apple Maps
+      2. Google Maps
+      3. Citymapper
+      4. moovel
+      5. Transit
+      6. Avenza Maps
+      7. Bayern Info
+    2. Ticketing/Routing
+      1. DB Navigator
+      2. München Navigator
+      3. FlixBus
+      4. ÖBB
+    3. Taxi/Ride Share
+      1. Uber
+      2. Lyft
+      3. taxi.eu
+    4. Bike/Car Share
+      1. Spotcycle
+      2. Social Bicycles
+      3. Call a Bike
+      4. MVG more
+    5. Parking
+    6. ODB2
+      1. Automatic
+  * Web Apps
+    1. Maps/Routing/Traffic
+      1. Google Maps
+      2. Bing Maps
+      3. Bayern Info http://www.bayerninfo.de
+      4. https://www.sigalert.com
+    2. Wiki
+      1. https://www.fixmystreet.com
+      2. http://streetswiki.wikispaces.com
+      3. http://cyclopath.org
+
 *Safety and Security are a component of all sections*
