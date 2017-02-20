@@ -306,6 +306,22 @@
                 * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
                   * (See Traffic Signal Timing Manual)
                   * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
+                    * Requirements for Coordination
+                      * Distance between intersections < 750-1000m
+                      * Coordinated cycle time across all intersections
+                      * Progresssion speed = 0.85 * speed limit to speed limit => offset time
+                      * Level of saturation < 0.85 for coordinated stream and < 0.9 for other streams
+                      * More than one lane for through traffic
+                      * Dedicated left turn lanes
+                      * No non-signalized pedestrian crossings
+                      * Limited parking
+                      * Fixed distance between intersections (for 2-way coordination). Otherwise coordinate 1-way in AM and other way in PM
+                    * Procedure
+                      1. Define a cyce time for coordination
+                      2. Calculate signal timing plans for intersections
+                      3. Define schedule of green periods based on progression speed and offset
+                      4. Assess quality
+                        * number of vehicles that do not have to stop / total number of vehicles >= 65% is good
                   * [Pedestrian Scramble](https://en.wikipedia.org/wiki/Pedestrian_scramble)
                   * Leading Pedestrian Interval
                 * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
