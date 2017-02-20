@@ -236,6 +236,10 @@
           * comfortable
       * Outputs
         * Information (voluntary)
+          * Radio / Digital Radio
+          * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
+            * http://www.daktronics.com/en-us/products/its-dynamic-message-signs
+          * Apps (See Apps)
         * Recommendations and Guidance (voluntary)
         * Regulation and Control (mandatory)
         * Static (e.g. Yield Sign) or Dynamic (e.g. Traffic Signal)
@@ -385,20 +389,35 @@
             3. begin public transportation phase
             4. detect vehicle / release signal
             5. resume normal operations
-      * Motorway
+      * [Freeway / Motorway](https://en.wikipedia.org/wiki/Controlled-access_highway)
         * Objectives
           * increase traffic flow
           * increase safety
           * reduce emissions
         * Classification
-          * Network Control Systems
+          * Network Control Systems e.g. rerouting for major events, traffic
+            * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
+            * [Navigation System](https://en.wikipedia.org/wiki/Automotive_navigation_system)
           * Section Control Systems
-            * w/ Hard Shoulder
+            * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
+              * Text
+                * Traffic Dependent (automatic): Congestion, Crash, Hard Shoulder Use, Truck Passing Ban
+                * Environmental (automatic): Ice, Rain, Snow, Fog
+                * Other: Construction
+              * Image
+              * Dynamnic Speed Limit
+                * Purpose: allows more people ot travel closer to the free flow speed, reduces critical braking that causes brakeing shock waves
+              * Procedure
+                * Identify Situation
+                * Determine Priority
+                * Display Message
           * Intersection Control Systems
-          * Cross-Section Control Systems
+            * [Ramp Metering](https://en.wikipedia.org/wiki/Ramp_meter)
+            * Purpose
+              * Reduce congestion on freeway by temporarly reducing demand
+              * Break up entering [Platoons](https://en.wikipedia.org/wiki/Platoon_(automobile))
+            * Local or Coordinated
         * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
-        * Dynamnic Speed Limit
-          * Purpose: allows more people ot travel closer to the free flow speed, reduces critical braking that causes brakeing shock waves
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
     * [Stations](https://en.wikipedia.org/wiki/Train_station)
       * [Layout](https://en.wikipedia.org/wiki/Railway_station_layout)
@@ -1037,7 +1056,7 @@
     * Safety: crashes, fatalities,
     * Environmental: emissions, pollution,
     * Social: accessibility,
-* Transportation Apps
+* Apps
   * Mobile Apps
     1. Maps/Routing/Traffic
       1. Apple Maps
