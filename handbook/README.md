@@ -317,9 +317,9 @@
                       * Limited parking
                       * Fixed distance between intersections (for 2-way coordination). Otherwise coordinate 1-way in AM and other way in PM
                     * Procedure
-                      1. Define a cyce time for coordination
+                      1. Define a cyce time for coordination, highest wins
                       2. Calculate signal timing plans for intersections
-                      3. Define schedule of green periods based on progression speed and offset
+                      3. Define schedule of green periods based on progression speed and offset. Add 4.5 seconds the beginning of the phase to disolve queues but not more so you don't encourage speeding.
                       4. Assess quality
                         * number of vehicles that do not have to stop / total number of vehicles >= 65% is good
                   * [Pedestrian Scramble](https://en.wikipedia.org/wiki/Pedestrian_scramble)
@@ -345,7 +345,9 @@
             * Network
               * Types
                 * Centralized
-                * Central-Decentralized
+                * Central-Decentralized (German Philosophy)
+                  * Central controller sets bounds every 5-15 minutes
+                  * Local controllers act within those bounds.
                 * Decentralized
               * Procedure
                 1. Inputs
@@ -361,6 +363,7 @@
                   * http://www.trafficinfo.lacity.org/about-atsac.php
                 * SCOOT (Split Cycle Offset Optimisation Technique)
                   * http://www.scoot-utc.com
+                  * small steps every 5 minutes
           * Levels
             * Strategic - long-term
             * Tactical - mid-term
@@ -373,7 +376,9 @@
             * split
           * Types
             * rule-based e.g. end a green phase early if queue on other stream builds up
+              * good local for a few critical intersections
             * model-based
+              * good network for network w/ complex cause-effect relationships
           * Public Transportation Prioritization (Signal Preemption)
             1. detect vehicle / request signal
             2. end current phase (or extend current phase)
