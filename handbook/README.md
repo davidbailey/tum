@@ -386,6 +386,16 @@
             4. detect vehicle / release signal
             5. resume normal operations
       * Motorway
+        * Objectives
+          * increase traffic flow
+          * increase safety
+          * reduce emissions
+        * Classification
+          * Network Control Systems
+          * Section Control Systems
+            * w/ Hard Shoulder
+          * Intersection Control Systems
+          * Cross-Section Control Systems
         * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
         * Dynamnic Speed Limit
           * Purpose: allows more people ot travel closer to the free flow speed, reduces critical braking that causes brakeing shock waves
