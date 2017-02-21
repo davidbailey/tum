@@ -162,16 +162,49 @@
               * Pre-trip
                 * Navigational Signage e.g. to station
                 * Routing, Scheduling, Available Modes and Cost
+                  * Network Map: Real Geometry or False Geometry
+                  * Timetables: Online or Printed
+                  * (See Apps)
               * On-trip
                 * Navigational Signage e.g. stops
+                * Upcoming Stops
                 * Real-time Information
                 * Connections
               * Post-trip
                 * Navigational Signage e.g. to activities
+            * focus information on group II, III, IV passengers
             * Recommendations
             * Delays
             * Historical Data
+            * must be accessible
           * Tickets
+            * Route-based
+              * Pros: simple; Cons: transfers are expensive
+            * Time-based
+              * Cons: delays affect fares
+            * Distance-based
+              * Pros: fair; Cons: can be very confusing
+              * Zone-based
+                * Pros: fair; Cons: can be confusing
+              * Check-In/Check-Out e.g. BART, Oyster Card (TfL)
+            * Instruments
+              * Express/Non-Express
+              * Time-of-day e.g. Off-peak Ticket
+              * 1st Class / 2nd Class
+              * Frequency e.g. Multi-trip Ticket, Day Pass, Week Pass, Month Pass, Year Pass
+              * Inter-agency transfers e.g. [Integrated Ticketing](https://en.wikipedia.org/wiki/Integrated_ticketing)
+              * Combined ticket to events
+              * Groups e.g. Group Tickets, Seniors, Students
+            * Ticket Media
+              * [Proximity Card](https://en.wikipedia.org/wiki/Proximity_card)
+                * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
+                * [OV-chipkaart](https://en.wikipedia.org/wiki/OV-chipkaart)
+              * [Magnetic Stripe Card](https://en.wikipedia.org/wiki/Magnetic_stripe_card)
+              * Paper Ticket (printed from [ticket-vending machine](https://en.wikipedia.org/wiki/Ticket_machine) or at home)
+              * No Ticket
+              * (See Apps)
+            * Automatic Best Price Calculation
+            * [Automatic Fare Collection](https://en.wikipedia.org/wiki/Automated_fare_collection)
           * Communication
             * Generations
               1. Telephone
