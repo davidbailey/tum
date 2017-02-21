@@ -741,6 +741,10 @@
           * Quality: difference from reality
         * Properties of Geoinformation
           * [First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography): "everything is related to everything else, but near things are more related than distant things"
+            * applies spatially and temporally
+            * spatial heterogeneity: conditions in one place are not the same other places
+            * thematic dependence: thematic layers in an area may be correlated
+            * localization: information in a place is of greater importance to people in that place
             * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
       * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
       * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
