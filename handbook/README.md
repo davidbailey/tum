@@ -601,12 +601,18 @@
           * Section Control Systems
             * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
               * Text
-                * Traffic Dependent (automatic): Congestion, Crash, Hard Shoulder Use, Truck Passing Ban
+                * Traffic Dependent (automatic)
+                  * Congestion
+                    * Depends on traffic flow, density, and velocity
+                  * Crash
+                  * Hard Shoulder Use
+                  * Truck Passing Ban
                 * Environmental (automatic): Ice, Rain, Snow, Fog
                 * Other: Construction
               * Image
               * Dynamnic Speed Limit
                 * Purpose: allows more people ot travel closer to the free flow speed, reduces critical braking that causes brakeing shock waves
+                * Pick lowest speed for the conditions
               * Procedure
                 * Identify Situation
                   * Data Acquisition
@@ -1262,14 +1268,15 @@
     * ex ante (before) e.g. cost-benefit analysis
     * post ante (after) e.g. proof of effectiveness, quality control, effiency control
   * Types
-    * Technical assessment
-    * Impact analysis
-    * Socio-economical analysis
+    * Technical assessment e.g. technical, logical, functional
+    * Impact analysis e.g. environmental, travel time
+    * Socio-economical analysis e.g. safety, environmental
     * Assessment of user acceptance
-    * Financial and operational analysis
+    * Financial and operational analysis e.g. logical, possible
   * Goals -> Targets -> Sub-targets -> Indicators -> Measurement w/ Units
     * Stakeholders: Customers, Operators, Management, Society
     * Competative, Complementary, Indifferent, Substituable
+    * e.g. safety, costs, delays, travel time, size of bike network, reliability of public transportation
   * Methods
     * [Cost-benefit analysis](https://en.wikipedia.org/wiki/Cost–benefit_analysis)
       * costs and benefits = monetary terms
@@ -1284,7 +1291,41 @@
     * Balancing and Discussion
     * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
       * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
-    * SWOT – Strengths / Weaknesses / Opportunities / Threats
+    * [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) – Strengths / Weaknesses / Opportunities / Threats
+         <table>
+          <tr>
+             <td></td>
+             <td>Helpful</td>
+             <td>Harmful</td>
+         </tr>
+         <tr>
+             <td>Internal</td>
+             <td>Strengths</td>
+             <td>Weaknesses</td>
+         </tr>
+         <tr>
+             <td>External</td>
+             <td>Opportunities</td>
+             <td>Threats</td>
+         </tr>
+         </table>  
+         <table>
+          <tr>
+             <td></td>
+             <td>Strengths</td>
+             <td>Weaknesses</td>
+         </tr>
+         <tr>
+             <td>Opportunities</td>
+             <td>take advantage of opportunities</td>
+             <td>use strengths to avoid threats</td>
+         </tr>
+         <tr>
+             <td>Threats</td>
+             <td>eliminiate weaknesses through opportunities</td>
+             <td>minimize weaknesses and avoid threats</td>
+         </tr>
+         </table>
 * [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
   * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
     * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
