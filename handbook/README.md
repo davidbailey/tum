@@ -595,6 +595,9 @@
           * Network Control Systems e.g. rerouting for major events, traffic
             * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
             * [Navigation System](https://en.wikipedia.org/wiki/Automotive_navigation_system)
+            * addative: recommend a new route or substantiative: change the route
+            * manual or automatic control
+            * Variable Lane Allocation e.g. Northbound I-110 at I-5
           * Section Control Systems
             * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
               * Text
@@ -606,7 +609,10 @@
                 * Purpose: allows more people ot travel closer to the free flow speed, reduces critical braking that causes brakeing shock waves
               * Procedure
                 * Identify Situation
+                  * Data Acquisition
+                  * Data Validation
                 * Determine Priority
+                  * Build Speed Funnels
                 * Display Message
           * Intersection Control Systems
             * [Ramp Metering](https://en.wikipedia.org/wiki/Ramp_meter)
