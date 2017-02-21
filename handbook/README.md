@@ -324,8 +324,10 @@
           * https://www.cnu.org
           * https://www.ted.com/talks/jeff_speck_4_ways_to_make_a_city_more_walkable
             * reason to walk, safe and feel safe, comfortable, interesting
-            * 200 foot blocks (Portland) -> 2 lane city
+            * 200 foot [blocks](https://en.wikipedia.org/wiki/City_block) (Portland) -> 2 lane city
             * 600 foot blocks (Salt Lake City) -> 6 lane city
+            * https://commons.wikimedia.org/wiki/File:American_Grid_Comparison.jpg
+            * (See Gridded Space)
         * http://imdb.com/title/tt1701976/
       * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
       * Urbanity by destiny
@@ -721,6 +723,10 @@
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
      * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
+  * [Big Data](https://en.wikipedia.org/wiki/Big_data)
+    * Volume, Velocity, Variety
+    * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+      * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system) (GIS)
     * Definations
       * Geoinformation: where, what, how much, how, why
@@ -746,6 +752,16 @@
             * thematic dependence: thematic layers in an area may be correlated
             * localization: information in a place is of greater importance to people in that place
             * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
+        * Views
+          * Mathematical
+            * [Euclidean Space](https://en.wikipedia.org/wiki/Euclidean_geometry)
+              * distance = sqrt((x1 - x2)^2) + (y1 - y2)^2) 
+            * [Gridded Space](https://en.wikipedia.org/wiki/Grid_plan) (Manhattan or [Taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry))
+              * distance = |xi - xj| + |yi - yj|
+          * Ontological: We focus on mesoscopic.
+          * Physical - Real World
+          * Philosophical
+          * Cognitive and Socio-Cultural: We each form our own mental map. e.g. bike lanes, freeways, public transit, localized to our home
       * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
       * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
     * Workflow
