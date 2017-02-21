@@ -125,17 +125,17 @@
         * network + services
      <table>
      <tr>
-         <td></td>
+         <td>Infrastructure</td>
          <td>Private Operator</td>
          <td>Public Operator</td>
      </tr>
       <tr>
-         <td>Rail Infrastructure</td>
+         <td>Rail</td>
          <td>X</td>
          <td>National, Regional, Commuter, Metro</td>
      </tr>
      <tr>
-         <td>Road Infrastructure</td>
+         <td>Road</td>
          <td>Car, Motorcycle, Bicycle, Pedestrian</td>
          <td>Bus, Taxi</td>
      </tr>
