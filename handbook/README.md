@@ -739,6 +739,9 @@
             * Human e.g. Yelp
           * Scale/Resolution: level of detail
           * Quality: difference from reality
+        * Properties of Geoinformation
+          * [First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography): "everything is related to everything else, but near things are more related than distant things"
+            * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
       * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
       * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
     * Workflow
@@ -767,7 +770,7 @@
     * Data Types
       * Nodes (0D), Lines (1D), and Polygons (2D)
       * Raster, Vector
-  * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
+  * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
     * Definations
       * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
       * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
