@@ -1253,20 +1253,32 @@
 * [Recreation](https://en.wikipedia.org/wiki/Recreation)
 * [Impact Analysis and Evaluation]
   * Phases
-    * ex ante (before)
-      * cost/benefit analysis
-      * alternatives analysis
-    * post ante (after)
-      * proof of effectiveness
-      * quality control, effiency control
+    * ex ante (before) e.g. cost-benefit analysis
+    * post ante (after) e.g. proof of effectiveness, quality control, effiency control
   * Types
     * Technical assessment
     * Impact analysis
     * Socio-economical analysis
     * Assessment of user acceptance
     * Financial and operational analysis
-  * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
-    * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
+  * Goals -> Targets -> Sub-targets -> Indicators -> Measurement w/ Units
+    * Stakeholders: Customers, Operators, Management, Society
+    * Competative, Complementary, Indifferent, Substituable
+  * Methods
+    * [Cost-benefit analysis](https://en.wikipedia.org/wiki/Cost–benefit_analysis)
+      * costs and benefits = monetary terms
+        * Direct
+        * Indirect
+        * Intangible
+    * Utility analysis
+      * uses weights instead of monetary terms
+    * Cost-impact analysis
+    * Impact analysis
+    * Before/after analysis
+    * Balancing and Discussion
+    * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
+      * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
+    * SWOT – Strengths / Weaknesses / Opportunities / Threats
 * [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
   * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
     * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
