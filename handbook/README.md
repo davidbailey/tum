@@ -80,47 +80,89 @@
         * Planning <=> Operations
         * Infrastructure - Dedicated or Shared w/ Private Transport
           * Guideway: road or track
+            * Right-of-Way Class
+              * A: Exclusive right-of-way across nodes and links. e.g. LACMTA Red Line
+              * B: Exclusive right-of-way across links; shared right-of-way across nodes. e.g. LACMTA Expo Line
+              * C: Shared right-of-way across nodes and links. e.g. Buses
+              * http://humantransit.org/2011/03/rail-bus-differences-contd.html
+         <table>
+         <tr>
+             <td></td>
+             <td>Speed</td>
+             <td>Capacity</td>
+             <td>Vehicle Control</td>
+             <td>Operation Control</td>
+         </tr>
+          <tr>
+             <td>A</td>
+             <td>very high</td>
+             <td>very high</td>
+             <td>driver/automated</td>
+             <td>interlock systems</td>
+         </tr>
+         <tr>
+             <td>B</td>
+             <td>high</td>
+             <td>high</td>
+             <td>driver</td>
+             <td>interlock systems/by sight</td>
+         </tr>
+         <tr>
+             <td>C</td>
+             <td>moderate</td>
+             <td>moderate</td>
+             <td>driver</td>
+             <td>by sight</td>
+         </tr>
+         </table>  
           * Stops/Stations
           * Control Infrastructure
           * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
+          * Mode
+            * Bus
+              * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
+                * Features
+                  * High-quality buses
+                  * Level boarding
+                  * Off-vehicle fare collection
+                  * High-quality stations (microdesign), not just stops
+                    * Elevators, escalators, ample ticket counters/machines, good lighting, clean, well maintained, secure, good signage
+                  * Pedestrian and bicycle access to stations and lots of transfer options with fare/schedule integration
+                  * High frequency (>12 buses/hour)
+                  * Exclusive right-of-way (including no local buses)
+                  * Marketing, education, and outreach
+                  * Transit-oriented development
+            * Tram
+            * Light Rail
+            * Heavy Rail
+            * Mode Characteristics
+              * Speed
+              * Capacity
+                * System capacity depends on capacity of infrastructure, size of vehicle, headways
+              * Comfort
+          * Network
+          * Timetable
+            * Customer / Passenger
+              * Quality = Headway / Travel Time
+                * < 0.5 = competitive w/ private transportation
+                * 2-3 = transportation for basic social service
+              * Travel Time = Measured Travel Time + Dwell Time + Congestion
+                * monitor and provide real-time updates
+              * Transfers
+                * Hierarchy of routes
+                * Minimize wait time
+                * Reliability
+            * Vehicles
+            * Drivers
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
           * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
-        * Right-of-Way Class
-          * A: Exclusive right-of-way across nodes and links. e.g. LACMTA Red Line
-          * B: Exclusive right-of-way across links; shared right-of-way across nodes. e.g. LACMTA Expo Line
-          * C: Shared right-of-way across nodes and links. e.g. Buses
-          * http://humantransit.org/2011/03/rail-bus-differences-contd.html
-     <table>
-     <tr>
-         <td></td>
-         <td>Speed</td>
-         <td>Capacity</td>
-         <td>Vehicle Control</td>
-         <td>Operation Control</td>
-     </tr>
-      <tr>
-         <td>A</td>
-         <td>very high</td>
-         <td>very high</td>
-         <td>driver/automated</td>
-         <td>interlock systems</td>
-     </tr>
-     <tr>
-         <td>B</td>
-         <td>high</td>
-         <td>high</td>
-         <td>driver</td>
-         <td>interlock systems/by sight</td>
-     </tr>
-     <tr>
-         <td>C</td>
-         <td>moderate</td>
-         <td>moderate</td>
-         <td>driver</td>
-         <td>by sight</td>
-     </tr>
-     </table>  
+      * [Carpool](https://en.wikipedia.org/wiki/Carpool)
+      * [Taxi](https://en.wikipedia.org/wiki/Taxicab)
+        * [Ride Sharing](https://en.wikipedia.org/wiki/Transportation_network_company)
+      * [Car Rental](https://en.wikipedia.org/wiki/Car_rental)
+        * [Car Sharing](https://en.wikipedia.org/wiki/Carsharing)
+      * [Bike Share](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
       * Transport Offer
         * network + services
      <table>
@@ -139,7 +181,7 @@
          <td>Car, Motorcycle, Bicycle, Pedestrian</td>
          <td>Bus, Taxi</td>
      </tr>
-     </table>  
+     </table>
     * [Land Use](https://en.wikipedia.org/wiki/Land_use), [Zoning](https://en.wikipedia.org/wiki/Zoning), [Spacial Planning](https://en.wikipedia.org/wiki/Spatial_planning), [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
       * Forest -> Farms -> Cities
       * Residential zone home types
@@ -262,17 +304,6 @@
         * [Trucks](https://en.wikipedia.org/wiki/Truck)
         * [Buses](https://en.wikipedia.org/wiki/Bus)
           * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
-            * Features
-              * High-quality buses
-              * Level boarding
-              * Off-vehicle fare collection
-              * High-quality stations (microdesign), not just stops
-                * Elevators, escalators, ample ticket counters/machines, good lighting, clean, well maintained, secure, good signage
-              * Pedestrian and bicycle access to stations and lots of transfer options with fare/schedule integration
-              * High frequency (>12 buses/hour)
-              * Exclusive right-of-way (including no local buses)
-              * Marketing, education, and outreach
-              * Transit-oriented development
         * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
       * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
       * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
