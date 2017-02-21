@@ -1251,6 +1251,22 @@
         * Bicycles cost less (social mobility)
         * Bicycles don't take up space or divide communities
 * [Recreation](https://en.wikipedia.org/wiki/Recreation)
+* [Impact Analysis and Evaluation]
+  * Phases
+    * ex ante (before)
+      * cost/benefit analysis
+      * alternatives analysis
+    * post ante (after)
+      * proof of effectiveness
+      * quality control, effiency control
+  * Types
+    * Technical assessment
+    * Impact analysis
+    * Socio-economical analysis
+    * Assessment of user acceptance
+    * Financial and operational analysis
+  * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
+    * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
 * [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
   * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
     * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
