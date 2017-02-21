@@ -74,10 +74,15 @@
           * Marketing and communication
       * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
         * dense in city center vs. car network which goes into the center, but is not dense in the center
-        * Public Transportation Control
-          * Goals
-            * Shift people from private transportation to public transportation by providing safe, reliable, efficient service
-            * Shift public tranportation demand from peak hours to off peak hours
+        * Goals
+          * Shift people from private transportation to public transportation by providing safe, reliable, efficient service
+          * Shift public tranportation demand from peak hours to off peak hours
+        * Planning <=> Operations
+        * Infrastructure - Dedicated or Shared w/ Private Transport
+          * Guideway: road or track
+          * Stops/Stations
+          * Control Infrastructure
+          * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
           * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
@@ -86,6 +91,36 @@
           * B: Exclusive right-of-way across links; shared right-of-way across nodes. e.g. LACMTA Expo Line
           * C: Shared right-of-way across nodes and links. e.g. Buses
           * http://humantransit.org/2011/03/rail-bus-differences-contd.html
+     <table>
+     <tr>
+         <td></td>
+         <td>Speed</td>
+         <td>Capacity</td>
+         <td>Vehicle Control</td>
+         <td>Operation Control</td>
+     </tr>
+      <tr>
+         <td>A</td>
+         <td>very high</td>
+         <td>very high</td>
+         <td>driver/automated</td>
+         <td>interlock systems</td>
+     </tr>
+     <tr>
+         <td>B</td>
+         <td>high</td>
+         <td>high</td>
+         <td>driver</td>
+         <td>interlock systems/by sight</td>
+     </tr>
+     <tr>
+         <td>C</td>
+         <td>moderate</td>
+         <td>moderate</td>
+         <td>driver</td>
+         <td>by sight</td>
+     </tr>
+     </table>  
       * Transport Offer
         * network + services
      <table>
