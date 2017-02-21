@@ -119,7 +119,7 @@
           * Control Infrastructure
           * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
           * Mode
-            * Bus
+            * Road / Bus
               * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
                 * Features
                   * High-quality buses
@@ -132,15 +132,18 @@
                   * Exclusive right-of-way (including no local buses)
                   * Marketing, education, and outreach
                   * Transit-oriented development
-            * Tram
-            * Light Rail
-            * Heavy Rail
+            * Rail
+              * Tram
+              * Light Rail
+              * Heavy Rail
+              * Interlocking System (See Train Control)
             * Mode Characteristics
               * Speed
               * Capacity
                 * System capacity depends on capacity of infrastructure, size of vehicle, headways
               * Comfort
           * Network
+            * Routes
           * Timetable
             * Customer / Passenger
               * Quality = Headway / Travel Time
@@ -154,6 +157,82 @@
                 * Reliability
             * Vehicles
             * Drivers
+          * Information
+            * Types
+              * Pre-trip
+                * Navigational Signage e.g. to station
+                * Routing, Scheduling, Available Modes and Cost
+              * On-trip
+                * Navigational Signage e.g. stops
+                * Real-time Information
+                * Connections
+              * Post-trip
+                * Navigational Signage e.g. to activities
+            * Recommendations
+            * Delays
+            * Historical Data
+          * Tickets
+          * Communication
+            * Generations
+              1. Telephone
+              2. Digital Radio
+              3. Intermodal Transport Control Systems
+                * Real-time localization of all vehicles
+                * Continuous comparison of real-time vehicle location versus schedule
+          * Operations Center
+          * Vehicle On Board Unit
+          * Incident Management
+        * Stakeholders
+          * Customers
+         <table>
+         <tr>
+             <td>Group</td>
+             <td>Familiar with Area</td>
+             <td>Familiar with System</td>
+             <td>Description</td>
+         </tr>
+          <tr>
+             <td>I</td>
+             <td>Yes</td>
+             <td>Yes</td>
+             <td>Frequent passenger on known route</td>
+         </tr>
+         <tr>
+             <td>II</td>
+             <td>No</td>
+             <td>Yes</td>
+             <td>Frequent passenger on new route/city</td>
+         </tr>
+         <tr>
+             <td>III</td>
+             <td>Yes</td>
+             <td>No</td>
+             <td>Occasional passenger on popular route</td>
+         </tr>
+         <tr>
+             <td>IV</td>
+             <td>No</td>
+             <td>No</td>
+             <td>Occasional passenger in new area</td>
+         </tr>
+         </table>
+          * Operators
+          * Management
+        * Improvements (See Bus Rapid Transit)
+          * Problems: Time Loss = Traffic Signals, Congestion, Dwell time
+          * Goal: Reduce Time Loss
+          * Measures
+            * Change network layout
+              * Fewer Left Turns
+            * Change traffic regulations
+            * Change parking and loading zones
+            * Change fare collection method
+              * Off-Board Fare Collection
+            * Upgrade from ROW C to B or B to A
+            * Upgrade stops/stations
+            * Level Boarding
+            * Upgraded switches
+            * Signal Priority
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
           * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
@@ -548,9 +627,12 @@
       * [Level Crossings](https://en.wikipedia.org/wiki/Level_crossing)
       * [Bridges](https://en.wikipedia.org/wiki/Rail_bridge)
       * [Tunnels](https://en.wikipedia.org/wiki/Rail_tunnel)
-    * Control
+    * Train Control
+      * [No Signaling](https://en.wikipedia.org/wiki/Dark_territory)
       * [Centralized Traffic Control](https://en.wikipedia.org/wiki/Centralized_traffic_control)
       * [Signal Control](https://en.wikipedia.org/wiki/Railway_signalling)
+        * [Block Signaling](https://en.wikipedia.org/wiki/Automatic_block_signaling)
+        * [Continuous Train Control](https://en.wikipedia.org/wiki/Linienzugbeeinflussung)
         * [Running a Red Light (Signal Passed at Danger)](https://en.wikipedia.org/wiki/Signal_passed_at_danger)
           * Causes
             * Distraction
@@ -564,6 +646,7 @@
       * [European Rail Traffic Management System](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
         * [European Train Control System](https://en.wikipedia.org/wiki/European_Train_Control_System)
         * [GSM-R](https://en.wikipedia.org/wiki/GSM-R)
+      * http://w3.usa.siemens.com/mobility/us/en/rail-solutions/rail-automation/train-control-system/Pages/train-control-system.aspx
     * Passenger
       * [Inter-city Rail](https://en.wikipedia.org/wiki/Inter-city_rail)
         * [High-speed Rail](https://en.wikipedia.org/wiki/High-speed_rail)
