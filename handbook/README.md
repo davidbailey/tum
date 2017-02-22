@@ -890,13 +890,57 @@
           * Updating
         * Spatial Data Handling
           * Visualization
-          * Analysis
+          * [Analysis](https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_dependency_or_auto-correlation)
             * Analysis of Point Patterns
+              * Distance
+                * Adjacency: share a boundary or w/in a distance
+                * Interaction: similar to a gravity function (See Trip Distribution)
+                * Neighborhood
+              * Spatial Autocorrelation Measures
+                * [Moran's I](https://en.wikipedia.org/wiki/Moran%27s_I)
+                  * I = 0 => independent
+                  * I > 0 => positive autocorrelation
+                  * I < 0 => negative autocorrelation
+                * [Geary's C](https://en.wikipedia.org/wiki/Geary%27s_C)
+                  * C = 1 => independent
+                  * C < 1 => positive autocorrelation
+                  * C > 1 => negative autocorrelation
             * Geostatistics
-            * Vertical Analysis
+              * [Variograms](https://en.wikipedia.org/wiki/Variogram): shows the threshold where there is autocorrelation
+                * Semivariogram
+                * Covariogram
+              * Interpolation Methods
+                * Local
+                  * [Thiessen Polygons](https://en.wikipedia.org/wiki/Voronoi_diagram): each new point gets the value of the nearest sample point
+                  * [Inverse Distance Weighting](https://en.wikipedia.org/wiki/Inverse_distance_weighting): new point gets a value based on its neighbors and their distance
+                * Global
+                  * Density Maps: [Kernel Density Estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)
+                  * [Trend Surfaces](https://en.wikipedia.org/wiki/Trend_surface_analysis)
+                  * [Regression Analysis](https://en.wikipedia.org/wiki/Regression_analysis) e.g. Linear Regression y = mx + b
+                  * [Kriging](https://en.wikipedia.org/wiki/Kriging): fit within a confidence interval assuming autocorrelation
+            * Vertical Analysis
+              * Map Algebra (on multiple layers)
+                * Boolean Operators e.g. AND, OR, NOT
+                * Algebraic Operators e.g. +, -, *, /, log, etc.
+              * Slope and Aspect e.g. Does the terrain slope north, south, etc?
+                * e.g. flow analysis for hydrology
+                  * assumptions
+                    * water flows follow topology
+                    * water is evenly distributed
+                    * inflitration is zero
+                    * evaporation is zero
+                    * surface is bare
+              * Line of Sight
+              
             * Network Analysis
+              * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) (See Routing)
+              * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
+              * Least Cost Path
+              * Cellular Models e.g. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
         * Quality Assessment
     * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
+    * Cartography Design
+      * https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/
   * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
     * Definations
       * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
