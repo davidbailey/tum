@@ -762,6 +762,40 @@
           * Physical - Real World
           * Philosophical
           * Cognitive and Socio-Cultural: We each form our own mental map. e.g. bike lanes, freeways, public transit, localized to our home
+        * Spatial Representation
+          * [Georeferenced](https://en.wikipedia.org/wiki/Georeferencing)
+          * Nodes (0D), Lines (1D), and Polygons (2D)
+          * Raster (Pixels or [Voxels](https://en.wikipedia.org/wiki/Voxel), Vector
+          * Process Modeling
+            * [Finite Difference Model](https://en.wikipedia.org/wiki/Finite_difference_method)
+            * [Finite Element Model](https://en.wikipedia.org/wiki/Finite_element_method)
+              * gives finite number of closed areas (usually triangles)
+              * usually use average of nodes (or can use node value)
+            * provides iso-lines
+          * [Spatial Realtions](https://en.wikipedia.org/wiki/Spatial_relation)
+            * Distance
+              * Measured
+              * Near, Far
+            * Direction
+              * Degrees
+              * North, South, East, West
+            * 8 Topological relations between two polygons
+              * disjoint
+              * meet
+              * contains
+              * covers
+              * overlap
+              * equal
+              * inside
+              * coveredBy
+            * 9 Intersections: A-interior, A-boundary, A-exterior Union B-interior, B-boundary, B-exterior
+        * Temporal Representation
+          * Things change over time.
+          * Patterns: random, monotonic, periodic, deteriorate, expand/shrink, deform, split/merge
+          * Characteristics
+            * Rate: fast/slow, sudden/gradual
+            * Frequency: periodic, majorative, sporatic, once
+            * Amplitude: large/small
       * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
       * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
     * Workflow
@@ -787,9 +821,6 @@
         * Visualization
         * Analysis
       * Quality Assessment
-    * Data Types
-      * Nodes (0D), Lines (1D), and Polygons (2D)
-      * Raster, Vector
   * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
     * Definations
       * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
