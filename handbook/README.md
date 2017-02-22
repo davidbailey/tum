@@ -732,6 +732,7 @@
     * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
       * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system) (GIS)
+    * Purpose: determine relationships between spatial observations
     * Definations
       * Geoinformation: where, what, how much, how, why
         * Categories
@@ -748,7 +749,25 @@
             * Vegetation
             * Human e.g. Yelp
           * Scale/Resolution: level of detail
+            * Spatial resolution: minimum size of an object that is discernable
+              * Sampling rate: how often we sample when moving over the area
+            * Temporal resolution: minimum duration of event that is discernable
+              * Temporal sampling rate: how often we sample in time
+            * Thematic resolution: building / non building versus restaurant/park/grocery store/school/etc.
           * Quality: difference from reality
+            * Accuracy: discrepancy between data and reality
+              * Spatial accuracy: positional accuracy
+              * Temporal accuracy: currentness
+              * Thematic accuracy
+                * Quantitative: mismeasurement
+                * Errors of omission: missing from a class
+                * Errors of comission: assigned to wrong class
+          * Data Quality
+            * often provided by a specification including format and metadata
+            * Quality
+            * Scale/Resolution
+            * Consistency
+            * Completeness
         * Properties of Geoinformation
           * [First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography): "everything is related to everything else, but near things are more related than distant things"
             * applies spatially and temporally
