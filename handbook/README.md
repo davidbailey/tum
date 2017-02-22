@@ -732,161 +732,171 @@
     * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
       * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system) (GIS)
-    * Purpose: determine relationships between spatial observations
-    * Definations
-      * Geoinformation: where, what, how much, how, why
-        * Categories
-          * Entities: things (discrete objects) e.g. cities, roads, rivers
-          * Phenomena: dynamic things (temporal continuity) e.g. fires, floods, urban growth
-          * Fields: functions (spatially continuity) e.g. elevation, temperature, soil moisture
-        * 7 Dimensions
-          * 3 Space: coordinates, address
-          * Time: time
-          * Themematic Layers
-            * Settlement
-            * Water
-            * Boundaries
-            * Vegetation
-            * Human e.g. Yelp
-          * Scale/Resolution: level of detail
-            * Spatial resolution: minimum size of an object that is discernable
-              * Sampling rate: how often we sample when moving over the area
-            * Temporal resolution: minimum duration of event that is discernable
-              * Temporal sampling rate: how often we sample in time
-            * Thematic resolution: e.g. building / non building versus restaurant/park/grocery store/school/etc; greyscale/color
-          * Quality: difference from reality
-            * Accuracy: discrepancy between data and reality
-              * Spatial accuracy: positional accuracy
-              * Temporal accuracy: currentness
-              * Thematic accuracy
-                * Quantitative: mismeasurement
-                * Errors of omission: missing from a class
-                * Errors of comission: assigned to wrong class
-          * Data Quality
-            * often provided by a specification including format and metadata
-            * Quality
-            * Scale/Resolution
-            * Consistency: free from conflict
-              * Spatial consistency e.g. only one road can be along one line
-              * Temporal consistency e.g. only one thing can happen at a time
-              * Thematic consistency e.g. population where there are no houses
-            * Completeness
-              * Data completeness: between data and specificationn
-              * Model completeness: does it work well enough for the use case
-              * Attribute completeness: are attributes all encoded?
-              * Value completeness: are values all there?
-        * Properties of Geoinformation
-          * [First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography): "everything is related to everything else, but near things are more related than distant things"
-            * applies spatially and temporally
-          * spatial heterogeneity: conditions in one place are not the same other places
-          * thematic dependence: thematic layers in an area may be correlated
-          * localization: information in a place is of greater importance to people in that place
-            * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
-        * Views
-          * Mathematical
-            * [Euclidean Space](https://en.wikipedia.org/wiki/Euclidean_geometry)
-              * distance = sqrt((x1 - x2)^2) + (y1 - y2)^2) 
-            * [Gridded Space](https://en.wikipedia.org/wiki/Grid_plan) (Manhattan or [Taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry))
-              * distance = |xi - xj| + |yi - yj|
-          * Ontological: We focus on mesoscopic.
-          * Physical - Real World
-          * Philosophical
-          * Cognitive and Socio-Cultural: We each form our own mental map. e.g. bike lanes, freeways, public transit, localized to our home
-        * Spatial Representation
-          * [Georeferenced](https://en.wikipedia.org/wiki/Georeferencing)
-          * Nodes (0D), Lines (1D), and Polygons (2D)
-          * Raster (Pixels or [Voxels](https://en.wikipedia.org/wiki/Voxel), Vector
-          * Process Modeling
-            * [Finite Difference Model](https://en.wikipedia.org/wiki/Finite_difference_method)
-            * [Finite Element Model](https://en.wikipedia.org/wiki/Finite_element_method)
-              * gives finite number of closed areas (usually triangles)
-              * usually use average of nodes (or can use node value)
-            * provides iso-lines
-          * [Spatial Realtions](https://en.wikipedia.org/wiki/Spatial_relation)
-            * Distance
-              * Measured
-              * Near, Far
-            * Direction
-              * Degrees
-              * North, South, East, West
-            * 8 Topological relations between two polygons
-              * disjoint
-              * meet
-              * contains
-              * covers
-              * overlap
-              * equal
-              * inside
-              * coveredBy
-            * 9 Intersections: A-interior, A-boundary, A-exterior Union B-interior, B-boundary, B-exterior
-        * Temporal Representation
-          * Things change over time.
-          * Branching: we can predict the past and the future, but only the present is known now.
-          * Patterns: random, monotonic, periodic, deteriorate, expand/shrink, deform, split/merge
-          * Characteristics
-            * Rate: fast/slow, sudden/gradual
-            * Frequency: periodic, majorative, sporatic, once
-            * Amplitude: large/small
-          * Units: [chronons](https://en.wikipedia.org/wiki/Chronon), seconds, minutes, days, seasons
-          * Associations: before, equals, meets, overlaps, during, starts, ends
-          * Combinations: binary relations e.g. union
-          * Transformations
-          * Methods
-            * Location-based
-              * snapshots
-              * temporal grid
-            * Entity-based: record any time an entity is created or destroyed
-            * Time-based: record all events occuring between certain times
-        * Data Structures
-          * Array
-          * Stack (LIFO) and Queue (FIFO)
-          * Linked List
-            * Single Linked List: A -> B
-            * Double Linked List: A <=> B
-            * Circularly Linked List: A -> B -> A
-          * Tree
-            * height: max measure going down
-            * depth: max measure going up
-          * Graph (Network): vertices (nodes) are connected by edges (links)
-        * Index Methods
-          * Unordered O(n)
-          * Index O(log n)
-            * [B-tree](https://en.wikipedia.org/wiki/B-tree)
-              * [R-tree](https://en.wikipedia.org/wiki/R-tree)
-            * [Space-filling Curves](https://en.wikipedia.org/wiki/Space-filling_curve):
-              * row
-              * row-prime
-              * [morton](https://en.wikipedia.org/wiki/Z-order_curve): nearby objects are located closer to each other
-                * Procedure for (10,7)
-                  * Write coordinates in binary form. 10 => 1010, 7 => 0111
-                  * Interleave the digits => 10011101
-                  * Convert to base 10 => 157
-            * [k-d tree](https://en.wikipedia.org/wiki/K-d_tree)
-      * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
-      * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
-    * Workflow
-      * Spatial Data Modeling
-        * Acquisition
-          * Satellite
-            * Camera
-              * [Landsat 8](https://en.wikipedia.org/wiki/Landsat_8) (USA: NASA/USGS)
-              * [IKONOS](https://en.wikipedia.org/wiki/Ikonos) (USA: DigitalGlobe)
-              * [QuickBird](https://en.wikipedia.org/wiki/QuickBird) (USA)
-              * [SPOT](https://en.wikipedia.org/wiki/SPOT_(satellite)) (FR)
-              * [RapidEye](https://en.wikipedia.org/wiki/RapidEye) (DE)
-              * [TanDEM-X](https://en.wikipedia.org/wiki/TanDEM-X) (DE: DLR)
-            * [Geodesy](https://en.wikipedia.org/wiki/Geodesy)
-              * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
-              * [Galielo](https://en.wikipedia.org/wiki/Galileo_(satellite_navigation))
-              * [GLONASS](https://en.wikipedia.org/wiki/GLONASS)
-              * [BeiDou Navigation Satellite System](https://en.wikipedia.org/wiki/BeiDou_Navigation_Satellite_System)
-              * [Indian Regional Navigation Satellite System](https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System)
-        * Integration
-        * Updating
-      * Spatial Data Handling
-        * Visualization
-        * Analysis
-      * Quality Assessment
+    * Geoinformation: where, what, how much, how, why
+      * Categories
+        * Entities: things (discrete objects) e.g. cities, roads, rivers
+        * Phenomena: dynamic things (temporal continuity) e.g. fires, floods, urban growth
+        * Fields: functions (spatially continuity) e.g. elevation, temperature, soil moisture
+      * 7 Dimensions
+        * 3 Space: coordinates, address
+        * Time: time
+        * Themematic Layers
+          * Settlement
+          * Water
+          * Boundaries
+          * Vegetation
+          * Human e.g. Yelp
+        * Scale/Resolution: level of detail
+          * Spatial resolution: minimum size of an object that is discernable
+            * Sampling rate: how often we sample when moving over the area
+          * Temporal resolution: minimum duration of event that is discernable
+            * Temporal sampling rate: how often we sample in time
+          * Thematic resolution: e.g. building / non building versus restaurant/park/grocery store/school/etc; greyscale/color
+        * Quality: difference from reality
+          * Accuracy: discrepancy between data and reality
+            * Spatial accuracy: positional accuracy
+            * Temporal accuracy: currentness
+            * Thematic accuracy
+              * Quantitative: mismeasurement
+              * Errors of omission: missing from a class
+              * Errors of comission: assigned to wrong class
+        * Data Quality
+          * often provided by a specification including format and metadata
+          * Quality
+          * Scale/Resolution
+          * Consistency: free from conflict
+            * Spatial consistency e.g. only one road can be along one line
+            * Temporal consistency e.g. only one thing can happen at a time
+            * Thematic consistency e.g. population where there are no houses
+          * Completeness
+            * Data completeness: between data and specificationn
+            * Model completeness: does it work well enough for the use case
+            * Attribute completeness: are attributes all encoded?
+            * Value completeness: are values all there?
+      * Properties of Geoinformation
+        * [First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography): "everything is related to everything else, but near things are more related than distant things" (autocorrelation)
+          * applies spatially and temporally
+        * spatial heterogeneity: conditions in one place are not the same other places
+        * thematic dependence: thematic layers in an area may be correlated
+        * localization: information in a place is of greater importance to people in that place
+          * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
+      * Views
+        * Mathematical
+          * [Euclidean Space](https://en.wikipedia.org/wiki/Euclidean_geometry)
+            * distance = sqrt((x1 - x2)^2) + (y1 - y2)^2) 
+          * [Gridded Space](https://en.wikipedia.org/wiki/Grid_plan) (Manhattan or [Taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry))
+            * distance = |xi - xj| + |yi - yj|
+        * Ontological: We focus on mesoscopic.
+        * Physical - Real World
+        * Philosophical
+        * Cognitive and Socio-Cultural: We each form our own mental map. e.g. bike lanes, freeways, public transit, localized to our home
+      * Spatial Representation
+        * [Georeferenced](https://en.wikipedia.org/wiki/Georeferencing)
+        * Nodes (0D), Lines (1D), and Polygons (2D)
+        * Raster (Pixels or [Voxels](https://en.wikipedia.org/wiki/Voxel), Vector
+        * Process Modeling
+          * [Finite Difference Model](https://en.wikipedia.org/wiki/Finite_difference_method)
+          * [Finite Element Model](https://en.wikipedia.org/wiki/Finite_element_method)
+            * gives finite number of closed areas (usually triangles)
+            * usually use average of nodes (or can use node value)
+          * provides iso-lines
+        * [Spatial Realtions](https://en.wikipedia.org/wiki/Spatial_relation)
+          * Distance
+            * Measured
+            * Near, Far
+          * Direction
+            * Degrees
+            * North, South, East, West
+          * 8 Topological relations between two polygons
+            * disjoint
+            * meet
+            * contains
+            * covers
+            * overlap
+            * equal
+            * inside
+            * coveredBy
+          * 9 Intersections: A-interior, A-boundary, A-exterior Union B-interior, B-boundary, B-exterior
+      * Temporal Representation
+        * Things change over time.
+        * Branching: we can predict the past and the future, but only the present is known now.
+        * Patterns: random, monotonic, periodic, deteriorate, expand/shrink, deform, split/merge
+        * Characteristics
+          * Rate: fast/slow, sudden/gradual
+          * Frequency: periodic, majorative, sporatic, once
+          * Amplitude: large/small
+        * Units: [chronons](https://en.wikipedia.org/wiki/Chronon), seconds, minutes, days, seasons
+        * Associations: before, equals, meets, overlaps, during, starts, ends
+        * Combinations: binary relations e.g. union
+        * Transformations
+        * Methods
+          * Location-based
+            * snapshots
+            * temporal grid
+          * Entity-based: record any time an entity is created or destroyed
+          * Time-based: record all events occuring between certain times
+      * Data Structures
+        * Array
+        * Stack (LIFO) and Queue (FIFO)
+        * Linked List
+          * Single Linked List: A -> B
+          * Double Linked List: A <=> B
+          * Circularly Linked List: A -> B -> A
+        * Tree
+          * height: max measure going down
+          * depth: max measure going up
+        * Graph (Network): vertices (nodes) are connected by edges (links)
+      * Index Methods
+        * Unordered O(n)
+        * Index O(log n)
+          * [B-tree](https://en.wikipedia.org/wiki/B-tree)
+            * [R-tree](https://en.wikipedia.org/wiki/R-tree)
+          * [Space-filling Curves](https://en.wikipedia.org/wiki/Space-filling_curve):
+            * row
+            * row-prime
+            * [morton](https://en.wikipedia.org/wiki/Z-order_curve): nearby objects are located closer to each other
+              * Procedure for (10,7)
+                * Write coordinates in binary form. 10 => 1010, 7 => 0111
+                * Interleave the digits => 10011101
+                * Convert to base 10 => 157
+          * [k-d tree](https://en.wikipedia.org/wiki/K-d_tree)
+    * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
+      * Purpose: determine relationships between spatial observations
+      * Pitfalls
+        * First Law of Geography / Autocorrelation
+        * Modifiable Areal Unit Problem: we group things in unnatural ways e.g. census blocks
+        * The Ecological Fallacy: judge all individuals based on groupings e.g. if high crime occurs in low in come areas, this does not mean low income people are more likely to commit crime
+        * Scale: scale changes how we see things
+        * Nonuniformity: clusters change how we see things
+        * Edge effects at artificial boundaries
+      * Workflow
+        * Spatial Data Modeling
+          * Acquisition
+            * Satellite
+              * Camera
+                * [Landsat 8](https://en.wikipedia.org/wiki/Landsat_8) (USA: NASA/USGS)
+                * [IKONOS](https://en.wikipedia.org/wiki/Ikonos) (USA: DigitalGlobe)
+                * [QuickBird](https://en.wikipedia.org/wiki/QuickBird) (USA)
+                * [SPOT](https://en.wikipedia.org/wiki/SPOT_(satellite)) (FR)
+                * [RapidEye](https://en.wikipedia.org/wiki/RapidEye) (DE)
+                * [TanDEM-X](https://en.wikipedia.org/wiki/TanDEM-X) (DE: DLR)
+              * [Geodesy](https://en.wikipedia.org/wiki/Geodesy)
+                * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
+                * [Galielo](https://en.wikipedia.org/wiki/Galileo_(satellite_navigation))
+                * [GLONASS](https://en.wikipedia.org/wiki/GLONASS)
+                * [BeiDou Navigation Satellite System](https://en.wikipedia.org/wiki/BeiDou_Navigation_Satellite_System)
+                * [Indian Regional Navigation Satellite System](https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System)
+          * Integration
+          * Updating
+        * Spatial Data Handling
+          * Visualization
+          * Analysis
+            * Analysis of Point Patterns
+            * Geostatistics
+            * Vertical Analysis
+            * Network Analysis
+        * Quality Assessment
+    * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
   * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
     * Definations
       * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
