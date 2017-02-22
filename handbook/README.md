@@ -931,7 +931,6 @@
                     * evaporation is zero
                     * surface is bare
               * Line of Sight
-              
             * Network Analysis
               * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) (See Routing)
               * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
