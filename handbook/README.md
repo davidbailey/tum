@@ -923,13 +923,18 @@
                 * Boolean Operators e.g. AND, OR, NOT
                 * Algebraic Operators e.g. +, -, *, /, log, etc.
               * Slope and Aspect e.g. Does the terrain slope north, south, etc?
-                * e.g. flow analysis for hydrology
-                  * assumptions
+                * Flow Analysis for Hydrology
+                  * Assumptions
                     * water flows follow topology
                     * water is evenly distributed
                     * inflitration is zero
                     * evaporation is zero
                     * surface is bare
+                  * Process
+                    * Find the hightes point
+                    * Fout = Fin + Flocal, Fin = from other cells, Flocal = rain
+                    * Send the flow to the neighboring cell based on slope gradiant
+                    * Repeat
               * Line of Sight
             * Network Analysis
               * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) (See Routing)
