@@ -923,6 +923,7 @@
                 * Boolean Operators e.g. AND, OR, NOT
                 * Algebraic Operators e.g. +, -, *, /, log, etc.
               * Slope and Aspect e.g. Does the terrain slope north, south, etc?
+                * Gradiant: each cell has 8 neighbors (n, s, e, w, ne, nw, se, sw)
                 * Flow Analysis for Hydrology
                   * Assumptions
                     * water flows follow topology
