@@ -752,9 +752,9 @@
         * Properties of Geoinformation
           * [First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography): "everything is related to everything else, but near things are more related than distant things"
             * applies spatially and temporally
-            * spatial heterogeneity: conditions in one place are not the same other places
-            * thematic dependence: thematic layers in an area may be correlated
-            * localization: information in a place is of greater importance to people in that place
+          * spatial heterogeneity: conditions in one place are not the same other places
+          * thematic dependence: thematic layers in an area may be correlated
+          * localization: information in a place is of greater importance to people in that place
             * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
         * Views
           * Mathematical
@@ -795,11 +795,38 @@
             * 9 Intersections: A-interior, A-boundary, A-exterior Union B-interior, B-boundary, B-exterior
         * Temporal Representation
           * Things change over time.
+          * Branching: we can predict the past and the future, but only the present is known now.
           * Patterns: random, monotonic, periodic, deteriorate, expand/shrink, deform, split/merge
           * Characteristics
             * Rate: fast/slow, sudden/gradual
             * Frequency: periodic, majorative, sporatic, once
             * Amplitude: large/small
+          * Units: [chronons](https://en.wikipedia.org/wiki/Chronon), seconds, minutes, days, seasons
+          * Associations: before, equals, meets, overlaps, during, starts, ends
+          * Combinations: binary relations e.g. union
+          * Transformations
+          * Methods
+            * Location-based
+              * snapshots
+              * temporal grid
+            * Entity-based: record any time an entity is created or destroyed
+            * Time-based: record all events occuring between certain times
+        * Data Structures
+          * Array
+          * Stack (LIFO) and Queue (FIFO)
+          * Linked List
+            * Single Linked List: A -> B
+            * Double Linked List: A <=> B
+            * Circularly Linked List: A -> B -> A
+          * Tree
+            * height: max measure going down
+            * depth: max measure going up
+          * Graph (Network): vertices (nodes) are connected by edges (links)
+        * Index Methods
+          * Unordered O(n)
+          * Index O(log n)
+            * [B-tree](https://en.wikipedia.org/wiki/B-tree)
+            * [R-tree](https://en.wikipedia.org/wiki/R-tree)
       * [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
       * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
     * Workflow
