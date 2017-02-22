@@ -404,6 +404,9 @@
         * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
       * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
       * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
+        * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
+          * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(road))
+          * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
     * Users
       * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
         * [Cars](https://en.wikipedia.org/wiki/Car)
@@ -679,6 +682,7 @@
       * [Centralized Traffic Control](https://en.wikipedia.org/wiki/Centralized_traffic_control)
       * [Signal Control](https://en.wikipedia.org/wiki/Railway_signalling)
         * [Block Signaling](https://en.wikipedia.org/wiki/Automatic_block_signaling)
+          * [Overlap](https://en.wikipedia.org/wiki/Overlap_(railway_signalling))
         * [Continuous Train Control](https://en.wikipedia.org/wiki/Linienzugbeeinflussung)
         * [Running a Red Light (Signal Passed at Danger)](https://en.wikipedia.org/wiki/Signal_passed_at_danger)
           * Causes
