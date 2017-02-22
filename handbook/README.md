@@ -753,7 +753,7 @@
               * Sampling rate: how often we sample when moving over the area
             * Temporal resolution: minimum duration of event that is discernable
               * Temporal sampling rate: how often we sample in time
-            * Thematic resolution: building / non building versus restaurant/park/grocery store/school/etc.
+            * Thematic resolution: e.g. building / non building versus restaurant/park/grocery store/school/etc; greyscale/color
           * Quality: difference from reality
             * Accuracy: discrepancy between data and reality
               * Spatial accuracy: positional accuracy
@@ -766,8 +766,15 @@
             * often provided by a specification including format and metadata
             * Quality
             * Scale/Resolution
-            * Consistency
+            * Consistency: free from conflict
+              * Spatial consistency e.g. only one road can be along one line
+              * Temporal consistency e.g. only one thing can happen at a time
+              * Thematic consistency e.g. population where there are no houses
             * Completeness
+              * Data completeness: between data and specificationn
+              * Model completeness: does it work well enough for the use case
+              * Attribute completeness: are attributes all encoded?
+              * Value completeness: are values all there?
         * Properties of Geoinformation
           * [First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography): "everything is related to everything else, but near things are more related than distant things"
             * applies spatially and temporally
