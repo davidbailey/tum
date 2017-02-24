@@ -948,6 +948,8 @@
       * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
       * [Discrete](https://en.wikipedia.org/wiki/Discrete-time_signal) e.g. number of passengers in a vehicle
       * [Continious](https://en.wikipedia.org/wiki/Continuous_signal) e.g. velocity of a vehicle
+      * [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty)
+        * [Wait/Walk Dilemma](https://en.wikipedia.org/wiki/Wait/walk_dilemma)
     * Purpose
       * Visual Data Analysis
       * Descriptive Statistics
@@ -996,7 +998,8 @@
         * Communication Data
         * Activity Data
         * Production and Consumption Data
-        
+        * Census Data
+        * Safety Data
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
