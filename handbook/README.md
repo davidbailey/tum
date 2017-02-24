@@ -781,7 +781,7 @@
       * Views
         * Mathematical
           * [Euclidean Space](https://en.wikipedia.org/wiki/Euclidean_geometry)
-            * distance = sqrt((x1 - x2)^2) + (y1 - y2)^2) 
+            * distance = sqrt((x1 - x2)²) + (y1 - y2)²) 
           * [Gridded Space](https://en.wikipedia.org/wiki/Grid_plan) (Manhattan or [Taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry))
             * distance = |xi - xj| + |yi - yj|
         * Ontological: We focus on mesoscopic.
@@ -1019,11 +1019,11 @@
 	  * Variation ([Statistical Dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion)
 	    * [Range](https://en.wikipedia.org/wiki/Range_(statistics)) = xmax - xmin
 	    * [Deviation](https://en.wikipedia.org/wiki/Deviation_(statistics)) from Mean = mean - xi
-	    * [Unbiased Sample Variance](https://en.wikipedia.org/wiki/Variance) s = 1 / (N - 1) * sum(( Deviation from the Mean of xi )^2)
+	    * [Unbiased Sample Variance](https://en.wikipedia.org/wiki/Variance) s = 1 / (N - 1) * sum(( Deviation from the Mean of xi )²)
 	      * [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation) = sqrt(variance)
 	        * Add c to all values, same standard deviation
-		* Multiply all values by c, new standard deviation = old standard deviation * c^2
-            * Population Variance = sigma^2 = sum(( Deviation from the Mean of xi )^2) / N
+		* Multiply all values by c, new standard deviation = old standard deviation * c²
+            * Population Variance = sigma² = sum(( Deviation from the Mean of xi )²) / N
 	      * Coefficient of Variation = Variance / Population Mean
 	        * Estimated Coefficient of Variation = Sample Variance / Sample Mean
 	  * Shape
@@ -1167,11 +1167,11 @@
               * a = 0
               * v = constant
               * s = s0 + v*t
-              * Centrifugal Force = (m*v^2)/R
+              * Centrifugal Force = (m*v²)/R
             * with constant acceleration
               * a = constant
               * v = v0 + a*t
-              * s = 1/2*a*t^2 + v0*t
+              * s = 1/2*a*t² + v0*t
               * F = m*a
             * [Weight](https://en.wikipedia.org/wiki/Weight) = m*g
             * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
