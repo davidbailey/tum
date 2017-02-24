@@ -982,14 +982,21 @@
           * [Logarithmic Normal Distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
             * e.g. arrival of vehicles in free flow, low density, medium random sample
     * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
-      * [Big Data](https://en.wikipedia.org/wiki/Big_data)
-        * Volume, Velocity, Variety
-        * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-          * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
-        * Data Sources
-          * Environmental Sensors (See Environmental Sensors)
-          * Traffic Counts (See Traffic Counts)
-          * (Autonomous) Vehicles
+    * [Big Data](https://en.wikipedia.org/wiki/Big_data)
+      * Volume, Velocity, Variety
+      * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+        * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+      * Data Sources
+        * Environmental Sensors (See Environmental Sensors)
+        * Traffic Counts (See Traffic Counts)
+        * (Autonomous) Vehicles
+        * Social Media
+          * Twitter
+        * Energy Data
+        * Communication Data
+        * Activity Data
+        * Production and Consumption Data
+        
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
