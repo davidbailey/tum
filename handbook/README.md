@@ -134,6 +134,8 @@
                   * Transit-oriented development
             * Rail
               * Tram
+	      * [Tram-Train](https://en.wikipedia.org/wiki/Tram-train)
+	        * [Karlsruhe Model](https://en.wikipedia.org/wiki/Karlsruhe_model)
               * Light Rail
               * Heavy Rail
               * Interlocking System (See Train Control)
