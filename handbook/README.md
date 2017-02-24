@@ -944,21 +944,121 @@
       * https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/
   * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
     * Definations
+      * Probability: likelihood an event will occur, 0 -> 1, deductive, Population -> Sample
+      * Statistics: data analysis, inductive, Sample -> Population
+      * [Population](https://en.wikipedia.org/wiki/Statistical_population): collection of objects or units of interest
+      * [Sample](https://en.wikipedia.org/wiki/Sample_(statistics)): subset of a population - easier, cheaper, more practical than whole population
+      * [Primary Source](https://en.wikipedia.org/wiki/Primary_source)
+        * Observation
+        * Experimentation
+        * Survey
+      * [Secondary Source](https://en.wikipedia.org/wiki/Secondary_source)
+        * Previous Studies
+      * [Qualitative](https://en.wikipedia.org/wiki/Qualitative_property): groups, categories
+      * [Quantitative](https://en.wikipedia.org/wiki/Quantity): numerical
+        * [Discrete](https://en.wikipedia.org/wiki/Discrete-time_signal) e.g. number of passengers in a vehicle
+        * [Continious](https://en.wikipedia.org/wiki/Continuous_signal) e.g. velocity of a vehicle
       * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
       * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
-      * [Discrete](https://en.wikipedia.org/wiki/Discrete-time_signal) e.g. number of passengers in a vehicle
-      * [Continious](https://en.wikipedia.org/wiki/Continuous_signal) e.g. velocity of a vehicle
       * [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty)
         * [Wait/Walk Dilemma](https://en.wikipedia.org/wiki/Wait/walk_dilemma)
-    * Purpose
-      * Visual Data Analysis
-      * Descriptive Statistics
-        * [Mean](https://en.wikipedia.org/wiki/Mean)
-        * [Mode](https://en.wikipedia.org/wiki/Mode_(statistics))
-        * [Median](https://en.wikipedia.org/wiki/Median)
-        * [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)
-      * Inferential Statistics
+      * [Correlation](https://en.wikipedia.org/wiki/Correlation_and_dependence): two things that happen or change together
+        * [Causation](https://en.wikipedia.org/wiki/Causality): something causes something else
+	  * [Bradford-Hill criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
+	    * Strength
+	    * Consistency
+	    * Specificity
+	    * Temporality
+	    * Biological gradient
+	    * Plausibility
+	    * Coherence
+	    * Experiment
+	    * Analogy
+      * Descriptive Statistics: summary and description
+        * Visual Data Analysis
+	  * Good Practices
+	    * Clear Labels
+	      * Title
+	      * Variables
+	      * Axes
+	      * Units
+	    * Identify Sources and Dates of Data
+	  * Keep in Mind
+	    * May be printed in black and white and people are colorblind
+	    * Projectors are not good 
+	    * Less is more
+	  * Tables
+	  * [Stem-and-leaf Displays](https://en.wikipedia.org/wiki/Stem-and-leaf_display)
+	    * 8 | 00 15 30 45
+	    * 9 | 00 30
+	  * [Dot Plots](https://en.wikipedia.org/wiki/Dot_plot_(statistics))
+	    * 8 | ****
+	    * 9 | **
+	  * [Histograms](https://en.wikipedia.org/wiki/Histogram)
+	    * Determine Class/Bin Size
+	    * Determine Frequency or Relative Frequency (normalized)
+	  * [Box Plot](https://en.wikipedia.org/wiki/Box_plot)
+	    * `min *-----[  | ]-----* max`
+	    * box is lower quarter (median of lower half), median, upper quarter (median of upper half)
+	  * [Parallel Coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates)
+	  * [Heatmaps](https://en.wikipedia.org/wiki/Heat_map)
+	  * [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram)
+	* [Summary Measures](https://en.wikipedia.org/wiki/Summary_statistics)
+	  * Location [Central Tendency](https://en.wikipedia.org/wiki/Central_tendency))
+	    * [Mean](https://en.wikipedia.org/wiki/Mean) (Average) = (x1 + x2) / n
+	      * sensative to [Outliers](https://en.wikipedia.org/wiki/Outlier) (observations w/ extreme values)
+	      * will generally larger than median because of outliers, but not always
+	        * [Trimmed Mean](https://en.wikipedia.org/wiki/Truncated_mean) = eliminate the smallest 10% and the largest 10%
+	    * [Median](https://en.wikipedia.org/wiki/Median) Half the date on either side
+	      * not sensative to outliers
+	      * [Quartiles](https://en.wikipedia.org/wiki/Quartile) divide data into four equal parts
+	      * [Percentiles](https://en.wikipedia.org/wiki/Percentile) divide the data into 100 equal parts e.g. 99%
+	    * [Mode](https://en.wikipedia.org/wiki/Mode_(statistics))
+	  * Variation ([Statistical Dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion)
+	    * [Range](https://en.wikipedia.org/wiki/Range_(statistics)) = xmax - xmin
+	    * [Deviation](https://en.wikipedia.org/wiki/Deviation_(statistics)) from Mean = mean - xi
+	    * [Unbiased Sample Variance](https://en.wikipedia.org/wiki/Variance) s = 1 / (N - 1) * sum(( Deviation from the Mean of xi )^2)
+	      * [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation) = sqrt(variance)
+	        * Add c to all values, same standard deviation
+		* Multiply all values by c, new standard deviation = old standard deviation * c^2
+            * Population Variance = sigma^2 = sum(( Deviation from the Mean of xi )^2) / N
+	      * Coefficient of Variation = Variance / Population Mean
+	        * Estimated Coefficient of Variation = Sample Variance / Sample Mean
+	  * Shape
+	    * [Skewness](https://en.wikipedia.org/wiki/Skewness)
+	    * [Kurtosis](https://en.wikipedia.org/wiki/Kurtosis)
+	  * Moments
+	    1. Sample Mean
+	    2. Variance
+	    3. Skewness
+	    4. Kurtosis
+      * Inferential Statistics: generalizing from a sample to a population
         * Probability
+	  * Definations
+	    * [Experiment](https://en.wikipedia.org/wiki/Experiment_(probability_theory)): a process that generates well-defined [outcomes](https://en.wikipedia.org/wiki/Outcome_(probability))
+	    * [Sample Space](https://en.wikipedia.org/wiki/Sample_space): the set of all possible outcomes e.g. Heads/Tails, 6 Sides of a Die
+	    * Sample Point: a single outcome
+	    * [Event](https://en.wikipedia.org/wiki/Event_(probability_theory)): Collection of Sample Points
+	      * Simple: one outcome
+	      * Compound: more than one outcome
+	      * Events are Sets => [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
+		* [Complement](https://en.wikipedia.org/wiki/Complement_(set_theory)) = not A
+	        * [Union](https://en.wikipedia.org/wiki/Union_(set_theory)) = A or B
+		* [Intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)) A and B
+		* Mutually Exclusive (Disjoint) = have no intersection
+		* Collectively Exhaustive = covers the whole sample space
+	      * Null Event (Impossible Event) p = 0
+	      * Certain Event p = 1
+	      * Equally Likely Outcomes
+	    * [Permutations](https://en.wikipedia.org/wiki/Permutation) order matters
+	      * permutations of n ojects = n!
+	      * k permutations of n objects = n!/((n - k)!)
+	    * [Combinations](https://en.wikipedia.org/wiki/Combination) order doesn't matter
+	      * combinations of k out of n objects = n!/(k! * (n - k)!)
+	      * e.g. poker hand = 52 choose 5 = 2,598,960 combinations
+	  * Visualizations
+	    * [Tree Diagrams](https://en.wikipedia.org/wiki/Tree_diagram_(probability_theory))
+	    * X-Y Plots
           * Null-hypothesis
             * Errors
               * Type I
@@ -969,25 +1069,38 @@
           * Regression
           * [Confidence Interval](https://en.wikipedia.org/wiki/Confidence_interval)
         * Distributions
-          * [Uniform Distribution](https://en.wikipedia.org/wiki/Uniform_distribution)
-            * e.g. arrival of vehicles in a platoon
-          * [Poisson](https://en.wikipedia.org/wiki/Poisson_distribution)
-            * e.g. arrival of vehicles in free flow, low density, medium random sample
-          * [Normal](https://en.wikipedia.org/wiki/Normal_distribution)
-            * Standard Normal
-              * μ=0 and σ=1
-            * e.g. arrival of vehicles in free flow, low density, large random sample; speed of vehicles
-          * [Binomial](https://en.wikipedia.org/wiki/Binomial_distribution)
-            * e.g. arrival of vehicles in free flow, low density, small random sample
-          * [Shifted Negative Exponential Distribution](https://en.wikipedia.org/wiki/Exponential_distribution)
-            * e.g. arrival of vehicles in free flow, low density, medium random sample
-          * [Logarithmic Normal Distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
-            * e.g. arrival of vehicles in free flow, low density, medium random sample
+	  * Random Variables
+	  * Probability Distribution (Probability Mass Function)
+	  * Cummulative Distribution Function
+	  * Expected Value = Mean Value
+	    * Discrete = sum(xi * p(x))
+	    * Expected Value(h(X)) = sum(h(x) * p(x))
+	  * Variance
+	  * Discrete Distributions
+	    * [Bernoulli](https://en.wikipedia.org/wiki/Bernoulli_distribution)
+	      * 1 = success, 0 = failure
+	    * [Binomial](https://en.wikipedia.org/wiki/Binomial_distribution)
+	      * e.g. arrival of vehicles in free flow, low density, small random sample
+	    * [Poisson](https://en.wikipedia.org/wiki/Poisson_distribution)
+	      * e.g. arrival of vehicles in free flow, low density, medium random sample
+	  * Continuous Distributions
+	    * [Uniform Distribution](https://en.wikipedia.org/wiki/Uniform_distribution)
+	      * e.g. arrival of vehicles in a platoon
+	    * [Normal](https://en.wikipedia.org/wiki/Normal_distribution)
+	      * Standard Normal
+		* μ=0 and σ=1
+	      * e.g. arrival of vehicles in free flow, low density, large random sample; speed of vehicles
+	    * [Shifted Negative Exponential Distribution](https://en.wikipedia.org/wiki/Exponential_distribution)
+	      * e.g. arrival of vehicles in free flow, low density, medium random sample
+	    * [Logarithmic Normal Distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
+	      * e.g. arrival of vehicles in free flow, low density, medium random sample
+	  * Jointly Distributed Random Variables
     * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
-    * [(Big) Data](https://en.wikipedia.org/wiki/Big_data)
+    * [(Big)](https://en.wikipedia.org/wiki/Big_data) [Data Science](https://en.wikipedia.org/wiki/Data_science)
       * Workflow
         * http://datascience.la/data-science-toolbox-survey-results-surprise-r-and-python-win/
         ![pafka2014](http://datascience.la/wp-content/uploads/2014/09/data-science-workflow-szilard.png)
+        * [Sample, Explore, Modify, Model, Assess](https://en.wikipedia.org/wiki/SEMMA) (SEMMA)
       * Volume, Velocity, Variety
       * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
         * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
