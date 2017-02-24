@@ -984,7 +984,10 @@
           * [Logarithmic Normal Distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
             * e.g. arrival of vehicles in free flow, low density, medium random sample
     * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
-    * [Big Data](https://en.wikipedia.org/wiki/Big_data)
+    * [(Big) Data](https://en.wikipedia.org/wiki/Big_data)
+      * Workflow
+        * http://datascience.la/data-science-toolbox-survey-results-surprise-r-and-python-win/
+        ![pafka2014](http://datascience.la/wp-content/uploads/2014/09/data-science-workflow-szilard.png)
       * Volume, Velocity, Variety
       * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
         * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
