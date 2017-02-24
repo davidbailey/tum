@@ -727,10 +727,6 @@
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
      * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
-  * [Big Data](https://en.wikipedia.org/wiki/Big_data)
-    * Volume, Velocity, Variety
-    * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-      * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
   * [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system) (GIS)
     * Geoinformation: where, what, how much, how, why
       * Categories
@@ -955,7 +951,10 @@
     * Purpose
       * Visual Data Analysis
       * Descriptive Statistics
-        * Mean, mode, median, standard deviation
+        * [Mean](https://en.wikipedia.org/wiki/Mean)
+        * [Mode](https://en.wikipedia.org/wiki/Mode_(statistics))
+        * [Median](https://en.wikipedia.org/wiki/Median)
+        * [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)
       * Inferential Statistics
         * Probability
           * Null-hypothesis
@@ -963,9 +962,10 @@
               * Type I
               * Type II
           * ANOVA (Analysis of Variance)
-          * Student's t-test
+          * [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
           * Correlation
           * Regression
+          * [Confidence Interval](https://en.wikipedia.org/wiki/Confidence_interval)
         * Distributions
           * [Uniform Distribution](https://en.wikipedia.org/wiki/Uniform_distribution)
             * e.g. arrival of vehicles in a platoon
@@ -982,6 +982,14 @@
           * [Logarithmic Normal Distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
             * e.g. arrival of vehicles in free flow, low density, medium random sample
     * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+      * [Big Data](https://en.wikipedia.org/wiki/Big_data)
+        * Volume, Velocity, Variety
+        * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+          * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+        * Data Sources
+          * Environmental Sensors (See Environmental Sensors)
+          * Traffic Counts (See Traffic Counts)
+          * (Autonomous) Vehicles
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
