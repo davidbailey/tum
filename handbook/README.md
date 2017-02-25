@@ -985,7 +985,7 @@
 	  * 8 | \*\*\*\*
 	  * 9 | \*\*
 	* [Histograms](https://en.wikipedia.org/wiki/Histogram)
-	  * Determine Class/Bin Size
+	  * Determine Class/Bin Size: Number of Classes ≈ sqrt(number of observations)
 	  * Determine Frequency or Relative Frequency (normalized)
 	* [Box Plot](https://en.wikipedia.org/wiki/Box_plot)
 	  * min \*-----[ | ]-----\* max
