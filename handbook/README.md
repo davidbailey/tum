@@ -1202,13 +1202,13 @@
             * with constant velocity
               * a = 0
               * v = constant
-              * s = s₀ + v*t
+              * s = s₀ + v * t
               * Centrifugal Force = (m*v²)/R
             * with constant acceleration
               * a = constant
               * v = v₀ + a*t
-              * s = ½*a*t² + v₀*t
-              * F = m*a
+              * s = ½ * a * t² + v₀*t
+              * F = m * a
             * [Weight](https://en.wikipedia.org/wiki/Weight) = m*g
             * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
               * Dry Concrete and Rubber: µ = 1.0
