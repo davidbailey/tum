@@ -1131,7 +1131,7 @@
     * [Sampling](https://en.wikipedia.org/wiki/Sampling_%28statistics%29)
       * Methods
         * Random Sampling - impossible
-	* Systematic Sampling - e.g. pick every 10th
+        * Systematic Sampling - e.g. pick every 10th
 	* Stratified Sampling - group the population and sample from the groups at a ratio equal to their representation
 	* Enriched Sampling - stratified, but seek out people you need
       * [Standard Error](https://en.wikipedia.org/wiki/Sampling_error) = sqrt((Population Size - Sample Size) * (Sample Variance)² / (Population Size * Sample Size))
