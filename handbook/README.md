@@ -995,7 +995,7 @@
 	* [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram)
       * [Summary Measures](https://en.wikipedia.org/wiki/Summary_statistics)
 	* Location [Central Tendency](https://en.wikipedia.org/wiki/Central_tendency))
-	  * [Mean](https://en.wikipedia.org/wiki/Mean) (Average) = (x1 + x2) / n
+	  * [Mean](https://en.wikipedia.org/wiki/Mean) (Average) = (x₁ + x₂) / n
 	    * sensative to [Outliers](https://en.wikipedia.org/wiki/Outlier) (observations w/ extreme values)
 	    * will generally larger than median because of outliers, but not always
 	      * [Trimmed Mean](https://en.wikipedia.org/wiki/Truncated_mean) = eliminate the smallest 10% and the largest 10%
@@ -1007,11 +1007,11 @@
 	* Variation ([Statistical Dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion)
 	  * [Range](https://en.wikipedia.org/wiki/Range_(statistics)) = xmax - xmin
 	  * [Deviation](https://en.wikipedia.org/wiki/Deviation_(statistics)) from Mean = mean - xi
-	  * [Unbiased Sample Variance](https://en.wikipedia.org/wiki/Variance) s = 1 / (N - 1) * sum(( Deviation from the Mean of xi )²)
+	  * [Unbiased Sample Variance](https://en.wikipedia.org/wiki/Variance) s = 1 / (N - 1) * Σ(( Deviation from the Mean of xi )²)
 	    * [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation) = sqrt(variance)
 	      * Add c to all values, same standard deviation
 	      * Multiply all values by c, new standard deviation = old standard deviation * c²
-	  * Population Variance = sigma² = sum(( Deviation from the Mean of xi )²) / N
+	  * Population Variance = σ² = Σ(( Deviation from the Mean of xi )²) / N
 	    * Coefficient of Variation = Variance / Population Mean
 	      * Estimated Coefficient of Variation = Sample Variance / Sample Mean
 	* Shape
@@ -1049,10 +1049,6 @@
 	* Visualizations
 	  * [Tree Diagrams](https://en.wikipedia.org/wiki/Tree_diagram_(probability_theory))
 	  * X-Y Plots
-	* Null-hypothesis
-	  * Errors
-	    * Type I
-	    * Type II
 	* [Regression](https://en.wikipedia.org/wiki/Regression_analysis)
 	  * Purpose: explain the relationship between two variables, predict 
 	  * [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
@@ -1090,13 +1086,29 @@
 	        * ± 2 Standard Errors => 95% Confidence Interval
 		* T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
 	* [Analysis of Variance](https://en.wikipedia.org/wiki/Analysis_of_variance) [ANOVA]
+	* [Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing): is the difference by chance or not?
+          * [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) (H₀): no relationship between the two
+	  * Process
+	    * Choose a null hypothesis and an alternate hypothesis.
+	      * e.g. H₀ = there has been no chnage in speeds as a result of a new law. H₁ = there has been a change.
+	    * Calculate the appropriate test statistic.
+	      * (Sample Estimate - Hypothesised Value) / Standard Error of Sample Estimate
+	    * Refer this statistic to a known distribution if the null hypothesis were true.
+	    * Select a significance level. e.g. 5%
+	    * Calculate the probability if the null hypothesis were true = Critial Value
+	    * Reject or not the null hypothesis.
+	      * e.g if |test statistic| > critical value, reject null hypothesis
+          * [Errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
+            * Type I: incorrect rejection of a true null hypothesis (false positive)
+            * Type II: incorrectly retaining a false null hypothesis (false negative)
+	* [Nonparametric Tests](https://en.wikipedia.org/wiki/Nonparametric_statistics)
       * Distributions
 	* Random Variables
 	* Probability Distribution (Probability Mass Function)
 	* Cummulative Distribution Function
 	* Expected Value = Mean Value
-	  * Discrete = sum(xi * p(x))
-	  * Expected Value(h(X)) = sum(h(x) * p(x))
+	  * Discrete = Σ(xi * p(x))
+	  * Expected Value(h(X)) = Σ(h(x) * p(x))
 	* Discrete Distributions
 	  * [Bernoulli](https://en.wikipedia.org/wiki/Bernoulli_distribution)
 	    * 1 = success, 0 = failure
@@ -1130,7 +1142,7 @@
         * Confidence Interval Coefficient for 2-sided test and confidence level 90%: 1.65, 95%: 1.96, 98%: 2.33, 99%: 2.58
       * [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem): means of samples tend to be distributed according to a normal distribution when n > 30
       * Comparing Two Samples
-        * Standard Error of the Distribution of the Difference of the Two Averages = sqrt((Variance1 / Sample Size1) + (Variance2 / Sample Size2))
+        * Standard Error of the Distribution of the Difference of the Two Averages = sqrt((Variance₁ / Sample Size₁) + (Variance₂ / Sample Size₂))
       * [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
         * Degrees of Freedom = Sample Size - 1
       * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
