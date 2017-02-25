@@ -1202,7 +1202,7 @@
             * with constant velocity
               * a = 0
               * v = constant
-              * s = s0 + v*t
+              * s = s₀ + v*t
               * Centrifugal Force = (m*v²)/R
             * with constant acceleration
               * a = constant
