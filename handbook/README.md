@@ -1206,8 +1206,8 @@
               * Centrifugal Force = (m*v²)/R
             * with constant acceleration
               * a = constant
-              * v = v0 + a*t
-              * s = ½*a*t² + v0*t
+              * v = v₀ + a*t
+              * s = ½*a*t² + v₀*t
               * F = m*a
             * [Weight](https://en.wikipedia.org/wiki/Weight) = m*g
             * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
