@@ -982,8 +982,8 @@
 	  * 8 | 00 15 30 45
 	  * 9 | 00 30
 	* [Dot Plots](https://en.wikipedia.org/wiki/Dot_plot_(statistics))
-	  * 8 | ****
-	  * 9 | **
+	  * 8 | \*\*\*\*
+	  * 9 | \*\*
 	* [Histograms](https://en.wikipedia.org/wiki/Histogram)
 	  * Determine Class/Bin Size
 	  * Determine Frequency or Relative Frequency (normalized)
@@ -1155,6 +1155,7 @@
       * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
         * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
       * Data Sources
+        * Surveys
         * Environmental Sensors (See Environmental Sensors)
         * Traffic Counts (See Traffic Counts)
         * (Autonomous) Vehicles
