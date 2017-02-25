@@ -10,7 +10,7 @@
       * Production - complex network of relationships between firms, activities, regions, nations
     * Accessibility
       * "The more or less easiness with which one can reach a location (a) to perform an activity (b)" - both geometric and economic
-      * Accessibility = sum(destinations * function of generalized costs)
+      * Accessibility = Σ(destinations * function of generalized costs)
       * Density, Diversity, Design
       * Depends on costs (time, money) and perception of those costs.
         * Monetary Budget ~ 15% of household budget
