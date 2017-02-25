@@ -988,7 +988,7 @@
 	  * Determine Class/Bin Size
 	  * Determine Frequency or Relative Frequency (normalized)
 	* [Box Plot](https://en.wikipedia.org/wiki/Box_plot)
-	  * min *-----[  | ]-----* max
+	  * min \*-----[  | ]-----\* max
 	  * box is lower quarter (median of lower half), median, upper quarter (median of upper half)
 	* [Parallel Coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates)
 	* [Heatmaps](https://en.wikipedia.org/wiki/Heat_map)
