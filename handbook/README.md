@@ -1132,12 +1132,12 @@
       * Methods
         * Random Sampling - impossible
         * Systematic Sampling - e.g. pick every 10th
-	* Stratified Sampling - group the population and sample from the groups at a ratio equal to their representation
-	* Enriched Sampling - stratified, but seek out people you need
+        * Stratified Sampling - group the population and sample from the groups at a ratio equal to their representation
+        * Enriched Sampling - stratified, but seek out people you need
       * [Standard Error](https://en.wikipedia.org/wiki/Sampling_error) = sqrt((Population Size - Sample Size) * (Sample Variance)² / (Population Size * Sample Size))
         * Estimate = Sample Variance / sqrt(Sample Size) => we want a big sample size if possible
-	* Depends on Sample Variance which we known only after we collect the data
-	* When the measure is a percent > 10%, Standard Error = sqrt(Percentage Obtained from Measurement * (1 - Percentage Obtained from Measurement) / Sample Size)
+        * Depends on Sample Variance which we known only after we collect the data
+        * When the measure is a percent > 10%, Standard Error = sqrt(Percentage Obtained from Measurement * (1 - Percentage Obtained from Measurement) / Sample Size)
       * [Confidence Interval](https://en.wikipedia.org/wiki/Confidence_interval) = Sample Mean ± Confidence Interval Coefficient * Standard Error
         * Confidence Interval Coefficient for 2-sided test and confidence level 90%: 1.65, 95%: 1.96, 98%: 2.33, 99%: 2.58
       * [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem): means of samples tend to be distributed according to a normal distribution when n > 30
