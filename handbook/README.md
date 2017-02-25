@@ -781,7 +781,7 @@
       * Views
         * Mathematical
           * [Euclidean Space](https://en.wikipedia.org/wiki/Euclidean_geometry)
-            * distance = sqrt((x1 - x2)²) + (y1 - y2)²) 
+            * distance = sqrt((x₁ - x₂)²) + (y₁ - y₂)²) 
           * [Gridded Space](https://en.wikipedia.org/wiki/Grid_plan) (Manhattan or [Taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry))
             * distance = |xi - xj| + |yi - yj|
         * Ontological: We focus on mesoscopic.
@@ -1207,7 +1207,7 @@
             * with constant acceleration
               * a = constant
               * v = v0 + a*t
-              * s = 1/2*a*t² + v0*t
+              * s = ½*a*t² + v0*t
               * F = m*a
             * [Weight](https://en.wikipedia.org/wiki/Weight) = m*g
             * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
@@ -1273,7 +1273,7 @@
             * [Kinematic Wave](https://en.wikipedia.org/wiki/Kinematic_wave)
               * q = v * k => q = f(k) = q(k(x)) => k = f(x - c * t), c = speed of the wave
               * [shock waves](https://en.wikipedia.org/wiki/Shock_wave) occur where two waves meet
-                * shock wave velocity, u = (q2 – q1) / (k2 – k1)
+                * shock wave velocity, u = (q₂ – q₁) / (k₂ – k₁)
                   * positive: downstream, no effect on congestion
                   * negative: upstream, causes congestion
         * [Macrosimulation](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
