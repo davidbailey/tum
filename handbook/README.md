@@ -863,7 +863,7 @@
       * Pitfalls
         * First Law of Geography / Autocorrelation
         * Modifiable Areal Unit Problem: we group things in unnatural ways e.g. census blocks
-        * The Ecological Fallacy: judge all individuals based on groupings e.g. if high crime occurs in low in come areas, this does not mean low income people are more likely to commit crime
+        * The Ecological Fallacy: judge all individuals based on groupings e.g. if high crime occurs in low income areas, this does not mean low income people are more likely to commit crime
         * Scale: scale changes how we see things
         * Nonuniformity: clusters change how we see things
         * Edge effects at artificial boundaries
