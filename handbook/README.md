@@ -1092,7 +1092,7 @@
           * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
       * [Analysis of Variance](https://en.wikipedia.org/wiki/Analysis_of_variance) [ANOVA]
       * [Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing): is the difference by chance or not?
-              * [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) (H₀): no relationship between the two
+        * [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) (H₀): no relationship between the two
         * Process
           * Choose a null hypothesis and an alternate hypothesis.
             * e.g. H₀ = there has been no chnage in speeds as a result of a new law. H₁ = there has been a change.
