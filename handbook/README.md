@@ -1159,7 +1159,7 @@
 	  * Observations are usually more accurate
 	  * Helps understand why, not just what
 	  * Often miss special cases
-        * Environmental Sensors (See Environmental Sensors)
+	* Environmental Sensors (See Environmental Sensors)
         * Traffic Counts (See Traffic Counts)
         * (Autonomous) Vehicles
         * Social Media
