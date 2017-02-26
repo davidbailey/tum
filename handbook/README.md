@@ -1157,16 +1157,16 @@
       * Data Sources
         * Surveys
 	  * Observations are usually more accurate
-	  * Helps understand why, not just what
-	  * Often miss special cases
-	* Environmental Sensors (See Environmental Sensors)
+          * Helps understand why, not just what
+          * Often miss special cases
+        * Environmental Sensors (See Environmental Sensors)
         * Traffic Counts (See Traffic Counts)
         * (Autonomous) Vehicles
         * Social Media
           * Twitter
         * Energy Data
-	* Communication Data
-	* Activity Data
+        * Communication Data
+        * Activity Data
         * Production and Consumption Data
         * Census Data
         * Safety Data
