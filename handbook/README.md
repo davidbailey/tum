@@ -1156,6 +1156,9 @@
         * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
       * Data Sources
         * Surveys
+          * Observations are usually more accurate
+          * Helps understand why, not just what
+          * Often miss special cases
         * Environmental Sensors (See Environmental Sensors)
         * Traffic Counts (See Traffic Counts)
         * (Autonomous) Vehicles
