@@ -473,7 +473,7 @@
             * Light
             * Noise
             * Air Pollution
-	      * https://www.arb.ca.gov/adam/index.html
+	            * https://www.arb.ca.gov/adam/index.html
               * carbon dioxide
               * sulfur oxides
               * nitrogen oxides
