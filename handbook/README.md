@@ -943,6 +943,7 @@
               * Cellular Models e.g. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
         * Quality Assessment
     * [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
+      * [GIS Software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
     * Cartography Design
       * https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/
   * [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
