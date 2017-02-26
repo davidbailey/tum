@@ -473,7 +473,10 @@
             * Light
             * Noise
             * Air Pollution
-	            * https://www.arb.ca.gov/adam/index.html
+              * Examples
+	              * https://www.arb.ca.gov/adam/index.html
+                * https://airnow.gov
+                * http://www.umweltbundesamt.de/en/data/current-concentrations-of-air-pollutants-in-germany
               * carbon dioxide
               * sulfur oxides
               * nitrogen oxides
