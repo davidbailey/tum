@@ -1165,8 +1165,8 @@
         * Social Media
           * Twitter
         * Energy Data
-        * Communication Data
-        * Activity Data
+	* Communication Data
+	* Activity Data
         * Production and Consumption Data
         * Census Data
         * Safety Data
