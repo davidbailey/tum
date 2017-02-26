@@ -915,8 +915,8 @@
                   * Density Maps: [Kernel Density Estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)
                   * [Trend Surfaces](https://en.wikipedia.org/wiki/Trend_surface_analysis)
                   * [Regression Analysis](https://en.wikipedia.org/wiki/Regression_analysis) e.g. Linear Regression y = mx + b
-                  * [Kriging](https://en.wikipedia.org/wiki/Kriging): fit within a confidence interval assuming autocorrelation
-            * Vertical Analysis
+		  * [Kriging](https://en.wikipedia.org/wiki/Kriging): fit within a confidence interval assuming autocorrelation
+            * Vertical Analysis
               * Map Algebra (on multiple layers)
                 * Boolean Operators e.g. AND, OR, NOT
                 * Algebraic Operators e.g. +, -, *, /, log, etc.
