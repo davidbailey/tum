@@ -1599,7 +1599,7 @@
       * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
         * Sustainable Urban Transport Project
           * http://www.sutp.org/en/
-	    * 10 Principles for Sustainable Urban Transport
+          * 10 Principles for Sustainable Urban Transport
 	      * http://www.sutp.org/files/contents/documents/resources/J_Others/10_principles_english.pdf
 ![10 Principles for Sustainable Urban Transport](https://github.com/davidbailey/tum/raw/master/handbook/10principles.png)
             * How to plan and develop a pedestrian and cycling network
