@@ -708,6 +708,7 @@
       * [Inter-city Rail](https://en.wikipedia.org/wiki/Inter-city_rail)
         * [High-speed Rail](https://en.wikipedia.org/wiki/High-speed_rail)
       * [Surburban/Commuter Rail](https://en.wikipedia.org/wiki/Commuter_rail)
+        * http://www.citymetric.com/transport/paris-vs-tokyo-two-different-models-express-commuter-rail-stopping-patterns-2834
       * Urban Rail
         * [Rapid Transport](https://en.wikipedia.org/wiki/Rapid_transit)
           * [Rubber-tyred Metro](https://en.wikipedia.org/wiki/Rubber-tyred_metro)
