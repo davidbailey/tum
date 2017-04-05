@@ -114,7 +114,7 @@
              <td>driver</td>
              <td>by sight</td>
          </tr>
-         </table>  
+         </table>
           * Stops/Stations
           * Control Infrastructure
           * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
