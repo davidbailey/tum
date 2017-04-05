@@ -1281,7 +1281,8 @@
          <td>Low</td>
          <td>Low</td>
      </tr>
-     </table>  
+     </table> 
+     
             * Two Areas of Traffic
               * Free flow (stable)
               * Transitional (unstable)
