@@ -85,36 +85,36 @@
               * B: Exclusive right-of-way across links; shared right-of-way across nodes. e.g. LACMTA Expo Line
               * C: Shared right-of-way across nodes and links. e.g. Buses
               * http://humantransit.org/2011/03/rail-bus-differences-contd.html
-         <table>
-         <tr>
-             <td></td>
-             <td>Speed</td>
-             <td>Capacity</td>
-             <td>Vehicle Control</td>
-             <td>Operation Control</td>
-         </tr>
-          <tr>
-             <td>A</td>
-             <td>very high</td>
-             <td>very high</td>
-             <td>driver/automated</td>
-             <td>interlock systems</td>
-         </tr>
-         <tr>
-             <td>B</td>
-             <td>high</td>
-             <td>high</td>
-             <td>driver</td>
-             <td>interlock systems/by sight</td>
-         </tr>
-         <tr>
-             <td>C</td>
-             <td>moderate</td>
-             <td>moderate</td>
-             <td>driver</td>
-             <td>by sight</td>
-         </tr>
-         </table>
+ <table>
+ <tr>
+     <td></td>
+     <td>Speed</td>
+     <td>Capacity</td>
+     <td>Vehicle Control</td>
+     <td>Operation Control</td>
+ </tr>
+  <tr>
+     <td>A</td>
+     <td>very high</td>
+     <td>very high</td>
+     <td>driver/automated</td>
+     <td>interlock systems</td>
+ </tr>
+ <tr>
+     <td>B</td>
+     <td>high</td>
+     <td>high</td>
+     <td>driver</td>
+     <td>interlock systems/by sight</td>
+ </tr>
+ <tr>
+     <td>C</td>
+     <td>moderate</td>
+     <td>moderate</td>
+     <td>driver</td>
+     <td>by sight</td>
+ </tr>
+ </table>
           * Stops/Stations
           * Control Infrastructure
           * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
