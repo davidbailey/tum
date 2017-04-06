@@ -87,6 +87,7 @@
               * http://humantransit.org/2011/03/rail-bus-differences-contd.html
 
   | Speed | Capacity | Vehicle Control | Operation Control
+- | ----- | -------- | --------------- | -----------------
 A | very high | very high | driver/automated | interlock systems
 B | high | high | driver | interlock systems/by sight
 C | moderate | moderate | driver | by sight
