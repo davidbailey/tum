@@ -332,7 +332,7 @@
     * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. At the same time, improved farming technology caused people to move to cities. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial. -> Transit city
     * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). High amount of uncoordinated growth. Increasing seperation of uses (residential, job centers, commercial, industrial) (zoning). Airplanes for long distance transportation. -> Car city
     * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? More walking and cycling?
-* Infrastructure
+2. Infrastructure
   * [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
     * Ways
       * Pedestrian Paths
@@ -675,7 +675,7 @@
       * Water
       * Sewage
   * [Cable](https://en.wikipedia.org/wiki/Cable_transport)
-* Research
+3. Research
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
      * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
@@ -1440,7 +1440,7 @@
       * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
       * [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
         * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-* Education, Research, and Governance Organizations
+4. Education, Research, and Governance Organizations
   * Independent
     * Victoria Transport Policy Institute
       * Transportation Cost and Benefit Analysis Techniques, Estimates and Implications
@@ -1551,7 +1551,7 @@
         * National Institute for Transportation and Communities
           * http://nitc.trec.pdx.edu/
           * http://nitc.trec.pdx.edu/events/archive
-* [Transport and the Environment](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
+5. [Transport and the Environment](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
   * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
     * Transportation Life Cycle Assessment
       * http://transportationlca.org
@@ -1567,8 +1567,8 @@
         * Bicycles don't pollute (increased health and land value)
         * Bicycles cost less (social mobility)
         * Bicycles don't take up space or divide communities
-* [Recreation](https://en.wikipedia.org/wiki/Recreation)
-* Impact Analysis and Evaluation
+6. [Recreation](https://en.wikipedia.org/wiki/Recreation)
+7. Impact Analysis and Evaluation
   * Phases
     * ex ante (before) e.g. cost-benefit analysis
     * post ante (after) e.g. proof of effectiveness, quality control, effiency control
@@ -1598,17 +1598,17 @@
       * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
     * [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) – Strengths / Weaknesses / Opportunities / Threats
 
-|   | Helpful | Harmful |
-| - | ------- | ------- |
-| Internal | Strengths | Weaknesses |
-| External | Opportunities | Threats |
+    |   | Helpful | Harmful |
+    | - | ------- | ------- |
+    | Internal | Strengths | Weaknesses |
+    | External | Opportunities | Threats |
 
-|   | Strengths | Weaknesses |
-| - | --------- | ---------- |
-| Opportunities | take advantage of opportunities | use strengths to avoid threats |
-| Threats | eliminiate weaknesses through opportunities | minimize weaknesses and avoid threats |
+    |   | Strengths | Weaknesses |
+    | - | --------- | ---------- |
+    | Opportunities | take advantage of opportunities | use strengths to avoid threats |
+    | Threats | eliminiate weaknesses through opportunities | minimize weaknesses and avoid threats |
 
-* [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
+8. [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
   * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
     * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
     * Safety: crashes, fatalities,
@@ -1616,7 +1616,7 @@
     * Social: accessibility,
   * Performance-Based Regulation
     * https://cei.org/content/toward-performance-based-transportation-safety-regulation
-* Apps
+9. Apps
   * Mobile Apps
     1. Maps/Routing/Traffic
       1. Apple Maps
