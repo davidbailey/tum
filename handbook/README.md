@@ -86,16 +86,12 @@
               * C: Shared right-of-way across nodes and links. e.g. Buses
               * http://humantransit.org/2011/03/rail-bus-differences-contd.html
 
-|   | Speed | Capacity | Vehicle Control | Operation Control |
-| - | ----- | -------- | --------------- | ----------------- |
-| A | very high | very high | driver/automated | interlock systems |
-| B | high | high | driver | interlock systems/by sight |
-| C | moderate | moderate | driver | by sight |
-*
-  *
-    *
-      *
-        *
+              |   | Speed | Capacity | Vehicle Control | Operation Control |
+              | - | ----- | -------- | --------------- | ----------------- |
+              | A | very high | very high | driver/automated | interlock systems |
+              | B | high | high | driver | interlock systems/by sight |
+              | C | moderate | moderate | driver | by sight |
+          
           * Stops/Stations
           * Control Infrastructure
           * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
