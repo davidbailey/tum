@@ -196,12 +196,12 @@
           * Incident Management
         * Stakeholders
           * Customers
-          | Group | Familiar with Area | Familiar with System | Description |
-          | ----- | ------------------ | -------------------- | ----------- |
-          | I | Yes | Yes | Frequent passenger on known route |
-          | II | No | Yes | Frequent passenger on new route/city |
-          | III | Yes | No | Occasional passenger on popular route |
-          | IV | No | No | Occasional passenger in new area |
+            | Group | Familiar with Area | Familiar with System | Description |
+            | ----- | ------------------ | -------------------- | ----------- |
+            | I | Yes | Yes | Frequent passenger on known route |
+            | II | No | Yes | Frequent passenger on new route/city |
+            | III | Yes | No | Occasional passenger on popular route |
+            | IV | No | No | Occasional passenger in new area |
           * Operators
           * Management
         * Improvements (See Bus Rapid Transit)
