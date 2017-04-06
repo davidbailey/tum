@@ -196,38 +196,12 @@
           * Incident Management
         * Stakeholders
           * Customers
-         <table>
-         <tr>
-             <td>Group</td>
-             <td>Familiar with Area</td>
-             <td>Familiar with System</td>
-             <td>Description</td>
-         </tr>
-          <tr>
-             <td>I</td>
-             <td>Yes</td>
-             <td>Yes</td>
-             <td>Frequent passenger on known route</td>
-         </tr>
-         <tr>
-             <td>II</td>
-             <td>No</td>
-             <td>Yes</td>
-             <td>Frequent passenger on new route/city</td>
-         </tr>
-         <tr>
-             <td>III</td>
-             <td>Yes</td>
-             <td>No</td>
-             <td>Occasional passenger on popular route</td>
-         </tr>
-         <tr>
-             <td>IV</td>
-             <td>No</td>
-             <td>No</td>
-             <td>Occasional passenger in new area</td>
-         </tr>
-         </table>
+          | Group | Familiar with Area | Familiar with System | Description |
+          | ----- | ------------------ | -------------------- | ----------- |
+          | I | Yes | Yes | Frequent passenger on known route |
+          | II | No | Yes | Frequent passenger on new route/city |
+          | III | Yes | No | Occasional passenger on popular route |
+          | IV | No | No | Occasional passenger in new area |
           * Operators
           * Management
         * Improvements (See Bus Rapid Transit)
