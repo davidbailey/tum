@@ -1198,32 +1198,13 @@
               * cars/hr = cars/km * km/hr
             * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
             ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/schick2003.png)
-     <table>
-     <tr>
-         <td></td>
-         <td>Density (k)</td>
-         <td>Volume (q)</td>
-         <td>Velocity (v)</td>
-     </tr>
-      <tr>
-         <td>Free Flow</td>
-         <td>Low</td>
-         <td>Low</td>
-         <td>High</td>
-     </tr>
-     <tr>
-         <td>Partially Dense</td>
-         <td>Medium</td>
-         <td>High</td>
-         <td>Medium-High</td>
-     </tr>
-     <tr>
-         <td>Dense</td>
-         <td>High</td>
-         <td>Low</td>
-         <td>Low</td>
-     </tr>
-     </table> 
+
+            |   | Density (k) | Volume (q) | Velocity (v) |
+            | - | ----------- | ---------- | ------------ |
+            | Free Flow | Low | Low | High |
+            | Partially Dense | Medium | High | Medium-High |
+            | Dense | High | Low | Low |
+
             * Two Areas of Traffic
               * Free flow (stable)
               * Transitional (unstable)
