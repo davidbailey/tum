@@ -1597,40 +1597,17 @@
     * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
       * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
     * [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) – Strengths / Weaknesses / Opportunities / Threats
-         <table>
-          <tr>
-             <td></td>
-             <td>Helpful</td>
-             <td>Harmful</td>
-         </tr>
-         <tr>
-             <td>Internal</td>
-             <td>Strengths</td>
-             <td>Weaknesses</td>
-         </tr>
-         <tr>
-             <td>External</td>
-             <td>Opportunities</td>
-             <td>Threats</td>
-         </tr>
-         </table>  
-         <table>
-          <tr>
-             <td></td>
-             <td>Strengths</td>
-             <td>Weaknesses</td>
-         </tr>
-         <tr>
-             <td>Opportunities</td>
-             <td>take advantage of opportunities</td>
-             <td>use strengths to avoid threats</td>
-         </tr>
-         <tr>
-             <td>Threats</td>
-             <td>eliminiate weaknesses through opportunities</td>
-             <td>minimize weaknesses and avoid threats</td>
-         </tr>
-         </table>
+
+|   | Helpful | Harmful |
+| - | ------- | ------- |
+| Internal | Strengths | Weaknesses |
+| External | Opportunities | Threats |
+
+|   | Strengths | Weaknesses |
+| - | --------- | ---------- |
+| Opportunities | take advantage of opportunities | use strengths to avoid threats |
+| Threats | eliminiate weaknesses through opportunities | minimize weaknesses and avoid threats |
+
 * [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
   * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
     * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
