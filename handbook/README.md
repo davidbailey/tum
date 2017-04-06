@@ -232,23 +232,12 @@
       * [Bike Share](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
       * Transport Offer
         * network + services
-     <table>
-     <tr>
-         <td>Infrastructure</td>
-         <td>Private Operator</td>
-         <td>Public Operator</td>
-     </tr>
-      <tr>
-         <td>Rail</td>
-         <td>X</td>
-         <td>National, Regional, Commuter, Metro</td>
-     </tr>
-     <tr>
-         <td>Road</td>
-         <td>Car, Motorcycle, Bicycle, Pedestrian</td>
-         <td>Bus, Taxi</td>
-     </tr>
-     </table>
+
+      | Infrastructure | Private Operator | Public Operator |
+      | -------------- | ---------------- | --------------- |
+      | Rail | X | National, Regional, Commuter, Metro |
+      | Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi |
+
     * [Land Use](https://en.wikipedia.org/wiki/Land_use), [Zoning](https://en.wikipedia.org/wiki/Zoning), [Spacial Planning](https://en.wikipedia.org/wiki/Spatial_planning), [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
       * Forest -> Farms -> Cities
       * Residential zone home types
