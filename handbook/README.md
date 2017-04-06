@@ -92,6 +92,10 @@
 | B | high | high | driver | interlock systems/by sight |
 | C | moderate | moderate | driver | by sight |
 *
+  *
+    *
+      *
+        *
           * Stops/Stations
           * Control Infrastructure
           * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
