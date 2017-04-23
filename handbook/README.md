@@ -1595,9 +1595,9 @@
             * https://ops.fhwa.dot.gov/trafficanalysistools/tat_vol3/vol3_guidelines.pdf
           * Traffic Signal Timing Manual
             * https://ops.fhwa.dot.gov/arterial_mgmt/tstmanual.htm
-	  * Small Town and Rural Multimodal Networks
-	    * https://www.fhwa.dot.gov/environment/bicycle_pedestrian/publications/small_towns/
-	    * http://ruraldesignguide.com
+          * Small Town and Rural Multimodal Networks
+            * https://www.fhwa.dot.gov/environment/bicycle_pedestrian/publications/small_towns/
+            * http://ruraldesignguide.com
         * [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration)
           * [Federal Motor Vehicle Safety Standards](https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards)
           * [Fatality Analysis Reporting System](https://en.wikipedia.org/wiki/Fatality_Analysis_Reporting_System)
