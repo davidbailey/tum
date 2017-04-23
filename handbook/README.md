@@ -605,6 +605,8 @@
             * https://www.law.cornell.edu/cfr/text/49/213.57
             * http://www.highspeed-rail.org/Documents/PRIIA%20305%20DocSpec%20and%20other%20NGEC%20Documents/305%20PRIIA%20Tilt%20presentation.pdf
           * https://github.com/davidbailey/py/blob/master/railRadius.py
+      * Equiptment
+        * Impediance Bond
     * [Trains](https://en.wikipedia.org/wiki/Train)
       * Propulsion
         * Power Configuration
@@ -617,6 +619,8 @@
           * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
       * [Braking](https://en.wikipedia.org/wiki/Railway_brake)
       * Suspension
+      * Maintenance of Way Equiptment
+        * Continious Track Lifter
     * [Junction](https://en.wikipedia.org/wiki/Junction_(rail))
     * [Switches](https://en.wikipedia.org/wiki/Railroad_switch)
     * [Interlockings](https://en.wikipedia.org/wiki/Interlocking)
