@@ -1577,6 +1577,10 @@
       * https://en.wikibooks.org/wiki/Fundamentals_of_Transportation
     * [Association of American Railroads](https://en.wikipedia.org/wiki/Association_of_American_Railroads)
       * [Transportation Technology Center, Inc.](https://en.wikipedia.org/wiki/Transportation_Technology_Center,_Inc.)
+    * [American Automobile Association](https://en.wikipedia.org/wiki/American_Automobile_Association)
+    * [American Highway Users Alliance](https://en.wikipedia.org/wiki/American_Highway_Users_Alliance)
+    * Los Angeles County Bicycle Coalition
+      * http://www.la-bike.org
   * Government
     * United States
       * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
