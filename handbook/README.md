@@ -93,6 +93,7 @@
               | C | moderate | moderate | driver | by sight |
 
           * Stops/Stations
+	    * [Last Mile](https://en.wikipedia.org/wiki/Last_mile_(transportation))
           * Control Infrastructure
           * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
           * Mode
@@ -120,7 +121,26 @@
               * Speed
               * Capacity
                 * System capacity depends on capacity of infrastructure, size of vehicle, headways
+		* Bus: 90 people/vehicle
+		* LRT: 180 people/car
+		* HRT: 180 people/car
+		* Commuter Rail: 180 people/car
               * Comfort
+
+	      | Mode | Speed | Capacity | Cost |
+	      | ---- | ----- | -------- | ---- |
+	      | Mixed Traffic Lane | 1500-2000 people/h (average vehicle occupancy = 1.2-1.3 people/vehicle) | Mid-High|
+	      | Bus | | 5000 people/h | Low |
+	      | Bicycle Path | | 14000 people/h | Low |
+	      | BRT | | 9000-17000 people/h | Low |
+	      | Pedestrians | 4 km/h | 19000 people/h | Low |
+	      | Tram | 15-25 km/h | 10000 people/h | Mid |
+	      | LRT | 20-30 km/h | 30000 people/h | Mid (~$60,000,000/km) |
+	      | Monorail | 25-35 km/h | 30000 people/h | High |
+	      | 2-Lane BRT | | 40000 people/h (Bogotá) | Low-Mid |
+	      | HRT | 30-60 km/h | 60000+ people/h | High (~$100,000,000+/km) |
+	      | Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High |
+
           * Network
             * Routes
           * Timetable
@@ -224,6 +244,8 @@
         * https://www.youtube.com/watch?v=N0OGqjPS47E
         * Integrated Synchronized Timetable (Timed Transfer)
           * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
+	  * Advantages: high geographical network coverage, reduced travel times due to optimized connections, simpler timetable, improved punctuality, continuous operation, reduction of empty trips
+	  * Disadvantages: high long-term investments in infrastructure, infrastructure is not used to capacity, high peak traffic at nodes, increase in travel time for some trips, requires prioritization of people over freight
       * [Carpool](https://en.wikipedia.org/wiki/Carpool)
       * [Taxi](https://en.wikipedia.org/wiki/Taxicab)
         * [Ride Sharing](https://en.wikipedia.org/wiki/Transportation_network_company)
@@ -253,6 +275,8 @@
           * [Garden City](https://en.wikipedia.org/wiki/Garden_city_movement)
           * max 2km around station (30 minute walk), but hopefully more like 5-7 minute walk
           * mix of uses w/ moderate to high density
+	    * reduces some trips
+	    * reducing density as the distance from the station increases
           * pedestrian oreientation/connectivity
           * transportation choices
           * reduced parking
@@ -336,10 +360,14 @@
   * [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
     * Ways
       * Pedestrian Paths
+        * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
+	  * Children in Sweden can walk alone at age 12-13.
       * [Bicycle Paths](https://en.wikipedia.org/wiki/Bike_path)
       * [Shared (Pedestrian and Bicycle) Paths](https://en.wikipedia.org/wiki/Shared_use_path)
       * [Roads](https://en.wikipedia.org/wiki/Road)
         * General Use Lanes
+	  * [Road Diet](https://en.wikipedia.org/wiki/Road_diet)
+	  * [Reversible Lane](https://en.wikipedia.org/wiki/Reversible_lane)
         * [Bus Lanes](https://en.wikipedia.org/wiki/Bus_lane)
         * [Bicycle Lanes](https://en.wikipedia.org/wiki/Cycling_infrastructure#Bike_lanes)
           * [Protected](https://en.wikipedia.org/wiki/Cycle_track)
@@ -348,6 +376,9 @@
         * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
       * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
       * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
+        * [2+1 Road](https://en.wikipedia.org/wiki/2%2B1_road)
+	* [Super Two](https://en.wikipedia.org/wiki/Super_two)
+	* [Two-lane Expressway](https://en.wikipedia.org/wiki/Two-lane_expressway)
         * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
           * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(road))
           * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
@@ -362,6 +393,11 @@
             * Level 4 High Automation
             * Level 5 Full Automation
             * http://www.sae.org/misc/pdfs/automated_driving.pdf
+	  * [Cars/Person](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)
+	    * USA: 797/1000 people (often used for commuting and recreation)
+	    * Germany: 572/1000 people (often used for recreation)
+	    * India: 32/1000 people
+	    * High in High GDP Countries, High in Low GDP Countries = Economically Stressful
         * [Trucks](https://en.wikipedia.org/wiki/Truck)
         * [Buses](https://en.wikipedia.org/wiki/Bus)
           * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
@@ -458,6 +494,18 @@
             * Signalized
               * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
                 * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
+		  * Signalized Intersection Design Process
+		    1. Find complementary signals: analyze the intersection geometry and determine conflict points (conflicting signals).
+		    2. Define which signal belong to which phases and choose an appropriate sequence of phases.
+		    3. Determine inter-green times based conflict mode, type, geometry, and speed.
+		    4. Determine saturation flow based on number of lanes * adjustment factors
+		    5. Determine traffic volumes per stream
+		    6. Determine cycle time between 60 and 120 seconds
+		    7. Calculate necessary green times including minimum green times.
+		    8. Calculate available green time = cycle time - sum of intergreen times
+		    9. Determine capacity of the intersection = sum of all capacities = green time for each flow * saturation flow for each flow from 4.
+		    10. Determine degree of saturation (highest of all flows) for all movements and assign a quality.
+		    11. Set the signal plan.
                   * (See Traffic Signal Timing Manual)
                   * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
                     * Requirements for Coordination
@@ -481,6 +529,13 @@
                 * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
             * [Grade Seperation](https://en.wikipedia.org/wiki/Grade_separation)
           * Turns
+	    * Types (varies across the USA, even within a city)
+	      * Permissive (green/red circle)
+	        * Shorter delay for all users
+	        * Typical in Germany
+	      * Protected (green/red arrow)
+	        * Longer delay for all users
+	        * Typical in The Netherlands
             * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
             * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
             * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
@@ -610,6 +665,7 @@
         * Power Configuration
           * [Locomotive](https://en.wikipedia.org/wiki/Locomotive)
             * [Cab Cars](https://en.wikipedia.org/wiki/Control_car)
+	    * [Distributed Power](https://en.wikipedia.org/wiki/Distributed_power)
           * [Multiple Unit](https://en.wikipedia.org/wiki/Multiple_unit)
         * Motive Power
           * [Electric](https://en.wikipedia.org/wiki/Electric_train)
@@ -1338,6 +1394,7 @@
         * Less cost, less time, less risk
         * Detailed data about all components
         * Reproducible, modifiable
+      * Be careful what you define as the system. E.g. if you only consider current drivers, induced demand doesn't exist, but we know it does... In reality, the transportation system is global (or greater)
       * Inputs
         * Network Model: Links, Nodes, Rules
         * Traffic Demand: O/D Matrix
@@ -1441,6 +1498,35 @@
       * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
       * [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
         * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+  * Travel Behavior Analysis
+    * Why Travel?
+      * Activities at Destination
+      * [Recreation](https://en.wikipedia.org/wiki/Recreation)
+    * 
+    * Influences
+      * Environment: noise, air, water, safety
+      * Technology: ITS, phone, GPS, telework, teleconference
+      * Space
+        * Hagerstrand Diagram
+	* cities have more activities within a surrounding area than suburbs
+      * Performance, comfort, convenience
+      * Available vehicle types: car, car share, bike, bike share, public transportation
+      * Cost/price: money and time; perception matters more than actual cost
+      * Home/work locations: average travel time ~ 30 minutes each way
+    * Maslow's Heierarchy of Needs
+      1. Physiological: breathing, sleeping (food)
+      2. Saety: security of the body, family, property (work)
+      3. Love/belonging: friends, family, sex, intamacy (socializing)
+      4. Esteem: respect
+      5. Self-actualization: morality, creativity, problem solving (recreation)
+    * Scheduling
+      1. Mandatory things
+      2. Discretionary things
+    * Travel Budgets
+    * Mode Choice
+      * [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice)
+        * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+      * [Red Bus / Blue Bus Problem](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives#Criticism_of_IIA)
 ## Education, Research, and Governance Organizations
   * Independent
     * Victoria Transport Policy Institute
@@ -1501,6 +1587,9 @@
             * https://ops.fhwa.dot.gov/trafficanalysistools/tat_vol3/vol3_guidelines.pdf
           * Traffic Signal Timing Manual
             * https://ops.fhwa.dot.gov/arterial_mgmt/tstmanual.htm
+	  * Small Town and Rural Multimodal Networks
+	    * https://www.fhwa.dot.gov/environment/bicycle_pedestrian/publications/small_towns/
+	    * http://ruraldesignguide.com
         * [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration)
           * [Federal Motor Vehicle Safety Standards](https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards)
           * [Fatality Analysis Reporting System](https://en.wikipedia.org/wiki/Fatality_Analysis_Reporting_System)
@@ -1552,71 +1641,192 @@
         * National Institute for Transportation and Communities
           * http://nitc.trec.pdx.edu/
           * http://nitc.trec.pdx.edu/events/archive
-## [Transport and the Environment](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
-  * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
-    * Transportation Life Cycle Assessment
-      * http://transportationlca.org
-  * [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
-    * Economic
-    * Social
-      * Social Justice, Safety, Public Health, Seperation, Socialization 
-    * Ecological
-      * Energy, Noise, Air Pollution, Land-use
-    * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
-      * Features
-        * Bicycles don't experience congestion (nearly as much as cars)
-        * Bicycles don't pollute (increased health and land value)
-        * Bicycles cost less (social mobility)
-        * Bicycles don't take up space or divide communities
-## [Recreation](https://en.wikipedia.org/wiki/Recreation)
-## Impact Analysis and Evaluation
-  * Phases
-    * ex ante (before) e.g. cost-benefit analysis
-    * post ante (after) e.g. proof of effectiveness, quality control, effiency control
-  * Types
-    * Technical assessment e.g. technical, logical, functional
-    * Impact analysis e.g. environmental, travel time
-    * Socio-economical analysis e.g. safety, environmental
-    * Assessment of user acceptance
-    * Financial and operational analysis e.g. logical, possible
-  * Goals -> Targets -> Sub-targets -> Indicators -> Measurement w/ Units
-    * Stakeholders: Customers, Operators, Management, Society
-    * Competative, Complementary, Indifferent, Substituable
-    * e.g. safety, costs, delays, travel time, size of bike network, reliability of public transportation
-  * Methods
-    * [Cost-benefit analysis](https://en.wikipedia.org/wiki/Cost–benefit_analysis)
-      * costs and benefits = monetary terms
-        * Direct
-        * Indirect
-        * Intangible
-    * Utility analysis
-      * uses weights instead of monetary terms
-    * Cost-impact analysis
-    * Impact analysis
-    * Before/after analysis
-    * Balancing and Discussion
-    * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
-      * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
-    * [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) – Strengths / Weaknesses / Opportunities / Threats
 
-    |   | Helpful | Harmful |
-    | - | ------- | ------- |
-    | Internal | Strengths | Weaknesses |
-    | External | Opportunities | Threats |
+## [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
+  * derived from sustainable forestry
+  * Economic
+  * Social
+    * Social Justice, Safety, Public Health, Seperation, Socialization 
+    * 1,200,000-1,600,000 Traffic Death / Year Worldwide
+  * Ecological / [Environmental](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
+    * Energy, Noise, Air Pollution, Land-use
+    * 27% CO2 Worldwide is from Transportation
+      * Hong Kong = 500kg CO2
+      * Houston = 5600kg CO2
+    * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
+      * Transportation Life Cycle Assessment
+	* http://transportationlca.org
+  * Vision Zero
+    * Origin: [September 3, 1967 (Dagen H)](https://en.wikipedia.org/wiki/Dagen_H)
+    * Philosophy
+      * "No one should be killed or seriously injured within the road traffic system"
+	* Ethical approach, not uncontroversial
+      * Road engineers share responsibility with road users via the road network
+      * The road network must be built to allow people to make mistakes without fatal consequences, because people make mistakes
+    * The Basics
+      * Dense mixed-use neighborhoods
+      * Walkability and cycleability
+      * Attractive transit
+      * Demand Management
+    * Data Collection 
+      * Things that get counted count more i.e. pedestrians and bikes are often neglected
+      * STRADA
+	* Inputs
+	  * Police Data
+	  * Hospital Data (much better for pedestrians and cyclists)
+	* Outputs
+	  * Traffic Crash Reports
+	  * Prioritization of measures
+	    * High fatality/injury rate in the area
+	    * Children: schools, parks
+	    * Poor speed compliance
+	    * Wrong speed limit e.g. urban road with freeway speed limit
+	  * Answers to questions from planners, government, media, people
+	  * Measure of current situation
+	  * Measure of effectiveness of specific projects
+	  * Measure of effectiveness of Vision Zero program overall
+    * Measures
+      * Speed is one of the most important factors
+	* Must set the right speed given the area and users
+	  * Lots of pedestrians and cyclists in the area => lower speed
+	  * Limited-access divided road => higher speed
+	* Road design should communicate the right speed to drivers, not signs
+	* Also set consistent speeds
+      * Sidewalks and protected bike lanes
+      * Roundabouts, raised pedestrian crossing, speed tables, speed bumps (with modifications for buses, police, fire, ambulances), chicanes, narrowing of the traffic lanes
+	* Painted crosswalks and signals are an accessibility measure, not a safety measure because they do not prevent cars from hitting people. People do not have to slow or stop.
+    * Communication is key: messages must speak to people, not engineers
+  * Systematic Safety: Humans are vulnerable and make mistakes.
+    1. Speed control and Separation
+      6 mph - shared spaces
+      20 mph - bicycles in mixed traffic - chicanes, speed humps, raised intersections
+      25 mph - drivers yield for pedestrian crossings - narrow lanes, crossing islands, 1 lane per direction to prevent passing
+      30 mph - 90 degree intersections
+      40 mph - separate by direction e.g. median
+      70 mph
+    2. Functional harmony: avoid incompatible functions e.g. shops and through traffic
+      a. Local streets 20 mph w/ parking, no lane markings, diverters to limit through traffic
+      b. Neighborhood principals 25 mph: 1 lane/direction, lots of crossings
+      c. Urban arterials 30 mph, signalized crossings, bike paths, no shops
+      d. Regional roads, 45mph no local access
+    3. Predictability and Simplicity: green bike lanes, crossing islands are simpler, turn lanes with dedicated arrows
+    4. Forgiveness and restrictiveness: mistakes do not cause serious injury, prevent mistakes
+    5. State awareness: drunk driving, texting, inexperience
+  * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
+    * Features
+      * Bicycles don't experience congestion (nearly as much as cars)
+      * Bicycles don't pollute (increased health and land value)
+      * Bicycles cost less (social mobility)
+      * Bicycles don't take up space or divide communities
+    * Germany: 4th grade bicycle test with police as part of school
+  * Moving from Traditional (Car-focused) to Sustainable (People-focused)
+    * Improve Walk, Bike, Public Transportation, Cars, Planes
+      * Long timeline e.g. most Metros have taken 100 years to build, but bus lanes are quicker (cheaper)
+      * Must happen before reducing cars
+    * Demand is influenced by policy, price, etc., not a given
+    * Design public transportation aroud people, not technology
+      * Traditional approach: pick technology, fit city to technology, force people to adopt - results in high-costs and low ridership
+      * Successful approach: design around people: network, easy, fast; evaluate options from the city perspective ($$$), decide
+	* Mimic the good aspects of cars: e.g. high-speed, high-frequency (12+ vehicles/hr), high-quality e.g. BRT
+  * Buzzword Bingo (Measures)
+    * Public Transportation Priority
+    * Non-motorized Transportaion
+    * Public Spaces
+    * Public Transportation Integration
+    * Transportation Demand Management
+    * High Quality Public Trasnportation
+    * Land Use Policies
+    * Car Restrictions
 
-    |   | Strengths | Weaknesses |
-    | - | --------- | ---------- |
-    | Opportunities | take advantage of opportunities | use strengths to avoid threats |
-    | Threats | eliminiate weaknesses through opportunities | minimize weaknesses and avoid threats |
+## Management 
+  * Project Project Phases
+    1. Planning:
+      * Goals: Sustainable Transportation
+      * Determine Actions and their effects on Goals
+    2. Funding
+    3. Programming: multi-modal and multi-jurisdictional, cost/benefit, (See Impact Analysis and Evaluation)
+    4. Evaluating (See Impact Analysis and Evaluation)
+      * measure 1, 5, 10 years after
+      * report to taxpayers: accountable, transparent, accessible
+      * compare targets/goals to reality
+  * Impact Analysis and Evaluation
+    * Phases
+      * ex ante (before) e.g. cost-benefit analysis
+      * post ante (after) e.g. proof of effectiveness, quality control, effiency control
+    * Types
+      * Technical assessment e.g. technical, logical, functional
+      * Impact analysis e.g. environmental, travel time
+      * Socio-economical analysis e.g. safety, environmental
+      * Assessment of user acceptance
+      * Financial and operational analysis e.g. logical, possible
+    * Goals -> Targets -> Sub-targets -> Indicators -> Measurement w/ Units
+      * Stakeholders: Customers, Operators, Management, Society
+      * Competative, Complementary, Indifferent, Substituable
+      * e.g. safety, costs, delays, travel time, size of bike network, reliability of public transportation
+    * Methods
+      * [Cost-benefit analysis](https://en.wikipedia.org/wiki/Cost–benefit_analysis)
+	* costs and benefits = monetary terms
+	  * Direct
+	  * Indirect
+	  * Intangible
+      * Utility analysis
+	* uses weights instead of monetary terms
+      * Cost-impact analysis
+      * Impact analysis
+      * Before/after analysis
+      * Balancing and Discussion
+      * Virginia SMART scale scorecard http://vasmartscale.org 
+	* Safety
+	  * Number of Fatal and Injury Crashes (50%)
+	  * Rate of Fatal and Injury Crashes (50%)
+	* Congestion Mitigation
+	  * Person Throughput (50%)
+	  * Person Hours of Delay (50%)
+	* Accessibility
+	  * Access to Jobs (60%)
+	  * Access to Jobs for Disadvantaged Persons (20%)
+	  * Access to Multimodal Choices (20%)
+	* Environmental Quality
+	  * Air Quality and Environmental Effect (50%)
+	  * Impact to Natural and Cultural Resources (50%)
+	* Economic Development
+	  * Project Support for Economic Development (60%)
+	  * Intermodal Access and Efficiency (20%)
+	  * Travel Time Reliability (20%)
+	* Land Use
+	  * Transportation-Efficient Land Use (100%)
+      * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
+	* [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
+      * [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) – Strengths / Weaknesses / Opportunities / Threats
 
-## [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
-  * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
-    * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
-    * Safety: crashes, fatalities,
-    * Environmental: emissions, pollution,
-    * Social: accessibility,
-  * Performance-Based Regulation
-    * https://cei.org/content/toward-performance-based-transportation-safety-regulation
+      |   | Helpful | Harmful |
+      | - | ------- | ------- |
+      | Internal | Strengths | Weaknesses |
+      | External | Opportunities | Threats |
+
+      |   | Strengths | Weaknesses |
+      | - | --------- | ---------- |
+      | Opportunities | take advantage of opportunities | use strengths to avoid threats |
+      | Threats | eliminiate weaknesses through opportunities | minimize weaknesses and avoid threats |
+
+  * [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
+    * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
+      * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
+      * Safety: crashes, fatalities,
+      * Environmental: emissions, pollution,
+      * Social: accessibility,
+    * Performance-Based Regulation
+      * https://cei.org/content/toward-performance-based-transportation-safety-regulation
+    * Outcomes-Based Approach
+      * We may have accountability - people put money in, they get projects out, they are happy.
+      * We do not have transparency - we can't follow the money.
+      * Steps
+	1. Transparency: Maintain taxpayer confidence
+	2. Accountability: Deliver value
+	3. Value: best bang for the buck
+	4. Resolve conflicts between policies
+	5. Get more funding…
+
 ## Apps
   * Mobile Apps
     1. Maps/Routing/Traffic
