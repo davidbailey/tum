@@ -1610,6 +1610,7 @@
       * [Transportation Security Administration](https://en.wikipedia.org/wiki/Transportation_Security_Administration)
       * [Federal Bureau of Investigation](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)
       * [United States Environmental Protection Agency](https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency)
+        * [National Environmental Policy Act](https://en.wikipedia.org/wiki/National_Environmental_Policy_Act)
       * State
         * [Department of Transportation](https://en.wikipedia.org/wiki/Department_of_transportation)
           * Massachusetts Department of Transportation
@@ -1619,6 +1620,7 @@
         * State Environmental Protection Agency
           * [California Environmental Protection Agency](https://en.wikipedia.org/wiki/California_Environmental_Protection_Agency)
             * [California Environmental Quality Act](https://en.wikipedia.org/wiki/California_Environmental_Quality_Act)
+	      * (See Environmental Impact Report)
         * [State Police](https://en.wikipedia.org/wiki/State_police_(United_States))
         * County
           * [County Sheriff](https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States)
@@ -1807,7 +1809,7 @@
 	  * Travel Time Reliability (20%)
 	* Land Use
 	  * Transportation-Efficient Land Use (100%)
-      * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
+      * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment) (Environmental Impact Report (EIR))
 	* [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
       * [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) – Strengths / Weaknesses / Opportunities / Threats
 
