@@ -129,7 +129,7 @@
 
 	      | Mode | Speed | Capacity | Cost |
 	      | ---- | ----- | -------- | ---- |
-	      | Mixed Traffic Lane | 1500-2000 people/h (average vehicle occupancy = 1.2-1.3 people/vehicle) | Mid-High|
+	      | Mixed Traffic Lane | | 1500-2000 people/h (average vehicle occupancy = 1.2-1.3 people/vehicle) | Mid-High|
 	      | Bus | | 5000 people/h | Low |
 	      | Bicycle Path | | 14000 people/h | Low |
 	      | BRT | | 9000-17000 people/h | Low |
