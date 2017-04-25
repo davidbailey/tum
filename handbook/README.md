@@ -728,6 +728,10 @@
   * [Air](https://en.wikipedia.org/wiki/Aviation)
     * [Airports](https://en.wikipedia.org/wiki/Airport)
     * [Airplanes](https://en.wikipedia.org/wiki/Airplane)
+    * [Helicopters](https://en.wikipedia.org/wiki/Helicopter)
+    * [Hot Air Balloons](https://en.wikipedia.org/wiki/Hot_air_balloon)
+    * [Unmanned Aerial Vehicles](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle)
+      * [Delivery Drones](https://en.wikipedia.org/wiki/Delivery_drone)
   * [Pipeline](https://en.wikipedia.org/wiki/Pipeline_transport)
     * Goods
       * Oil
@@ -736,6 +740,7 @@
       * Sewage
   * [Cable](https://en.wikipedia.org/wiki/Cable_transport)
     * https://www.youtube.com/watch?v=8CSxkYnyFg0
+  * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
 ## Research
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
