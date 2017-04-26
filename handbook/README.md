@@ -1187,6 +1187,7 @@
         * Production and Consumption Data
         * Census Data
         * Safety Data
+      * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
     * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
@@ -1443,6 +1444,9 @@
           * https://trid.trb.org/view.aspx?id=210825
         * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
           * [MATSim](https://en.wikipedia.org/wiki/MATSim)
+        * Dynamic Traffic Assignment
+          * http://dynust.net
+          * http://trec.pdx.edu/events/professional-development/friday-transportation-seminar-topic-tbd-3
       * Macroscopic
         * PTV VISUM
         * Emme
