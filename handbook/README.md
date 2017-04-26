@@ -1834,6 +1834,7 @@
       * Safety: crashes, fatalities,
       * Environmental: emissions, pollution,
       * Social: accessibility,
+    * [SMART](https://en.wikipedia.org/wiki/SMART_criteria)
     * Performance-Based Regulation
       * https://cei.org/content/toward-performance-based-transportation-safety-regulation
     * Outcomes-Based Approach
