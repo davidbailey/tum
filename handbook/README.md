@@ -1189,9 +1189,10 @@
         * Safety Data
       * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
   * [Traffic](https://en.wikipedia.org/wiki/Traffic)
-    * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand)
+    * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand) (Latent Demand)
       * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
       * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
+      * http://trec.pdx.edu/events/professional-development/friday-transportation-seminar-topic-tba-0
     * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
     * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
     * [Traffic Models](https://en.wikipedia.org/wiki/Traffic_model)
