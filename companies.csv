@@ -1,5 +1,7 @@
-Name,Headquarters,Sector/Industry,Careers/Jobs Link
-Citymapper,London,Tech/App/Routing,https://citymapper.com/jobs/
-Waymo,Mountain View,Tech/Autonomous Cars,https://careers.google.com
-BMW,Munich,Tech/Cars,https://bmwgroup.jobs/
-Flexport,San Francisco,Tech/Logistics,https://www.flexport.com/careers
+Name,Headquarters,Sector/Industry,Careers/Jobs Link,Internships
+Citymapper,London,Tech/App/Routing,https://citymapper.com/jobs/,Unknown
+Waymo,Mountain View,Tech/Autonomous Cars,https://careers.google.com,True
+BMW,Munich,Tech/Cars,https://bmwgroup.jobs/,True
+Flexport,San Francisco,Tech/Logistics,https://www.flexport.com/careers,Unknown
+Chariot,San Francisco,Tech/Ride Share,https://www.chariot.com/careers,Unknown
+Apple,Cupertino,Tech,https://www.apple.com/jobs,True
