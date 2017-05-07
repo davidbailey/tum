@@ -1453,6 +1453,7 @@
         * Dynamic Traffic Assignment
           * http://dynust.net
           * http://trec.pdx.edu/events/professional-development/friday-transportation-seminar-topic-tbd-3
+        * http://opentrafficsim.org
       * Macroscopic
         * PTV VISUM
         * Emme
@@ -1460,6 +1461,7 @@
         * METANET
         * SiMoNe
         * https://github.com/jfietkau/Streets4MPI
+        * http://bit-player.org/extras/traffic/
 	* TransCAD
 	  * http://www.caliper.com/tcovu.htm
 	* Citilabs Cube
