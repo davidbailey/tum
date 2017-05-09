@@ -1642,6 +1642,24 @@
         * State Environmental Protection Agency
           * [California Environmental Protection Agency](https://en.wikipedia.org/wiki/California_Environmental_Protection_Agency)
             * [California Environmental Quality Act](https://en.wikipedia.org/wiki/California_Environmental_Quality_Act)
+              * http://resources.ca.gov/ceqa/guidelines/
+              * Aesthetics
+              * Agriculture Resources
+              * Air Quality
+              * Biological Resources
+              * Cultural Resources
+              * Geology/Soils
+              * Hazards & Hazardous Materials
+              * Hydrology/Water Quality
+              * Land Use/Planning
+              * Mineral Resources
+              * Noise
+              * Population/Housing
+              * Public Services
+              * Recreation
+              * Transportation/Traffic
+              * Utilities/Service Systems
+              * Mandatory Findings of Significance
 	      * (See Environmental Impact Report)
         * [State Police](https://en.wikipedia.org/wiki/State_police_(United_States))
         * County
