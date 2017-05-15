@@ -437,6 +437,8 @@
             * V2X
               * [802.11p](https://en.wikipedia.org/wiki/IEEE_802.11p)
           * TCP/IP
+          * Preserve Project
+            * https://www.preserve-project.eu
         * Signs and Actuators
         * Detection
           * Vehicle (See Traffic Counts)
@@ -1603,6 +1605,8 @@
     * [American Highway Users Alliance](https://en.wikipedia.org/wiki/American_Highway_Users_Alliance)
     * Los Angeles County Bicycle Coalition
       * http://www.la-bike.org
+    * Car 2 Car Communication Consortium
+      * https://www.car-2-car.org
   * Government
     * United States
       * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
