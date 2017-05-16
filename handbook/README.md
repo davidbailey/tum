@@ -406,6 +406,7 @@
           * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
         * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
       * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
+        * [Tall Bikes](https://en.wikipedia.org/wiki/Tall_bike)
       * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
     * [Traffic Control](https://en.wikipedia.org/wiki/Road_traffic_control)
       * [Control Systems](https://en.wikipedia.org/wiki/Control_system)
@@ -751,6 +752,15 @@
   * [Freight/Cargo](https://en.wikipedia.org/wiki/Cargo)
     * [Contanierization](https://en.wikipedia.org/wiki/Containerization)
       * [Swap Body](https://en.wikipedia.org/wiki/Swap_body)
+  * Tunnels[https://en.wikipedia.org/wiki/Tunnel]
+    * Methods
+      * Cut and Cover
+      * [Boring](https://en.wikipedia.org/wiki/Boring_(earth))
+        * [Tunnel Boring Machine](https://en.wikipedia.org/wiki/Tunnel_boring_machine)
+          * Open Shield
+          * Closed Shield
+            * [Earth Pressure Balance](https://en.wikipedia.org/wiki/Earth_pressure_balance)
+            * Slurry Shield
 ## Research
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
