@@ -401,7 +401,7 @@
           * High in High GDP Countries, High in Low GDP Countries = Economically Stressful
         * [Trucks](https://en.wikipedia.org/wiki/Truck)
           * [Semi Truck](https://en.wikipedia.org/wiki/Semi-trailer_truck)
-            * (See Containerization)
+            * (See Freight/Cargo)
         * [Buses](https://en.wikipedia.org/wiki/Bus)
           * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
         * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
@@ -726,6 +726,7 @@
         * [Tram](https://en.wikipedia.org/wiki/Tram)
         * [Monorail](https://en.wikipedia.org/wiki/Monorail)
     * [Freight](https://en.wikipedia.org/wiki/Rail_freight_transport)
+      * (See Freight/Cargo)
     * https://www.youtube.com/playlist?list=PL6EF5E8751546E017
   * [Waterways](https://en.wikipedia.org/wiki/Waterway)
     * [Ports](https://en.wikipedia.org/wiki/Port)
