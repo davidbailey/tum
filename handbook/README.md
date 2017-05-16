@@ -394,12 +394,14 @@
             * Level 4 High Automation
             * Level 5 Full Automation
             * http://www.sae.org/misc/pdfs/automated_driving.pdf
-	  * [Cars/Person](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)
-	    * USA: 797/1000 people (often used for commuting and recreation)
-	    * Germany: 572/1000 people (often used for recreation)
-	    * India: 32/1000 people
-	    * High in High GDP Countries, High in Low GDP Countries = Economically Stressful
+        * [Cars/Person](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)
+          * USA: 797/1000 people (often used for commuting and recreation)
+          * Germany: 572/1000 people (often used for recreation)
+          * India: 32/1000 people
+          * High in High GDP Countries, High in Low GDP Countries = Economically Stressful
         * [Trucks](https://en.wikipedia.org/wiki/Truck)
+          * [Semi Truck](https://en.wikipedia.org/wiki/Semi-trailer_truck)
+            * (See Containerization)
         * [Buses](https://en.wikipedia.org/wiki/Bus)
           * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
         * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
@@ -744,6 +746,9 @@
   * [Cable](https://en.wikipedia.org/wiki/Cable_transport)
     * https://www.youtube.com/watch?v=8CSxkYnyFg0
   * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
+  * [Freight/Cargo](https://en.wikipedia.org/wiki/Cargo)
+    * [Contanierization](https://en.wikipedia.org/wiki/Containerization)
+      * [Swap Body](https://en.wikipedia.org/wiki/Swap_body)
 ## Research
   * [Materials Testing](https://en.wikipedia.org/wiki/Materials_Testing)
      * [Destructive](https://en.wikipedia.org/wiki/Destructive_testing)
