@@ -643,6 +643,11 @@
         * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
 	* https://ops.fhwa.dot.gov/publications/fhwahop12032/
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
+    * Design Standards
+      * American Railway Engineering and Maintenance-of-Way Association
+      * Caltrain: http://www.caltrain.com/about/doingbusiness/engineering/engineeringstandards.html
+      * U.S. Army Corps of Engineers: http://militarynewbie.com/wp-content/uploads/2013/11/US-Army-Railroad-Design-and-Rehabilitation-TI-850-02.pdf
+      * http://www.engr.uky.edu/~jrose/papers/Track%20Design%20Introduction%20(Uzarski).pdf
     * [Stations](https://en.wikipedia.org/wiki/Train_station)
       * [Layout](https://en.wikipedia.org/wiki/Railway_station_layout)
         * [Platforms](https://en.wikipedia.org/wiki/Railway_platform)
@@ -1624,6 +1629,8 @@
       * http://www.la-bike.org
     * Car 2 Car Communication Consortium
       * https://www.car-2-car.org
+    * [American Railway Engineering and Maintenance-of-Way Association](https://en.wikipedia.org/wiki/American_Railway_Engineering_and_Maintenance-of-Way_Association)
+      * https://www.arema.org
   * Government
     * United States
       * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
