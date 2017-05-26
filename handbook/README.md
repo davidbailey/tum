@@ -130,15 +130,15 @@
 	      | Mode | Speed | Capacity | Cost |
 	      | ---- | ----- | -------- | ---- |
 	      | Mixed Traffic Lane | | 1500-2000 people/h (average vehicle occupancy = 1.2-1.3 people/vehicle) | Mid-High|
-	      | Bus | | 5000 people/h | Low |
+	      | Bus | | 5000-9000 people/h | Low |
 	      | Bicycle Path | | 14000 people/h | Low |
-	      | BRT | | 9000-17000 people/h | Low |
+	      | BRT | | 9000-20000 people/h | Low |
 	      | Pedestrians | 4 km/h | 19000 people/h | Low |
 	      | Tram | 15-25 km/h | 10000 people/h | Mid |
-	      | LRT | 20-30 km/h | 30000 people/h | Mid (~$60,000,000/km) |
+	      | LRT | 20-30 km/h | 22000-30000 people/h | Mid (~$60,000,000/km) |
 	      | Monorail | 25-35 km/h | 30000 people/h | High |
-	      | 2-Lane BRT | | 40000 people/h (Bogotá) | Low-Mid |
-	      | HRT | 30-60 km/h | 60000+ people/h | High (~$100,000,000+/km) |
+	      | 2-Lane BRT | | 40000-43000 people/h (Bogotá) | Low-Mid |
+	      | HRT | 30-60 km/h | 60000-80000+ people/h | High (~$100,000,000+/km) |
 	      | Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High |
 
           * Network
