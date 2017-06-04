@@ -1237,7 +1237,7 @@
         * Modelling Platform e.g. a tool
       * Objectives
         * Visualize/analyze/understand today
-        * Predict the future w/ and w/o implementing changes
+        * Predict the future w/ and w/o implementing changes to make a better decision today
       * Method
         * [Microsimulation](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
           * Purpose
