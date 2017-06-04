@@ -1375,6 +1375,7 @@
                 * Methods
                   * [Kirchhoff's Law](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
                   * [Binary Logit Model](https://en.wikipedia.org/wiki/Logistic_regression)
+                  * [Nested Logit Model](https://en.wikipedia.org/wiki/Discrete_choice#nested_logit)
               * Route Assignment
                 * Car: which roads to take
                 * Public transportation: which lines, which transfers
