@@ -1,6 +1,6 @@
 ## [Land Use](https://en.wikipedia.org/wiki/Land_use) and Transport
   * Land Use -> Transport -> Land Use... (Feedback Loop, and Chicken and Egg Problem)
-  ![wulfhorst2003](https://github.com/davidbailey/tum/raw/master/handbook/Land Use and Transport/wulfhorst2003.png)
+  ![wulfhorst2003](https://github.com/davidbailey/tum/raw/master/handbook/Land%20Use%20and%20Transport/wulfhorst2003.png)
   * Land Use -> Activity -> Transport (Supply <-> Demand) -> Accessibility -> Land Use...
     * [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
       * Routine - regular and predictable
