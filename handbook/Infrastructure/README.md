@@ -3,7 +3,7 @@
     * Ways
       * Pedestrian Paths
         * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
-	  * Children in Sweden can walk alone at age 12-13.
+          * Children in Sweden can walk alone at age 12-13.
       * [Bicycle Paths](https://en.wikipedia.org/wiki/Bike_path)
       * [Shared (Pedestrian and Bicycle) Paths](https://en.wikipedia.org/wiki/Shared_use_path)
       * [Roads](https://en.wikipedia.org/wiki/Road)
