@@ -1,0 +1,96 @@
+## [Sustainable Transport](https://en.wikipedia.org/wiki/Sustainable_transport)
+  * derived from sustainable forestry
+  * Economic
+  * Social
+    * Social Justice, Safety, Public Health, Seperation, Socialization 
+    * 1,200,000-1,600,000 Traffic Death / Year Worldwide
+  * Ecological / [Environmental](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
+    * Energy, Noise, Air Pollution, Land-use
+    * 27% CO2 Worldwide is from Transportation
+      * Hong Kong = 500kg CO2
+      * Houston = 5600kg CO2
+    * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
+      * Transportation Life Cycle Assessment
+	* http://transportationlca.org
+  * Vision Zero
+    * Origin: [September 3, 1967 (Dagen H)](https://en.wikipedia.org/wiki/Dagen_H)
+    * Philosophy
+      * "No one should be killed or seriously injured within the road traffic system"
+	* Ethical approach, not uncontroversial
+      * Road engineers share responsibility with road users via the road network
+      * The road network must be built to allow people to make mistakes without fatal consequences, because people make mistakes
+    * The Basics
+      * Dense mixed-use neighborhoods
+      * Walkability and cycleability
+      * Attractive transit
+      * Demand Management
+    * Data Collection 
+      * Things that get counted count more i.e. pedestrians and bikes are often neglected
+      * STRADA
+	* Inputs
+	  * Police Data
+	  * Hospital Data (much better for pedestrians and cyclists)
+	* Outputs
+	  * Traffic Crash Reports
+	  * Prioritization of measures
+	    * High fatality/injury rate in the area
+	    * Children: schools, parks
+	    * Poor speed compliance
+	    * Wrong speed limit e.g. urban road with freeway speed limit
+	  * Answers to questions from planners, government, media, people
+	  * Measure of current situation
+	  * Measure of effectiveness of specific projects
+	  * Measure of effectiveness of Vision Zero program overall
+    * Measures
+      * Speed is one of the most important factors
+	* Must set the right speed given the area and users
+	  * Lots of pedestrians and cyclists in the area => lower speed
+	  * Limited-access divided road => higher speed
+	* Road design should communicate the right speed to drivers, not signs
+	* Also set consistent speeds
+      * Sidewalks and protected bike lanes
+      * Roundabouts, raised pedestrian crossing, speed tables, speed bumps (with modifications for buses, police, fire, ambulances), chicanes, narrowing of the traffic lanes
+	* Painted crosswalks and signals are an accessibility measure, not a safety measure because they do not prevent cars from hitting people. People do not have to slow or stop.
+    * Communication is key: messages must speak to people, not engineers
+  * Systematic Safety: Humans are vulnerable and make mistakes.
+    1. Speed control and Separation
+      6 mph - shared spaces
+      20 mph - bicycles in mixed traffic - chicanes, speed humps, raised intersections
+      25 mph - drivers yield for pedestrian crossings - narrow lanes, crossing islands, 1 lane per direction to prevent passing
+      30 mph - 90 degree intersections
+      40 mph - separate by direction e.g. median
+      70 mph
+    2. Functional harmony: avoid incompatible functions e.g. shops and through traffic
+      a. Local streets 20 mph w/ parking, no lane markings, diverters to limit through traffic
+      b. Neighborhood principals 25 mph: 1 lane/direction, lots of crossings
+      c. Urban arterials 30 mph, signalized crossings, bike paths, no shops
+      d. Regional roads, 45mph no local access
+    3. Predictability and Simplicity: green bike lanes, crossing islands are simpler, turn lanes with dedicated arrows
+    4. Forgiveness and restrictiveness: mistakes do not cause serious injury, prevent mistakes
+    5. State awareness: drunk driving, texting, inexperience
+  * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
+    * Features
+      * Bicycles don't experience congestion (nearly as much as cars)
+      * Bicycles don't pollute (increased health and land value)
+      * Bicycles cost less (social mobility)
+      * Bicycles don't take up space or divide communities
+    * Germany: 4th grade bicycle test with police as part of school
+  * Moving from Traditional (Car-focused) to Sustainable (People-focused)
+    * Improve Walk, Bike, Public Transportation, Cars, Planes
+      * Long timeline e.g. most Metros have taken 100 years to build, but bus lanes are quicker (cheaper)
+      * Must happen before reducing cars
+    * Demand is influenced by policy, price, etc., not a given
+    * Design public transportation aroud people, not technology
+      * Traditional approach: pick technology, fit city to technology, force people to adopt - results in high-costs and low ridership
+      * Successful approach: design around people: network, easy, fast; evaluate options from the city perspective ($$$), decide
+	* Mimic the good aspects of cars: e.g. high-speed, high-frequency (12+ vehicles/hr), high-quality e.g. BRT
+  * Buzzword Bingo (Measures)
+    * Public Transportation Priority
+    * Non-motorized Transportaion
+    * Public Spaces
+    * Public Transportation Integration
+    * Transportation Demand Management
+    * High Quality Public Trasnportation
+    * Land Use Policies
+    * Car Restrictions
+
