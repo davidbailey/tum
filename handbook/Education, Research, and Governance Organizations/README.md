@@ -121,7 +121,7 @@
           * http://www.sutp.org/en/
           * 10 Principles for Sustainable Urban Transport
 	    * http://www.sutp.org/files/contents/documents/resources/J_Others/10_principles_english.pdf
-            ![10 Principles for Sustainable Urban Transport](https://github.com/davidbailey/tum/raw/master/handbook/10principles.png)
+            ![10 Principles for Sustainable Urban Transport](https://github.com/davidbailey/tum/raw/master/handbook/Education%2C%20Research%2C%20and%20Governance%20Organizations/10principles.png)
 	    * How to plan and develop a pedestrian and cycling network
               * http://www.sutp.org/files/contents/documents/resources/J_Others/GIZ_SUTP_NMT-Pedestrian-cycling-network-Windhoek_2016.pdf
         * http://www.slideshare.net/ICLEI_Media/public-transport-improvement
