@@ -19,8 +19,8 @@
       * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
       * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
         * [2+1 Road](https://en.wikipedia.org/wiki/2%2B1_road)
-	* [Super Two](https://en.wikipedia.org/wiki/Super_two)
-	* [Two-lane Expressway](https://en.wikipedia.org/wiki/Two-lane_expressway)
+        * [Super Two](https://en.wikipedia.org/wiki/Super_two)
+        * [Two-lane Expressway](https://en.wikipedia.org/wiki/Two-lane_expressway)
         * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
           * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(road))
           * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
@@ -100,7 +100,7 @@
             * Noise
             * Air Pollution
               * Examples
-	              * https://www.arb.ca.gov/adam/index.html
+                * https://www.arb.ca.gov/adam/index.html
                 * https://airnow.gov
                 * http://www.umweltbundesamt.de/en/data/current-concentrations-of-air-pollutants-in-germany
               * carbon dioxide
@@ -142,18 +142,18 @@
             * Signalized
               * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
                 * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
-		  * Signalized Intersection Design Process
-		    1. Find complementary signals: analyze the intersection geometry and determine conflict points (conflicting signals).
-		    2. Define which signal belong to which phases and choose an appropriate sequence of phases.
-		    3. Determine inter-green times based conflict mode, type, geometry, and speed.
-		    4. Determine saturation flow based on number of lanes * adjustment factors
-		    5. Determine traffic volumes per stream
-		    6. Determine cycle time between 60 and 120 seconds
-		    7. Calculate necessary green times including minimum green times.
-		    8. Calculate available green time = cycle time - sum of intergreen times
-		    9. Determine capacity of the intersection = sum of all capacities = green time for each flow * saturation flow for each flow from 4.
-		    10. Determine degree of saturation (highest of all flows) for all movements and assign a quality.
-		    11. Set the signal plan.
+                  * Signalized Intersection Design Process
+                    1. Find complementary signals: analyze the intersection geometry and determine conflict points (conflicting signals).
+                    2. Define which signal belong to which phases and choose an appropriate sequence of phases.
+                    3. Determine inter-green times based conflict mode, type, geometry, and speed.
+                    4. Determine saturation flow based on number of lanes * adjustment factors
+                    5. Determine traffic volumes per stream
+                    6. Determine cycle time between 60 and 120 seconds
+                    7. Calculate necessary green times including minimum green times.
+                    8. Calculate available green time = cycle time - sum of intergreen times
+                    9. Determine capacity of the intersection = sum of all capacities = green time for each flow * saturation flow for each flow from 4.
+                    10. Determine degree of saturation (highest of all flows) for all movements and assign a quality.
+                    11. Set the signal plan.
                   * (See Traffic Signal Timing Manual)
                   * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
                     * Requirements for Coordination
