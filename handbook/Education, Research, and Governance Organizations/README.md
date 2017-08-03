@@ -115,29 +115,7 @@
           * [County Sheriff](https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States)
           * City
             * City Police
-    * Germany
-      * [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit)
-        * Sustainable Urban Transport Project
-          * http://www.sutp.org/en/
-          * 10 Principles for Sustainable Urban Transport
-	    * http://www.sutp.org/files/contents/documents/resources/J_Others/10_principles_english.pdf
-            ![10 Principles for Sustainable Urban Transport](https://github.com/davidbailey/tum/raw/master/handbook/Education%2C%20Research%2C%20and%20Governance%20Organizations/10principles.png)
-	    * How to plan and develop a pedestrian and cycling network
-              * http://www.sutp.org/files/contents/documents/resources/J_Others/GIZ_SUTP_NMT-Pedestrian-cycling-network-Windhoek_2016.pdf
-        * http://www.slideshare.net/ICLEI_Media/public-transport-improvement
-  * Universities
-    * University of North Carolina Highway Safety Research Center
-      * Crash Modification Factors Clearinghouse 
-        * http://www.cmfclearinghouse.org
-    * University of Minnesota Center for Transportation Studies
-      * [Journal of Transport and Land Use](https://en.wikipedia.org/wiki/Journal_of_Transport_and_Land_Use)
-        * https://www.jtlu.org/
-    * Portland State University
-      * Understanding and Communicating Multimodal Transportation Data
-        * http://web.cecs.pdx.edu/~monserec/t.data/
-      * Transportation Research and Education Center
-        * National Institute for Transportation and Communities
-          * http://nitc.trec.pdx.edu/
-          * http://nitc.trec.pdx.edu/events/archive
 
+* http://www.sutp.org/files/contents/documents/resources/J_Others/10_principles_english.pdf
+![10 Principles for Sustainable Urban Transport](https://github.com/davidbailey/tum/raw/master/handbook/Education%2C%20Research%2C%20and%20Governance%20Organizations/10principles.png)
 
