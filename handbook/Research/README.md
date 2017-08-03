@@ -522,7 +522,7 @@
               * q = k * v
               * cars/hr = cars/km * km/hr
             * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
-            ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/schick2003.png)
+            ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/Research/schick2003.png)
 
             |   | Density (k) | Volume (q) | Velocity (v) |
             | - | ----------- | ---------- | ------------ |
