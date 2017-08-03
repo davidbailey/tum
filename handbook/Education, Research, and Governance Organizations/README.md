@@ -126,11 +126,6 @@
               * http://www.sutp.org/files/contents/documents/resources/J_Others/GIZ_SUTP_NMT-Pedestrian-cycling-network-Windhoek_2016.pdf
         * http://www.slideshare.net/ICLEI_Media/public-transport-improvement
   * Universities
-    * [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
-      * https://ocw.mit.edu/courses/transportation-courses/
-    * Texas A&M Transportation Institute
-      * Texas Trip Generation Manual
-        * http://tti.tamu.edu/documents/0-6760-P1.pdf
     * University of North Carolina Highway Safety Research Center
       * Crash Modification Factors Clearinghouse 
         * http://www.cmfclearinghouse.org
