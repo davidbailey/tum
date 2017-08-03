@@ -2,7 +2,6 @@
 * Why Travel?
   * Activities at Destination
   * [Recreation](https://en.wikipedia.org/wiki/Recreation)
-* 
 * Influences
   * Environment: noise, air, water, safety
   * Technology: ITS, phone, GPS, telework, teleconference
