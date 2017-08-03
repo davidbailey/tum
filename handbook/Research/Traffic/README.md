@@ -47,15 +47,15 @@
 	* with constant velocity
 	  * a = 0
 	  * v = constant
-	  * s = s₀ + v * t
-	  * Centrifugal Force = (m*v²)/R
+	  * s = s₀ + v × t
+	  * Centrifugal Force = (m × v²)/R
 	* with constant acceleration
 	  * a = constant
-	  * v = v₀ + a * t
-	  * s = ½ * a * t² + v₀*t
-	  * F = m * a
+	  * v = v₀ + a × t
+	  * s = ½ × a × t² + v₀ × t
+	  * F = m × a
 	* [Weight](https://en.wikipedia.org/wiki/Weight) = m × g
-	* [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
+	* [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ × Normal Force
 	  * Dry Concrete and Rubber: µ = 1.0
 	  * Lubricated Steel and Steel: µ = 0.16
       * Car-Following Model
@@ -71,9 +71,9 @@
 	* discrete car on discrete road
 	* fast to compute
       * Fundamental Equation of Traffic Flow (Greenshields, 1935)
-	* Volume = Density * Velocity (momentary, not local)
-	  * q = k * v
-	  * cars/hr = cars/km * km/hr
+	* Volume = Density × Velocity (momentary, not local)
+	  * q = k × v
+	  * cars/hr = cars/km × km/hr
 	* [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
 	![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/Research/Traffic/schick2003.png)
 
@@ -97,7 +97,7 @@
 	  * probablilty of congestion / level of service prediction
       * Continuum Theory and Dynamic Modeling
 	* [Kinematic Wave](https://en.wikipedia.org/wiki/Kinematic_wave)
-	  * q = v * k => q = f(k) = q(k(x)) => k = f(x - c * t), c = speed of the wave
+	  * q = v × k => q = f(k) = q(k(x)) => k = f(x - c × t), c = speed of the wave
 	  * [shock waves](https://en.wikipedia.org/wiki/Shock_wave) occur where two waves meet
 	    * shock wave velocity, u = (q₂ – q₁) / (k₂ – k₁)
 	      * positive: downstream, no effect on congestion
@@ -142,7 +142,7 @@
 	    * Structural data (population, jobs, square feet of retail space, number of seats, etc.) * Mobility rate for that data
 	    * Hopefully this is symmetric. e.g. number of people who leave for work = number of people who arrive at work.
 	  * Trip Distribution
-	    * Based on a gravity function Tij = Oi * Dj * f(cij)
+	    * Based on a gravity function Tij = Oi × Dj × f(cij)
 	      * Tij = trips from i to j
 	      * Oi = trips w/ origin i
 	      * Dj = trips w/ destination j
@@ -151,7 +151,7 @@
 	    * Not necessarily symmetric.
 	    * Big problem is a lack of understanding of spacial decision making. E.g. what if you visit a friend across town?
 	  * Mode Choice
-	    * Generalized cost term (utility) = (time + cost + comfort) * perception of each
+	    * Generalized cost term (utility) = (time + cost + comfort) × perception of each
 	    * Based on the person (income, car availability, etc.) and the mode (travel time, comfort, etc.)
 	    * Public transport times from timetable/reality
 	    * Time includes wait time, access time (walk to car or public tranportation)
@@ -174,7 +174,7 @@
 		3. Load routes onto the network
 		4. Evaluate the effects of congestion on 1.
 	      * Capacity-restraint function
-		* t = t0 * (1 + a * (V / C) ^ b
+		* t = t0 × (1 + a × (V / C) ^ b
 		  * t = congested travel time
 		  * t0 = free flow travel time
 		  * V = traffic volume on the link
