@@ -70,11 +70,13 @@
         * Psycho-physical car-following model
           * incorporates the driver - following distance is not fixed, but oscillates
           * drivers cannot judge the speed of a car in front of them well -> design roads like ~~~~~~~ not -------
+        * https://www.desmos.com/calculator/aqfmizrvdo
+        * Cellular Automation Model
+          * discrete car on discrete road
+          * fast to compute
       * Lane Changing Model
         * to change or not
-      * Cellular Automation Model
-        * discrete car on discrete road
-        * fast to compute
+        * Mandatory versus Discretionary
       * Fundamental Equation of Traffic Flow (Greenshields, 1935)
         * Volume = Density × Velocity (momentary, not local)
           * q = k × v
