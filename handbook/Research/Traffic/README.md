@@ -54,7 +54,7 @@
 	  * v = v₀ + a * t
 	  * s = ½ * a * t² + v₀*t
 	  * F = m * a
-	* [Weight](https://en.wikipedia.org/wiki/Weight) = m*g
+	* [Weight](https://en.wikipedia.org/wiki/Weight) = m × g
 	* [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ * Normal Force
 	  * Dry Concrete and Rubber: µ = 1.0
 	  * Lubricated Steel and Steel: µ = 0.16
