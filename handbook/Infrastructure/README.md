@@ -8,8 +8,8 @@
       * [Shared (Pedestrian and Bicycle) Paths](https://en.wikipedia.org/wiki/Shared_use_path)
       * [Roads](https://en.wikipedia.org/wiki/Road)
         * General Use Lanes
-	  * [Road Diet](https://en.wikipedia.org/wiki/Road_diet)
-	  * [Reversible Lane](https://en.wikipedia.org/wiki/Reversible_lane)
+          * [Road Diet](https://en.wikipedia.org/wiki/Road_diet)
+          * [Reversible Lane](https://en.wikipedia.org/wiki/Reversible_lane)
         * [Bus Lanes](https://en.wikipedia.org/wiki/Bus_lane)
         * [Bicycle Lanes](https://en.wikipedia.org/wiki/Cycling_infrastructure#Bike_lanes)
           * [Protected](https://en.wikipedia.org/wiki/Cycle_track)
