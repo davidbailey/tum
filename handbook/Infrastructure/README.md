@@ -177,13 +177,13 @@
                 * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
             * [Grade Seperation](https://en.wikipedia.org/wiki/Grade_separation)
           * Turns
-	    * Types (varies across the USA, even within a city)
-	      * Permissive (green/red circle)
-	        * Shorter delay for all users
-	        * Typical in Germany
-	      * Protected (green/red arrow)
-	        * Longer delay for all users
-	        * Typical in The Netherlands
+            * Types (varies across the USA, even within a city)
+              * Permissive (green/red circle)
+                * Shorter delay for all users
+                * Typical in Germany
+              * Protected (green/red arrow)
+                * Longer delay for all users
+                * Typical in The Netherlands
             * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
             * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
             * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
@@ -283,7 +283,7 @@
               * Break up entering [Platoons](https://en.wikipedia.org/wiki/Platoon_(automobile))
             * Local or Coordinated
         * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
-	* https://ops.fhwa.dot.gov/publications/fhwahop12032/
+        * https://ops.fhwa.dot.gov/publications/fhwahop12032/
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
     * Design Standards
       * American Railway Engineering and Maintenance-of-Way Association
@@ -321,7 +321,7 @@
         * Power Configuration
           * [Locomotive](https://en.wikipedia.org/wiki/Locomotive)
             * [Cab Cars](https://en.wikipedia.org/wiki/Control_car)
-	    * [Distributed Power](https://en.wikipedia.org/wiki/Distributed_power)
+            * [Distributed Power](https://en.wikipedia.org/wiki/Distributed_power)
           * [Multiple Unit](https://en.wikipedia.org/wiki/Multiple_unit)
         * Motive Power
           * [Electric](https://en.wikipedia.org/wiki/Electric_train)
