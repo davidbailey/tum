@@ -100,41 +100,7 @@
       * transportation choices
       * reduced parking
       * high quality design
-* [Spacial Planning](https://en.wikipedia.org/wiki/Spatial_planning)
-  * Planning Principles
-    * Comprehensive
-    * Efficient
-    * Inclusive
-    * Informative
-    * Integrated
-    * Logical
-    * Transparent
-  * Process
-    * Classic Process
-      1. Problem analysis and objectives (goals)
-      2. Alternatives analysis
-      3. Decision
-      4. Implement
-      5. Monitor
-    * Classic Process 2.0
-      1. Choose a framework, scope, stakeholders, schedule, etc.
-      2. Kick-off meeting
-      3. Vision, goal, and problem statement
-      4. Brainstorm alternatives
-      5. Alternatives analysis
-      6. Long-term and short-term plans
-      7. Gather baseline data
-      8. Implement
-      9. Evalute against baseline data
-      10. Revise
-  * Integration
-    * Technical
-    * Spatial
-    * Temporal
-    * Organizational
-    * Methodological
-    * Political
-* [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
+* [Spacial Planning](https://en.wikipedia.org/wiki/Spatial_planning) / [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
   * [Suburb](https://en.wikipedia.org/wiki/Suburb)
     * [Streetcar Suburb](https://en.wikipedia.org/wiki/Streetcar_suburb)
     * [Urban Sprawl](https://en.wikipedia.org/wiki/Urban_sprawl)
@@ -162,48 +128,3 @@
   * Courtyard block structure
     * Seperates public space (noise/air pollution), from private space e.g. Maxvorstadt in Munich
     * parking inside?
-* Strategies
-  * Vision: long-term common goal
-  * Strategy: medium-term plans
-  * Action: short-term projects
-  * International
-    * [European Spatial Development Perspective](https://en.wikipedia.org/wiki/European_Spatial_Development_Perspective)
-      * [European Spatial Development Perspective](http://ec.europa.eu/regional_policy/sources/docoffic/official/reports/pdf/sum_en.pdf) [ec.europa.eu]
-    * Territorial Agenda of the European Union
-    * [Trans-European Transport Networks](https://en.wikipedia.org/wiki/Trans-European_Transport_Networks)
-      * multimodal, Interoperabil
-      * Methodology: Nodes, Links, Capacity and Technical considerations
-      * Cost-Benefit Analysis, Multi-Criteria Analysis, Models
-  * National
-    * DE
-
-      Level | Oversight | Plans | Responsabilities
-      --- | --- | --- | ---
-      National | Spatial | Federal Transport Infrastructure Plan / Bundesraumordnung | Motorways, Waterways, Air, Long-distance rail
-      State | Land Use | Landesplanung | State roads, Regional/commuter rail
-      Regional | Coordination | Regionalplanung | County roads, public transport
-      Local | Structures | Kommunalplanung | City roads, public transport
-
-    * DE: Federal Transport Infrastructure Plan
-      * Non-binding, provides money
-      * Parlament <-> Federal Ministry of Transport and Digital Infrastructure
-      * Cost-Benefit Analysis
-      * Top-down (Measures) and Bottom-up (Goals)
-  * Regional
-    * Cooperation, Common Objectives
-    * Functional boundaries are often greater than institutional boundaries e.g. border cities
-    * e.g. www.agglomeration.ch, Munich Metropolitan Region
-  * Local
-    * [EU Action Plan on urban mobility](https://ec.europa.eu/transport/themes/urban/urban_mobility/action_plan_en) [ec.europa.eu]
-      1. Promoting integrated policies
-      2. Focusing on citizens
-      3. Greening urban transport
-      4. Strengthening funding
-      5. Sharing experience and knowledge
-      6. Optimising urban mobility
-    * DE: Transport Development Plan (Verkehrsentwicklungsplan)
-      * Munich: Compact, Urban, Green
-    * DE: Public transport action plan (Nahverkehrsplan)
-      * Standard Assessment for projects > 35M Euro
-    * UK: Local Transport Plan
-    * [Sustainable Urban Mobility Plann](https://en.wikipedia.org/wiki/Sustainable_Urban_Mobility_Plan)
