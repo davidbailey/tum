@@ -3,7 +3,9 @@
   * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich) -> Walking city
   * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. At the same time, improved farming technology caused people to move to cities. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial. -> Transit city
   * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). High amount of uncoordinated growth. Increasing seperation of uses (residential, job centers, commercial, industrial) (zoning). Airplanes for long distance transportation. -> Car city
-  * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? More walking and cycling?
+  * Future?
+    * Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? More walking and cycling?
+    * Peak Car, growth (population, vmt) is not always up and to the right, other modes of transportation (e.g. Hyperloop, (e-)cycling, Internet) => What If Scinerios (Models + Experts)
   * [Disneyland - 4.26 - Magic Highway U.S.A. - YouTube](https://www.youtube.com/watch?v=e0q_oP9TPD4) [youtube.com]
 * Systems
   * Forest -> Farms -> Cities
@@ -13,6 +15,25 @@
     * Rate of Change
       * Slow - Transport Network, Zoning
       * Fast - Freight, Commuting, Employment, Population
+* [Land Use Forcasting](https://en.wikipedia.org/wiki/Land-use_forecasting)
+  * Lowry Model (1964)
+    * Economic Forcast -> Location of Industrial Employment
+    * + Friction of Distance -> Location of Industrial Employees' Residences
+    * -> Location of Service Employment
+    * + Friction of Distance -> Location of Service Employees' Residences ^
+    * but now we live in a service economy...
+  * Sensitivity Model ([Vester](https://en.wikipedia.org/wiki/Frederic_Vester)) Matrix + System, qualitative 0, 1, 2, 3
+    * fuzzy elements, for understanding, not prediction
+    * variables can be active, reactive, buffering, crucial, depending on how many affect, effect
+    * [Cybernetic](https://en.wikipedia.org/wiki/Cybernetics) 
+  * [System Dynamics](https://en.wikipedia.org/wiki/System_dynamics) ([Forrester](https://en.wikipedia.org/wiki/Jay_Wright_Forrester)) Stock-Flow Simulation, quantitative
+    * [System Dynamics Society](http://www.systemdynamics.org) [www.systemdynamics.org]
+    * Diagram + Stock (variables) + Flow (functions) => State
+    * Difference Equation
+  * [Agent-based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+    * [MATSim](https://en.wikipedia.org/wiki/MATSim) (See MATSim)
+    * [UrbanSim](https://en.wikipedia.org/wiki/UrbanSim) (See UrbanSim)
+      * [UrbanSim](https://www.urbansim.com) [www.urbansim.com]
 * [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
   * Types
     * Routine - regular and predictable
@@ -21,19 +42,26 @@
 * Accessibility
   * "The more or less easiness with which one can reach a location (a) to perform an activity (b)" - geometric and economic easiness
   * Accessibility = Σ Activities at Destinations * function(Generalized Costs to Travel to Destinations)
+    * cost function is typically based on a [Gravity Model](https://en.wikipedia.org/wiki/Gravity_model_of_trade)
     * (maybe Activities at Destinations should be function(Activities at Destinations) too...)
   * Density, Diversity, Design
+    * [RAD Lab: Revitalizing the City Block](https://www.lynda.com/Documentaries-tutorials/RAD-Lab-Revitalizing-City-Block/447889-2.html) [www.lynda.com]
   * Depends on costs (time, money) and perception of those costs.
     * Monetary Budget ~ 15% of household budget
-    * Time Budget ~ 1 hour/day, stable through history - we are traveling further today, not more; if we have free time in our budget, we use it to increase happiness
+    * Time Budget ~ 1 hour/day, stable through history
+      * We are traveling further today, not more; if we have free time in our budget, we use it to increase happiness; if we travel faster, we travel further, not fewer hours => Induced Demand (See Induced Demand)
       * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
+  * Components: Spacial, Transport, Temporal, Individual
   * Increase accessibility by increasing the quality of the transport system or increasing the number of activities in an area. An increase in accessibility causes positive feedback in the loop. This is balanced by negative feedback from the transport system. When transportation demand goes up, quality goes down. e.g. traffic, overcrowding.
   * [Accessibility Instruments for Planning and Practice](http://www.accessibilityplanning.eu) [www.accessibilityplanning.eu]
+  * TUM Accessibility Atlas
 * Action Space
   * where your activities take place
   * Capacity constraints - money, time, availability modes
   * Coupling constraints - location, time
   * Insitutional constraints - opening hours, entrance fee
+* Trip Chain: e.g. Home -> Work -> Shop -> Home
+  * Activity Pair (parts of a Trip Chain): e.g. Work -> Shop
 * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
   * spacial distance, temporal distance, traffic-dependent, mode-dependent
 * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
@@ -44,7 +72,7 @@
   * Mobility Management
   * [Avoid, Shift, Improve](http://gelookahead.economist.com/avoid-shift-improve/) [gelookahead.economist.com] (Vermeiden, verlagern und verträglicher machen)
 * [The Geography of Transport Systems](https://people.hofstra.edu/geotrans/) [people.hofstra.edu]
-* [Land Use Forcasting](https://en.wikipedia.org/wiki/Land-use_forecasting)
+* Spatial Structure + Transportation Supply + Transportatino Demand Management = Sustainable Development
 * [Zoning](https://en.wikipedia.org/wiki/Zoning)
   * Transportation
   * Commercial
