@@ -16,25 +16,24 @@
     * Taxi/Ride Share
       * Uber
       * Lyft
-      * tax*eu
+      * taxi.eu
     * Bike/Car Share
       * Spotcycle
       * Social Bicycles
       * Call a Bike
       * MVG more
     * Parking
-      * http://parqe*com
-      * http://ww*parkeasie*com
+      * http://parqex.com
+      * http://www.parkeasier.com
     * ODB2
       * Automatic
   * Web Apps
     * Maps/Routing/Traffic
       * Google Maps
       * Bing Maps
-      * Bayern Info http://ww*bayerninf*de
-      * https://ww*sigaler*com
+      * Bayern Info http://www.bayerninfo.de
+      * https://www.sigalert.com
     * Wiki
-      * https://ww*fixmystree*com
-      * http://streetswik*wikispace*com
-      * http://cyclopat*org
-
+      * https://www.fixmystreet.com
+      * http://streetswiki.wikispaces.com
+      * http://cyclopath.org
