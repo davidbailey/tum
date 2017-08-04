@@ -5,53 +5,58 @@
   * Post World War II (1950s): dramatic increase in car ownership and development away from public transport (suburban). High amount of uncoordinated growth. Increasing seperation of uses (residential, job centers, commercial, industrial) (zoning). Airplanes for long distance transportation. -> Car city
   * Future? Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? More walking and cycling?
   * [Disneyland - 4.26 - Magic Highway U.S.A. - YouTube](https://www.youtube.com/watch?v=e0q_oP9TPD4) [youtube.com]
-* Land Use -> Transport -> Land Use... (Feedback Loop, and Chicken and Egg Problem)
-![wulfhorst2003](https://github.com/davidbailey/tum/raw/master/handbook/Land%20Use%20and%20Transport%20Interactions/wulfhorst2003.png)
-* Land Use -> Activity -> Transport (Supply <-> Demand) -> Accessibility -> Land Use...
-  * Rate of Change
-    * Slow - Transport Network, Zoning
-    * Fast - Freight, Commuting, Employment, Population
-* Definations
-  * [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
-    * Types
-      * Routine - regular and predictable
-      * Institutional - irregular and according to lifestyle
-      * Production - complex network of relationships between firms, activities, regions, nations
-  * Accessibility
-    * "The more or less easiness with which one can reach a location (a) to perform an activity (b)" - geometric and economic easiness
-    * Accessibility = Σ Activities at Destinations * function(Generalized Costs to Travel to Destinations)
-      * (maybe Activities at Destinations should be function(Activities at Destinations) too...)
-    * Density, Diversity, Design
-    * Depends on costs (time, money) and perception of those costs.
-      * Monetary Budget ~ 15% of household budget
-      * Time Budget ~ 1 hour/day, stable through history - we are traveling further today, not more; if we have free time in our budget, we use it to increase happiness
-        * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
-    * Increase accessibility by increasing the quality of the transport system or increasing the number of activities in an area. An increase in accessibility causes positive feedback in the loop. This is balanced by negative feedback from the transport system. When transportation demand goes up, quality goes down. e.g. traffic, overcrowding.
-    * [Accessibility Instruments for Planning and Practice](http://www.accessibilityplanning.eu) [www.accessibilityplanning.eu]
-  * Action Space
-    * where your activities take place
-    * Capacity constraints - money, time, availability modes
-    * Coupling constraints - location, time
-    * Insitutional constraints - opening hours, entrance fee
-  * Land use and public transport accessibility index (LUPTAI) tool
-    * Build pubilc transport where it is lacking and there is high density
-    * Increase density where it is low and there is good public transport
-  * [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
-    * spacial distance, temporal distance, traffic-dependent, mode-dependent
-  * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
-    * ability to move - related to an activity - individual perspective, depends on [Built Environment](https://en.wikipedia.org/wiki/Built_environment)
-    * Mobility Rate: number of trips/person/day e.g. 3 in DE
-* [Land Use](https://en.wikipedia.org/wiki/Land_use), [Zoning](https://en.wikipedia.org/wiki/Zoning), [Spacial Planning](https://en.wikipedia.org/wiki/Spatial_planning), [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
+* Systems
   * Forest -> Farms -> Cities
-  * Residential zone home types
+  * Land Use -> Transport -> Land Use... (Feedback Loop, and Chicken and Egg Problem)
+  ![wulfhorst2003](https://github.com/davidbailey/tum/raw/master/handbook/Land%20Use%20and%20Transport%20Interactions/wulfhorst2003.png)
+  * Land Use -> Activity -> Transport (Supply <-> Demand) -> Accessibility -> Land Use...
+    * Rate of Change
+      * Slow - Transport Network, Zoning
+      * Fast - Freight, Commuting, Employment, Population
+* [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
+  * Types
+    * Routine - regular and predictable
+    * Institutional - irregular and according to lifestyle
+    * Production - complex network of relationships between firms, activities, regions, nations
+* Accessibility
+  * "The more or less easiness with which one can reach a location (a) to perform an activity (b)" - geometric and economic easiness
+  * Accessibility = Σ Activities at Destinations * function(Generalized Costs to Travel to Destinations)
+    * (maybe Activities at Destinations should be function(Activities at Destinations) too...)
+  * Density, Diversity, Design
+  * Depends on costs (time, money) and perception of those costs.
+    * Monetary Budget ~ 15% of household budget
+    * Time Budget ~ 1 hour/day, stable through history - we are traveling further today, not more; if we have free time in our budget, we use it to increase happiness
+      * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
+  * Increase accessibility by increasing the quality of the transport system or increasing the number of activities in an area. An increase in accessibility causes positive feedback in the loop. This is balanced by negative feedback from the transport system. When transportation demand goes up, quality goes down. e.g. traffic, overcrowding.
+  * [Accessibility Instruments for Planning and Practice](http://www.accessibilityplanning.eu) [www.accessibilityplanning.eu]
+* Action Space
+  * where your activities take place
+  * Capacity constraints - money, time, availability modes
+  * Coupling constraints - location, time
+  * Insitutional constraints - opening hours, entrance fee
+* [Friction of Distance](https://en.wikipedia.org/wiki/Friction_of_distance)
+  * spacial distance, temporal distance, traffic-dependent, mode-dependent
+* [Mobility](https://en.wikipedia.org/wiki/Mobilities)
+  * ability to move - related to an activity - individual perspective, depends on [Built Environment](https://en.wikipedia.org/wiki/Built_environment)
+  * Mobility Rate: number of trips/person/day e.g. 3 in DE
+* [Land Use Forcasting](https://en.wikipedia.org/wiki/Land-use_forecasting)
+* [Zoning](https://en.wikipedia.org/wiki/Zoning)
+  * Transportation
+  * Commercial
+  * Industrial
+  * Commercial
+  * Agriculture
+  * Parks
+  * Nature
+  * Residential
     * [Single-family Home](https://en.wikipedia.org/wiki/Single-family_detached_home)
       * requires parking
     * [Row House](https://en.wikipedia.org/wiki/Terraced_house)
       * high density, small plot size, often no backyard e.g. Liverpool
     * [Apartment](https://en.wikipedia.org/wiki/Apartment) / [Condominium](https://en.wikipedia.org/wiki/Condominium)
       * often requires parking
-  * [Mixed-use Development](https://en.wikipedia.org/wiki/Mixed-use_development)
-    * http://mrsc.org/Home/Explore-Topics/Planning/Development-Types-and-Land-Uses/Mixed-Use.aspx
+  * [Mixed-use](https://en.wikipedia.org/wiki/Mixed-use_development)
+    * [MRSC Mixed Use](http://mrsc.org/Home/Explore-Topics/Planning/Development-Types-and-Land-Uses/Mixed-Use.aspx) [mrsc.org]
     * [Transit-oriented Development](https://en.wikipedia.org/wiki/Transit-oriented_development)
       * [Garden City](https://en.wikipedia.org/wiki/Garden_city_movement)
       * max 2km around station (30 minute walk), but hopefully more like 5-7 minute walk
@@ -62,6 +67,41 @@
       * transportation choices
       * reduced parking
       * high quality design
+* [Spacial Planning](https://en.wikipedia.org/wiki/Spatial_planning)
+  * Planning Principles
+    * Comprehensive
+    * Efficient
+    * Inclusive
+    * Informative
+    * Integrated
+    * Logical
+    * Transparent
+  * Process
+    * Classic Process
+      1. Problem analysis and objectives (goals)
+      2. Alternatives analysis
+      3. Decision
+      4. Implement
+      5. Monitor
+    * Classic Process 2.0
+      1. Choose a framework, scope, stakeholders, schedule, etc.
+      2. Kick-off meeting
+      3. Vision, goal, and problem statement
+      4. Brainstorm alternatives
+      5. Alternatives analysis
+      6. Long-term and short-term plans
+      7. Gather baseline data
+      8. Implement
+      9. Evalute against baseline data
+      10. Revise
+  * Integration
+    * Technical
+    * Spatial
+    * Temporal
+    * Organizational
+    * Methodological
+    * Political
+* [Urban Planning](https://en.wikipedia.org/wiki/Urban_planning)
   * [Suburb](https://en.wikipedia.org/wiki/Suburb)
     * [Streetcar Suburb](https://en.wikipedia.org/wiki/Streetcar_suburb)
     * [Urban Sprawl](https://en.wikipedia.org/wiki/Urban_sprawl)
@@ -90,10 +130,9 @@
     * Seperates public space (noise/air pollution), from private space e.g. Maxvorstadt in Munich
     * parking inside?
   * [European Spatial Development Perspective](https://en.wikipedia.org/wiki/European_Spatial_Development_Perspective)
-    * http://ec.europa.eu/regional_policy/sources/docoffic/official/reports/pdf/sum_en.pdf
-
+    * [European Spatial Development Perspective](http://ec.europa.eu/regional_policy/sources/docoffic/official/reports/pdf/sum_en.pdf) [ec.europa.eu]
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
-  * http://www.vtpi.org/tdm/
+  * [Victoria Transport Institute Online TDM Encyclopedia](http://www.vtpi.org/tdm/) [www.vtpi.org]
   * Mobility Management
   * Avoid, Shift, Improve (Vermeiden, verlagern und verträglicher machen)
     * http://gelookahead.economist.com/avoid-shift-improve/
