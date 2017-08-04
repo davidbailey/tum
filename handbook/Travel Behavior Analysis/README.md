@@ -26,3 +26,8 @@
   * [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice)
     * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
   * [Red Bus / Blue Bus Problem](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives#Criticism_of_IIA)
+* Choice Behavior
+  * User Optimum: Maximize Utility/Happiness (McFadden, Litman)
+  * System Optimum (Wardrop)
+  * Agent-based Model
+  * Activity-based Model
