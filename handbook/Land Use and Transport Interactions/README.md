@@ -39,6 +39,11 @@
 * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
   * ability to move - related to an activity - individual perspective, depends on [Built Environment](https://en.wikipedia.org/wiki/Built_environment)
   * Mobility Rate: number of trips/person/day e.g. 3 in DE
+* [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
+  * [Victoria Transport Institute Online TDM Encyclopedia](http://www.vtpi.org/tdm/) [www.vtpi.org]
+  * Mobility Management
+  * [Avoid, Shift, Improve](http://gelookahead.economist.com/avoid-shift-improve/) [gelookahead.economist.com] (Vermeiden, verlagern und verträglicher machen)
+* [The Geography of Transport Systems](https://people.hofstra.edu/geotrans/) [people.hofstra.edu]
 * [Land Use Forcasting](https://en.wikipedia.org/wiki/Land-use_forecasting)
 * [Zoning](https://en.wikipedia.org/wiki/Zoning)
   * Transportation
@@ -110,14 +115,14 @@
   * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
   * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
     * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
-      * https://www.cnu.org
-      * https://www.ted.com/talks/jeff_speck_4_ways_to_make_a_city_more_walkable
+      * [Congress for the New Urbanism](https://www.cnu.org) [www.cnu.org]
+      * [Jeff Speck: 4 ways to make a city more walkable | TED Talk](https://www.ted.com/talks/jeff_speck_4_ways_to_make_a_city_more_walkable) [www.ted.com]
 	* reason to walk, safe and feel safe, comfortable, interesting
 	* 200 foot [blocks](https://en.wikipedia.org/wiki/City_block) (Portland) -> 2 lane city
 	* 600 foot blocks (Salt Lake City) -> 6 lane city
-	* https://commons.wikimedia.org/wiki/File:American_Grid_Comparison.jpg
+	* [American Grid Comparison](https://commons.wikimedia.org/wiki/File:American_Grid_Comparison.jpg)
 	* (See Gridded Space)
-    * http://imdb.com/title/tt1701976/
+    * [Urbanized (2011)](http://imdb.com/title/tt1701976/) [imdb.com]
   * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
   * Urbanity by destiny
     * Dense, single-use, auto-centric, often high costs. E.g. Wilshire Blvd, West Los Angeles; Century City
@@ -129,11 +134,48 @@
   * Courtyard block structure
     * Seperates public space (noise/air pollution), from private space e.g. Maxvorstadt in Munich
     * parking inside?
-  * [European Spatial Development Perspective](https://en.wikipedia.org/wiki/European_Spatial_Development_Perspective)
-    * [European Spatial Development Perspective](http://ec.europa.eu/regional_policy/sources/docoffic/official/reports/pdf/sum_en.pdf) [ec.europa.eu]
-* [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
-  * [Victoria Transport Institute Online TDM Encyclopedia](http://www.vtpi.org/tdm/) [www.vtpi.org]
-  * Mobility Management
-  * Avoid, Shift, Improve (Vermeiden, verlagern und verträglicher machen)
-    * http://gelookahead.economist.com/avoid-shift-improve/
-* [The Geography of Transport Systems](https://people.hofstra.edu/geotrans/) [people.hofstra.edu]
+* Strategies
+  * Vision: long-term common goal
+  * Strategy: medium-term plans
+  * Action: short-term projects
+  * International
+    * [European Spatial Development Perspective](https://en.wikipedia.org/wiki/European_Spatial_Development_Perspective)
+      * [European Spatial Development Perspective](http://ec.europa.eu/regional_policy/sources/docoffic/official/reports/pdf/sum_en.pdf) [ec.europa.eu]
+    * Territorial Agenda of the European Union
+    * [Trans-European Transport Networks](https://en.wikipedia.org/wiki/Trans-European_Transport_Networks)
+      * multimodal, Interoperabil
+      * Methodology: Nodes, Links, Capacity and Technical considerations
+      * Cost-Benefit Analysis, Multi-Criteria Analysis, Models
+  * National
+    * DE
+
+      Level | Oversight | Plans | Responsabilities
+      --- | --- | --- | ---
+      National | Spatial | Federal Transport Infrastructure Plan / Bundesraumordnung | Motorways, Waterways, Air, Long-distance rail
+      State | Land Use | Landesplanung | State roads, Regional/commuter rail
+      Regional | Coordination | Regionalplanung | County roads, public transport
+      Local | Structures | Kommunalplanung | City roads, public transport
+
+    * DE: Federal Transport Infrastructure Plan
+      * Non-binding, provides money
+      * Parlament <-> Federal Ministry of Transport and Digital Infrastructure
+      * Cost-Benefit Analysis
+      * Top-down (Measures) and Bottom-up (Goals)
+  * Regional
+    * Cooperation, Common Objectives
+    * Functional boundaries are often greater than institutional boundaries e.g. border cities
+    * e.g. www.agglomeration.ch, Munich Metropolitan Region
+  * Local
+    * [EU Action Plan on urban mobility](https://ec.europa.eu/transport/themes/urban/urban_mobility/action_plan_en) [ec.europa.eu]
+      1. Promoting integrated policies
+      2. Focusing on citizens
+      3. Greening urban transport
+      4. Strengthening funding
+      5. Sharing experience and knowledge
+      6. Optimising urban mobility
+    * DE: Transport Development Plan (Verkehrsentwicklungsplan)
+      * Munich: Compact, Urban, Green
+    * DE: Public transport action plan (Nahverkehrsplan)
+      * Standard Assessment for projects > 35M Euro
+    * UK: Local Transport Plan
+    * [Sustainable Urban Mobility Plann](https://en.wikipedia.org/wiki/Sustainable_Urban_Mobility_Plan)

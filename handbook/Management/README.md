@@ -88,3 +88,42 @@
 	4. Resolve conflicts between policies
 	5. Get more funding…
 
+## Process
+* [Strategic Environmental Assessment](https://en.wikipedia.org/wiki/Strategic_environmental_assessment)
+  * EU: Applies to plans and programs
+  * EU: Screaning, Scoping, Baseline, Determine impacts, Public, Decision, Implement, Monitor
+* [Feasibility Studies](https://en.wikipedia.org/wiki/Feasibility_study)
+* [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
+  * EU: Motive, Scoping, Report, Public
+  * DE: Compensatory: Any damage must be compensated. Contingency: Different means, same result.
+* Regional Impact Assessment Procedure
+  * balance settlement and nature, accessibility, avoid, shift, improve
+  * if and how
+  * results in: accepted according to spatial planning documents, can be adopted to spatial planning documents, rejected because of spatial planning documents
+* Planning Approval (instead of a Building Permit)
+  * Preperation, (Development Freeze), Public Hearing, Comment Period, Approval, Legal Actions
+  * legally binding, comments must be addressed
+  * balances needs vs. concerns, ensures project is in line with goals
+* Public Participation
+  * Benefits: increased credibility, support, trust
+  * Requirements: start early, transparency, continious, active, focus on the decision
+  * Direct, Indirect, Institutional
+  * Formal, Informal
+  * A Ladder of Citizen Participation (Sherry R Arnstein)
+    8. Citizen Control
+    7. Delegated Power
+    6. Partnership
+    5. Placation
+    4. Consultation
+    3. Informing
+    2. Therapy
+    1. Maniuplation
+* Evaluation
+  * Why? verify impacts, learn for the future
+  * Before/After Studies 
+  * Cross-sectional Studies
+  * Scientific Studies (Control Group)
+  * Impact Evaluation ^^^
+  * Cost-Benefit Analysis
+  * Multi-Criteria Analysis
+  * Meta-analysis
