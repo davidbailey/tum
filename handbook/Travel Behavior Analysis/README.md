@@ -26,13 +26,10 @@
   * [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice)
     * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
   * [Red Bus / Blue Bus Problem](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives#Criticism_of_IIA)
-<<<<<<< HEAD
 * Choice Behavior
   * User Optimum: Maximize Utility/Happiness (McFadden, Litman)
   * System Optimum (Wardrop)
   * Agent-based Model
   * Activity-based Model
-=======
 * Behaviourally Homogenous Groups: Demographic groups that have the same daily schedule
 * We are lacking a good spacial choice model. Why do we live, work, etc. where we do?
->>>>>>> c6cc5e67cb59569510dbf0db4dd2dc08be337e1c
