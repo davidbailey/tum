@@ -408,3 +408,6 @@
           * Closed Shield
             * [Earth Pressure Balance](https://en.wikipedia.org/wiki/Earth_pressure_balance)
             * Slurry Shield
+  * Civil Structures
+    * Inspection
+      * http://nitc.trec.pdx.edu/events/professional-development/webinar-developing-practical-dynamic-evaluation-methods
