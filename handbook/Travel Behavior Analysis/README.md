@@ -26,4 +26,5 @@
   * [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice)
     * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
   * [Red Bus / Blue Bus Problem](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives#Criticism_of_IIA)
+* Behaviourally Homogenous Groups: Demographic groups that have the same daily schedule
 * We are lacking a good spacial choice model. Why do we live, work, etc. where we do?
