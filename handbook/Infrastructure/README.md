@@ -174,6 +174,7 @@
                         * number of vehicles that do not have to stop / total number of vehicles >= 65% is good
                   * [Pedestrian Scramble](https://en.wikipedia.org/wiki/Pedestrian_scramble)
                   * Leading Pedestrian Interval
+                  * [Green Wave](https://en.wikipedia.org/wiki/Green_wave) (DE: Grüne Welle)
                 * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
             * [Grade Seperation](https://en.wikipedia.org/wiki/Grade_separation)
           * Turns
