@@ -18,9 +18,9 @@
 * [Land Use Forcasting](https://en.wikipedia.org/wiki/Land-use_forecasting)
   * Lowry Model (1964)
     * Economic Forcast -> Location of Industrial Employment
-    * + Friction of Distance -> Location of Industrial Employees' Residences
+    * add Friction of Distance -> Location of Industrial Employees' Residences
     * -> Location of Service Employment
-    * + Friction of Distance -> Location of Service Employees' Residences ^
+    * add Friction of Distance -> Location of Service Employees' Residences ^
     * but now we live in a service economy...
   * Sensitivity Model ([Vester](https://en.wikipedia.org/wiki/Frederic_Vester)) Matrix + System, qualitative 0, 1, 2, 3
     * fuzzy elements, for understanding, not prediction
