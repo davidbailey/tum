@@ -1,5 +1,5 @@
 ## Management 
-  * Project Project Phases
+  * Project Phases
     1. Planning:
       * Goals: Sustainable Transportation
       * Determine Actions and their effects on Goals
