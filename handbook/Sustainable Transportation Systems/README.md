@@ -1,6 +1,7 @@
 ## [Sustainable](https://en.wikipedia.org/wiki/Sustainable_transport) [Transportation Systems](https://en.wikipedia.org/wiki/Transport_network)
   * derived from sustainable forestry
   * Economic
+    * [Law of Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
   * Social
     * Social Justice, Safety, Public Health, Seperation, Socialization 
     * 1,200,000-1,600,000 Traffic Death / Year Worldwide
