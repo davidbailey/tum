@@ -7,4 +7,5 @@ Links
 1. Wikipedia => Page Title
 2. Other links => Page Title [example.com]
 3. Internal references => (See Other Section)
+
 To Generate a new copy of this handbook, run `cat README.md */README.md | grip --export - index.html`.
