@@ -4,6 +4,6 @@
 
 ### Conventions used in this handbook
 Links
-1. Wikipedia => Word
-2. Other links => Page Title (example.com)  
+1. Wikipedia => Page Title
+2. Other links => Page Title [example.com]
 3. Internal references => (See Other Section)
