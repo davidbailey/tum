@@ -209,3 +209,57 @@
     * Methodological
     * Political
 
+### [Decisions](https://en.wikipedia.org/wiki/Decision-making)
+* Why? [Choices](https://en.wikipedia.org/wiki/Choice) and Limited Funds
+* Characteristics
+  * Transparent
+  * Reliable
+  * Objective (impossible)
+  * Simple
+* Components
+  * Targets
+    * Replacable
+    * Competative
+    * Complementary
+    * Independent
+  * Indicators
+  * Rules: Values -> Indicators, Indicators -> Targets
+* Methods
+  * Informal
+    * Method of Balancing and Discussion (Pros and Cons)
+  * Formal
+    * [Cost-Benefit Analysis](https://en.wikipedia.org/wiki/Cost–benefit_analysis)
+      * [Benefit-cost Ratio](https://en.wikipedia.org/wiki/Benefit–cost_ratio)
+      * Indicator = Cost/Benefit = $$$
+        * Direct
+        * Indirect
+        * Intangible
+      * Approaches
+        * Cost of Damage
+          * Assessment of dose-effect relationship
+          * Assessment of restoration costs
+          * Willingness to pay
+          * Willingness to accept
+        * Avoidance of Costs
+        * Opportunity Costs
+      * External Costs = Social Costs - Private Costs
+        * [Internalisation of transport external costs](https://ec.europa.eu/transport/themes/sustainable/internalisation_en) [ec.europa.eu]
+      * [Discounting](https://en.wikipedia.org/wiki/Discounting)
+        * R / (1 + i)^t
+          * R = value, i = discount rate, t = number of periods
+        * [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value)
+    * [Mulit-Criteria Analysis](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis)
+      * Indicator [Levels](https://en.wikipedia.org/wiki/Level_of_measurement)
+        * Quantative
+          * [Cardinal](https://en.wikipedia.org/wiki/Cardinal_number) e.g. 1-10
+        * Qualatative
+          * [Ordinal](https://en.wikipedia.org/wiki/Ordinal_data) e.g. very nice, nice, average, not nice, very not nice
+          * [Nominal](https://en.wikipedia.org/wiki/Level_of_measurement#Nominal_level) (Categories) e.g. Urban, Rural
+      * Aggregation Methods
+        * Weights
+        * Relevance Tree
+        * Preference Matrix
+* [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment)
+  * [EIA Open Education Resource](http://eia.unu.edu) [eia.unu.edu]
+
+
