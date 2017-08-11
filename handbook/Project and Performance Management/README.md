@@ -94,6 +94,26 @@
               * Transportation-Efficient Land Use (100%)
   4. [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment) (Environmental Impact Report (EIR))
     * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
+      * [California Environmental Quality Act](https://en.wikipedia.org/wiki/California_Environmental_Quality_Act)
+        * [California Environmental Protection Agency](https://en.wikipedia.org/wiki/California_Environmental_Protection_Agency)
+        * [CEQA Guidelines](http://resources.ca.gov/ceqa/guidelines/) [resources.ca.gov]
+        * Aesthetics
+        * Agriculture Resources
+        * Air Quality
+        * Biological Resources
+        * Cultural Resources
+        * Geology/Soils
+        * Hazards & Hazardous Materials
+        * Hydrology/Water Quality
+        * Land Use/Planning
+        * Mineral Resources
+        * Noise
+        * Population/Housing
+        * Public Services
+        * Recreation
+        * Transportation/Traffic
+        * Utilities/Service Systems
+        * Mandatory Findings of Significance
     * [EIA Open Education Resource](http://eia.unu.edu) [eia.unu.edu]
     * EU: Motive, Scoping, Report, Public
     * DE: Compensatory: Any damage must be compensated. Contingency: Different means, same result.
