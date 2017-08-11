@@ -53,6 +53,7 @@
     * Time Budget ~ 1 hour/day, stable through history
       * We are traveling further today, not more; if we have free time in our budget, we use it to increase happiness; if we travel faster, we travel further, not fewer hours => Induced Demand (See Induced Demand)
       * [Marchetti's Constant](https://en.wikipedia.org/wiki/Marchetti%27s_constant)
+      * [Why Even the Hyperloop Probably Wouldn’t Change Your Commute Time](https://www.nytimes.com/2017/08/10/upshot/why-even-the-hyperloop-probably-wouldnt-change-your-commute-time.html) [www.nytimes.com]
   * Components: Spacial, Transport, Temporal, Individual
   * Increase accessibility by increasing the quality of the transport system or increasing the number of activities in an area. An increase in accessibility causes positive feedback in the loop. This is balanced by negative feedback from the transport system. When transportation demand goes up, quality goes down. e.g. traffic, overcrowding.
   * [Accessibility Instruments for Planning and Practice](http://www.accessibilityplanning.eu) [www.accessibilityplanning.eu]
