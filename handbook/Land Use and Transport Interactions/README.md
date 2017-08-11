@@ -43,7 +43,7 @@
     * Trip Chain: e.g. Home -> Work -> Shop -> Home
 * Accessibility
   * "The more or less easiness with which one can reach a location (a) to perform an activity (b)" - geometric and economic easiness
-  * Accessibility = Σ Activities at Destinations * function(Generalized Costs to Travel to Destinations)
+  * Accessibility = Σ Activities at Destinations × function(Generalized Costs to Travel to Destinations)
     * cost function is typically based on a [Gravity Model](https://en.wikipedia.org/wiki/Gravity_model_of_trade)
     * (maybe Activities at Destinations should be function(Activities at Destinations) too...)
   * Density, Diversity, Design
