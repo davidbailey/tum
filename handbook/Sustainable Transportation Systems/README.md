@@ -135,77 +135,21 @@
         * Different speeds builds a hierarchy where cars naturally find faster streets - don't make everything slow
         * Traffic Calming goals - equality for all, more safe, less air and noise pollution | methods - shrink the road, disallow through traffic / shift vehicles to other streets, shift people to other modes
         * Marketing and communication
-    * [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
-      * dense in city center vs. car network which goes into the center, but is not dense in the center
-      * Goals
-        * Shift people from private transportation to public transportation by providing safe, reliable, efficient service
-        * Shift public tranportation demand from peak hours to off peak hours
-      * Planning <=> Operations
-      * Infrastructure - Dedicated or Shared w/ Private Transport
-        * Guideway: road or track
-          * Right-of-Way Class
-            * A: Exclusive right-of-way across nodes and links. e.g. LACMTA Red Line
-            * B: Exclusive right-of-way across links; shared right-of-way across nodes. e.g. LACMTA Expo Line
-            * C: Shared right-of-way across nodes and links. e.g. Buses
-            * http://humantransit.org/2011/03/rail-bus-differences-contd.html
 
-            |   | Speed | Capacity | Vehicle Control | Operation Control |
-            | - | ----- | -------- | --------------- | ----------------- |
-            | A | very high | very high | driver/automated | interlock systems |
-            | B | high | high | driver | interlock systems/by sight |
-            | C | moderate | moderate | driver | by sight |
+Mode | Speed | Capacity | Cost
+--- | --- | --- | ---
+Mixed Traffic Lane | | 1500-2000 people/h (average vehicle occupancy = 1.2-1.3 people/vehicle) | Mid-High
+Bus | | 5000-9000 people/h | Low
+Bicycle Path | | 14000 people/h | Low
+BRT | | 9000-20000 people/h | Low
+Pedestrians | 4 km/h | 19000 people/h | Low
+Tram | 15-25 km/h | 10000 people/h | Mid
+LRT | 20-30 km/h | 22000-30000 people/h | Mid (~$60,000,000/km)
+Monorail | 25-35 km/h | 30000 people/h | High
+2-Lane BRT | | 40000-43000 people/h (Bogotá) | Low-Mid
+HRT | 30-60 km/h | 60000-80000+ people/h | High (~$100,000,000+/km)
+Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High
 
-        * Stops/Stations
-          * [Last Mile](https://en.wikipedia.org/wiki/Last_mile_(transportation))
-        * Control Infrastructure
-        * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
-        * Mode
-          * Road / Bus
-            * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
-              * Features
-                * High-quality buses
-                * Level boarding
-                * Off-vehicle fare collection
-                * High-quality stations (microdesign), not just stops
-                  * Elevators, escalators, ample ticket counters/machines, good lighting, clean, well maintained, secure, good signage
-                * Pedestrian and bicycle access to stations and lots of transfer options with fare/schedule integration
-                * High frequency (>12 buses/hour)
-                * Exclusive right-of-way (including no local buses)
-                * Marketing, education, and outreach
-                * Transit-oriented development
-          * Rail
-            * Tram
-            * [Tram-Train](https://en.wikipedia.org/wiki/Tram-train)
-              * [Karlsruhe Model](https://en.wikipedia.org/wiki/Karlsruhe_model)
-            * Light Rail
-            * Heavy Rail
-            * Interlocking System (See Train Control)
-          * Mode Characteristics
-            * Speed
-            * Capacity
-              * System capacity depends on capacity of infrastructure, size of vehicle, headways
-              * Bus: 90 people/vehicle
-              * LRT: 180 people/car
-              * HRT: 180 people/car
-              * Commuter Rail: 180 people/car
-            * Comfort
-
-            | Mode | Speed | Capacity | Cost |
-            | ---- | ----- | -------- | ---- |
-            | Mixed Traffic Lane | | 1500-2000 people/h (average vehicle occupancy = 1.2-1.3 people/vehicle) | Mid-High|
-            | Bus | | 5000-9000 people/h | Low |
-            | Bicycle Path | | 14000 people/h | Low |
-            | BRT | | 9000-20000 people/h | Low |
-            | Pedestrians | 4 km/h | 19000 people/h | Low |
-            | Tram | 15-25 km/h | 10000 people/h | Mid |
-            | LRT | 20-30 km/h | 22000-30000 people/h | Mid (~$60,000,000/km) |
-            | Monorail | 25-35 km/h | 30000 people/h | High |
-            | 2-Lane BRT | | 40000-43000 people/h (Bogotá) | Low-Mid |
-            | HRT | 30-60 km/h | 60000-80000+ people/h | High (~$100,000,000+/km) |
-            | Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High |
-
-        * Network
-          * Routes
         * Timetable
           * Customer / Passenger
             * Quality = Headway / Travel Time
