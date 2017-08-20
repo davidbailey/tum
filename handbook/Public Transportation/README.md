@@ -1,4 +1,17 @@
-### Public Transportation
+### [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
+* Goals
+	* Shift people from private transportation to public transportation by providing safe, reliable, efficient service
+	* Shift public tranportation demand from peak hours to off peak hours
+* Characteristics
+	* dense in city center vs. car network which is radial, but is not dense in the center
+	* planning must be coordinated with operation
+* Infrastructure - Dedicated or Shared w/ Private Transport
+	* Guideway: road or track
+	* Stops/Stations
+		* [Last Mile](https://en.wikipedia.org/wiki/Last_mile_(transportation))
+	* Control Infrastructure
+	* Service (Maintenance, Vehicle Parking) and Supply (Fuel)
+	
 * Modes
   * Bus
     * BRT
@@ -14,20 +27,28 @@
     * Monorail
   * Automated Guided Transit
 * Characteristics
+
+|   | Speed | Capacity | Vehicle Control | Operation Control |
+| - | ----- | -------- | --------------- | ----------------- |
+| A | very high | very high | driver/automated | interlock systems |
+| B | high | high | driver | interlock systems/by sight |
+| C | moderate | moderate | driver | by sight |
+
   * Right-of-way
-    * A: Dedicated ways and intersections
+		* [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
+    * A: Dedicated ways and intersections e.g. LACMTA Red Line
       * heavy rail
       * high investment cost, performance (speed, reliability, capacity), low operating cost/passenger, high frequencies
       * large distance between stops, sparce network
       * stations as placemaking w/ information, off-vehicle fare collection
       * simple network, map, convenient transfers, many doors
-    * B: Dedicated ways and shared intersections
+    * B: Dedicated ways and shared intersections e.g. LACMTA Expo Line
       * lrt, brt, bus lanes
       * mid costs and performance
       * stations as placemaking w/ information, off-vehicle fare collection, medium stop spacing
       * simple network, map, convenient transfers, many doors
       * intersection prioritization, traffic control center
-    * C: Shared ways and intersetions
+    * C: Shared ways and intersetions e.g. Buses
       * buses, trolley buses, streetcars, trams
       * good accessibility, short distance between stops, dense network
       * low-mid cost investment cost
