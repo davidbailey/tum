@@ -30,6 +30,7 @@
 * Framework Architecture
     * US: http://www.its.dot.gov/research_archives/arch/
     * EU: http://frame-online.eu
+    * 2010 directive 2010/40/EU of European Parliament on ITS: Framework for the deployment of Intelligent Transport Systems in the field of road transportation and for interfaces with other modes of transport
 * Reference Architecture
 * Implementation
 ### Viewpoints
@@ -219,18 +220,18 @@
       4. detect vehicle / release signal
       5. resume normal operations
 * [Freeway / Motorway](https://en.wikipedia.org/wiki/Controlled-access_highway)
-  * Objectives
-    * increase traffic flow
-    * increase safety
-    * reduce emissions
+  * Objectives: increase traffic flow, increase safety, reduce emissions, reduce time lost
   * Classification
     * Network Control Systems e.g. rerouting for major events, traffic
       * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
       * [Navigation System](https://en.wikipedia.org/wiki/Automotive_navigation_system)
       * addative: recommend a new route or substantiative: change the route
       * manual or automatic control
-      * Variable Lane Allocation e.g. Northbound I-110 at I-5
+      * Variable Lane Allocation e.g. Northbound CA-110 at I-5
     * Section Control Systems
+      * [ATDM Program Brief: An Introduction to Active Transportation and Demand Management](https://ops.fhwa.dot.gov/publications/fhwahop12032/) [ops.fhwa.dot.gov]
+      * Model-based Control INCA
+         * Minimize the Objective Function = probability of a crash × cost of a crash + value of time / speed
       * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
         * Text
           * Traffic Dependent (automatic)
@@ -252,14 +253,11 @@
           * Determine Priority
             * Build Speed Funnels
           * Display Message
-    * Intersection Control Systems
+  * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road)) Control Systems
       * [Ramp Metering](https://en.wikipedia.org/wiki/Ramp_meter)
       * Purpose
         * Reduce congestion on freeway by temporarly reducing demand
         * Break up entering [Platoons](https://en.wikipedia.org/wiki/Platoon_(automobile))
-      * Local or Coordinated
-  * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road))
-      * https://ops.fhwa.dot.gov/publications/fhwahop12032/
 ### Automatic Incident Detection
 * Incident: drop in speed/safety or any deviation from the norm
   * Characteristics
