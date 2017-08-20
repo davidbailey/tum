@@ -80,4 +80,22 @@
           * [Diminishing Returns](https://en.wikipedia.org/wiki/Diminishing_returns)  
 * [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics): growth, inflation, unemployment
 
-
+* Transportation System
+    * Travel Cost
+        * Purpose
+            * Funding Transportation (current, future)
+            * Influencing Travel Behavior (modes, routes, times)
+            * Internalizing External Costs (Crashes, Noise, Pollution, Loss of Nature, Division of Urban Structure, Congestion)
+        * Schemes
+            * tax-based: sales tax, etc.
+            * user-based: fuel tax, road tolls, parking charge, public transportation charge
+                * internal traffic, origin/destination traffic, through traffic
+                * zone-based (congestion charge), link-based (toll road), node-based (parking fee)
+                * depends on time of day, congestion level, pollution level, vehicle type, vehicle occupancy, etc.
+                * fixed-fee, variable-fee
+                * pre-paid, post-paid
+            * third-party-based: developer agreement
+    * Travel Time
+        * Public Transportation: Speed, Frequency, Transfers
+        * Car: Speed, Congestion
+        * Bicycle: Speed (based on safe routes)
