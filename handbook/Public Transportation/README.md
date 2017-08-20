@@ -227,13 +227,11 @@ Network Map | simple | simple | complex, no map
 * Parking Regulations
 ### Scheduling
 1. Trip Building
-  i. Compute the necessary headway
-  ii. Compute the travel time, terminal time, cycle time, and number of vehicles needed
-  iii. Create the timetable
-2. Block Building
-  * Assign Transport Units to depot
-3. Run-cutting
-  * Optimize drivers
+  * Compute the necessary headway
+  * Compute the travel time, terminal time, cycle time, and number of vehicles needed
+  * Create the timetable
+2. Block Building: assign Transport Units to depot
+3. Run-cutting: optimize drivers
 4. Rotating Duty Rosters
   * One duty roster for all employees
     * Rotates with a fixed cycle: Lehner
