@@ -325,3 +325,30 @@
 
 
 Typical reasons for transportation projects (in order): efficency, safety, money, environment
+
+* Users
+  * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
+    * [Cars](https://en.wikipedia.org/wiki/Car)
+      * [Autonomous Cars](https://en.wikipedia.org/wiki/Autonomous_car)
+        * Level 0 No Automation
+        * Level 1 Driver Assistance
+        * Level 2 Partial Automation
+        * Level 3 Conditional Automation
+        * Level 4 High Automation
+        * Level 5 Full Automation
+        * http://www.sae.org/misc/pdfs/automated_driving.pdf
+    * [Cars/Person](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)
+      * USA: 797/1000 people (often used for commuting and recreation)
+      * Germany: 572/1000 people (often used for recreation)
+      * India: 32/1000 people
+      * High in High GDP Countries, High in Low GDP Countries = Economically Stressful
+    * [Trucks](https://en.wikipedia.org/wiki/Truck)
+      * [Semi Truck](https://en.wikipedia.org/wiki/Semi-trailer_truck)
+        * (See Freight/Cargo)
+    * [Buses](https://en.wikipedia.org/wiki/Bus)
+      * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
+    * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
+  * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
+    * [Tall Bikes](https://en.wikipedia.org/wiki/Tall_bike)
+    * [Helmets](https://en.wikipedia.org/wiki/Helmet)
+  * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
