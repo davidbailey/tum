@@ -11,13 +11,13 @@
 		* [Last Mile](https://en.wikipedia.org/wiki/Last_mile_(transportation))
 	* Control Infrastructure
 	* Service (Maintenance, Vehicle Parking) and Supply (Fuel)
-	
 * Modes
   * Bus
-    * BRT
+    * Trolly Bus
+    * Bus Rapid Transit
       * may allow stopping of two buses, overtaking lanes
   * Light Rail
-    *  wide range of systems, unidirectional or bidirectional, low floor, tram-trains
+    * wide range of systems, unidirectional or bidirectional, low floor, tram-trains
     * Streetcar
     * Tram
     * Light Rail
@@ -26,54 +26,49 @@
     * Regional Rail
     * Monorail
   * Automated Guided Transit
-* Characteristics
 
-ROW | A | B | C
+* Right-of-Way
+	* [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
+    * A: Dedicated ways and intersections e.g. LACMTA Red Line
+    * B: Dedicated ways and shared intersections e.g. LACMTA Expo Line
+      * possibility for intersection prioritization
+    * C: Shared ways and intersetions e.g. Buses
+
+Right-of-Way Class | A | B | C
 --- | --- | --- | ---
 Investment Cost | high | medium | low
+Operating Cost (per passenger) | low | medium | high
 Speed | high | medium | low (slower than private cars)
+Travel Time Reliability | high | medium | low
 Capacity | high | medium | low
 Vehicle Control | driver or automated | driver | driver
 Guidance/Operation | interlock systems | interlock systems orby sight | by sight
+Typical Vehicles | heavy rail | light rail, BRT | bus, tram
+Distance Between Stops (Accessibility) | low | medium | high
+Network Density | low | medium | high
+Stations | identifiable and informative | identifiable and informative | simple
+Fare Collection | off-vehicle | off-vehicle | off-vehicle or on-vehicle
+Boarding | quick, many doors | quick, many doors | could be slow
+Network Map | simple | simple | complex, no map
 
-  * Right-of-way
-    * [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
-    * A: Dedicated ways and intersections e.g. LACMTA Red Line
-      * heavy rail
-      * high investment cost, performance (speed, reliability, capacity), low operating cost/passenger, high frequencies
-      * large distance between stops, sparce network
-      * stations as placemaking w/ information, off-vehicle fare collection
-      * simple network, map, convenient transfers, many doors
-    * B: Dedicated ways and shared intersections e.g. LACMTA Expo Line
-      * lrt, brt, bus lanes
-      * mid costs and performance
-      * stations as placemaking w/ information, off-vehicle fare collection, medium stop spacing
-      * simple network, map, convenient transfers, many doors
-      * intersection prioritization, traffic control center
-    * C: Shared ways and intersetions e.g. Buses
-      * buses, trolley buses, streetcars, trams
-      * good accessibility, short distance between stops, dense network
-      * low-mid cost investment cost
-      * low speed, performance depends on traffic conditions, slower than private cars
-      * complex networks, no maps
-  * Vehicle Guidance
-    * Track / Guideway
-      * allows for longer vehicles (higher capacity), less land use, better for tunnels, safety/automation possible
-      * higher cost, higher stop spacing, less flexibility
-    * Driver Steered
-  * Propulsion
-    * Dinosaurs: Diesel, CNG, LNG
-    * Electric
-      * higher acceleration, regenerative braking, no local pollution
-      * higher investment cost, less reliable
-    * Hybrid
-  * Control
-    * Driver
-    * Automatic Train Operation
-      * lowest headways, higher cost
-      * w/ Driver
-      * w/o Driver
-        * lower cost
+* Vehicle Guidance
+  * Track / Guideway
+    * allows for longer vehicles (higher capacity), less land use, better for tunnels, safety/automation possible
+    * higher cost, higher stop spacing, less flexibility
+  * Driver Steered
+* Propulsion
+  * Dinosaurs: Diesel, CNG, LNG
+  * Electric
+    * higher acceleration, regenerative braking, no local pollution
+    * higher investment cost, less reliable
+  * Hybrid
+* Control
+  * Driver
+  * Automatic Train Operation
+    * lowest headways, higher cost
+    * w/ Driver
+    * w/o Driver
+      * lower cost
 * Line Length
   * Long: more direct trips, more efficient (less down time)
   * Short: less delay propagation, difficult run cutting
