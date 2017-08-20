@@ -5,6 +5,10 @@
   * http://trec.pdx.edu/events/professional-development/friday-transportation-seminar-topic-tba-0
 * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
 * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
+* [Congestion](https://en.wikipedia.org/wiki/Traffic_congestion) Causes Rule of Thumb: 1/3 of Each
+  * Capicity (too much demand)
+  * Construction
+  * Crashes
 * [Traffic Models](https://en.wikipedia.org/wiki/Traffic_model)
   * Requirements for Models
     * sensativity: as close to reality as necessary
