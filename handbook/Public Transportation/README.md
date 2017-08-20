@@ -12,21 +12,31 @@
 	* Control Infrastructure
 	* Service (Maintenance, Vehicle Parking) and Supply (Fuel)
 * Modes
-  * Bus
+  * Bus (about 90 people/vehicle)
     * Trolly Bus
-    * Bus Rapid Transit
-      * may allow stopping of two buses, overtaking lanes
-  * Light Rail
-    * wide range of systems, unidirectional or bidirectional, low floor, tram-trains
-    * Streetcar
-    * Tram
+    * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
+        * High-quality buses
+        * Level boarding
+        * Off-vehicle fare collection
+        * High-quality stations (microdesign), not just stops
+          * Elevators, escalators, ample ticket counters/machines, good lighting, clean, well maintained, secure, good signage
+        * Pedestrian and bicycle access to stations and lots of transfer options with fare/schedule integration
+        * High frequency (>12 buses/hour)
+        * Exclusive right-of-way (including no local buses)
+          * may allow stopping of two buses and overtaking lanes
+        * Marketing, education, and outreach
+        * Transit-oriented development
+  * Light Rail (wide range of systems) (about 180 people/car × 2-3+ cars)
+    * (Low Floor) Streetcar
+    * Tram (unidirectional or bidirectional)
     * Light Rail
-  * Heavy Rail
+    * [Tram-Train](https://en.wikipedia.org/wiki/Tram-train)
+      * [Karlsruhe Model](https://en.wikipedia.org/wiki/Karlsruhe_model)
+  * Heavy Rail (about 180 people/car × 6-10+ cars)
     * Subway / Metro (Rail Rapid Transit, Light Rail Rapid Transit, Rubber-tired Rapid Transit)
     * Regional Rail
     * Monorail
   * Automated Guided Transit
-
 * Right-of-Way
 	* [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
     * A: Dedicated ways and intersections e.g. LACMTA Red Line
