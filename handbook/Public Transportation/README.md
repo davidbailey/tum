@@ -1,17 +1,17 @@
 ## [Public Transportation](https://en.wikipedia.org/wiki/Public_transport)
 ### Goals
-	* Shift people from private transportation to public transportation by providing safe, reliable, efficient service
-	* Shift public tranportation demand from peak hours to off peak hours
+* Shift people from private transportation to public transportation by providing safe, reliable, efficient service
+* Shift public tranportation demand from peak hours to off peak hours
 ### Characteristics
-	* dense in city center vs. car network which is radial, but is not dense in the center
-	* planning must be coordinated with operation
+* dense in city center vs. car network which is radial, but is not dense in the center
+* planning must be coordinated with operation
 ### Infrastructure - Dedicated or Shared w/ Private Transport
-	* Network: road or track
-    * Routes
-	* Stops/Stations
-		* [Last Mile](https://en.wikipedia.org/wiki/Last_mile_(transportation))
-	* Control Center
-	* Service (Maintenance, Vehicle Parking) and Supply (Fuel)
+* Network: road or track
+  * Routes
+* Stops/Stations
+  * [Last Mile](https://en.wikipedia.org/wiki/Last_mile_(transportation))
+* Control Center
+* Service (Maintenance, Vehicle Parking) and Supply (Fuel)
 ### Modes
   * Bus (about 90 people/vehicle)
     * Trolly Bus
