@@ -5,7 +5,7 @@
 ### Conventions used in this handbook
 Links
 1. Wikipedia => Page Title
-2. Other links => Page Title [example.com]
-3. Internal references => Page Title [self]
+2. Internal => Page Title [self]
+3. Other => Page Title [example.com]
 
 To generate a new copy of this handbook, run `cat README.md */README.md | grip --export - index.html`.
