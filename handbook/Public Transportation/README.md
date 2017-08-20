@@ -28,14 +28,16 @@
   * Automated Guided Transit
 * Characteristics
 
-ROW | Investment Cost | Speed | Capacity | Vehicle Control | Operation Control
---- | --- | --- | --- | --- | ---
-A | very high | very high | very high | driver/automated | interlock systems
-B | high | high | high | driver | interlock systems/by sight
-C | moderate | moderate | moderate | driver | by sight
+ROW | A | B | C
+--- | --- | --- | ---
+Investment Cost | high | medium | low
+Speed | high | medium | low (slower than private cars)
+Capacity | high | medium | low
+Vehicle Control | driver or automated | driver | driver
+Guidance/Operation | interlock systems | interlock systems orby sight | by sight
 
   * Right-of-way
-		* [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
+    * [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
     * A: Dedicated ways and intersections e.g. LACMTA Red Line
       * heavy rail
       * high investment cost, performance (speed, reliability, capacity), low operating cost/passenger, high frequencies
