@@ -66,13 +66,13 @@ Network Map | simple | simple | complex, no map
   * allows for longer vehicles (higher capacity), less land use, better for tunnels, safety/automation possible
   * higher cost, higher stop spacing, less flexibility
 * Driver Steered
-* Propulsion
+### Propulsion
 * Dinosaurs: Diesel, CNG, LNG
 * Electric
   * higher acceleration, regenerative braking, no local pollution
   * higher investment cost, less reliable
 * Hybrid
-* Control
+### Control
 * Driver
 * Automatic Train Operation
   * lowest headways, higher cost
