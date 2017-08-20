@@ -4,7 +4,9 @@
 * [Open Loop](https://en.wikipedia.org/wiki/Open-loop_controller)
 * Open Loop [Feedforward](https://en.wikipedia.org/wiki/Feed_forward_(control))
 * Closed Loop w/ [Feedback](https://en.wikipedia.org/wiki/Feedback)
+
 ![A block diagram of a negative feedback control system.](https://upload.wikimedia.org/wikipedia/commons/2/24/Feedback_loop_with_descriptions.svg)
+
 * [PID Controller](https://en.wikipedia.org/wiki/PID_controller)
     * P: Present Values (Proportional Term)
     * I: Past Values (Integral Term)
