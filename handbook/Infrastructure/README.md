@@ -1,81 +1,54 @@
 ## Infrastructure
   * [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
-    * Ways
-      * Pedestrian Paths
-        * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
-          * Children in Sweden can walk alone at age 12-13.
-      * [Bicycle Paths](https://en.wikipedia.org/wiki/Bike_path)
-      * [Shared (Pedestrian and Bicycle) Paths](https://en.wikipedia.org/wiki/Shared_use_path)
-      * [Roads](https://en.wikipedia.org/wiki/Road)
-        * General Use Lanes
-          * [Road Diet](https://en.wikipedia.org/wiki/Road_diet)
-          * [Reversible Lane](https://en.wikipedia.org/wiki/Reversible_lane)
-        * [Bus Lanes](https://en.wikipedia.org/wiki/Bus_lane)
-        * [Bicycle Lanes](https://en.wikipedia.org/wiki/Cycling_infrastructure#Bike_lanes)
-          * [Protected](https://en.wikipedia.org/wiki/Cycle_track)
-          * [Unprotected](https://en.wikipedia.org/wiki/Bike_lane)
-            * Buffered
-        * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
-      * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
-      * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
-        * [2+1 Road](https://en.wikipedia.org/wiki/2%2B1_road)
-        * [Super Two](https://en.wikipedia.org/wiki/Super_two)
-        * [Two-lane Expressway](https://en.wikipedia.org/wiki/Two-lane_expressway)
-        * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
-          * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(road))
-          * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
-      * Bridges
-      * [Tunnels](https://en.wikipedia.org/wiki/Tunnel)
-          * Low Probability, High Consequence Events e.g. Fire, Smoke, Explosions, Hazardous Materials
-              * often safer than other road sections because drivers compensate for higher percieved risk
-          * Design Standards
-              * EU Directive 2004/54/EC
-              * US NFPA 502: Standard for Road Tunnels, Bridges, and Other Limited Access Highways
-          * Tunnel Control
-              * Communication
-              * Traffic Control
-                  * Triggers: Fundamental Diagram (present and forcasted), Stopped Vehicles, Wrong Way Drivers, Over-height Vehicles, Pedestrians in the Tunnel, Lost Cargo, Emergency Door Opened, etc.
-                  * Responses: Automatic, Semi-automatic, Manual
-              * Ventilation
-                  * Longitudinal
-                      * Central Exhaust or Central Fresh Air Supply
-                  * Semi-transverse Ventilation
-              * Lighting
-                  * Bright, Dark, Bright
-              * Sensors
-                  * Fire
-                      * Indirect: removal of a fire extinguisher, video
-                      * Direct
-                  * Power
-                  * Pollution
-                  * Visibility
-                  * Wind Speed
-    * Users
-      * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
-        * [Cars](https://en.wikipedia.org/wiki/Car)
-          * [Autonomous Cars](https://en.wikipedia.org/wiki/Autonomous_car)
-            * Level 0 No Automation
-            * Level 1 Driver Assistance
-            * Level 2 Partial Automation
-            * Level 3 Conditional Automation
-            * Level 4 High Automation
-            * Level 5 Full Automation
-            * http://www.sae.org/misc/pdfs/automated_driving.pdf
-        * [Cars/Person](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)
-          * USA: 797/1000 people (often used for commuting and recreation)
-          * Germany: 572/1000 people (often used for recreation)
-          * India: 32/1000 people
-          * High in High GDP Countries, High in Low GDP Countries = Economically Stressful
-        * [Trucks](https://en.wikipedia.org/wiki/Truck)
-          * [Semi Truck](https://en.wikipedia.org/wiki/Semi-trailer_truck)
-            * (See Freight/Cargo)
-        * [Buses](https://en.wikipedia.org/wiki/Bus)
-          * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
-        * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
-      * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
-        * [Tall Bikes](https://en.wikipedia.org/wiki/Tall_bike)
-        * [Helmets](https://en.wikipedia.org/wiki/Helmet)
-      * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
+    * Pedestrian Paths
+      * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
+        * Children in Sweden can walk alone at age 12-13.
+    * [Bicycle Paths](https://en.wikipedia.org/wiki/Bike_path)
+    * [Shared (Pedestrian and Bicycle) Paths](https://en.wikipedia.org/wiki/Shared_use_path)
+    * [Roads](https://en.wikipedia.org/wiki/Road)
+      * General Use Lanes
+        * [Road Diet](https://en.wikipedia.org/wiki/Road_diet)
+        * [Reversible Lane](https://en.wikipedia.org/wiki/Reversible_lane)
+      * [Bus Lanes](https://en.wikipedia.org/wiki/Bus_lane)
+      * [Bicycle Lanes](https://en.wikipedia.org/wiki/Cycling_infrastructure#Bike_lanes)
+        * [Protected](https://en.wikipedia.org/wiki/Cycle_track)
+        * [Unprotected](https://en.wikipedia.org/wiki/Bike_lane)
+          * Buffered
+      * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
+    * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
+    * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
+      * [2+1 Road](https://en.wikipedia.org/wiki/2%2B1_road)
+      * [Super Two](https://en.wikipedia.org/wiki/Super_two)
+      * [Two-lane Expressway](https://en.wikipedia.org/wiki/Two-lane_expressway)
+      * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
+        * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(road))
+        * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
+    * Bridges
+    * [Tunnels](https://en.wikipedia.org/wiki/Tunnel)
+        * Low Probability, High Consequence Events e.g. Fire, Smoke, Explosions, Hazardous Materials
+            * often safer than other road sections because drivers compensate for higher percieved risk
+        * Design Standards
+            * EU Directive 2004/54/EC
+            * US NFPA 502: Standard for Road Tunnels, Bridges, and Other Limited Access Highways
+        * Tunnel Control
+            * Communication
+            * Traffic Control
+                * Triggers: Fundamental Diagram (present and forcasted), Stopped Vehicles, Wrong Way Drivers, Over-height Vehicles, Pedestrians in the Tunnel, Lost Cargo, Emergency Door Opened, etc.
+                * Responses: Automatic, Semi-automatic, Manual
+            * Ventilation
+                * Longitudinal
+                    * Central Exhaust or Central Fresh Air Supply
+                * Semi-transverse Ventilation
+            * Lighting
+                * Bright, Dark, Bright
+            * Sensors
+                * Fire
+                    * Indirect: removal of a fire extinguisher, video
+                    * Direct
+                * Power
+                * Pollution
+                * Visibility
+                * Wind Speed
   * [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
     * Design Standards
       * American Railway Engineering and Maintenance-of-Way Association
