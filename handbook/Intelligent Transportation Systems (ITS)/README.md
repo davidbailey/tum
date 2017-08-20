@@ -1,4 +1,22 @@
 ## [Intelligent Transportation Systems](https://en.wikipedia.org/wiki/Intelligent_transportation_system) (ITS)
+* [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
+    * Open Loop
+    * Closed Loop (Feedback)
+    ![A block diagram of a negative feedback control system.](https://upload.wikimedia.org/wikipedia/commons/2/24/Feedback_loop_with_descriptions.svg)
+    * [PID Controller](https://en.wikipedia.org/wiki/PID_controller)
+        * P: Present Values (Proportional Term)
+        * I: Past Values (Integral Term)
+        * D: Future Values (Derivative Term)
+    ![A block diagram of a PID controller in a feedback loop.](https://upload.wikimedia.org/wikipedia/commons/4/43/PID_en.svg)
+    * [Model Predictive Control](https://en.wikipedia.org/wiki/Model_predictive_control)
+* [State Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+    * Stability
+    * Controlability
+    * Ovservability
+    * [State Space](https://en.wikipedia.org/wiki/State_space)
+        * [State Space Representation](https://en.wikipedia.org/wiki/State-space_representation)
+* [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing)
+    * [Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter)
 * Telematics (Telecommunications and Informatics)
   * Acquisition
   * Transmission
