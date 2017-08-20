@@ -159,13 +159,15 @@
     * Transfers - free or not
     * Off-peak discount
 * Improvements
+  * Selection Criteria: potential for decrease in travel time / increase in travel time reliability, high ridership, potential to reduce at least one vehicle
+  * Process: inventory stops, lanes, traffic lights; travel time analysis; problem identification; implement measures; measure performance
   * Vehicle: more, bigger doors, low floor, electric propulsion
   * Intersections: curb parking, dedicated lanes, turn prohibition
     * Stop location
       * Prioritization: after intersection
       * Green Wave: alternate
       * Bus Sluice: before intersection
-  * Stops
+  * Stops:
     * Types
       * Bay: slow
       * Bulb
@@ -182,6 +184,9 @@
       * Skip-Stop: A, B, AB
       * Zonal e.g. Munich S-Bahn, Regional Trains, ICE
   * Signal Prioritization
+    * Absolute or Relative
+    * Equiptment: Control Center, Traffic Lights, Vehicles (Computer, Antenna, Position Sensor (Odometer, Infrared Sensor, GPS), Door Position Sensor (to know arrival and departure from stops)
+    * Phases: Preperation (cross traffic -> red), Request (priority -> green), Release (normal operation) 
   * Fare Collection
     * Off-vehicle
   * C -> B -> A
@@ -189,6 +194,8 @@
   * Fewer Stops
   * Timetable Integration
   * Articulated Vehicles
+  * Traffic Regulations
+  * Parking Regulations
 * Scheduling
   1. Trip Building
     1. Compute the necessary headway
