@@ -6,8 +6,7 @@
 * dense in city center vs. car network which is radial, but is not dense in the center
 * planning must be coordinated with operation
 ### Infrastructure - Dedicated or Shared w/ Private Transport
-* Network: road or track
-  * Routes
+* Network (routes): road or track
 * Stops/Stations
   * [Last Mile](https://en.wikipedia.org/wiki/Last_mile_(transportation))
 * Control Center
@@ -39,11 +38,11 @@
     * Monorail
   * Automated Guided Transit
 ### Right-of-Way
-	* [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
-    * A: Dedicated ways and intersections e.g. LACMTA Red Line
-    * B: Dedicated ways and shared intersections e.g. LACMTA Expo Line
-      * possibility for intersection prioritization
-    * C: Shared ways and intersetions e.g. Buses
+* [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
+* A: Dedicated ways and intersections e.g. LACMTA Red Line
+* B: Dedicated ways and shared intersections e.g. LACMTA Expo Line
+  * possibility for intersection prioritization
+* C: Shared ways and intersetions e.g. Buses
 
 Right-of-Way Class | A | B | C
 --- | --- | --- | ---
