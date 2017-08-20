@@ -2,8 +2,7 @@
 
 *Safety and Security are a component of all sections*
 
-### Conventions used in this handbook
-Links
+### Links
 1. Wikipedia => Page Title
 2. Internal => Page Title [self]
 3. Other => Page Title [example.com]
