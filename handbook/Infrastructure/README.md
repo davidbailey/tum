@@ -24,6 +24,32 @@
         * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
           * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(road))
           * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
+      * Bridges
+      * [Tunnels](https://en.wikipedia.org/wiki/Tunnel)
+          * Low Probability, High Consequence Events e.g. Fire, Smoke, Explosions, Hazardous Materials
+              * often safer than other road sections because drivers compensate for higher percieved risk
+          * Design Standards
+              * EU Directive 2004/54/EC
+              * US NFPA 502: Standard for Road Tunnels, Bridges, and Other Limited Access Highways
+          * Tunnel Control
+              * Communication
+              * Traffic Control
+                  * Triggers: Fundamental Diagram (present and forcasted), Stopped Vehicles, Wrong Way Drivers, Over-height Vehicles, Pedestrians in the Tunnel, Lost Cargo, Emergency Door Opened, etc.
+                  * Responses: Automatic, Semi-automatic, Manual
+              * Ventilation
+                  * Longitudinal
+                      * Central Exhaust or Central Fresh Air Supply
+                  * Semi-transverse Ventilation
+              * Lighting
+                  * Bright, Dark, Bright
+              * Sensors
+                  * Fire
+                      * Indirect: removal of a fire extinguisher, video
+                      * Direct
+                  * Power
+                  * Pollution
+                  * Visibility
+                  * Wind Speed
     * Users
       * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
         * [Cars](https://en.wikipedia.org/wiki/Car)
