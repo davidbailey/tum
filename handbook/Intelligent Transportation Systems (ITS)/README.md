@@ -2,7 +2,7 @@
 ### Objective: [Sustainable Transportation Systems](https://github.com/davidbailey/tum/blob/master/handbook/Sustainable%20Transportation%20Systems/) [self]
 ### [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Open Loop](https://en.wikipedia.org/wiki/Open-loop_controller)
-* Open Loop [Feedforward](https://en.wikipedia.org/wiki/Feed_forward_(control))
+* [Feed Forward](https://en.wikipedia.org/wiki/Feed_forward_(control))
 * Closed Loop w/ [Feedback](https://en.wikipedia.org/wiki/Feedback)
 
 ![A block diagram of a negative feedback control system.](https://upload.wikimedia.org/wikipedia/commons/2/24/Feedback_loop_with_descriptions.svg)
