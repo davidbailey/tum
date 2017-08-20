@@ -3,7 +3,7 @@
   * Economic
     * [Law of Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
   * Social
-    * Social Justice, Safety, Public Health, Seperation, Socialization 
+    * Social Justice, Safety, Public Health, Seperation, Socialization, Comfort, Efficency 
     * 1,200,000-1,600,000 Traffic Death / Year Worldwide
   * Ecological / [Environmental](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
     * Energy, Noise, Air Pollution, Land-use
