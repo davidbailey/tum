@@ -38,7 +38,7 @@
     * Regional Rail
     * Monorail
   * Automated Guided Transit
-* Right-of-Way
+### Right-of-Way
 	* [rail-bus differences: premise or conclusion?](http://humantransit.org/2011/03/rail-bus-differences-contd.html) [humantransit.org]
     * A: Dedicated ways and intersections e.g. LACMTA Red Line
     * B: Dedicated ways and shared intersections e.g. LACMTA Expo Line
@@ -227,9 +227,9 @@ Network Map | simple | simple | complex, no map
 * Parking Regulations
 ### Scheduling
 1. Trip Building
-  1. Compute the necessary headway
-  2. Compute the travel time, terminal time, cycle time, and number of vehicles needed
-  3. Create the timetable
+  i. Compute the necessary headway
+  ii. Compute the travel time, terminal time, cycle time, and number of vehicles needed
+  iii. Create the timetable
 2. Block Building
   * Assign Transport Units to depot
 3. Run-cutting
