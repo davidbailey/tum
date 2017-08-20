@@ -1,6 +1,5 @@
-### Routing
+## [Vehicle Routing](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
 * [Shortest Path](https://en.wikipedia.org/wiki/Shortest_path_problem)
   * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
   * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-  * [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
-    * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+* [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
