@@ -42,7 +42,7 @@ Speed | high | medium | low (slower than private cars)
 Travel Time Reliability | high | medium | low
 Capacity | high | medium | low
 Vehicle Control | driver or automated | driver | driver
-Guidance/Operation | interlock systems | interlock systems orby sight | by sight
+Guidance/Operation | interlock systems | interlock systems or by sight | by sight
 Typical Vehicles | heavy rail | light rail, BRT | bus, tram
 Distance Between Stops (Accessibility) | low | medium | high
 Network Density | low | medium | high
