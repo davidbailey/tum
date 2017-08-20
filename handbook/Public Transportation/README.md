@@ -208,8 +208,8 @@ Network Map | simple | simple | complex, no map
     * Stop at all stops
   * Types
     * Local/Express
-* 4-track: headway = time lost by local because of stopping * number of stops for local
-* 2-track: local waits for 2 * minimum headway for express to stop and then go
+* 4-track: headway = time lost by local because of stopping × number of stops for local
+* 2-track: local waits for 2 × minimum headway for express to stop and then go
     * Skip-Stop: A, B, AB
     * Zonal e.g. Munich S-Bahn, Regional Trains, ICE
 * Signal Prioritization
