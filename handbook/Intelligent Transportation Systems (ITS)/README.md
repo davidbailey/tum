@@ -255,9 +255,10 @@
           * Display Message
   * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road)) Control Systems
       * [Ramp Metering](https://en.wikipedia.org/wiki/Ramp_meter)
-      * Purpose
-        * Reduce congestion on freeway by temporarly reducing demand
-        * Break up entering [Platoons](https://en.wikipedia.org/wiki/Platoon_(automobile))
+        * Purpose
+          * Reduce congestion on freeway by temporarly reducing demand
+          * Break up entering [Platoons](https://en.wikipedia.org/wiki/Platoon_(automobile))
+        * ALINEA
 ### Automatic Incident Detection
 * Incident: drop in speed/safety or any deviation from the norm
   * Characteristics
@@ -268,7 +269,14 @@
   * Compare w/ Norm
   * [Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter)
   * Video Image Processing
+  * California Algorithm
+  * VkDIFF
   * ...
+* Metrics
+  * Detection Rate = Number of Detected Cases / Total Number of Cases
+  * False Alarm Rate = Number of False Alarms / Total Number of Alarms
+  * Alarm Reliability Rate = (Number of Alarms - Number of False Alarms) / Number of Alarms
+  * Mean Time To Detect = Time of Detection - Time of Incident
 * Examples
   * [Motorway Incident Detection and Automatic Signalling](https://en.wikipedia.org/wiki/Motorway_Incident_Detection_and_Automatic_Signalling) (MIDAS) (UK)
   * [Expressway Monitoring and Advisory System](https://en.wikipedia.org/wiki/Expressway_Monitoring_and_Advisory_System) (SG)
