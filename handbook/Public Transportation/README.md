@@ -54,6 +54,7 @@ Capacity | high | medium | low
 Vehicle Control | driver or automated | driver | driver
 Guidance/Operation | interlock systems | interlock systems or by sight | by sight
 Typical Vehicles | heavy rail | light rail, BRT | bus, tram
+Line Capacity | up to 80,000 people/hour | up to 24,000 people/hour | up to 6,000 people/hour
 Distance Between Stops (Accessibility) | low | medium | high
 Network Density | low | medium | high
 Stations | identifiable and informative | identifiable and informative | simple
