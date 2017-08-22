@@ -202,9 +202,9 @@
             * MOTION
             * TRANSYT
             * BALANCE
-            * SCATS
+            * Sydney Coordinated Adaptive Traffic System (SCATS)
             * UTOPIA
-            * OPAC
+            * Optimized Policies for Adaptive Control (OPAC)
       * Levels
         * Strategic - long-term
         * Tactical - mid-term
