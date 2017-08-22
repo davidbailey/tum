@@ -118,6 +118,7 @@
         * Signalized
           * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
             * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
+              * [Traffic Signal Timing Manual](https://ops.fhwa.dot.gov/publications/fhwahop08024/) [ops.fhwa.dot.gov]
               * Signalized Intersection Design Process
                 1. Find complementary signals: analyze the intersection geometry and determine conflict points (conflicting signals).
                 2. Define which signal belong to which phases and choose an appropriate sequence of phases.
@@ -130,7 +131,6 @@
                 9. Determine capacity of the intersection = sum of all capacities = green time for each flow * saturation flow for each flow from 4.
                 10. Determine degree of saturation (highest of all flows) for all movements and assign a quality.
                 11. Set the signal plan.
-              * (See Traffic Signal Timing Manual)
               * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
                 * Requirements for Coordination
                   * Distance between intersections < 750-1000m
@@ -175,6 +175,7 @@
         * traffic management
       * Coverage
         * Local
+          * EPICS
         * Line (e.g. coordinated signals)
         * Network
           * Types
@@ -198,6 +199,12 @@
             * SCOOT (Split Cycle Offset Optimisation Technique)
               * http://www.scoot-utc.com
               * small steps every 5 minutes
+            * MOTION
+            * TRANSYT
+            * BALANCE
+            * SCATS
+            * UTOPIA
+            * OPAC
       * Levels
         * Strategic - long-term
         * Tactical - mid-term
