@@ -12,9 +12,9 @@
 * Control Center
 * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
 ### Modes
-  * Bus (about 90 people/vehicle)
+  * Bus (about 90 people/vehicle, up to 6,000 people/hour/line)
     * Trolly Bus
-    * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
+    * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit) (up to 180 people/bus, up to 24,000 people/hour/line)
         * High-quality buses
         * Level boarding
         * Off-vehicle fare collection
@@ -26,13 +26,13 @@
           * may allow stopping of two buses and overtaking lanes
         * Marketing, education, and outreach
         * Transit-oriented development
-  * Light Rail (wide range of systems) (about 180 people/car × 2-3+ cars)
+  * Light Rail (wide range of systems) (about 180 people/car × 2-3+ cars, up to 24,000 people/hour/line)
     * (Low Floor) Streetcar
     * Tram (unidirectional or bidirectional)
     * Light Rail
     * [Tram-Train](https://en.wikipedia.org/wiki/Tram-train)
       * [Karlsruhe Model](https://en.wikipedia.org/wiki/Karlsruhe_model)
-  * Heavy Rail (about 180 people/car × 6-10+ cars)
+  * Heavy Rail (about 180 people/car × 6-10+ cars, up to 80,000 people/hour/line)
     * Subway / Metro (Rail Rapid Transit, Light Rail Rapid Transit, Rubber-tired Rapid Transit)
     * Regional Rail
     * Monorail
