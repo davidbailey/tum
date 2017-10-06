@@ -12,6 +12,11 @@
     * Scene Understanding - Where is everyone else?
     * Movement Planning - Where am I going?
     * Driver State
+  * Learning Types
+    * Supervised: provide large sample of training data (ground truth: inputs and outputs)
+      * Humans can learn from much less data, simple instructions.
+    * Reinforcement Learning: reward or punish based on just outcome, ground truth is scarce
+    * Unsupervised: no information about outputs
   * Neural Networks (Deep Learning)
     * Universality - can approximate any function e.g. driving
     * Courses
@@ -51,11 +56,6 @@
         * Class e.g. Cat, Dog
         * Probability
         * Segmentation => Heatmap of probabilities
-    * Learning Types
-      * Supervised: provide large sample of training data (ground truth: inputs and outputs)
-        * Humans can learn from much less data, simple instructions.
-      * Reinforcement Learning: reward or punish based on just outcome, ground truth is scarce
-      * Unsupervised: no information about outputs
     * Other
       * Sliding image approach (versus Convolutional Neural Networks)
         1. Create a detector for the object of interest
