@@ -1,4 +1,4 @@
-## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) -> [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning))
 ### Courses
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
