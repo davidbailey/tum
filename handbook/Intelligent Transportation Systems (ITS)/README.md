@@ -53,7 +53,7 @@
       * [Vehicle to Device (V2D)](https://en.wikipedia.org/wiki/Vehicle-to-device)
       * Vehicle to Pedestrian (V2P)
       * Vehicle to Infrastructure (V2I)
-### Vehicle Safety: 
+### Vehicle Safety
   * Active: avoid crashes
       * Blind Spot Warning
       * Lane Keeping
@@ -86,7 +86,7 @@
                   * 50% Male
                   * THOR
                   * THUMS
-  * Airbags (Front, Side, Head)
+    * Airbags (Front, Side, Head)
       * After Crash
           * Automatic Emergency Call
           * V2V/I Collision Notifications
