@@ -1,6 +1,7 @@
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
   * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
+  * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
   * Tasks
     * Formal Tasks e.g. board games
     * Expert Tasks e.g. engineering design
@@ -29,6 +30,6 @@
     * Universality - can approximate any function e.g. driving
     * Learning Types
       * Supervised: provide large sample of training data (ground truth: inputs and outputs)
-	* Humans can learn from much less data, simple instructions.
+        * Humans can learn from much less data, simple instructions.
       * Reinforcement Learning: reward or punish based on just outcome, ground truth is scarce
       * Unsupervised: no information about outputs
