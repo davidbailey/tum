@@ -1,6 +1,7 @@
 ## [Intelligent Transportation Systems](https://en.wikipedia.org/wiki/Intelligent_transportation_system) (ITS)
 ### Objective
-* Save lives, time, money, energy, the environment: [Sustainable Transportation Systems](https://github.com/davidbailey/tum/blob/master/handbook/Sustainable%20Transportation%20Systems/) [self]
+* Save lives, time, money, energy, the environment
+* [Sustainable Transportation Systems](https://github.com/davidbailey/tum/blob/master/handbook/Sustainable%20Transportation%20Systems/) [self]
 ### [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Open Loop](https://en.wikipedia.org/wiki/Open-loop_controller)
 * [Feed Forward](https://en.wikipedia.org/wiki/Feed_forward_(control))
