@@ -40,6 +40,24 @@
 * Functional: What?
 * Technical: How?
 * Organizational: Who?
+### Autonomous Driving
+ * Drive By Wire
+ * Steer By Wire
+ * SAE Levels of Automation: (0. No Automation)
+  1. Driver Assistance
+  2. Partial Automation
+  3. Conditional Automation
+  4. High Automation
+  5. Full Automation
+ * Challenges
+  * Snow / Rain
+  * Open Spaces
+  * Indoors (Parking Structure)
+  * Pedestrian/Bicycle Behavior
+    * Communication with Pedestrians/Cyclists
+  * Reflections
+  * Merging
+  * initial decrease in road capacity followed by possible increase in capacity if high adoption rate
 ### [Advanced Driver Assistance Systems (ADAS)](https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems)
   * [Electronic Stability Control](https://en.wikipedia.org/wiki/Electronic_stability_control)
   * [Adaptive Cruise Control](https://en.wikipedia.org/wiki/Autonomous_cruise_control_system)
