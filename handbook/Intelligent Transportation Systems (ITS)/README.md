@@ -1,6 +1,7 @@
 ## [Intelligent Transportation Systems](https://en.wikipedia.org/wiki/Intelligent_transportation_system) (ITS)
 ### Objective
 * Save lives, time, money, energy, the environment
+* Promote all modes
 * [Sustainable Transportation Systems](https://github.com/davidbailey/tum/blob/master/handbook/Sustainable%20Transportation%20Systems/) [self]
 ### [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Open Loop](https://en.wikipedia.org/wiki/Open-loop_controller)
@@ -39,6 +40,56 @@
 * Functional: What?
 * Technical: How?
 * Organizational: Who?
+### [Advanced Driver Assistance Systems (ADAS)](https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems)
+  * [Electronic Stability Control](https://en.wikipedia.org/wiki/Electronic_stability_control)
+  * [Adaptive Cruise Control](https://en.wikipedia.org/wiki/Autonomous_cruise_control_system)
+### Cooperative Intelligent Transport Systems (C-ITS)
+  * [Cooperative ITS Corridor](http://www.c-its-korridor.de/?menuId=1&sp=en) [www.c-its-korridor.de]
+  * [Vehicular_communication_systems](https://en.wikipedia.org/wiki/Vehicular_communication_systems)
+      * [simTD](http://www.simtd.de/index.dhtml/enEN/index.html) [www.simtd.de]
+      * [Vehicle to Everything (V2X)](https://en.wikipedia.org/wiki/Vehicle-to-everything)
+      * [Vehicle to Vehicle (V2V)](https://en.wikipedia.org/wiki/Vehicle-to-vehicle)
+      * [Vehicle to Grid (V2G)](https://en.wikipedia.org/wiki/Vehicle-to-grid)
+      * [Vehicle to Device (V2D)](https://en.wikipedia.org/wiki/Vehicle-to-device)
+      * Vehicle to Pedestrian (V2P)
+      * Vehicle to Infrastructure (V2I)
+### Vehicle Safety: 
+  * Active: avoid crashes
+      * Blind Spot Warning
+      * Lane Keeping
+      * Emergency Braking
+      * Emergency Lane Change
+      * Car Preconditioning
+      * Pedestrian Warning
+      * Cyclist Warning
+      * Collision Warning / Prevention
+  * Passive: reduce effects of crashes
+      * During Crash
+          * Seat Belts (Lap Belt -> 3-point Belt)
+              * Belt Tensioners
+          * Head Restraint
+          * Crumple Zones
+          * Child Restraint Systems
+          * [Crash Tests](https://en.wikipedia.org/wiki/Crash_test)
+              * Standards
+                  * https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards
+                  * http://www.unece.org/trans/main/welcwp29.html
+                  * https://en.wikipedia.org/wiki/Euro_NCAP
+                  * https://en.wikipedia.org/wiki/Insurance_Institute_for_Highway_Safety
+              * Types: Single Wall vs. Car to Car
+                  * Front Impact
+                  * Side Impact
+                      * Pole
+                      * Moveable Barrier
+                  * Rear Impact: Fuel and Whiplash are often biggest problems.
+              * Crash Test Dummies
+                  * 50% Male
+                  * THOR
+                  * THUMS
+  * Airbags (Front, Side, Head)
+      * After Crash
+          * Automatic Emergency Call
+          * V2V/I Collision Notifications
 ### [Traffic Control](https://en.wikipedia.org/wiki/Road_traffic_control)
   * Outputs
     * Information (voluntary)
