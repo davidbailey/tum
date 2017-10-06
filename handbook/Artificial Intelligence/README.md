@@ -32,6 +32,9 @@
         1. weight
         2. sum
         3. activate
+      * Input
+        * [ImageNet](http://www.image-net.org) [www.image-net.org]
+      * Output
     * Learning Types
       * Supervised: provide large sample of training data (ground truth: inputs and outputs)
         * Humans can learn from much less data, simple instructions.
