@@ -52,6 +52,7 @@
         3. activate (output 0 or 1)
       * can form a NAND Gate
         * logically complete (can build any function from just NAND gates)
+      * activation function is a step function -> not smooth => sigmoid
   * Input
     * [ImageNet](http://www.image-net.org) [www.image-net.org]
   * Output
