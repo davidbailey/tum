@@ -3,8 +3,6 @@
   * Courses
     * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
     * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
-    * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu) [selfdrivingcars.mit.edu]
-    * [Deep Learning](http://www.deeplearningbook.org) (www.deeplearningbook.org)
   * Tasks
     * Formal Tasks e.g. board games
     * Expert Tasks e.g. engineering design
@@ -16,6 +14,10 @@
     * Driver State
   * Neural Networks (Deep Learning)
     * Universality - can approximate any function e.g. driving
+    * Courses
+      * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu) [selfdrivingcars.mit.edu]
+      * [Deep Learning](http://www.deeplearningbook.org) [www.deeplearningbook.org]
+      * [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) [course.fast.ai]
     * Libraries
       * [TensorFlow](https://www.tensorflow.org) [www.tensorflow.org]
       * [Keras](https://keras.io) [keras.io] / [keras.js](https://github.com/transcranial/keras-js) [github.com]
