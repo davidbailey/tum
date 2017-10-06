@@ -41,14 +41,52 @@
 * Technical: How?
 * Organizational: Who?
 ### Autonomous Driving
-* Drive By Wire
-* Steer By Wire
 * SAE Levels of Automation: (0. No Automation)
   1. Driver Assistance
   2. Partial Automation
   3. Conditional Automation
   4. High Automation
   5. Full Automation
+* Inputs (Sensors)
+    * Internal
+      * Car Area Network (CAN)
+        * Wheel Speed
+        * Yaw Rate
+        * Steering Angle
+        * Acceleration/Brake Pedal
+        * Accelerometer
+        * Roll Angle
+        * Pitch Angle
+        * Rain/Temperature Sensor
+    * Cabin
+        * Cameras
+        * Internal Audio
+    * External
+        * Ultrasonic
+        * Radar
+        * LIDAR
+        * Optical Camera (Stereo)
+        * Infrared Camera
+        * Satellite Navigation
+    * Audio
+* Outputs
+    * Steering Angle (Steer By Wire)
+    * Brakes
+        * Pressure
+        * Modulation
+    * Engine (Drive By Wire)
+    * Driver Feedback
+        * Visual
+        * Haptic
+        * Acoustic
+* Functions (Computers)
+    * Fusion of Sensor Data
+    * Object Detection
+    * Object Identification (Classification)
+    * Route Planning
+    * Lateral Control
+        * Lane Selection (for route, safety, and speed)
+    * Longitudinal Control
 * Challenges
   * Snow / Rain
   * Open Spaces
@@ -59,7 +97,9 @@
   * Merging
   * initial decrease in road capacity followed by possible increase in capacity if high adoption rate
 ### [Advanced Driver Assistance Systems (ADAS)](https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems)
+  * Anti-lock Braking System (ABS)
   * [Electronic Stability Control](https://en.wikipedia.org/wiki/Electronic_stability_control)
+    * Traction Control System (TCS)
   * [Adaptive Cruise Control](https://en.wikipedia.org/wiki/Autonomous_cruise_control_system)
 ### Cooperative Intelligent Transport Systems (C-ITS)
   * [Cooperative ITS Corridor](http://www.c-its-korridor.de/?menuId=1&sp=en) [www.c-its-korridor.de]
