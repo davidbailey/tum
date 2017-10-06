@@ -3,6 +3,8 @@
   * Courses
     * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
     * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
+    * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu) [selfdrivingcars.mit.edu]
+    * [Deep Learning](http://www.deeplearningbook.org) (www.deeplearningbook.org)
   * Tasks
     * Formal Tasks e.g. board games
     * Expert Tasks e.g. engineering design
