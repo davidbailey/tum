@@ -199,6 +199,7 @@
                 * Repeat
           * Line of Sight
     * Quality Assessment
+  * Cellular Models e.g. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 ### [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
   * [GIS Software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
 ### Cartography Design
