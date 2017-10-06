@@ -84,15 +84,15 @@
 	    * Analogy
       * [Gauss-Markov Theorem](https://en.wikipedia.org/wiki/Gauss–Markov_theorem): if linear (expected value of ε = 0), [homoscedastic](https://en.wikipedia.org/wiki/Homoscedasticity) (constant error variance), independent (covariance between εi and εj = 0), then least squares gives the best linear unbiased estimator (BLUE)
       * Process
-	* Choose independent variables.
-	* Analyse the relationship between independent variable and the dependent variable.
-	  * If the relationship is non-linear, apply a suitable transformation. e.g. log()
-	* Calculate the correlation table for all possible variable pairs.
-	  * If two variables are collinear, choose the one wit the hightest correlation.
-	* Add variables to the model depending on if they improve model accuracy. Otherwise, reject them.
-	* Finalize statistical indices of the model.
-	  * Coefficient of Determination
-	  * Standard Error of the Estimate
-	    * ± 1 Standard Error => 68% Confidence Interval
-	    * ± 2 Standard Errors => 95% Confidence Interval
-      * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
+        * Choose independent variables.
+        * Analyse the relationship between independent variable and the dependent variable.
+          * If the relationship is non-linear, apply a suitable transformation. e.g. log()
+        * Calculate the correlation table for all possible variable pairs.
+          * If two variables are collinear, choose the one wit the hightest correlation.
+        * Add variables to the model depending on if they improve model accuracy. Otherwise, reject them.
+        * Finalize statistical indices of the model.
+          * Coefficient of Determination
+          * Standard Error of the Estimate
+            * ± 1 Standard Error => 68% Confidence Interval
+            * ± 2 Standard Errors => 95% Confidence Interval
+        * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
