@@ -41,15 +41,15 @@
 * Technical: How?
 * Organizational: Who?
 ### Autonomous Driving
- * Drive By Wire
- * Steer By Wire
- * SAE Levels of Automation: (0. No Automation)
+* Drive By Wire
+* Steer By Wire
+* SAE Levels of Automation: (0. No Automation)
   1. Driver Assistance
   2. Partial Automation
   3. Conditional Automation
   4. High Automation
   5. Full Automation
- * Challenges
+* Challenges
   * Snow / Rain
   * Open Spaces
   * Indoors (Parking Structure)
