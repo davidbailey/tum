@@ -31,7 +31,7 @@
   * [neon](https://www.intelnervana.com/neon/) [www.intelnervana.com]
   * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
 * Types
-  * Multilayer Perception (MLP)
+  * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks: information only travels forward
   * Deep Neural Networks (DNN)
   * Recurrent Neural Networks (RNN): map a sequence to another sequence (versus 1-to-1)
     * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
