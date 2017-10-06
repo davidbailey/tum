@@ -1,5 +1,5 @@
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
-* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+### [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
   * Courses
     * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
     * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
@@ -65,23 +65,23 @@
     * [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
       * y = ax + c (+ ε)
       * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
-	* [Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
+        * [Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
       * [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination) R² = 1 - Residual Sum of Squares / Total Sum of Squares, better fit = closer to 1
     * [p-value](https://en.wikipedia.org/wiki/P-value) lower is better
     * [Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)): split data into training and test sets. compare mean square error of test set w/ training set. they should be about the same.
       * [Correlation](https://en.wikipedia.org/wiki/Correlation_and_dependence): two things that happen or change together
-	* 1 = correlated, -1 = inversely correlated, 0 = uncorrelated
-	* [Causation](https://en.wikipedia.org/wiki/Causality): something causes something else
-	  * [Bradford-Hill criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
-	    * Strength
-	    * Consistency
-	    * Specificity
-	    * Temporality
-	    * Biological gradient
-	    * Plausibility
-	    * Coherence
-	    * Experiment
-	    * Analogy
+        * 1 = correlated, -1 = inversely correlated, 0 = uncorrelated
+        * [Causation](https://en.wikipedia.org/wiki/Causality): something causes something else
+          * [Bradford-Hill criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
+            * Strength
+            * Consistency
+            * Specificity
+            * Temporality
+            * Biological gradient
+            * Plausibility
+            * Coherence
+            * Experiment
+            * Analogy
       * [Gauss-Markov Theorem](https://en.wikipedia.org/wiki/Gauss–Markov_theorem): if linear (expected value of ε = 0), [homoscedastic](https://en.wikipedia.org/wiki/Homoscedasticity) (constant error variance), independent (covariance between εi and εj = 0), then least squares gives the best linear unbiased estimator (BLUE)
       * Process
         * Choose independent variables.
