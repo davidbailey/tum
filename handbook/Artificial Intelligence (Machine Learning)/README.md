@@ -33,7 +33,9 @@
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks: information only travels forward
   * Deep Neural Networks (DNN)
-  * Recurrent Neural Networks (RNN): map a sequence to another sequence (versus 1-to-1)
+  * Recurrent Neural Networks (RNN)
+    * have memory (state)
+    * can map a sequence to another sequence (versus 1-to-1)
     * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
   * Convolutional Neural Networks (CNN, ConvNet)
   * Deep Belief Networks (DBN)
