@@ -1,23 +1,22 @@
-## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
-### [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-* Courses
+## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) -> [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+### Courses
   * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
   * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
-* Tasks
+### Tasks
   * Formal Tasks e.g. board games
   * Expert Tasks e.g. engineering design
   * Mundane Tasks e.g. walking
-* Driving Tasks
+### Driving Tasks
   * Localization and Mapping - Where am I?
   * Scene Understanding - Where is everyone else?
   * Movement Planning - Where am I going?
   * Driver State
-* Learning Types
+### Learning Types
   * Supervised: provide large sample of training data (ground truth: inputs and outputs)
     * Humans can learn from much less data, simple instructions.
   * Reinforcement Learning: reward or punish based on just outcome, ground truth is scarce
   * Unsupervised: no information about outputs
-* Neural Networks (Deep Learning)
+### Neural Networks (Deep Learning)
   * Universality - can approximate any function e.g. driving
   * Courses
     * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu) [selfdrivingcars.mit.edu]
@@ -60,7 +59,7 @@
     * Sliding image approach (versus Convolutional Neural Networks)
       1. Create a detector for the object of interest
       2. Slide that detector around the image and look for the objects
-* [Regression](https://en.wikipedia.org/wiki/Regression_analysis)
+### [Regression](https://en.wikipedia.org/wiki/Regression_analysis)
   * Purpose: explain the relationship between two variables, predict 
   * [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
     * y = ax + c (+ ε)
