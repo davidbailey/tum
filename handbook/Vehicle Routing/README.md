@@ -1,5 +1,5 @@
 ## Networks
-### Vehicle Routing
+### [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
   * Least Cost Path
     * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) (See Routing)
     * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
