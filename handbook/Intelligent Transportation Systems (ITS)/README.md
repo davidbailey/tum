@@ -101,6 +101,11 @@
   * [Electronic Stability Control](https://en.wikipedia.org/wiki/Electronic_stability_control)
     * Traction Control System (TCS)
   * [Adaptive Cruise Control](https://en.wikipedia.org/wiki/Autonomous_cruise_control_system)
+  * [Navigation](https://en.wikipedia.org/wiki/Automotive_navigation_system) = Positioning x Guidance
+    * Positioning
+      * Dead Reckoning = Velocity * Time + Last Known Location
+        * Can have high error propagation
+      * [Global Navigation Satellite System (GNSS)]() [self]
 ### Cooperative Intelligent Transport Systems (C-ITS)
   * [Cooperative ITS Corridor](http://www.c-its-korridor.de/?menuId=1&sp=en) [www.c-its-korridor.de]
   * [Vehicular_communication_systems](https://en.wikipedia.org/wiki/Vehicular_communication_systems)
