@@ -86,10 +86,10 @@
                   * 50% Male
                   * THOR
                   * THUMS
-    * Airbags (Front, Side, Head)
-      * After Crash
-          * Automatic Emergency Call
-          * V2V/I Collision Notifications
+      * Airbags (Front, Side, Head)
+    * After Crash
+      * Automatic Emergency Call
+      * V2V/I Collision Notifications
 ### [Traffic Control](https://en.wikipedia.org/wiki/Road_traffic_control)
   * Outputs
     * Information (voluntary)
