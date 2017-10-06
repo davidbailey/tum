@@ -1,5 +1,5 @@
-### [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system) (GIS)
-* Geoinformation: where, what, how much, how, why
+## Geodesy
+### Geoinformation: where, what, how much, how, why
   * Categories
     * Entities: things (discrete objects) e.g. cities, roads, rivers
     * Phenomena: dynamic things (temporal continuity) e.g. fires, floods, urban growth
@@ -127,7 +127,7 @@
 	    * Interleave the digits => 10011101
 	    * Convert to base 10 => 157
       * [k-d tree](https://en.wikipedia.org/wiki/K-d_tree)
-* [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
+### [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
   * Purpose: determine relationships between spatial observations
   * Pitfalls
     * First Law of Geography / Autocorrelation
@@ -210,7 +210,7 @@
 	  * Least Cost Path
 	  * Cellular Models e.g. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
     * Quality Assessment
-* [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
+### [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
   * [GIS Software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
-* Cartography Design
+### Cartography Design
   * https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/
