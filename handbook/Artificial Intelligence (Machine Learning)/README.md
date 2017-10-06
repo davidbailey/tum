@@ -47,7 +47,7 @@
     * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
       * Process
         1. input (1 or 0)
-        1. weight
+        1. multiply by weight
         2. sum + bias
         3. activate (output 0 or 1)
       * can form a NAND Gate
