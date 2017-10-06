@@ -43,12 +43,15 @@
   * Activation Function
   * Backpropagation
 * Components
-  * Neurons
-  * Synapses
-  * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
-    1. weight
-    2. sum
-    3. activate
+  * Neurons w/ Synapses
+    * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+      * Process
+        1. input (1 or 0)
+        1. weight
+        2. sum + bias
+        3. activate (output 0 or 1)
+      * can form a NAND Gate
+        * logically complete (can build any function from just NAND gates)
   * Input
     * [ImageNet](http://www.image-net.org) [www.image-net.org]
   * Output
