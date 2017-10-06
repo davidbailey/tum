@@ -2,6 +2,14 @@
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
   * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
   * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
+  * Libraries
+    * [TensorFlow](https://www.tensorflow.org) [www.tensorflow.org]
+    * [Keras](https://keras.io) [keras.io] / [keras.js](https://github.com/transcranial/keras-js) [github.com]
+    * [Torch](http://torch.ch) [torch.ch] / [PyTorch](http://pytorch.org) [pytorch.org]
+    * [Theano](http://www.deeplearning.net/software/theano/) [www.deeplearning.net]
+    * [mxnet](https://mxnet.incubator.apache.org) [mxnet.incubator.apache.org]
+    * [neon](https://www.intelnervana.com/neon/) [www.intelnervana.com]
+    * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
   * Tasks
     * Formal Tasks e.g. board games
     * Expert Tasks e.g. engineering design
@@ -16,8 +24,8 @@
     * Types
       * Multilayer Perception (MLP)
       * Deep Neural Networks (DNN)
-      * Recurrent Neural Networks (RNN)
-        * Long Short-Term Memory (LSTM)
+      * Recurrent Neural Networks (RNN): map a sequence to another sequence (versus 1-to-1)
+        * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
       * Convolutional Neural Networks (CNN, ConvNet)
       * Deep Belief Networks (DBN)
     * Operations
@@ -35,8 +43,15 @@
       * Input
         * [ImageNet](http://www.image-net.org) [www.image-net.org]
       * Output
+        * Class e.g. Cat, Dog
+        * Probability
+        * Segmentation => Heatmap of probabilities
     * Learning Types
       * Supervised: provide large sample of training data (ground truth: inputs and outputs)
         * Humans can learn from much less data, simple instructions.
       * Reinforcement Learning: reward or punish based on just outcome, ground truth is scarce
       * Unsupervised: no information about outputs
+    * Other
+      * Sliding image approach (versus Convolutional Neural Networks)
+        1. Create a detector for the object of interest
+        2. Slide that detector around the image and look for the objects
