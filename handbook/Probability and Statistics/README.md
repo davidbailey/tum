@@ -103,42 +103,6 @@
     * Visualizations
       * [Tree Diagrams](https://en.wikipedia.org/wiki/Tree_diagram_(probability_theory))
       * X-Y Plots
-  * [Regression](https://en.wikipedia.org/wiki/Regression_analysis)
-    * Purpose: explain the relationship between two variables, predict 
-    * [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-      * y = ax + c (+ ε)
-      * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
-	* [Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
-      * [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination) R² = 1 - Residual Sum of Squares / Total Sum of Squares, better fit = closer to 1
-    * [p-value](https://en.wikipedia.org/wiki/P-value) lower is better
-    * [Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)): split data into training and test sets. compare mean square error of test set w/ training set. they should be about the same.
-      * [Correlation](https://en.wikipedia.org/wiki/Correlation_and_dependence): two things that happen or change together
-	* 1 = correlated, -1 = inversely correlated, 0 = uncorrelated
-	* [Causation](https://en.wikipedia.org/wiki/Causality): something causes something else
-	  * [Bradford-Hill criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
-	    * Strength
-	    * Consistency
-	    * Specificity
-	    * Temporality
-	    * Biological gradient
-	    * Plausibility
-	    * Coherence
-	    * Experiment
-	    * Analogy
-      * [Gauss-Markov Theorem](https://en.wikipedia.org/wiki/Gauss–Markov_theorem): if linear (expected value of ε = 0), [homoscedastic](https://en.wikipedia.org/wiki/Homoscedasticity) (constant error variance), independent (covariance between εi and εj = 0), then least squares gives the best linear unbiased estimator (BLUE)
-      * Process
-	* Choose independent variables.
-	* Analyse the relationship between independent variable and the dependent variable.
-	  * If the relationship is non-linear, apply a suitable transformation. e.g. log()
-	* Calculate the correlation table for all possible variable pairs.
-	  * If two variables are collinear, choose the one wit the hightest correlation.
-	* Add variables to the model depending on if they improve model accuracy. Otherwise, reject them.
-	* Finalize statistical indices of the model.
-	  * Coefficient of Determination
-	  * Standard Error of the Estimate
-	    * ± 1 Standard Error => 68% Confidence Interval
-	    * ± 2 Standard Errors => 95% Confidence Interval
-      * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
   * [Analysis of Variance](https://en.wikipedia.org/wiki/Analysis_of_variance) [ANOVA]
   * [Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing): is the difference by chance or not?
     * [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) (H₀): no relationship between the two
