@@ -1,15 +1,8 @@
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-  * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
-  * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
-  * Libraries
-    * [TensorFlow](https://www.tensorflow.org) [www.tensorflow.org]
-    * [Keras](https://keras.io) [keras.io] / [keras.js](https://github.com/transcranial/keras-js) [github.com]
-    * [Torch](http://torch.ch) [torch.ch] / [PyTorch](http://pytorch.org) [pytorch.org]
-    * [Theano](http://www.deeplearning.net/software/theano/) [www.deeplearning.net]
-    * [mxnet](https://mxnet.incubator.apache.org) [mxnet.incubator.apache.org]
-    * [neon](https://www.intelnervana.com/neon/) [www.intelnervana.com]
-    * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
+  * Courses
+    * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
+    * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
   * Tasks
     * Formal Tasks e.g. board games
     * Expert Tasks e.g. engineering design
@@ -21,6 +14,14 @@
     * Driver State
   * Neural Networks (Deep Learning)
     * Universality - can approximate any function e.g. driving
+    * Libraries
+      * [TensorFlow](https://www.tensorflow.org) [www.tensorflow.org]
+      * [Keras](https://keras.io) [keras.io] / [keras.js](https://github.com/transcranial/keras-js) [github.com]
+      * [Torch](http://torch.ch) [torch.ch] / [PyTorch](http://pytorch.org) [pytorch.org]
+      * [Theano](http://www.deeplearning.net/software/theano/) [www.deeplearning.net]
+      * [mxnet](https://mxnet.incubator.apache.org) [mxnet.incubator.apache.org]
+      * [neon](https://www.intelnervana.com/neon/) [www.intelnervana.com]
+      * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
     * Types
       * Multilayer Perception (MLP)
       * Deep Neural Networks (DNN)
