@@ -29,6 +29,9 @@
       * Neurons
       * Synapses
       * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+        1. weight
+        2. sum
+        3. activate
     * Learning Types
       * Supervised: provide large sample of training data (ground truth: inputs and outputs)
         * Humans can learn from much less data, simple instructions.
