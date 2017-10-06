@@ -17,7 +17,7 @@
       * Multilayer Perception (MLP)
       * Deep Neural Networks (DNN)
       * Recurrent Neural Networks (RNN)
-	* Long Short-Term Memory (LSTM)
+        * Long Short-Term Memory (LSTM)
       * Convolutional Neural Networks (CNN, ConvNet)
       * Deep Belief Networks (DBN)
     * Operations
