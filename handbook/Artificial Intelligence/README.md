@@ -12,6 +12,7 @@
     * Movement Planning - Where am I going?
     * Driver State
   * Neural Networks (Deep Learning)
+    * Universality - can approximate any function e.g. driving
     * Types
       * Multilayer Perception (MLP)
       * Deep Neural Networks (DNN)
@@ -24,10 +25,10 @@
       * Pooling
       * Activation Function
       * Backpropagation
-    * Neurons
-    * Synapses
-    * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
-    * Universality - can approximate any function e.g. driving
+    * Components
+      * Neurons
+      * Synapses
+      * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
     * Learning Types
       * Supervised: provide large sample of training data (ground truth: inputs and outputs)
         * Humans can learn from much less data, simple instructions.
