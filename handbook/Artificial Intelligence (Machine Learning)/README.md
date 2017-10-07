@@ -17,6 +17,13 @@
     * [Scale-invariant feature transform](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
       * [Kanade–Lucas–Tomasi feature tracker](https://en.wikipedia.org/wiki/Kanade–Lucas–Tomasi_feature_tracker)
 * Scene Understanding - Where is everyone else?
+  * [Object Detection](https://en.wikipedia.org/wiki/Object_detection)
+    * [Cascading Classifiers](https://en.wikipedia.org/wiki/Cascading_classifiers)
+      * [Haar-like Features](https://en.wikipedia.org/wiki/Haar-like_feature)
+    * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+      * [SegNet](https://github.com/tkuanlun350/Tensorflow-SegNet) [github.com]
+    * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+      * temporal data e.g. sound of wet road vs. dry road
 * Movement Planning - Where am I going?
 * Driver State
 ### Learning Types
@@ -47,11 +54,11 @@
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks: information only travels forward
   * Deep Neural Networks (DNN)
-  * Recurrent Neural Networks (RNN)
+  * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
     * have memory (state)
     * can map a sequence to another sequence (versus 1-to-1)
     * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
-  * Convolutional Neural Networks (CNN, ConvNet)
+  * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
     * filter that slides around the image => convolution
       * can find the feature anywhere in the image
