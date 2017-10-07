@@ -26,6 +26,7 @@
     * temporal data e.g. sound of wet road vs. dry road
 * Movement Planning - Where am I going?
 * Driver State
+  * Gaze: head and eyes
 ### Learning Types
 * Supervised: provide large sample of training data (ground truth: inputs and outputs)
   * Humans can learn from much less data, simple instructions.
