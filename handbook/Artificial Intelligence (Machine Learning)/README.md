@@ -15,6 +15,7 @@
 * Supervised: provide large sample of training data (ground truth: inputs and outputs)
   * Humans can learn from much less data, simple instructions.
 * Reinforcement Learning: reward or punish based on just outcome, ground truth is scarce
+  * Markov Decision Model: state, action, reward -> state, action, reward -> ...
 * Unsupervised: no information about outputs
 ### Neural Networks (Deep Learning)
 * Universality - can approximate any function e.g. driving
