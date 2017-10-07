@@ -14,8 +14,10 @@
 ### Learning Types
 * Supervised: provide large sample of training data (ground truth: inputs and outputs)
   * Humans can learn from much less data, simple instructions.
-* Reinforcement Learning: reward or punish based on just outcome, ground truth is scarce
-  * Markov Decision Model: state, action, reward -> state, action, reward -> ...
+* [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning): reward or punish based on just outcome, ground truth is scarce
+  * [Markov Decision Model](https://en.wikipedia.org/wiki/Markov_decision_process): state, action, reward -> state, action, reward -> ...
+  * maximize sum of future rewards (discounted because future rewards may not be realized)
+  * [Q-Learning](https://en.wikipedia.org/wiki/Q-learning)
 * Unsupervised: no information about outputs
 ### Neural Networks (Deep Learning)
 * Universality - can approximate any function e.g. driving
