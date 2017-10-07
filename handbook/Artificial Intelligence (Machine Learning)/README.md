@@ -67,8 +67,8 @@
     * have memory (state)
     * 1-many, many-many, many-1 (versus 1-to-1 for other types of neural networks)
     * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
-  * Deep Neural Networks (DNN)
-  * Deep Belief Networks (DBN)
+  * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
+  * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * Operations
   * Convolution
   * Pooling
