@@ -18,6 +18,9 @@
   * [Markov Decision Model](https://en.wikipedia.org/wiki/Markov_decision_process): state, action, reward -> state, action, reward -> ...
   * maximize sum of future rewards (discounted because future rewards may not be realized)
   * [Q-Learning](https://en.wikipedia.org/wiki/Q-learning)
+    * Exploration (try something new, see if it's fun; a random action) vs. Exploitation (keep doing what you enjoy)
+      * Controlled by ε
+    * [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
 * Unsupervised: no information about outputs
 ### Neural Networks (Deep Learning)
 * Universality - can approximate any function e.g. driving
