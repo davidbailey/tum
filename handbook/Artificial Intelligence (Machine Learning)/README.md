@@ -44,6 +44,13 @@
     * can map a sequence to another sequence (versus 1-to-1)
     * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
   * Convolutional Neural Networks (CNN, ConvNet)
+    * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
+    * filter that slides around the image => convolution
+      * can find the feature anywhere in the image
+    * allows you to find small objects in larger images
+    * number of filters, stride (speed you move the filter), padding around the edges
+    * pooling: downsampling
+    * network architecture: input -> conv -> pooling -> conf -> pooling -> ... -> fully-connected layer -> output
   * Deep Belief Networks (DBN)
 * Operations
   * Convolution
