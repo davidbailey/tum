@@ -56,7 +56,7 @@
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
     * information only travels forward
-    * operations: Activation Function, [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+    * operations: Activation Function, [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation), Loss Function, Optimization Algorythm
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
     * additional operations: Convolution, Pooling
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
@@ -86,6 +86,7 @@
       * can form a NAND Gate
         * logically complete (can build any function from just NAND gates)
       * activation function is a step function -> not smooth => sigmoid
+  * Operations
   * Input
     * [ImageNet](http://www.image-net.org) [www.image-net.org]: labeled images
     * [MNIST](https://en.wikipedia.org/wiki/MNIST_database): handwritten digits
