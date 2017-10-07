@@ -51,6 +51,7 @@
     * number of filters, stride (speed you move the filter), padding around the edges
     * pooling: downsampling
     * network architecture: input -> conv -> pooling -> conf -> pooling -> ... -> fully-connected layer -> output
+    * network architecture (heatmap): input -> conv -> pooling -> conf -> pooling -> ... -> output
   * Deep Belief Networks (DBN)
 * Operations
   * Convolution
