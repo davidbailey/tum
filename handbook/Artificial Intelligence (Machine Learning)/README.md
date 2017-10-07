@@ -8,6 +8,11 @@
 * Mundane Tasks e.g. walking
 ### Driving Tasks
 * Localization and Mapping - Where am I?
+  * [Six Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom)
+  * [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
+  * [Object Detection](https://en.wikipedia.org/wiki/Object_detection)
+    * [Scale-invariant feature transform](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
+      * [Kanade–Lucas–Tomasi feature tracker](https://en.wikipedia.org/wiki/Kanade–Lucas–Tomasi_feature_tracker)
 * Scene Understanding - Where is everyone else?
 * Movement Planning - Where am I going?
 * Driver State
