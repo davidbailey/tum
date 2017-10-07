@@ -54,11 +54,6 @@
   * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks: information only travels forward
-  * Deep Neural Networks (DNN)
-  * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
-    * have memory (state)
-    * can map a sequence to another sequence (versus 1-to-1)
-    * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
     * filter that slides around the image => convolution
@@ -68,6 +63,11 @@
     * pooling: downsampling
     * network architecture: input -> conv -> pooling -> conf -> pooling -> ... -> fully-connected layer -> output
     * network architecture (heatmap): input -> conv -> pooling -> conf -> pooling -> ... -> output
+  * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
+    * have memory (state)
+    * 1-many, many-many, many-1 (versus 1-to-1 for other types of neural networks)
+    * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
+  * Deep Neural Networks (DNN)
   * Deep Belief Networks (DBN)
 * Operations
   * Convolution
