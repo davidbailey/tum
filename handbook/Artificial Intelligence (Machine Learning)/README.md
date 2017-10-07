@@ -53,8 +53,12 @@
   * [neon](https://www.intelnervana.com/neon/) [www.intelnervana.com]
   * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
 * Types
-  * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks: information only travels forward
+  * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
+    * basic neural networks
+    * information only travels forward
+    * operations: Activation Function, [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
+    * additional operations: Convolution, Pooling
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
     * filter that slides around the image => convolution
       * can find the feature anywhere in the image
@@ -71,11 +75,6 @@
     * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
-* Operations
-  * Convolution
-  * Pooling
-  * Activation Function
-  * Backpropagation
 * Components
   * Neurons w/ Synapses
     * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
