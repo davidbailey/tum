@@ -44,6 +44,7 @@
   * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu) [selfdrivingcars.mit.edu]
   * [Deep Learning](http://www.deeplearningbook.org) [www.deeplearningbook.org]
   * [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) [course.fast.ai]
+  * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/) [karpathy.github.io]
 * Libraries
   * [TensorFlow](https://www.tensorflow.org) [www.tensorflow.org]
   * [Keras](https://keras.io) [keras.io] / [keras.js](https://github.com/transcranial/keras-js) [github.com]
@@ -56,7 +57,7 @@
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
     * information only travels forward
-    * operations: Activation Function, [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation), Loss Function, Optimization Algorythm
+    * operations: Activation Function, [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation), Loss Function, Optimization Algorythm (usually gradient descent)
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
     * additional operations: Convolution, Pooling
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
@@ -95,6 +96,11 @@
     * Class e.g. Cat, Dog
     * Probability
     * Segmentation => Heatmap of probabilities
+* Training Process
+  1. Forward pass
+  2. Backpropigate
+  3. Update weights and biases
+  4. Repeat
 * Other
   * Sliding image approach (versus Convolutional Neural Networks)
     1. Create a detector for the object of interest
