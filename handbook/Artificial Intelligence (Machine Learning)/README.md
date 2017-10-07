@@ -9,6 +9,9 @@
 ### Driving Tasks
 * Localization and Mapping - Where am I?
   * [Six Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom)
+  
+![Six Degrees of Freedom](https://upload.wikimedia.org/wikipedia/commons/f/fa/6DOF_en.jpg)
+  
   * [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
   * [Object Detection](https://en.wikipedia.org/wiki/Object_detection)
     * [Scale-invariant feature transform](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
