@@ -62,7 +62,9 @@
         * logically complete (can build any function from just NAND gates)
       * activation function is a step function -> not smooth => sigmoid
   * Input
-    * [ImageNet](http://www.image-net.org) [www.image-net.org]
+    * [ImageNet](http://www.image-net.org) [www.image-net.org]: labeled images
+    * [MNIST](https://en.wikipedia.org/wiki/MNIST_database): handwritten digits
+    * CIFAR-10: small labeled images
   * Output
     * Class e.g. Cat, Dog
     * Probability
