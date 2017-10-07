@@ -22,8 +22,8 @@
       * [Haar-like Features](https://en.wikipedia.org/wiki/Haar-like_feature)
     * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
       * [SegNet](https://github.com/tkuanlun350/Tensorflow-SegNet) [github.com]
-    * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network)
-      * temporal data e.g. sound of wet road vs. dry road
+  * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+    * temporal data e.g. sound of wet road vs. dry road
 * Movement Planning - Where am I going?
 * Driver State
 ### Learning Types
