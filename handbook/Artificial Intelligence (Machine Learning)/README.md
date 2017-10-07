@@ -109,3 +109,6 @@
         * ± 1 Standard Error => 68% Confidence Interval
         * ± 2 Standard Errors => 95% Confidence Interval
     * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
+### [Pattern Recognition](https://en.wikipedia.org/wiki/Pattern_recognition)
+* [K-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+  * L1 diff |image1 - image2| to find the closest match (if k=1)
