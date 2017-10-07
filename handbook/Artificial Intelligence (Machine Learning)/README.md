@@ -66,6 +66,8 @@
   * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
     * have memory (state)
     * 1-many, many-many, many-1 (versus 1-to-1 for other types of neural networks)
+    * variable input/output lengths
+    * speech, video, audio
     * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
