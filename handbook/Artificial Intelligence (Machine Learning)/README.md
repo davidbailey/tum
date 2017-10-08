@@ -88,6 +88,7 @@
         * logically complete (can build any function from just NAND gates)
       * activation function is a step function -> not smooth => sigmoid
   * Operations
+    * [Dropout](https://en.wikipedia.org/wiki/Dropout_(neural_networks))
   * Input
     * [ImageNet](http://www.image-net.org) [www.image-net.org]: labeled images
     * [MNIST](https://en.wikipedia.org/wiki/MNIST_database): handwritten digits
