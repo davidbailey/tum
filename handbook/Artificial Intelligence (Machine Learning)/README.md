@@ -52,6 +52,7 @@
     * network architecture (heatmap): input -> conv -> pooling -> conf -> pooling -> ... -> output
   * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
     * have memory (state)
+    * good short-term memory, but not great long-term memory
     * 1-many, many-many, many-1 (versus 1-to-1 for other types of neural networks)
     * variable input/output lengths
     * speech, video, audio
