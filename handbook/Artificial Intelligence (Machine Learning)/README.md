@@ -74,6 +74,7 @@
     * variable input/output lengths
     * speech, video, audio
     * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
+      * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * Components
