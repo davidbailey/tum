@@ -93,6 +93,7 @@
     * [ImageNet](http://www.image-net.org) [www.image-net.org]: labeled images
     * [MNIST](https://en.wikipedia.org/wiki/MNIST_database): handwritten digits
     * CIFAR-10: small labeled images
+    * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html) [archive.ics.uci.edu]
   * Output
     * Class e.g. Cat, Dog
     * Probability
