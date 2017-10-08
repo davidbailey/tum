@@ -58,6 +58,8 @@
     * basic neural networks
     * information only travels forward
     * operations: Activation Function, [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation), Loss Function, Optimization Algorythm (usually gradient descent)
+      * [Vanishing Gradient Problem](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
+        * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
     * additional operations: Convolution, Pooling
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
@@ -73,8 +75,7 @@
     * 1-many, many-many, many-1 (versus 1-to-1 for other types of neural networks)
     * variable input/output lengths
     * speech, video, audio
-    * Long Short-Term Memory (LSTM) e.g. Video Caption Generation
-      * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
+    * [Long Short-Term Memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM) e.g. Video Caption Generation
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * Components
