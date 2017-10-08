@@ -102,6 +102,12 @@
   2. Backpropigate
   3. Update weights and biases
   4. Repeat
+* Overfitting
+  * How to avoid overfitting:
+    * Add more data
+    * Data augmentation e.g. flip (usually horizontal, not vertical), stretch/compress, change the color/brightness a bit, etc.
+    * Normalization e.g. Batch normalization
+    * Reudce complexity e.g. Dropout
 * Other
   * Sliding image approach (versus Convolutional Neural Networks)
     1. Create a detector for the object of interest
