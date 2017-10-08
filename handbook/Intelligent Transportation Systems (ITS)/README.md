@@ -62,6 +62,27 @@
   3. Conditional Automation
   4. High Automation
   5. Full Automation
+* Driving Tasks
+  * Localization and Mapping - Where am I?
+    * [Six Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom)
+
+  ![Six Degrees of Freedom](https://upload.wikimedia.org/wikipedia/commons/f/fa/6DOF_en.jpg)
+
+    * [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
+    * [Object Detection](https://en.wikipedia.org/wiki/Object_detection)
+      * [Scale-invariant feature transform](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
+        * [Kanade–Lucas–Tomasi feature tracker](https://en.wikipedia.org/wiki/Kanade–Lucas–Tomasi_feature_tracker)
+  * Scene Understanding - Where is everyone else?
+    * [Object Detection](https://en.wikipedia.org/wiki/Object_detection)
+      * [Cascading Classifiers](https://en.wikipedia.org/wiki/Cascading_classifiers)
+        * [Haar-like Features](https://en.wikipedia.org/wiki/Haar-like_feature)
+      * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+        * [SegNet](https://github.com/tkuanlun350/Tensorflow-SegNet) [github.com]
+    * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+      * temporal data e.g. sound of wet road vs. dry road
+  * Movement Planning - Where am I going?
+  * Driver State
+    * Gaze: head and eyes
 * Inputs (Sensors)
     * Internal
       * Car Area Network (CAN)
