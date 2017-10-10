@@ -41,7 +41,9 @@
       * [Vanishing Gradient Problem](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
         * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
-    * additional operations: Convolution, Pooling
+    * additional operations
+      * [Convolution](https://en.wikipedia.org/wiki/Convolution): s(t) = (x * w)(t) = Σ x(a) × w(t − a)
+      * Pooling
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
     * filter that slides around the image => convolution
       * can find the feature anywhere in the image
