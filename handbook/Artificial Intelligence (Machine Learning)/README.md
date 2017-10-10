@@ -57,6 +57,10 @@
     * variable input/output lengths
     * speech, video, audio
     * [Long Short-Term Memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM) e.g. Video Caption Generation
+      * Previous State (Data) and New Data
+        1. Decide what to forget (from the Previous State)
+        2. Decide what to remember (from the Previous State and/or New Data)
+        3. Decide what to output (if anything)
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * Components
