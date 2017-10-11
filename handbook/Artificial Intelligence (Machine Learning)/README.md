@@ -25,6 +25,7 @@
   * [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) [course.fast.ai]
   * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/) [karpathy.github.io]
   * [CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/) [rll.berkeley.edu]
+  * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) [sites.google.com]
 * Libraries
   * [TensorFlow](https://www.tensorflow.org) [www.tensorflow.org]
   * [Keras](https://keras.io) [keras.io] / [keras.js](https://github.com/transcranial/keras-js) [github.com]
