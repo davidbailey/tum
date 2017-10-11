@@ -34,7 +34,7 @@
   * [mxnet](https://mxnet.incubator.apache.org) [mxnet.incubator.apache.org]
   * [neon](https://www.intelnervana.com/neon/) [www.intelnervana.com]
   * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
-  * [Caffe2](caffe2.ai) [https://caffe2.ai]
+  * [Caffe2](https://caffe2.ai) [caffe2.ai]
 * Formats
   * [Open Neural Network Exchange]() [https://github.com/onnx/onnx]
 * Types
