@@ -2,6 +2,8 @@
 ### Courses
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
+### Competitions
+* [Kaggle](https://www.kaggle.com) [www.kaggle.com]
 ### Tasks
 * Formal Tasks e.g. board games
 * Expert Tasks e.g. engineering design
@@ -35,8 +37,15 @@
   * [neon](https://www.intelnervana.com/neon/) [www.intelnervana.com]
   * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
   * [Caffe2](https://caffe2.ai) [caffe2.ai]
+    * [Model Zoo](https://github.com/caffe2/caffe2/wiki/Model-Zoo) [github.com]
+      * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
 * Formats
   * [Open Neural Network Exchange](https://github.com/onnx/onnx) [github.com/onnx/onnx]
+* Examples
+  * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
+  * [VGG](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) [www.robots.ox.ac.uk]
+  * ResNet
+  * GoogLeNet
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
@@ -57,6 +66,7 @@
     * network architecture: input -> conv -> pooling -> conf -> pooling -> ... -> fully-connected layer -> output
     * network architecture (heatmap): input -> conv -> pooling -> conf -> pooling -> ... -> output
   * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
+    * most useful architecture (most data is time-series data)
     * have memory (state)
     * good short-term memory, but not great long-term memory
     * 1-many, many-many, many-1 (versus 1-to-1 for other types of neural networks)
@@ -67,7 +77,7 @@
         1. Decide what to forget (from the Previous State)
         2. Decide what to remember (from the Previous State and/or New Data)
         3. Decide what to output (if anything)
-      * Uses: machine translation, handwriting recogntion, character-level text generation, image caption generation
+      * Uses: machine translation, handwriting recogntion, character-level text generation, image/video caption generation, steer sliding window, add audio to silent video, medical diagnosis, audio classification (wet road/dry road)
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * Components
