@@ -67,6 +67,7 @@
         1. Decide what to forget (from the Previous State)
         2. Decide what to remember (from the Previous State and/or New Data)
         3. Decide what to output (if anything)
+      * Uses: machine translation, handwriting recogntion, character-level text generation, image caption generation
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * Components
