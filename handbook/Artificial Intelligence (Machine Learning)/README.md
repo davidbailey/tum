@@ -36,7 +36,7 @@
   * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
   * [Caffe2](https://caffe2.ai) [caffe2.ai]
 * Formats
-  * [Open Neural Network Exchange]() [https://github.com/onnx/onnx]
+  * [Open Neural Network Exchange](https://github.com/onnx/onnx) [github.com/onnx/onnx]
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
