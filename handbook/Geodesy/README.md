@@ -151,7 +151,7 @@
     * Updating
   * Spatial Data Handling
     * Visualization
-    * [Analysis](https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_dependency_or_auto-correlation)
+    * [Analysis](https://en.wikipedia.org/wiki/Spatial_analysis)
       * Analysis of Point Patterns
         * Distance
           * Adjacency: share a boundary or w/in a distance
