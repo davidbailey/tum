@@ -19,6 +19,7 @@
       * Controlled by ε
     * [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
 * Unsupervised: no information about outputs
+* [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
 ### Neural Networks (Deep Learning)
 * Universality - can approximate any function e.g. driving
 * Courses
