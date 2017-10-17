@@ -25,6 +25,7 @@
 * Mode Choice
   * [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice)
     * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+    * [Discrete Choice Methods with Simulation](https://eml.berkeley.edu/books/choice2.html) [eml.berkeley.edu]
   * [Red Bus / Blue Bus Problem](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives#Criticism_of_IIA)
 * Choice Behavior
   * User Optimum: Maximize Utility/Happiness (McFadden, Litman)
