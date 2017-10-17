@@ -61,7 +61,7 @@
       * Pooling (downsampling)
     * Example Input Data Types
 
-     | Single channel | Multichannel
+    X | Single channel | Multichannel
     --- | --- | ---
     1-D | Audio waveform | 
     2-D | Greyscale image, Audio pre-processed with Fourier transofrm | Color image
