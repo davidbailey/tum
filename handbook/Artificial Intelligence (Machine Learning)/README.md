@@ -55,9 +55,21 @@
       * [Vanishing Gradient Problem](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
         * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
-    * additional operations
+    * Additional Operations
       * [Convolution](https://en.wikipedia.org/wiki/Convolution): s(t) = (x * w)(t) = Σ x(a) × w(t − a)
-      * Pooling
+        * inputs -> Fourier transformation -> multiplication -> Fourier transformation -> outputs
+      * Pooling (downsampling)
+    * Example Input Data Types
+
+     | Single channel | Multichannel
+    --- | --- | ---
+    1-D | Audio waveform | 
+    2-D | Greyscale image, Audio pre-processed with Fourier transofrm | Color image
+    3-D | Greyscale video, Volumetric data | Color video
+
+    * Humans
+      * light -> eye -> retina -> optic nerve -> brain -> primary visual cortex -> medial temporal lobe -> inferotemporal cortex
+      * reverse correlation reveals Gabor functions -> edge detection
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
     * filter that slides around the image => convolution
       * can find the feature anywhere in the image
@@ -66,7 +78,10 @@
     * pooling: downsampling
     * network architecture: input -> conv -> pooling -> conf -> pooling -> ... -> fully-connected layer -> output
     * network architecture (heatmap): input -> conv -> pooling -> conf -> pooling -> ... -> output
+    * Time-delay Neural Networks
   * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
+    * derived from parameter sharing
+    * unfolding a state function s(t) = f(s(t−1); θ) to remove recurrance -> create a neural network from this unfolded function
     * most useful architecture (most data is time-series data)
     * have memory (state)
     * good short-term memory, but not great long-term memory
