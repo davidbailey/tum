@@ -12,6 +12,8 @@
 * Supervised: provide large sample of training data (ground truth: inputs and outputs)
   * Humans can learn from much less data, simple instructions.
 * [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning): reward or punish based on just outcome, ground truth is scarce
+  * [Policy Gradient Method](https://en.wikipedia.org/wiki/Reinforcement_learning#Direct_policy_search): increase log probability when 'good' actions occur, decrease log probabilities when 'bad' actions occur
+    * [Policy gradient methods](http://www.scholarpedia.org/article/Policy_gradient_methods) [www.scholarpedia.org]
   * [Markov Decision Model](https://en.wikipedia.org/wiki/Markov_decision_process): state, action, reward -> state, action, reward -> ...
   * maximize sum of future rewards (discounted because future rewards may not be realized)
   * [Q-Learning](https://en.wikipedia.org/wiki/Q-learning)
