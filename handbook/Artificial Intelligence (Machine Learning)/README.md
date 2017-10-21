@@ -23,6 +23,7 @@
     * Exploration (try something new, see if it's fun; a random action) vs. Exploitation (keep doing what you enjoy)
       * Controlled by ε
     * [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
+* other types of learning: demonstrations, observations, transfer learning
 * Unsupervised: no information about outputs
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
 ### Neural Networks (Deep Learning)
