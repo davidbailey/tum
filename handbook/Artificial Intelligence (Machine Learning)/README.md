@@ -32,6 +32,8 @@
   * [CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/) [rll.berkeley.edu]
   * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) [sites.google.com]
   * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) [introtodeeplearning.com]
+  * Non-free
+    * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) [www.coursera.org]
 * Reading Lists
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) [github.com]
   * [Deep Learning Reading List](http://deeplearning.net/reading-list/) [deeplearning.net]
