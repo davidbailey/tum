@@ -50,11 +50,15 @@
       * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
 * Formats
   * [Open Neural Network Exchange](https://github.com/onnx/onnx) [github.com/onnx/onnx]
-* Examples
+* Example Networks
   * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
   * [VGG](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) [www.robots.ox.ac.uk]
   * ResNet
   * GoogLeNet
+* Example Implementations
+  * [Training a Neural Network ATARI Pong agent with Policy Gradients from raw pixels](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5) [gist.github.com] 
+  * [Demo of running NNs across different frameworks](https://github.com/ilkarman/DeepLearningFrameworks) [github.com]
+  * [PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr) [github.com]
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
