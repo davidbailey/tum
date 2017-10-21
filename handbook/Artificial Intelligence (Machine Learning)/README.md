@@ -13,6 +13,7 @@
   * Humans can learn from much less data, simple instructions.
 * [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning): reward or punish based on just outcome, ground truth is scarce
   * agent acts (decision) on environment, environment rewards or punishes agent
+  * End-to-end learning: combine perceptiona and decision and optimize both together
   * [Policy Gradient Method](https://en.wikipedia.org/wiki/Reinforcement_learning#Direct_policy_search): increase log probability when 'good' actions occur, decrease log probabilities when 'bad' actions occur
     * [Policy gradient methods](http://www.scholarpedia.org/article/Policy_gradient_methods) [www.scholarpedia.org]
   * [Markov Decision Model](https://en.wikipedia.org/wiki/Markov_decision_process): state, action, reward -> state, action, reward -> ...
