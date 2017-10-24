@@ -37,6 +37,7 @@
   * [CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/) [rll.berkeley.edu]
   * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) [sites.google.com]
   * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) [introtodeeplearning.com]
+  * [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) [www.youtube.com]
   * Non-free
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) [www.coursera.org]
 * Reading Lists
