@@ -61,6 +61,7 @@
   * [VGG](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) [www.robots.ox.ac.uk]
   * ResNet
   * GoogLeNet
+  * [CS231n Convolutional Neural Networks for Visual Recognition: Course Project Reports](http://cs231n.stanford.edu/reports.html) [cs231n.stanford.edu]
 * Example Implementations
   * [Training a Neural Network ATARI Pong agent with Policy Gradients from raw pixels](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5) [gist.github.com] 
   * [Demo of running NNs across different frameworks](https://github.com/ilkarman/DeepLearningFrameworks) [github.com]
