@@ -1,11 +1,11 @@
 ## [Sustainable](https://en.wikipedia.org/wiki/Sustainable_transport) [Transportation Systems](https://en.wikipedia.org/wiki/Transport_network)
   * derived from sustainable forestry ([Hans Carl von Carlowitz](https://en.wikipedia.org/wiki/Hans_Carl_von_Carlowitz))
-  * Economic
+  * Economic Sustainability
     * [Law of Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
-  * Social
+  * Social Sustainability 
     * Social Justice, Safety, Public Health, Seperation, Socialization, Comfort, Efficency 
     * 1,200,000-1,600,000 Traffic Death / Year Worldwide
-  * Ecological / [Environmental](https://en.wikipedia.org/wiki/Environmental_impact_of_transport)
+  * Ecological / [Environmental](https://en.wikipedia.org/wiki/Environmental_impact_of_transport) Sustainability
     * Energy, Noise, Air Pollution, Land-use
     * 27% CO2 Worldwide is from Transportation
       * Hong Kong = 500kg CO2
