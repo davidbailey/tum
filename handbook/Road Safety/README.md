@@ -1,5 +1,5 @@
-## Road Safety
-### Vision Zero
+## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
+### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
 * Origin: [September 3, 1967 (Dagen H)](https://en.wikipedia.org/wiki/Dagen_H)
 * Philosophy: "No one should be killed or seriously injured within the road traffic system"
   * Ethical approach, not uncontroversial
