@@ -202,6 +202,7 @@ Network Map | simple | simple | complex, no map
     * Bulb
     * Curbside
   * Curb-design to catch wheels
+  * Level Boarding
   * Types
     * Demand: stop anywhere
     * On-request: push a button or people waiting
