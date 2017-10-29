@@ -44,6 +44,7 @@
 Mode | Speed | Capacity | Cost
 --- | --- | --- | ---
 Mixed Traffic Lane | | 1500-2000 people/h (average vehicle occupancy = 1.2-1.3 people/vehicle) | Mid-High
+[Carpool](https://en.wikipedia.org/wiki/Carpool) Lane | --- | --- | ---
 Bus | | 5000-9000 people/h | Low
 Bicycle Path | | 14000 people/h | Low
 BRT | | 9000-20000 people/h | Low
@@ -54,6 +55,13 @@ Monorail | 25-35 km/h | 30000 people/h | High
 2-Lane BRT | | 40000-43000 people/h (Bogotá) | Low-Mid
 HRT | 30-60 km/h | 60000-80000+ people/h | High (~$100,000,000+/km)
 Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High
+
+### Renting / Sharing
+* [Taxi](https://en.wikipedia.org/wiki/Taxicab)
+  * [Ride Sharing](https://en.wikipedia.org/wiki/Transportation_network_company)
+* [Car Rental](https://en.wikipedia.org/wiki/Car_rental)
+  * [Car Sharing](https://en.wikipedia.org/wiki/Carsharing)
+* [Bike Share](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
 
 ### Infrastructure
 
@@ -220,12 +228,6 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
         * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
         * Advantages: high geographical network coverage, reduced travel times due to optimized connections, simpler timetable, improved punctuality, continuous operation, reduction of empty trips
         * Disadvantages: high long-term investments in infrastructure, infrastructure is not used to capacity, high peak traffic at nodes, increase in travel time for some trips, requires prioritization of people over freight
-    * [Carpool](https://en.wikipedia.org/wiki/Carpool)
-    * [Taxi](https://en.wikipedia.org/wiki/Taxicab)
-      * [Ride Sharing](https://en.wikipedia.org/wiki/Transportation_network_company)
-    * [Car Rental](https://en.wikipedia.org/wiki/Car_rental)
-      * [Car Sharing](https://en.wikipedia.org/wiki/Carsharing)
-    * [Bike Share](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
     * Transport Offer
       * network + services
 
