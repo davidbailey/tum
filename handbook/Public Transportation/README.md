@@ -190,6 +190,8 @@ Network Map | simple | simple | complex, no map
 ### Improvements
 * Selection Criteria: potential for decrease in travel time / increase in travel time reliability, high ridership, potential to reduce at least one vehicle
 * Process: inventory stops, lanes, traffic lights; travel time analysis; problem identification; implement measures; measure performance
+* Problems: Time Loss = Traffic Signals, Congestion, Dwell time
+* Goal: Reduce Time Loss
 * Vehicle: more, bigger doors, low floor, electric propulsion
 * Intersections: curb parking, dedicated lanes, turn prohibition
   * Stop location
