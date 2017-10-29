@@ -40,17 +40,17 @@
 * Communication is key: messages must speak to people, not engineers
 ### Systematic Safety: Humans are vulnerable and make mistakes.
 1. Speed control and Separation
-  6 mph - shared spaces
-  20 mph - bicycles in mixed traffic - chicanes, speed humps, raised intersections
-  25 mph - drivers yield for pedestrian crossings - narrow lanes, crossing islands, 1 lane per direction to prevent passing
-  30 mph - 90 degree intersections
-  40 mph - separate by direction e.g. median
-  70 mph
+  * 6 mph - shared spaces
+  * 20 mph - bicycles in mixed traffic - chicanes, speed humps, raised intersections
+  * 25 mph - drivers yield for pedestrian crossings - narrow lanes, crossing islands, 1 lane per direction to prevent passing
+  * 30 mph - 90 degree intersections
+  * 40 mph - separate by direction e.g. median
+  * 70 mph - freeway
 2. Functional harmony: avoid incompatible functions e.g. shops and through traffic
-  a. Local streets 20 mph w/ parking, no lane markings, diverters to limit through traffic
-  b. Neighborhood principals 25 mph: 1 lane/direction, lots of crossings
-  c. Urban arterials 30 mph, signalized crossings, bike paths, no shops
-  d. Regional roads, 45mph no local access
+  * Local streets 20 mph w/ parking, no lane markings, diverters to limit through traffic
+  * Neighborhood principals 25 mph: 1 lane/direction, lots of crossings
+  * Urban arterials 30 mph, signalized crossings, bike paths, no shops
+  * Regional roads, 45mph no local access
 3. Predictability and Simplicity: green bike lanes, crossing islands are simpler, turn lanes with dedicated arrows
 4. Forgiveness and restrictiveness: mistakes do not cause serious injury, prevent mistakes
 5. State awareness: drunk driving, texting, inexperience
