@@ -110,24 +110,24 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 * High Quality Public Trasnportation
 * Land Use Policies
 * Car Restrictions
+### Moving from Traditional (Car-focused) to Sustainable (People-focused)
+* Improve Walk, Bike, Public Transportation, Cars, Planes
+  * Long timeline e.g. most Metros have taken 100 years to build, but bus lanes are quicker (cheaper)
+  * Must happen before reducing cars
+* Demand is influenced by policy, price, etc., not a given
+* Design public transportation aroud people, not technology
+  * Traditional approach: pick technology, fit city to technology, force people to adopt - results in high-costs and low ridership
+  * Successful approach: design around people: network, easy, fast; evaluate options from the city perspective ($$$), decide
+    * Mimic the good aspects of cars: e.g. high-speed, high-frequency (12+ vehicles/hr), high-quality e.g. BRT
 
   
-  * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
-    * Features
-      * Bicycles don't experience congestion (nearly as much as cars)
-      * Bicycles don't pollute (increased health and land value)
-      * Bicycles cost less (social mobility)
-      * Bicycles don't take up space or divide communities
-    * Germany: 4th grade bicycle test with police as part of school
-  * Moving from Traditional (Car-focused) to Sustainable (People-focused)
-    * Improve Walk, Bike, Public Transportation, Cars, Planes
-      * Long timeline e.g. most Metros have taken 100 years to build, but bus lanes are quicker (cheaper)
-      * Must happen before reducing cars
-    * Demand is influenced by policy, price, etc., not a given
-    * Design public transportation aroud people, not technology
-      * Traditional approach: pick technology, fit city to technology, force people to adopt - results in high-costs and low ridership
-      * Successful approach: design around people: network, easy, fast; evaluate options from the city perspective ($$$), decide
-	* Mimic the good aspects of cars: e.g. high-speed, high-frequency (12+ vehicles/hr), high-quality e.g. BRT
+### [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
+* Features
+  * Bicycles don't experience congestion (nearly as much as cars)
+  * Bicycles don't pollute (increased health and land value)
+  * Bicycles cost less (social mobility)
+  * Bicycles don't take up space or divide communities
+* Germany: 4th grade bicycle test with police as part of school
 
 
 
