@@ -215,15 +215,6 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
         * Operators
         * Management
       * Improvements (See Bus Rapid Transit)
-        * Problems: Time Loss = Traffic Signals, Congestion, Dwell time
-        * Goal: Reduce Time Loss
-        * Measures
-          * Change network layout
-            * Fewer Left Turns
-          * Change traffic regulations
-          * Change parking and loading zones
-          * Change fare collection method
-            * Off-Board Fare Collection
       * https://www.youtube.com/watch?v=N0OGqjPS47E
       * Integrated Synchronized Timetable (Timed Transfer)
         * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
