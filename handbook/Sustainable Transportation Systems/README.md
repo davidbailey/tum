@@ -1,19 +1,94 @@
 ## [Sustainable](https://en.wikipedia.org/wiki/Sustainable_transport) [Transportation Systems](https://en.wikipedia.org/wiki/Transport_network)
-  * derived from sustainable forestry ([Hans Carl von Carlowitz](https://en.wikipedia.org/wiki/Hans_Carl_von_Carlowitz))
-  * Economic Sustainability
-    * [Law of Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
-  * Social Sustainability
-    * [Road Safety](https://github.com/davidbailey/tum/tree/master/handbook/Road%20Safety) [self]
-    * Social Justice, Safety, Public Health, Seperation, Socialization, Comfort, Efficency 
-    * 1,200,000-1,600,000 Traffic Death / Year Worldwide
-  * Ecological / [Environmental](https://en.wikipedia.org/wiki/Environmental_impact_of_transport) Sustainability
-    * Energy, Noise, Air Pollution, Land-use
-    * 27% CO2 Worldwide is from Transportation
-      * Hong Kong = 500kg CO2
-      * Houston = 5600kg CO2
-    * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
-      * Transportation Life Cycle Assessment
-	* http://transportationlca.org
+* derived from sustainable forestry ([Hans Carl von Carlowitz](https://en.wikipedia.org/wiki/Hans_Carl_von_Carlowitz))
+* typical reasons for transportation projects (in order): efficency, safety, money, environment
+* technical and orgazational structure for transport: infrastructure, vehicles, rules
+* Elements: Nodes (important for capacity/performance) and Links
+* Qualities
+  * Connexity: are the points connected or not?
+  * Connectivity: quality of interconnection = number of links / number of nodes. cul-de-sacs are poor connectivity
+* Shapes
+  * Radial e.g. Los Angeles Metrolink
+  * Radial Ring e.g. European motorways around a city
+  * Grid (Raster) e.g. Manhattan street network, Munich Maxvorstadt street network
+* Scale
+  * International
+    * Airplane, (High-speed) Rail, Car/Bus
+  * National
+    * Airplane, (High-speed) Rail, Car/Bus
+  * State
+    * Airplane, (High-speed) Rail, Car/Bus
+  * **Regional**
+    * **Rail**, Car/Bus
+    * [Functional Urban Area](https://en.wikipedia.org/wiki/Larger_urban_zone)
+    * Polycentric to spread the demand, but keep it concentrated
+    * Transit-oriented Development
+    * Integration - professional, spatial, temporal, orgazational, methodological, poltical
+  * County
+    * Rail, Car/Bus
+  * City
+    * Rail, Car/Bus, Bicycle
+  * **Neighborhood**
+    * Car/Bus, **Bicycle**, **Walk**
+    * Up to 2km (30 minute walk) (more feeling than strict rule - could be shorter or longer)
+    * Minimum 100 people/hectar for compact, walkable, bikeable.
+    * Neighborhood is imporant for livable places, urban mobility, economic development, space/time efficency, pollution reduction, environmental friendliness, cost effectiveness, health, young and old mobility...
+    * Neighborhood needs close destinations, network connections, bike/walk spaces, protection, a positive cultural climate, processes, involvement, data, tools.
+    * Ground floor is the interaction between people and building - needs shops, restaurants, life - provides safety/security
+    * Good things: parklets, benches, walking school bus, snow removal from sidewalk/bike lanes, slow/safe traffic, curb bulb-outs, elevated intersections, traffic island
+    * Traffic Calming Areas - no priority for cars, max speed 4-7km/h, no sidewalk - hard for non-sighted orientation - still need a safe place. Similar to shared spaces.
+    * Different speeds builds a hierarchy where cars naturally find faster streets - don't make everything slow
+    * Traffic Calming goals - equality for all, more safe, less air and noise pollution | methods - shrink the road, disallow through traffic / shift vehicles to other streets, shift people to other modes
+    * Marketing and communication
+### Economic Sustainability
+* [Law of Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
+### Social Sustainability
+* [Road Safety](https://github.com/davidbailey/tum/tree/master/handbook/Road%20Safety) [self]
+* Social Justice, Safety, Public Health, Seperation, Socialization, Comfort, Efficency 
+* 1,200,000-1,600,000 Traffic Death / Year Worldwide
+### Ecological / [Environmental](https://en.wikipedia.org/wiki/Environmental_impact_of_transport) Sustainability
+* Energy, Noise, Air Pollution, Land-use
+* 27% CO2 Worldwide is from Transportation
+  * Hong Kong = 500kg CO2
+  * Houston = 5600kg CO2
+* [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
+  * Transportation Life Cycle Assessment
+  * http://transportationlca.org
+### Users
+* [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
+  * [Cars](https://en.wikipedia.org/wiki/Car)
+    * [Autonomous Cars](https://en.wikipedia.org/wiki/Autonomous_car)
+      * Level 0 No Automation
+      * Level 1 Driver Assistance
+      * Level 2 Partial Automation
+      * Level 3 Conditional Automation
+      * Level 4 High Automation
+      * Level 5 Full Automation
+      * http://www.sae.org/misc/pdfs/automated_driving.pdf
+    * [Cars/Person](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)
+      * USA: 797/1000 people (often used for commuting and recreation)
+      * Germany: 572/1000 people (often used for recreation)
+      * India: 32/1000 people
+      * High in High GDP Countries, High in Low GDP Countries = Economically Stressful
+  * [Trucks](https://en.wikipedia.org/wiki/Truck)
+    * [Semi Truck](https://en.wikipedia.org/wiki/Semi-trailer_truck)
+  * [Buses](https://en.wikipedia.org/wiki/Bus)
+    * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
+  * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
+* [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
+  * [Tall Bikes](https://en.wikipedia.org/wiki/Tall_bike)
+  * [Helmets](https://en.wikipedia.org/wiki/Helmet)
+* [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
+### Buzzwords
+* Public Transportation Priority
+* Non-motorized Transportaion
+* Public Spaces
+* Public Transportation Integration
+* Transportation Demand Management
+* High Quality Public Trasnportation
+* Land Use Policies
+* Car Restrictions
+
+  
   * [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
     * Features
       * Bicycles don't experience congestion (nearly as much as cars)
@@ -30,56 +105,7 @@
       * Traditional approach: pick technology, fit city to technology, force people to adopt - results in high-costs and low ridership
       * Successful approach: design around people: network, easy, fast; evaluate options from the city perspective ($$$), decide
 	* Mimic the good aspects of cars: e.g. high-speed, high-frequency (12+ vehicles/hr), high-quality e.g. BRT
-  * Buzzword Bingo (Measures)
-    * Public Transportation Priority
-    * Non-motorized Transportaion
-    * Public Spaces
-    * Public Transportation Integration
-    * Transportation Demand Management
-    * High Quality Public Trasnportation
-    * Land Use Policies
-    * Car Restrictions
 
-  * [Transport System](https://en.wikipedia.org/wiki/Transport_network)
-    * technical and orgazational structure for transport. e.g. track, vehicles, shoes, rules, services
-    * Elements: Nodes (important for capacity/performance) and Links
-    * Types: Road, Rail, Water, Air, Information, Relations, [Electricity](https://en.wikipedia.org/wiki/Electrical_grid), [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications_network)
-    * Qualities
-      * Connexity: are the points connected or not?
-      * Connectivity: quality of interconnection = number of links / number of nodes. cul-de-sacs are poor connectivity
-    * Shapes
-      * Radial e.g. Los Angeles Metrolink
-      * Radial Ring e.g. European motorways around a city
-      * Grid (Raster) e.g. Manhattan street network, Munich Maxvorstadt street network
-    * Scale
-      * International
-        * Airplane, (High-speed) Rail, Car/Bus
-      * National
-        * Airplane, (High-speed) Rail, Car/Bus
-      * State
-        * Airplane, (High-speed) Rail, Car/Bus
-      * **Regional**
-        * **Rail**, Car/Bus
-        * [Functional Urban Area](https://en.wikipedia.org/wiki/Larger_urban_zone)
-        * Polycentric to spread the demand, but keep it concentrated
-        * Transit-oriented Development
-        * Integration - professional, spatial, temporal, orgazational, methodological, poltical
-      * County
-        * Rail, Car/Bus
-      * City
-        * Rail, Car/Bus, Bicycle
-      * **Neighborhood**
-        * Car/Bus, **Bicycle**, **Walk**
-        * Up to 2km (30 minute walk) (more feeling than strict rule - could be shorter or longer)
-        * Minimum 100 people/hectar for compact, walkable, bikeable.
-        * Neighborhood is imporant for livable places, urban mobility, economic development, space/time efficency, pollution reduction, environmental friendliness, cost effectiveness, health, young and old mobility...
-        * Neighborhood needs close destinations, network connections, bike/walk spaces, protection, a positive cultural climate, processes, involvement, data, tools.
-        * Ground floor is the interaction between people and building - needs shops, restaurants, life - provides safety/security
-        * Good things: parklets, benches, walking school bus, snow removal from sidewalk/bike lanes, slow/safe traffic, curb bulb-outs, elevated intersections, traffic island
-        * Traffic Calming Areas - no priority for cars, max speed 4-7km/h, no sidewalk - hard for non-sighted orientation - still need a safe place. Similar to shared spaces.
-        * Different speeds builds a hierarchy where cars naturally find faster streets - don't make everything slow
-        * Traffic Calming goals - equality for all, more safe, less air and noise pollution | methods - shrink the road, disallow through traffic / shift vehicles to other streets, shift people to other modes
-        * Marketing and communication
 
 Mode | Speed | Capacity | Cost
 --- | --- | --- | ---
@@ -213,31 +239,4 @@ Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High
     | Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi |
 
 
-Typical reasons for transportation projects (in order): efficency, safety, money, environment
 
-* Users
-  * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
-    * [Cars](https://en.wikipedia.org/wiki/Car)
-      * [Autonomous Cars](https://en.wikipedia.org/wiki/Autonomous_car)
-        * Level 0 No Automation
-        * Level 1 Driver Assistance
-        * Level 2 Partial Automation
-        * Level 3 Conditional Automation
-        * Level 4 High Automation
-        * Level 5 Full Automation
-        * http://www.sae.org/misc/pdfs/automated_driving.pdf
-    * [Cars/Person](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)
-      * USA: 797/1000 people (often used for commuting and recreation)
-      * Germany: 572/1000 people (often used for recreation)
-      * India: 32/1000 people
-      * High in High GDP Countries, High in Low GDP Countries = Economically Stressful
-    * [Trucks](https://en.wikipedia.org/wiki/Truck)
-      * [Semi Truck](https://en.wikipedia.org/wiki/Semi-trailer_truck)
-        * (See Freight/Cargo)
-    * [Buses](https://en.wikipedia.org/wiki/Bus)
-      * [Bus Rapid Transit](https://en.wikipedia.org/wiki/Bus_rapid_transit)
-    * [Motorcycle](https://en.wikipedia.org/wiki/Motorcycle)
-  * [Bicycles](https://en.wikipedia.org/wiki/Bicycle)
-    * [Tall Bikes](https://en.wikipedia.org/wiki/Tall_bike)
-    * [Helmets](https://en.wikipedia.org/wiki/Helmet)
-  * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
