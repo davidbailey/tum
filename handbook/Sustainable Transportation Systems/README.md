@@ -224,11 +224,6 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
           * Change parking and loading zones
           * Change fare collection method
             * Off-Board Fare Collection
-          * Upgrade from ROW C to B or B to A
-          * Upgrade stops/stations
-          * Level Boarding
-          * Upgraded switches
-          * Signal Priority
       * https://www.youtube.com/watch?v=N0OGqjPS47E
       * Integrated Synchronized Timetable (Timed Transfer)
         * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
