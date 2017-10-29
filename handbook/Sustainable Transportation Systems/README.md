@@ -55,6 +55,13 @@ Monorail | 25-35 km/h | 30000 people/h | High
 HRT | 30-60 km/h | 60000-80000+ people/h | High (~$100,000,000+/km)
 Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High
 
+### Infrastructure
+
+Infrastructure | Private Operator | Public Operator
+--- | --- | ---
+Rail | X | National, Regional, Commuter, Metro
+Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
+
 ### Economic Sustainability
 * [Law of Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
 ### Social Sustainability
@@ -236,10 +243,6 @@ Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High
     * Transport Offer
       * network + services
 
-    | Infrastructure | Private Operator | Public Operator |
-    | -------------- | ---------------- | --------------- |
-    | Rail | X | National, Regional, Commuter, Metro |
-    | Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi |
 
 
 
