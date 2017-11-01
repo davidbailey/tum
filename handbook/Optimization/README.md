@@ -16,6 +16,7 @@
     * [Slack Variables](https://en.wikipedia.org/wiki/Slack_variable)
 ### [Convex Optimization](https://en.wikipedia.org/wiki/Convex_optimization)
 * [Duality](https://en.wikipedia.org/wiki/Duality_(optimization))
+  * [Lagrangian](https://en.wikipedia.org/wiki/Lagrange_multiplier)
 ### Unconstrained vs. Constrained Optimization
 * Unconstrained Optimization
 * [Constrained Optimization](https://en.wikipedia.org/wiki/Constrained_optimization)
@@ -33,6 +34,8 @@
     * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 ### [Differentiable](https://en.wikipedia.org/wiki/Differentiable_function) vs. Nondifferentiable Optimization
 * Differentiable Optimization
+  * [Newton's Method](https://en.wikipedia.org/wiki/Newton%27s_method_in_optimization)
+  * [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
   * First Derivitave: [Partial Derivitave](https://en.wikipedia.org/wiki/Partial_derivative) or [Gradient](https://en.wikipedia.org/wiki/Gradient) -> [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
   * Second Derivitave: [Hessian](https://en.wikipedia.org/wiki/Hessian_matrix)
   * [Directional Derivitave](https://en.wikipedia.org/wiki/Directional_derivative)
