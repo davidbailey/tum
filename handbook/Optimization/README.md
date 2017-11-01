@@ -25,6 +25,9 @@
       * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
     * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 ### [Differentiable](https://en.wikipedia.org/wiki/Differentiable_function) vs. Nondifferentiable Optimization
+* Differential Optimization
+  * First Derivitave: [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
+  * Second Derivitave: [Hessian](https://en.wikipedia.org/wiki/Hessian_matrix)
 ### Deterministic vs. [Stochastic Optimization](https://en.wikipedia.org/wiki/Stochastic_optimization)
 ### Other References
 * [Northwestern University Open Text Book on Process Optimization](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
