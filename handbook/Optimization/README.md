@@ -2,8 +2,8 @@
 ### Problem Formation
 * Decision Variables
 * [Loss/Cost/Objective Function](https://en.wikipedia.org/wiki/Loss_function)
-  * [Maxima and Minima](https://en.wikipedia.org/wiki/Maxima_and_minima)
-    * Global Maxima and Minima vs. Local Maxima and Minima
+  * [Maxima and Minima](https://en.wikipedia.org/wiki/Maxima_and_minima)
+    * Global Maxima and Minima vs. Local Maxima and Minima
 
 ![Local and global maxima and minima for cos(3πx)/x, 0.1≤ x ≤1.1](https://upload.wikimedia.org/wikipedia/commons/6/68/Extrema_example_original.svg)
 
@@ -22,8 +22,8 @@
         * Least Cost Path
           * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
           * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-        * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-      * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
+      * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+    * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 ### [Differentiable](https://en.wikipedia.org/wiki/Differentiable_function) vs. Nondifferentiable Optimization
 ### Deterministic vs. [Stochastic Optimization](https://en.wikipedia.org/wiki/Stochastic_optimization)
 ### Other References
