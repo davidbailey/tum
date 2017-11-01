@@ -2,6 +2,8 @@
 ### Problem Formation
 1. Decision Variables
 2. [Loss/Cost/Objective Function](https://en.wikipedia.org/wiki/Loss_function)
+  * [Maxima and Minima](https://en.wikipedia.org/wiki/Maxima_and_minima)
+    * Global Maxima and Minima vs. Local Maxima and Minima
 3. Constraints
   * [Slack Variable](https://en.wikipedia.org/wiki/Slack_variable)
 ### Unconstrained vs. Constrained Optimization
