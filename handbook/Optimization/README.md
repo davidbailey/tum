@@ -28,3 +28,4 @@
 ### Deterministic vs. [Stochastic Optimization](https://en.wikipedia.org/wiki/Stochastic_optimization)
 ### Other References
 * [Northwestern University Open Text Book on Process Optimization](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
+* [Optimization@MIT](http://optimization.mit.edu/classes.php)
