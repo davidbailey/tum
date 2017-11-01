@@ -14,6 +14,8 @@
     * x = x⁺ + x⁻
     * x <= u -> x - u <= 0
     * [Slack Variables](https://en.wikipedia.org/wiki/Slack_variable)
+### [Convex Optimization](https://en.wikipedia.org/wiki/Convex_optimization)
+* [Duality](https://en.wikipedia.org/wiki/Duality_(optimization))
 ### Unconstrained vs. Constrained Optimization
 * Unconstrained Optimization
 * [Constrained Optimization](https://en.wikipedia.org/wiki/Constrained_optimization)
