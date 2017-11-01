@@ -11,7 +11,11 @@
   * Transformations
     * x = x⁺ + 1
     * min{f(x} = -max{-f(x)}
-    * [Slack Variable](https://en.wikipedia.org/wiki/Slack_variable)
+    * x < 0 -> -x > 0
+    * x = 0 -> 0 <= x and x >= 0
+    * x = x⁺ + x⁻
+    * x <= u -> x - u <= 0
+    * [Slack Variables](https://en.wikipedia.org/wiki/Slack_variable)
 ### Unconstrained vs. Constrained Optimization
 * Unconstrained Optimization
 * [Constrained Optimization](https://en.wikipedia.org/wiki/Constrained_optimization)
