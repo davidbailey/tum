@@ -1,8 +1,13 @@
-## Optimization
-### Networks
-* [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
-  * Least Cost Path
-    * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-    * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-  * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-* [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
+## [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
+### Unconstrained
+### Constrained
+### [Discrete Optimization](https://en.wikipedia.org/wiki/Discrete_optimization)
+* [Integer](https://en.wikipedia.org/wiki/Integer_programming) [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming)
+* [Combinational Optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)
+  * [Graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))
+    * [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
+      * Least Cost Path
+        * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+        * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+      * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+    * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
