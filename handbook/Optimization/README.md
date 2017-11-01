@@ -19,6 +19,9 @@
   * [Lagrangian](https://en.wikipedia.org/wiki/Lagrange_multiplier)
 ### Unconstrained vs. Constrained Optimization
 * Unconstrained Optimization
+  * [Conjugate Gradient Method](https://en.wikipedia.org/wiki/Conjugate_gradient_method)
+  * [Newton's Local Method](https://en.wikipedia.org/wiki/Newton%27s_method): find solution to ∇f(x) = 0
+  * [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
 * [Constrained Optimization](https://en.wikipedia.org/wiki/Constrained_optimization)
 ### Continious vs. Discrete Optimization
 * [Continious Optimization](https://en.wikipedia.org/wiki/Continuous_optimization)
