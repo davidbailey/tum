@@ -3,9 +3,11 @@
   1. Decision Variables
   2. [Loss/Cost/Objective Function](https://en.wikipedia.org/wiki/Loss_function)
   3. Constraints
-### Types of Optimization
+### Unconstrained vs. Constrained Optimization
 * Unconstrained Optimization
 * [Constrained Optimization](https://en.wikipedia.org/wiki/Constrained_optimization)
+### Continious vs. Discrete Optimization
+* [Continious Optimization](https://en.wikipedia.org/wiki/Continuous_optimization)
 * [Discrete Optimization](https://en.wikipedia.org/wiki/Discrete_optimization)
   * [Integer](https://en.wikipedia.org/wiki/Integer_programming) [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming)
   * [Combinational Optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)
