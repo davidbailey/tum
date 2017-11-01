@@ -26,8 +26,12 @@
     * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 ### [Differentiable](https://en.wikipedia.org/wiki/Differentiable_function) vs. Nondifferentiable Optimization
 * Differentiable Optimization
-  * First Derivitave: [Gradient](https://en.wikipedia.org/wiki/Gradient) -> [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
+  * First Derivitave: [Partial Derivitave](https://en.wikipedia.org/wiki/Partial_derivative) or [Gradient](https://en.wikipedia.org/wiki/Gradient) -> [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
   * Second Derivitave: [Hessian](https://en.wikipedia.org/wiki/Hessian_matrix)
+  * [Directional Derivitave](https://en.wikipedia.org/wiki/Directional_derivative)
+  * Nice Properties
+    * [Linearity](https://en.wikipedia.org/wiki/Linearity)
+    * [Affinity](https://en.wikipedia.org/wiki/Affine_transformation)
 ### Deterministic vs. [Stochastic Optimization](https://en.wikipedia.org/wiki/Stochastic_optimization)
 ### Other References
 * [Northwestern University Open Text Book on Process Optimization](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
