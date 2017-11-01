@@ -19,7 +19,7 @@
           * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
         * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
       * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
-### [Differentiable] vs. Nondifferentiable Optimization
+### [Differentiable](https://en.wikipedia.org/wiki/Differentiable_function) vs. Nondifferentiable Optimization
 ### Deterministic vs. [Stochastic Optimization](https://en.wikipedia.org/wiki/Stochastic_optimization)
 ### Other References
 * [Northwestern University Open Text Book on Process Optimization](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
