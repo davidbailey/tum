@@ -4,9 +4,7 @@
 * [Loss/Cost/Objective Function](https://en.wikipedia.org/wiki/Loss_function): assess the state of a system
   * [Maxima and Minima](https://en.wikipedia.org/wiki/Maxima_and_minima)
     * Global Maxima and Minima vs. Local Maxima and Minima
-
 ![Local and global maxima and minima for cos(3πx)/x, 0.1≤ x ≤1.1](https://upload.wikimedia.org/wikipedia/commons/6/68/Extrema_example_original.svg)
-
 * Constraints
   * Transformations
     * x = x⁺ + 1
