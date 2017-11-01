@@ -1,8 +1,9 @@
 ## [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
 ### Problem Formation
-  1. Decision Variables
-  2. [Loss/Cost/Objective Function](https://en.wikipedia.org/wiki/Loss_function)
-  3. Constraints
+1. Decision Variables
+2. [Loss/Cost/Objective Function](https://en.wikipedia.org/wiki/Loss_function)
+3. Constraints
+  * [Slack Variable](https://en.wikipedia.org/wiki/Slack_variable)
 ### Unconstrained vs. Constrained Optimization
 * Unconstrained Optimization
 * [Constrained Optimization](https://en.wikipedia.org/wiki/Constrained_optimization)
@@ -18,3 +19,7 @@
           * [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
         * [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
       * [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
+### [Differentiable] vs. Nondifferentiable Optimization
+### Deterministic vs. [Stochastic Optimization](https://en.wikipedia.org/wiki/Stochastic_optimization)
+### Other References
+* [Northwestern University Open Text Book on Process Optimization](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
