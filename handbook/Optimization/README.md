@@ -4,7 +4,9 @@
 * [Loss/Cost/Objective Function](https://en.wikipedia.org/wiki/Loss_function)
   * [Maxima and Minima](https://en.wikipedia.org/wiki/Maxima_and_minima)
     * Global Maxima and Minima vs. Local Maxima and Minima
+
 ![Local and global maxima and minima for cos(3πx)/x, 0.1≤ x ≤1.1](https://upload.wikimedia.org/wikipedia/commons/6/68/Extrema_example_original.svg)
+
 * Constraints
   * [Slack Variable](https://en.wikipedia.org/wiki/Slack_variable)
 ### Unconstrained vs. Constrained Optimization
