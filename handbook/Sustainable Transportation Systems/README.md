@@ -150,7 +150,8 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
     * Fill Missing Links
     * Add Bridges and Tunnels
   * Result: people bike more for short trips
-
+* References
+  * [Separated Bike Lane Planning & Design Guide](https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx) [www.massdot.state.ma.us]
 
         * Timetable
           * Customer / Passenger
