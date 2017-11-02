@@ -343,7 +343,7 @@
       * http://www.caliper.com/tcovu.htm
     * Citilabs Cube
       * http://www.citilabs.com/software/cube/
-* [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count) and (Speed Surveys)
+### [Traffic Counts](https://en.wikipedia.org/wiki/Traffic_count) and (Speed Surveys)
   * Subjects
     * Pedestrians
     * Bicycles
