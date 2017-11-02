@@ -169,7 +169,7 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * But not for Delft
     * Not enough space
     * No green space
-* => New road design
+* New road design
   * Mixed use
   * 10,000 cars/day or more
   * Shops and Houses
