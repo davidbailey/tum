@@ -1,7 +1,7 @@
 ### [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
 * Definations
-  * Probability: likelihood an event will occur, 0 -> 1, deductive, Population -> Sample
-  * Statistics: data analysis, inductive, Sample -> Population
+  * Probability: likelihood an event will occur, 0 -> 1, deductive, Population -> Sample, small -> big
+  * Statistics: data analysis, inductive, Sample -> Population, big -> small
   * [Population](https://en.wikipedia.org/wiki/Statistical_population): collection of objects or units of interest
   * [Sample](https://en.wikipedia.org/wiki/Sample_(statistics)): subset of a population - easier, cheaper, more practical than whole population
   * [Primary Source](https://en.wikipedia.org/wiki/Primary_source)
