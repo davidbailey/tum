@@ -17,7 +17,7 @@
   CO2 | --- | --- | ---
 
 * Emissions Standards
-  * http://www.dieselnet.com/standards/
+  * [Emission Standards](http://www.dieselnet.com/standards/) [www.dieselnet.com]
   * New European Driving Cycle
   * Worldwide harmonized Light Vehicles Test Procedures
   * EPA Federal Test Procedure (FTP-75)
@@ -43,8 +43,9 @@
     * Water Vapor (H20)
     * Chlorofluorocarbons (CFCs)
     * Hydrofluorocarbons (incl. HCFCs and HFCs)
-    * http://www.theicct.org/passenger-vehicle-greenhouse-gas-and-fuel-economy-standards
-    * https://www.epa.gov/regulations-emissions-vehicles-and-engines/regulations-greenhouse-gas-emissions-passenger-cars-and
+    * [Passenger Vehicle Greenhouse Gas and Fuel Economy Standards](http://www.theicct.org/passenger-vehicle-greenhouse-gas-and-fuel-economy-standards) [www.theicct.org]
+    * [Regulations for Greenhouse Gas Emissions from Passenger Cars and Trucks
+](https://www.epa.gov/regulations-emissions-vehicles-and-engines/regulations-greenhouse-gas-emissions-passenger-cars-and) [www.epa.gov]
   * Reduction
     * [Carbon Pricing](https://en.wikipedia.org/wiki/Carbon_price)
       * [Cap and Trade](https://en.wikipedia.org/wiki/Emissions_trading)
