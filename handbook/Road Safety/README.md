@@ -54,3 +54,14 @@
 3. Predictability and Simplicity: green bike lanes, crossing islands are simpler, turn lanes with dedicated arrows
 4. Forgiveness and restrictiveness: mistakes do not cause serious injury, prevent mistakes
 5. State awareness: drunk driving, texting, inexperience
+### [Traffic Collisions](https://en.wikipedia.org/wiki/Traffic_collision)
+* Causes
+  * Human Factors
+  * Road Design
+  * Vehicle Design
+  * Vehicle Maintenance
+  * Other
+* Stages
+  * Car Collision: car hits object
+  * [Human Collision](https://en.wikipedia.org/wiki/Second_impact_(safety)): human hits car (seat belt or steering wheel)
+  * Internal Collision: human's organs and tissues hit other internal structures
