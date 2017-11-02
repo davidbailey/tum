@@ -189,3 +189,5 @@
     * Census Data
     * Safety Data
   * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
+* References
+  * [NIST/SEMATECH e-Handbook of Statistical Methods](http://www.itl.nist.gov/div898/handbook/index.htm) [www.itl.nist.gov]
