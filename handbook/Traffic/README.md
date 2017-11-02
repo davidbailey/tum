@@ -1,4 +1,12 @@
-### [Traffic](https://en.wikipedia.org/wiki/Traffic)
+## [Traffic](https://en.wikipedia.org/wiki/Traffic)
+### [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) (German: Qualitätsstufen des Verkehrsablaufs)
+* A
+* B
+* C <- Design for this (rural)
+* D <- Design for this (urban)
+* E <- Capacity reached
+* F
+
 * [Induced Demand](https://en.wikipedia.org/wiki/Induced_demand) (Latent Demand)
   * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
   * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
