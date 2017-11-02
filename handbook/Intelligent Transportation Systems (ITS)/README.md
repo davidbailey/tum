@@ -94,9 +94,10 @@
         * Roll Angle
         * Pitch Angle
         * Rain/Temperature Sensor
-    * Cabin
+      * Cabin
         * Cameras
         * Internal Audio
+      * [Inertial Measurement Unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit)
     * External
         * Ultrasonic
         * Radar
@@ -104,7 +105,7 @@
         * Optical Camera (Stereo)
         * Infrared Camera
         * Satellite Navigation
-    * Audio
+        * Audio e.g. wet road
 * Outputs
     * Steering Angle (Steer By Wire)
     * Brakes
