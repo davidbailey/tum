@@ -8,8 +8,9 @@
 * Formal Tasks e.g. board games
 * Expert Tasks e.g. engineering design
 * Mundane Tasks e.g. walking
+* More Tasks: Classification, Classification with missing inputs, Regression, Transcription (OCR, Speech Recognition), Machine translation, Structured output, Anomaly detection, Synthesis and Sampling, Filling missing values, Noise removal, Density estimation, …
 ### Learning Types
-* Supervised: provide large sample of training data (ground truth: inputs and outputs)
+* Supervised: provide large sample of labeled training data (ground truth: inputs and outputs); e.g. regression, classification, structured data
   * Humans can learn from much less data, simple instructions.
 * [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning): reward or punish based on just outcome, ground truth is scarce
   * agent acts (decision) on environment, environment rewards or punishes agent
@@ -24,9 +25,9 @@
     * Exploration (try something new, see if it's fun; a random action) vs. Exploitation (keep doing what you enjoy)
       * Controlled by ε
     * [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
-* other types of learning: demonstrations, observations, transfer learning
-* Unsupervised: no information about outputs
+* Unsupervised: unlabled data; e.g. clustering, density estimation
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
+* other types of learning: demonstrations, observations, transfer learning
 ### Neural Networks (Deep Learning)
 * Universality - can approximate any function e.g. driving
 * Courses
