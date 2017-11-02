@@ -136,7 +136,20 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * Bicycles cost less (social mobility)
   * Bicycles don't take up space or divide communities
 * Germany: 4th grade bicycle test with police as part of school
-
+* How to promote cycling
+  * Routing
+    * Design a Bike Network
+    * Add Bike Lanes
+    * Improve Comfort
+    * Add Signage
+  * Improve
+    * Identify Dangerous Areas
+    * Upgrade to Protected Bike Lanes
+    * Improve Signal Timing for Bicycles
+  * Next Level
+    * Fill Missing Links
+    * Add Bridges and Tunnels
+  * Result: people bike more for short trips
 
 
         * Timetable
