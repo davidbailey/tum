@@ -34,6 +34,9 @@
     * [MATSim](https://en.wikipedia.org/wiki/MATSim) (See MATSim)
     * [UrbanSim](https://en.wikipedia.org/wiki/UrbanSim) (See UrbanSim)
       * [UrbanSim](https://www.urbansim.com) [www.urbansim.com]
+  * Land Use and Public Transportation Index
+    * build public transportation where there is high density and low quality public transportation
+    * increase density where there is high quality public transportation and low density
 * [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
   * Types
     * Routine - regular and predictable
