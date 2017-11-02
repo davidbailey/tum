@@ -49,6 +49,6 @@
   * Stochastic Optimization
     * [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 ### Other References
-* [Northwestern University Open Text Book on Process Optimization](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
-* [Optimization@MIT](http://optimization.mit.edu/classes.php)
+* [Northwestern University Open Text Book on Process Optimization](https://optimization.mccormick.northwestern.edu/index.php/Main_Page) [optimization.mccormick.northwestern.edu]
+* [Optimization@MIT](http://optimization.mit.edu/classes.php) [optimization.mit.edu]
 * [Optimization: principles and algorithms, by Michel Bierlaire](http://optimizationprinciplesalgorithms.com) [optimizationprinciplesalgorithms.com]
