@@ -228,10 +228,10 @@
       * 3 Translations, 3 Roataions, 1 Scale
       * Preserve Angles: UTM or Preserve Areas
 ### Design
-* https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/
 * Maps > Reports (people don't read reports)
 * Clear
 * High Resolution
 * Title, Legend, Compass Rose, Scale
 * Symbols - clear and precise
 * No purposeless details
+* [Design principles for cartography](https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/) [blogs.esri.com]
