@@ -177,28 +177,28 @@
           * [Earth Pressure Balance](https://en.wikipedia.org/wiki/Earth_pressure_balance)
           * Slurry Shield
 ### Station Design Process
-1. Selecting Turnouts
-  1. Determine the maximum speed through each turnout.
-  2. Determine the spacing between all tracks.
+* Selecting Turnouts
+  * Determine the maximum speed through each turnout.
+  * Determine the spacing between all tracks.
     * 4m if no signals
     * 4.5m if signals
     * 8m+ if platforms
-  3. Using the above information, find the radius (from speed) and inclination (from speed and spacing) from a table.
+  * Using the above information, find the radius (from speed) and inclination (from speed and spacing) from a table.
   * Note: the minimum speed is 50kph.
-2. Entry signals
-  1. Each entry gets a signal. Determine the danger point.
-  2. Number signals A-E from the left and F-J from the right.
-  3. Determine the maximum speed through the signal.
-  4. Using the above information, find the distance to danger.
+* Entry signals
+  * Each entry gets a signal. Determine the danger point.
+  * Number signals A-E from the left and F-J from the right.
+  * Determine the maximum speed through the signal.
+  * Using the above information, find the distance to danger.
     * speed <= 40kph: 50m
     * 40kph < speed <= 60kph: 100m
     * > 60kph: 200m
       * Note: If there is no risk of these movements => not decisive.
-3. Exit Signals (simultaneous train runs first)
-  1. Each exit gets a signal. Determine the danger point.
-  2. Number signals N# from the left and P# from the right. # is the track number.
-  3. Determine the maximum speed thought the signal.
-  4. Using the above information, find the distance to danger.
+* Exit Signals (simultaneous train runs first)
+  * Each exit gets a signal. Determine the danger point.
+  * Number signals N# from the left and P# from the right. # is the track number.
+  * Determine the maximum speed thought the signal.
+  * Using the above information, find the distance to danger.
     * speed <= 40kph: 50m
     * 40kph < speed <= 60kph: 100m
     * > 60kph: 200m
