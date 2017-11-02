@@ -153,7 +153,7 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 * References
   * [Separated Bike Lane Planning & Design Guide](https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx) [www.massdot.state.ma.us]
 
-### [Transport Planning in Delft, Netherlands](https://www.youtube.com/watch?v=Y5_0T51vOuI)
+### [Transport Planning in Delft, Netherlands](https://www.youtube.com/watch?v=Y5_0T51vOuI) [www.youtube.com]
 * Want to increase bike/ped mode share
 * Decrease
   * Pollution - Reduce car traffic and speed
