@@ -192,7 +192,7 @@
   * Using the above information, find the distance to danger.
     * speed <= 40kph: 50m
     * 40kph < speed <= 60kph: 100m
-    * > 60kph: 200m
+    * \> 60kph: 200m
       * Note: If there is no risk of these movements => not decisive.
 * Exit Signals (simultaneous train runs first)
   * Each exit gets a signal. Determine the danger point.
@@ -201,5 +201,5 @@
   * Using the above information, find the distance to danger.
     * speed <= 40kph: 50m
     * 40kph < speed <= 60kph: 100m
-    * > 60kph: 200m
+    * \> 60kph: 200m
       * Note: If there is no risk of these movements => not decisive.
