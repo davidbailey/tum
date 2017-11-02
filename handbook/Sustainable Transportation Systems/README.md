@@ -153,6 +153,30 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 * References
   * [Separated Bike Lane Planning & Design Guide](https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx) [www.massdot.state.ma.us]
 
+### [Transport Planning in Delft, Netherlands](https://www.youtube.com/watch?v=Y5_0T51vOuI)
+* Want to increase bike/ped mode share
+* Decrease
+  * Pollution - Reduce car traffic and speed
+  * Noise - Reduce Speed
+  * Injuries - High injury network
+  * Fire Department - Don't calm these roads
+  * Parks - Connect the parks
+  * Light Rail > Bus : Predictalbe, faster, more comfortable, etc.
+* Road Design - National Standard
+    * Highway > 70kph w/ Protected Bike Lane
+    * Arterial = 50kph w/ Protected Bike Lane
+    * Residential < 30kph w/ Bikes in the Street
+  * But not for Delft
+    * Not enough space
+    * No green space
+* => New road design
+  * Mixed use
+  * 10,000 cars/day or more
+  * Shops and Houses
+  * 40kph design speed, not signed speed
+  * => safer, quieter, less pollution
+  * smaller lanes, special median, attention markings, raised crossings, roundabouts instead of lights
+
         * Timetable
           * Customer / Passenger
             * Quality = Headway / Travel Time
