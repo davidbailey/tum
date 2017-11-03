@@ -1,5 +1,7 @@
 ## Geodesy
+
 ### Geoinformation: where, what, how much, how, why
+
 * Categories
   * Entities: things (discrete objects) e.g. cities, roads, rivers
   * Phenomena: dynamic things (temporal continuity) e.g. fires, floods, urban growth
@@ -50,7 +52,7 @@
 * Views
   * Mathematical
     * [Euclidean Space](https://en.wikipedia.org/wiki/Euclidean_geometry)
-      * distance = sqrt((x₁ - x₂)²) + (y₁ - y₂)²) 
+      * distance = sqrt((x₁ - x₂)²) + (y₁ - y₂)²)
     * [Gridded Space](https://en.wikipedia.org/wiki/Grid_plan) (Manhattan or [Taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry))
       * distance = |xi - xj| + |yi - yj|
   * Ontological: We focus on mesoscopic.
@@ -127,7 +129,9 @@
           * Interleave the digits => 10011101
           * Convert to base 10 => 157
       * [k-d tree](https://en.wikipedia.org/wiki/K-d_tree)
+
 ### [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics): art, science, engineering, techonogy of geoinformation
+
 * Purpose: determine relationships between spatial observations
 * Pitfalls
   * First Law of Geography / Autocorrelation
@@ -200,9 +204,13 @@
         * Line of Sight
   * Quality Assessment
 * Cellular Models e.g. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
 ### [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system): tools + display + database
+
 * [GIS Software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
+
 ### Global Navigation Satellite System (GNSS)
+
 * Systems
   * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
     * Uplink: Colorado Springs
@@ -227,7 +235,9 @@
     * Transformations between levels
       * 3 Translations, 3 Roataions, 1 Scale
       * Preserve Angles: UTM or Preserve Areas
+
 ### Design
+
 * Maps > Reports (people don't read reports)
 * Clear
 * High Resolution
