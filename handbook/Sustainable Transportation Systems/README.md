@@ -1,4 +1,5 @@
 ## [Sustainable](https://en.wikipedia.org/wiki/Sustainable_transport) [Transportation Systems](https://en.wikipedia.org/wiki/Transport_network)
+
 * derived from sustainable forestry ([Hans Carl von Carlowitz](https://en.wikipedia.org/wiki/Hans_Carl_von_Carlowitz))
 * typical reasons for transportation projects (in order): efficency, safety, money, environment
 * technical and orgazational structure for transport: infrastructure, vehicles, rules
@@ -39,6 +40,7 @@
     * Different speeds builds a hierarchy where cars naturally find faster streets - don't make everything slow
     * Traffic Calming goals - equality for all, more safe, less air and noise pollution | methods - shrink the road, disallow through traffic / shift vehicles to other streets, shift people to other modes
     * Marketing and communication
+
 ### Modes
 
 Mode | Speed | Capacity | Cost
@@ -57,6 +59,7 @@ HRT | 30-60 km/h | 60000-80000+ people/h | High (~$100,000,000+/km)
 Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High
 
 ### Renting / Sharing
+
 * [Taxi](https://en.wikipedia.org/wiki/Taxicab)
   * [Ride Sharing](https://en.wikipedia.org/wiki/Transportation_network_company)
 * [Car Rental](https://en.wikipedia.org/wiki/Car_rental)
@@ -71,12 +74,17 @@ Rail | X | National, Regional, Commuter, Metro
 Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 
 ### Economic Sustainability
+
 * [Law of Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
+
 ### Social Sustainability
+
 * [Road Safety](https://github.com/davidbailey/tum/tree/master/handbook/Road%20Safety) [self]
-* Social Justice, Safety, Public Health, Seperation, Socialization, Comfort, Efficency 
+* Social Justice, Safety, Public Health, Seperation, Socialization, Comfort, Efficency
 * 1,200,000-1,600,000 Traffic Death / Year Worldwide
+
 ### Ecological / [Environmental](https://en.wikipedia.org/wiki/Environmental_impact_of_transport) Sustainability
+
 * Energy, Noise, Air Pollution, Land-use
 * 27% CO2 Worldwide is from Transportation
   * Hong Kong = 500kg CO2
@@ -84,7 +92,9 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 * [Life Cycle Assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment)
   * Transportation Life Cycle Assessment
   * http://transportationlca.org
+
 ### Users
+
 * [Motor Vehicles](https://en.wikipedia.org/wiki/Motor_vehicle)
   * [Cars](https://en.wikipedia.org/wiki/Car)
     * [Autonomous Cars](https://en.wikipedia.org/wiki/Autonomous_car)
@@ -109,7 +119,9 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * [Tall Bikes](https://en.wikipedia.org/wiki/Tall_bike)
   * [Helmets](https://en.wikipedia.org/wiki/Helmet)
 * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
+
 ### Buzzwords
+
 * Public Transportation Priority
 * Non-motorized Transportaion
 * Public Spaces
@@ -118,7 +130,9 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 * High Quality Public Trasnportation
 * Land Use Policies
 * Car Restrictions
+
 ### Moving from Traditional (Car-focused) to Sustainable (People-focused)
+
 * Improve Walk, Bike, Public Transportation, Cars, Planes
   * Long timeline e.g. most Metros have taken 100 years to build, but bus lanes are quicker (cheaper)
   * Must happen before reducing cars
@@ -128,8 +142,8 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * Successful approach: design around people: network, easy, fast; evaluate options from the city perspective ($$$), decide
     * Mimic the good aspects of cars: e.g. high-speed, high-frequency (12+ vehicles/hr), high-quality e.g. BRT
 
-  
 ### [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
+
 * Features
   * Bicycles don't experience congestion (nearly as much as cars)
   * Bicycles don't pollute (increased health and land value)
@@ -154,6 +168,7 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * [Separated Bike Lane Planning & Design Guide](https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx) [www.massdot.state.ma.us]
 
 ### [Transport Planning in Delft, Netherlands](https://www.youtube.com/watch?v=Y5_0T51vOuI) [www.youtube.com]
+
 * Want to increase bike/ped mode share
 * Decrease
   * Pollution - Reduce car traffic and speed
@@ -163,9 +178,9 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * Parks - Connect the parks
   * Light Rail > Bus : Predictalbe, faster, more comfortable, etc.
 * Road Design - National Standard
-    * Highway > 70kph w/ Protected Bike Lane
-    * Arterial = 50kph w/ Protected Bike Lane
-    * Residential < 30kph w/ Bikes in the Street
+  * Highway > 70kph w/ Protected Bike Lane
+  * Arterial = 50kph w/ Protected Bike Lane
+  * Residential < 30kph w/ Bikes in the Street
   * But not for Delft
     * Not enough space
     * No green space
@@ -178,99 +193,4 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * smaller lanes, special median, attention markings, raised crossings, roundabouts instead of lights
 
 ### [Vienna - Affordable and Inclusive Greatness](http://www.vienncouver.com/2017/04/vienna-affordable-and-inclusive-greatness/) [www.vienncouver.com]
-
-        * Timetable
-          * Customer / Passenger
-            * Quality = Headway / Travel Time
-              * < 0.5 = competitive w/ private transportation
-              * 2-3 = transportation for basic social service
-            * Travel Time = Measured Travel Time + Dwell Time + Congestion
-              * monitor and provide real-time updates
-            * Transfers
-              * Hierarchy of routes
-              * Minimize wait time
-              * Reliability
-          * Vehicles
-          * Drivers
-        * Information
-          * Types
-            * Pre-trip
-              * Navigational Signage e.g. to station
-              * Routing, Scheduling, Available Modes and Cost
-                * Network Map: Real Geometry or False Geometry
-                * Timetables: Online or Printed
-                * (See Apps)
-            * On-trip
-              * Navigational Signage e.g. stops
-              * Upcoming Stops
-              * Real-time Information
-              * Connections
-            * Post-trip
-              * Navigational Signage e.g. to activities
-          * focus information on group II, III, IV passengers
-          * Recommendations
-          * Delays
-          * Historical Data
-          * must be accessible
-        * Tickets
-          * Route-based
-            * Pros: simple; Cons: transfers are expensive
-          * Time-based
-            * Cons: delays affect fares
-          * Distance-based
-            * Pros: fair; Cons: can be very confusing
-            * Zone-based
-              * Pros: fair; Cons: can be confusing
-            * Check-In/Check-Out e.g. BART, Oyster Card (TfL)
-          * Instruments
-            * Express/Non-Express
-            * Time-of-day e.g. Off-peak Ticket
-            * 1st Class / 2nd Class
-            * Frequency e.g. Multi-trip Ticket, Day Pass, Week Pass, Month Pass, Year Pass
-            * Inter-agency transfers e.g. [Integrated Ticketing](https://en.wikipedia.org/wiki/Integrated_ticketing)
-            * Combined ticket to events
-            * Groups e.g. Group Tickets, Seniors, Students
-          * Ticket Media
-            * [Proximity Card](https://en.wikipedia.org/wiki/Proximity_card)
-              * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
-              * [OV-chipkaart](https://en.wikipedia.org/wiki/OV-chipkaart)
-            * [Magnetic Stripe Card](https://en.wikipedia.org/wiki/Magnetic_stripe_card)
-            * Paper Ticket (printed from [ticket-vending machine](https://en.wikipedia.org/wiki/Ticket_machine) or at home)
-            * No Ticket
-            * (See Apps)
-          * Automatic Best Price Calculation
-          * [Automatic Fare Collection](https://en.wikipedia.org/wiki/Automated_fare_collection)
-        * Communication
-          * Generations
-            1. Telephone
-            2. Digital Radio
-            3. Intermodal Transport Control Systems
-              * Real-time localization of all vehicles
-              * Continuous comparison of real-time vehicle location versus schedule
-        * Operations Center
-        * Vehicle On Board Unit
-        * Incident Management
-      * Stakeholders
-        * Customers
-
-        | Group | Familiar with Area | Familiar with System | Description |
-        | ----- | ------------------ | -------------------- | ----------- |
-        | I | Yes | Yes | Frequent passenger on known route |
-        | II | No | Yes | Frequent passenger on new route/city |
-        | III | Yes | No | Occasional passenger on popular route |
-        | IV | No | No | Occasional passenger in new area |
-
-        * Operators
-        * Management
-      * Improvements (See Bus Rapid Transit)
-      * https://www.youtube.com/watch?v=N0OGqjPS47E
-      * Integrated Synchronized Timetable (Timed Transfer)
-        * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
-        * Advantages: high geographical network coverage, reduced travel times due to optimized connections, simpler timetable, improved punctuality, continuous operation, reduction of empty trips
-        * Disadvantages: high long-term investments in infrastructure, infrastructure is not used to capacity, high peak traffic at nodes, increase in travel time for some trips, requires prioritization of people over freight
-    * Transport Offer
-      * network + services
-
-
-
 
