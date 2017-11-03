@@ -11,4 +11,4 @@
 * Internal => Page Title [self]
 * Other => Page Title [example.com]
 
-To generate a new copy of this handbook, run `cat README.md */README.md | grip --export - index.html`.
+To generate a new copy of this handbook, run `cat README.md */README.md > temp.md && doctoc temp.md && grip --export temp.md index.html && rm temp.md && open index.html`.
