@@ -1,5 +1,7 @@
 ## Infrastructure
+
 ### [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
+
 * Pedestrian Paths
   * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
     * Children in Sweden can walk alone at age 12-13.
@@ -25,31 +27,33 @@
     * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
 * Bridges
 * [Tunnels](https://en.wikipedia.org/wiki/Tunnel)
-    * Low Probability, High Consequence Events e.g. Fire, Smoke, Explosions, Hazardous Materials
-        * often safer than other road sections because drivers compensate for higher percieved risk
-    * Design Standards
-        * EU Directive 2004/54/EC
-        * US NFPA 502: Standard for Road Tunnels, Bridges, and Other Limited Access Highways
-    * Tunnel Control
-        * Communication
-        * Traffic Control
-            * Triggers: Fundamental Diagram (present and forcasted), Stopped Vehicles, Wrong Way Drivers, Over-height Vehicles, Pedestrians in the Tunnel, Lost Cargo, Emergency Door Opened, etc.
-            * Responses: Automatic, Semi-automatic, Manual
-        * Ventilation
-            * Longitudinal
-                * Central Exhaust or Central Fresh Air Supply
-            * Semi-transverse Ventilation
-        * Lighting
-            * Bright, Dark, Bright
-        * Sensors
-            * Fire
-                * Indirect: removal of a fire extinguisher, video
-                * Direct
-            * Power
-            * Pollution
-            * Visibility
-            * Wind Speed
+  * Low Probability, High Consequence Events e.g. Fire, Smoke, Explosions, Hazardous Materials
+    * often safer than other road sections because drivers compensate for higher percieved risk
+  * Design Standards
+    * EU Directive 2004/54/EC
+    * US NFPA 502: Standard for Road Tunnels, Bridges, and Other Limited Access Highways
+  * Tunnel Control
+    * Communication
+    * Traffic Control
+      * Triggers: Fundamental Diagram (present and forcasted), Stopped Vehicles, Wrong Way Drivers, Over-height Vehicles, Pedestrians in the Tunnel, Lost Cargo, Emergency Door Opened, etc.
+      * Responses: Automatic, Semi-automatic, Manual
+    * Ventilation
+      * Longitudinal
+        * Central Exhaust or Central Fresh Air Supply
+        * Semi-transverse Ventilation
+    * Lighting
+      * Bright, Dark, Bright
+    * Sensors
+      * Fire
+        * Indirect: removal of a fire extinguisher, video
+        * Direct
+      * Power
+      * Pollution
+      * Visibility
+      * Wind Speed
+
 ### [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
+
 * Design Standards
   * American Railway Engineering and Maintenance-of-Way Association
   * Caltrain: http://www.caltrain.com/about/doingbusiness/engineering/engineeringstandards.html
@@ -142,29 +146,43 @@
 * [Freight](https://en.wikipedia.org/wiki/Rail_freight_transport)
   * (See Freight/Cargo)
 * https://www.youtube.com/playlist?list=PL6EF5E8751546E017
+
 ### [Waterways](https://en.wikipedia.org/wiki/Waterway)
+
 * [Ports](https://en.wikipedia.org/wiki/Port)
+
 ### [Aqueducts](https://en.wikipedia.org/wiki/Aqueduct_(water_supply))
+
 ### [Air](https://en.wikipedia.org/wiki/Aviation)
+
 * [Airports](https://en.wikipedia.org/wiki/Airport)
 * [Airplanes](https://en.wikipedia.org/wiki/Airplane)
 * [Helicopters](https://en.wikipedia.org/wiki/Helicopter)
 * [Hot Air Balloons](https://en.wikipedia.org/wiki/Hot_air_balloon)
 * [Unmanned Aerial Vehicles](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle)
   * [Delivery Drones](https://en.wikipedia.org/wiki/Delivery_drone)
+
 ### [Pipeline](https://en.wikipedia.org/wiki/Pipeline_transport)
+
 * Goods
   * Oil
   * Gas
   * Water
   * Sewage
+
 ### [Cable](https://en.wikipedia.org/wiki/Cable_transport)
+
 * [How ski lifts are installed: Vail's new Chair 5](https://www.youtube.com/watch?v=8CSxkYnyFg0) [www.youtube.com]
+
 ### [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
+
 ### [Freight/Cargo](https://en.wikipedia.org/wiki/Cargo)
+
 * [Contanierization](https://en.wikipedia.org/wiki/Containerization)
   * [Swap Body](https://en.wikipedia.org/wiki/Swap_body)
+
 ### Civil Structures
+
 * Inspection
   * http://nitc.trec.pdx.edu/events/professional-development/webinar-developing-practical-dynamic-evaluation-methods
 * [Tunnels](https://en.wikipedia.org/wiki/Tunnel)
@@ -176,7 +194,9 @@
         * Closed Shield
           * [Earth Pressure Balance](https://en.wikipedia.org/wiki/Earth_pressure_balance)
           * Slurry Shield
+
 ### Station Design Process
+
 * Selecting Turnouts
   * Determine the maximum speed through each turnout.
   * Determine the spacing between all tracks.
