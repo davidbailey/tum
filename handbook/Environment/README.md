@@ -1,5 +1,7 @@
 ## Environment
+
 ### Air Pollution
+
 * Pollutants
 
   Pollutant | Major Source Engine Type | Source | Effects
@@ -44,20 +46,24 @@
     * Chlorofluorocarbons (CFCs)
     * Hydrofluorocarbons (incl. HCFCs and HFCs)
     * [Passenger Vehicle Greenhouse Gas and Fuel Economy Standards](http://www.theicct.org/passenger-vehicle-greenhouse-gas-and-fuel-economy-standards) [www.theicct.org]
-    * [Regulations for Greenhouse Gas Emissions from Passenger Cars and Trucks
-](https://www.epa.gov/regulations-emissions-vehicles-and-engines/regulations-greenhouse-gas-emissions-passenger-cars-and) [www.epa.gov]
+    * [Regulations for Greenhouse Gas Emissions from Passenger Cars and Trucks](https://www.epa.gov/regulations-emissions-vehicles-and-engines/regulations-greenhouse-gas-emissions-passenger-cars-and) [www.epa.gov]
   * Reduction
     * [Carbon Pricing](https://en.wikipedia.org/wiki/Carbon_price)
       * [Cap and Trade](https://en.wikipedia.org/wiki/Emissions_trading)
     * [Low Carbon Technology](https://en.wikipedia.org/wiki/Low-carbon_technology)
     * [Kyoto Protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol)
+
 ### Noise Pollution
+
 * Sound
   * Frequency: human hearing 20hz - 17000hz
   * Amplitude: sound pressure (p)
     * hearing threshold: 20 μPa
     * pain threshold: 20,000,000 μPa
 * effects: stress, high blood pressure, heart disease, hearing dammage
+
 ### Light Pollution
+
 ### Land Use (transportation infrastructure uses land)
+
 ### Seperation Effects (transportation infrastructure acts as a barrier)
