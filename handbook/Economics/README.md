@@ -10,7 +10,7 @@
     * Time - everything is instant
     * Goods - all equal
     * People - all equal, no preferences
-    * Information - all known by all 
+    * Information - all known by all
   * [Budget](https://en.wikipedia.org/wiki/Budget)
     * [Budget Constraints](https://en.wikipedia.org/wiki/Budget_constraint)
     * [Superior Good](https://en.wikipedia.org/wiki/Superior_good): buy more when income rises
@@ -20,7 +20,7 @@
 * [Cost](https://en.wikipedia.org/wiki/Cost)
   * [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost): change in opportunity cost from increase in production
   * [Cost Curve](https://en.wikipedia.org/wiki/Cost_curve)
-    * [Total Cost](https://en.wikipedia.org/wiki/Total_cost) = [Fixed Cost](https://en.wikipedia.org/wiki/Fixed_cost) + [Variable Cost](https://en.wikipedia.org/wiki/Variable_cost) * Units 
+    * [Total Cost](https://en.wikipedia.org/wiki/Total_cost) = [Fixed Cost](https://en.wikipedia.org/wiki/Fixed_cost) + [Variable Cost](https://en.wikipedia.org/wiki/Variable_cost) × Units
     * [Average Cost](https://en.wikipedia.org/wiki/Average_cost)
 * [Optimal Decision](https://en.wikipedia.org/wiki/Optimal_decision)
   * [Utility maximization problem](https://en.wikipedia.org/wiki/Utility_maximization_problem)

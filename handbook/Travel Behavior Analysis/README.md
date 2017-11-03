@@ -34,7 +34,7 @@
   * Agent-based Model
   * Activity-based Model
 * Behaviourally Homogenous Groups: Demographic groups that have the same daily schedule
-* We are lacking a good spacial choice model. Why do we live, work, etc. where we do? 
+* We are lacking a good spacial choice model. Why do we live, work, etc. where we do?
 * Transportation System
   * Travel Cost
     * Purpose
