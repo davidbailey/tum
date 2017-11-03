@@ -1,5 +1,7 @@
 ## Project and Performance Management
+
 ### Project Management
+
 * Goal: Sustainable Transportation
   * Vision: long-term goal
   * Strategy: medium-term plans
@@ -8,8 +10,8 @@
 * Integration: Technical, Spatial, Temporal, Organizational, Methodological, Political
 * Stakeholders: Customers, Operators, Management, Society
 * Process
-  1. Problem Statement and Goal
-  2. Brainstorm Alternatives
+  * Problem Statement and Goal
+  * Brainstorm Alternatives
     * [Feasibility Studies](https://en.wikipedia.org/wiki/Feasibility_study)
       * technical, logical, functional
     * [Strengths, Weaknesses, Opportunities, Threats (SWOT) Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
@@ -24,7 +26,7 @@
         Opportunities | take advantage of opportunities | use strengths to avoid threats
         Threats | eliminiate weaknesses through opportunities | minimize weaknesses and avoid threats
 
-  3. Alternatives Analysis ([Decision](https://en.wikipedia.org/wiki/Decision-making))
+  * Alternatives Analysis ([Decision](https://en.wikipedia.org/wiki/Decision-making))
     * Why? [Choices](https://en.wikipedia.org/wiki/Choice) and Limited Funds
     * Characteristics: Transparent, Reliable, Objective (impossible), Understandable
     * Components
@@ -92,7 +94,7 @@
               * Travel Time Reliability (20%)
             * Land Use
               * Transportation-Efficient Land Use (100%)
-  4. [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment) (Environmental Impact Report (EIR))
+  * [Environmental Impact Assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment) (Environmental Impact Report (EIR))
     * [Environmental Impact Statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
       * [California Environmental Quality Act](https://en.wikipedia.org/wiki/California_Environmental_Quality_Act)
         * [California Environmental Protection Agency](https://en.wikipedia.org/wiki/California_Environmental_Protection_Agency)
@@ -117,10 +119,10 @@
     * [EIA Open Education Resource](http://eia.unu.edu) [eia.unu.edu]
     * EU: Motive, Scoping, Report, Public
     * DE: Compensatory: Any damage must be compensated. Contingency: Different means, same result.
-  5. Gather Baseline Data
-  6. Find Funding
-  7. Implementation
-  8. Gather Data Evaluation, and Continious Improvement
+  * Gather Baseline Data
+  * Find Funding
+  * Implementation
+  * Gather Data Evaluation, and Continious Improvement
     * Why? learn for the future, proof of effectiveness, quality control, effiency control
     * measure 1, 5, 10 years after
     * report to taxpayers: accountable, transparent, accessible
@@ -133,14 +135,14 @@
     * Direct, Indirect, Institutional
     * Formal, Informal
   * A Ladder of Citizen Participation (Sherry R Arnstein)
-    8. Citizen Control
-    7. Delegated Power
-    6. Partnership
-    5. Placation
-    4. Consultation
-    3. Informing
-    2. Therapy
-    1. Maniuplation
+    * Citizen Control
+    * Delegated Power
+    * Partnership
+    * Placation
+    * Consultation
+    * Informing
+    * Therapy
+    * Maniuplation
 * Examples
   * [Strategic Environmental Assessment](https://en.wikipedia.org/wiki/Strategic_environmental_assessment)
     * EU: Applies to plans and programs
@@ -184,12 +186,12 @@
     * e.g. www.agglomeration.ch, Munich Metropolitan Region
   * Local
     * [EU Action Plan on urban mobility](https://ec.europa.eu/transport/themes/urban/urban_mobility/action_plan_en) [ec.europa.eu]
-      1. Promoting integrated policies
-      2. Focusing on citizens
-      3. Greening urban transport
-      4. Strengthening funding
-      5. Sharing experience and knowledge
-      6. Optimising urban mobility
+      * Promoting integrated policies
+      * Focusing on citizens
+      * Greening urban transport
+      * Strengthening funding
+      * Sharing experience and knowledge
+      * Optimising urban mobility
     * DE: Transport Development Plan (Verkehrsentwicklungsplan)
       * Munich: Compact, Urban, Green
     * DE: Public transport action plan (Nahverkehrsplan)
@@ -197,8 +199,8 @@
     * UK: Local Transport Plan
     * [Sustainable Urban Mobility Plan](https://en.wikipedia.org/wiki/Sustainable_Urban_Mobility_Plan)
 
-
 ### [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
+
 * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
   * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
   * Safety: crashes, fatalities,
@@ -211,8 +213,8 @@
     * We may have accountability - people put money in, they get projects out, they are happy.
     * We do not have transparency - we can't follow the money.
     * Steps
-      1. Transparency: Maintain taxpayer confidence
-      2. Accountability: Deliver value
-      3. Value: best bang for the buck
-      4. Resolve conflicts between policies
-      5. Get more funding…
+      * Transparency: Maintain taxpayer confidence
+      * Accountability: Deliver value
+      * Value: best bang for the buck
+      * Resolve conflicts between policies
+      * Get more funding…
