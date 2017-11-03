@@ -1,4 +1,5 @@
 ## [Land Use](https://en.wikipedia.org/wiki/Land_use) and Transport Interactions
+
 * History
   * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich) -> Walking city
   * Industrial revolution (1840s): invention of the train. Allowed people to move out of the city center because they could travel faster than walking. At the same time, improved farming technology caused people to move to cities. Development concentrated around train stations (tram, subway, commuter rail, etc.) (Transit-oriented Development) on lines radiating out from city center. Garden City movement (1898 Sir Ebenezer Howard). Beginning of seperation of uses: industry, residential, commercial. -> Transit city
@@ -25,7 +26,7 @@
   * Sensitivity Model ([Vester](https://en.wikipedia.org/wiki/Frederic_Vester)) Matrix + System, qualitative 0, 1, 2, 3
     * fuzzy elements, for understanding, not prediction
     * variables can be active, reactive, buffering, crucial, depending on how many affect, effect
-    * [Cybernetic](https://en.wikipedia.org/wiki/Cybernetics) 
+    * [Cybernetic](https://en.wikipedia.org/wiki/Cybernetics)
   * [System Dynamics](https://en.wikipedia.org/wiki/System_dynamics) ([Forrester](https://en.wikipedia.org/wiki/Jay_Wright_Forrester)) Stock-Flow Simulation, quantitative
     * [System Dynamics Society](http://www.systemdynamics.org) [www.systemdynamics.org]
     * Diagram + Stock (variables) + Flow (functions) => State
@@ -98,8 +99,8 @@
       * [Garden City](https://en.wikipedia.org/wiki/Garden_city_movement)
       * max 2km around station (30 minute walk), but hopefully more like 5-7 minute walk
       * mix of uses w/ moderate to high density
-	* reduces some trips
-	* reducing density as the distance from the station increases
+        * reduces some trips
+        * reducing density as the distance from the station increases
       * pedestrian oreientation/connectivity
       * transportation choices
       * reduced parking
@@ -115,11 +116,11 @@
     * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
       * [Congress for the New Urbanism](https://www.cnu.org) [www.cnu.org]
       * [Jeff Speck: 4 ways to make a city more walkable | TED Talk](https://www.ted.com/talks/jeff_speck_4_ways_to_make_a_city_more_walkable) [www.ted.com]
-	* reason to walk, safe and feel safe, comfortable, interesting
-	* 200 foot [blocks](https://en.wikipedia.org/wiki/City_block) (Portland) -> 2 lane city
-	* 600 foot blocks (Salt Lake City) -> 6 lane city
-	* [American Grid Comparison](https://commons.wikimedia.org/wiki/File:American_Grid_Comparison.jpg)
-	* (See Gridded Space)
+        * reason to walk, safe and feel safe, comfortable, interesting
+        * 200 foot [blocks](https://en.wikipedia.org/wiki/City_block) (Portland) -> 2 lane city
+        * 600 foot blocks (Salt Lake City) -> 6 lane city
+        * [American Grid Comparison](https://commons.wikimedia.org/wiki/File:American_Grid_Comparison.jpg)
+        * (See Gridded Space)
     * [Urbanized (2011)](http://imdb.com/title/tt1701976/) [imdb.com]
   * [Smart Growth](https://en.wikipedia.org/wiki/Smart_growth)
   * Urbanity by destiny
