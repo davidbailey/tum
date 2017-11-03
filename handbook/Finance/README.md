@@ -1,7 +1,8 @@
-### Financing
+### Finance
+
 * Sources
   * Public
-    * [Value Capture](https://en.wikipedia.org/wiki/Value_capture) 
+    * [Value Capture](https://en.wikipedia.org/wiki/Value_capture)
   * Private
   * Public Private Partnership: Design, Build (w/ Warrenty), (Finance), (Operate, Maintain)
     * [Shadow Toll](https://en.wikipedia.org/wiki/Shadow_toll)
