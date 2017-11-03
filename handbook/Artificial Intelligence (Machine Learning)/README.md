@@ -1,15 +1,23 @@
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning))
+
 ### Courses
+
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
+
 ### Competitions
+
 * [Kaggle](https://www.kaggle.com) [www.kaggle.com]
+
 ### Tasks
+
 * Formal Tasks e.g. board games
 * Expert Tasks e.g. engineering design
 * Mundane Tasks e.g. walking
 * More Tasks: Classification, Classification with missing inputs, Regression, Transcription (OCR, Speech Recognition), Machine translation, Structured output, Anomaly detection, Synthesis and Sampling, Filling missing values, Noise removal, Density estimation, …
+
 ### Learning Types
+
 * Supervised: provide large sample of labeled training data (ground truth: inputs and outputs); e.g. regression, classification, structured data
   * Humans can learn from much less data, simple instructions.
 * [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning): reward or punish based on just outcome, ground truth is scarce
@@ -28,7 +36,9 @@
 * Unsupervised: unlabled data; e.g. clustering, density estimation
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
 * other types of learning: demonstrations, observations, transfer learning
+
 ### Neural Networks (Deep Learning)
+
 * Universality - can approximate any function e.g. driving
 * Courses
   * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu) [selfdrivingcars.mit.edu]
@@ -64,7 +74,7 @@
   * GoogLeNet
   * [CS231n Convolutional Neural Networks for Visual Recognition: Course Project Reports](http://cs231n.stanford.edu/reports.html) [cs231n.stanford.edu]
 * Example Implementations
-  * [Training a Neural Network ATARI Pong agent with Policy Gradients from raw pixels](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5) [gist.github.com] 
+  * [Training a Neural Network ATARI Pong agent with Policy Gradients from raw pixels](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5) [gist.github.com]
   * [Demo of running NNs across different frameworks](https://github.com/ilkarman/DeepLearningFrameworks) [github.com]
   * [PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr) [github.com]
 * Types
@@ -83,7 +93,7 @@
 
     X | Single channel | Multichannel
     --- | --- | ---
-    1-D | Audio waveform | 
+    1-D | Audio waveform |
     2-D | Greyscale image, Audio pre-processed with Fourier transofrm | Color image
     3-D | Greyscale video, Volumetric data | Color video
 
@@ -110,9 +120,9 @@
     * speech, video, audio
     * [Long Short-Term Memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM) e.g. Video Caption Generation
       * Previous State (Data) and New Data
-        1. Decide what to forget (from the Previous State)
-        2. Decide what to remember (from the Previous State and/or New Data)
-        3. Decide what to output (if anything)
+        * Decide what to forget (from the Previous State)
+        * Decide what to remember (from the Previous State and/or New Data)
+        * Decide what to output (if anything)
       * Uses: machine translation, handwriting recogntion, character-level text generation, image/video caption generation, steer sliding window, add audio to silent video, medical diagnosis, audio classification (wet road/dry road)
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
@@ -120,10 +130,10 @@
   * Neurons w/ Synapses
     * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
       * Process
-        1. input (1 or 0)
-        1. multiply by weight
-        2. sum + bias
-        3. activate (output 0 or 1)
+        * input (1 or 0)
+        * multiply by weight
+        * sum + bias
+        * activate (output 0 or 1)
       * can form a NAND Gate
         * logically complete (can build any function from just NAND gates)
       * activation function is a step function -> not smooth => sigmoid
@@ -139,10 +149,10 @@
     * Probability
     * Segmentation => Heatmap of probabilities
 * Training Process
-  1. Forward pass
-  2. Backpropigate
-  3. Update weights and biases
-  4. Repeat
+  * Forward pass
+  * Backpropigate
+  * Update weights and biases
+  * Repeat
 * Overfitting
   * How to avoid overfitting:
     * Add more data
@@ -151,10 +161,12 @@
     * Reudce complexity e.g. Dropout
 * Other
   * Sliding image approach (versus Convolutional Neural Networks)
-    1. Create a detector for the object of interest
-    2. Slide that detector around the image and look for the objects
+    * Create a detector for the object of interest
+    * Slide that detector around the image and look for the objects
+
 ### [Regression](https://en.wikipedia.org/wiki/Regression_analysis)
-* Purpose: explain the relationship between two variables, predict 
+
+* Purpose: explain the relationship between two variables, predict
 * [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
   * y = ax + c (+ ε)
   * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
@@ -189,7 +201,9 @@
         * ± 1 Standard Error => 68% Confidence Interval
         * ± 2 Standard Errors => 95% Confidence Interval
     * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
+
 ### [Pattern Recognition](https://en.wikipedia.org/wiki/Pattern_recognition)
+
 * [K-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   * L1 diff |image1 - image2| to find the closest match (if k=1)
   * if k=2+, find the closest matches, but there are gaps
