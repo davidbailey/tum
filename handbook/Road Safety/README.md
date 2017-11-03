@@ -1,5 +1,7 @@
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
+
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
+
 * Origin: [September 3, 1967 (Dagen H)](https://en.wikipedia.org/wiki/Dagen_H)
 * Philosophy: "No one should be killed or seriously injured within the road traffic system"
   * Ethical approach, not uncontroversial
@@ -10,7 +12,7 @@
   * Walkability and cycleability
   * Attractive transit
   * Demand Management
-* Data Collection 
+* Data Collection
   * Things that get counted count more i.e. pedestrians and bikes are often neglected
   * STRADA
 * Inputs
@@ -38,23 +40,27 @@
   * Sidewalks and protected bike lanes
   * Painted crosswalks and signals are an accessibility measure, not a safety measure because they do not prevent cars from hitting people. People do not have to slow or stop.
 * Communication is key: messages must speak to people, not engineers
-### Systematic Safety: Humans are vulnerable and make mistakes.
-1. Speed control and Separation
+
+### Systematic Safety: Humans are vulnerable and make mistakes
+
+* Speed control and Separation
   * 6 mph - shared spaces
   * 20 mph - bicycles in mixed traffic - chicanes, speed humps, raised intersections
   * 25 mph - drivers yield for pedestrian crossings - narrow lanes, crossing islands, 1 lane per direction to prevent passing
   * 30 mph - 90 degree intersections
   * 40 mph - separate by direction e.g. median
   * 70 mph - freeway
-2. Functional harmony: avoid incompatible functions e.g. shops and through traffic
+* Functional harmony: avoid incompatible functions e.g. shops and through traffic
   * Local streets 20 mph w/ parking, no lane markings, diverters to limit through traffic
   * Neighborhood principals 25 mph: 1 lane/direction, lots of crossings
   * Urban arterials 30 mph, signalized crossings, bike paths, no shops
   * Regional roads, 45mph no local access
-3. Predictability and Simplicity: green bike lanes, crossing islands are simpler, turn lanes with dedicated arrows
-4. Forgiveness and restrictiveness: mistakes do not cause serious injury, prevent mistakes
-5. State awareness: drunk driving, texting, inexperience
+* Predictability and Simplicity: green bike lanes, crossing islands are simpler, turn lanes with dedicated arrows
+* Forgiveness and restrictiveness: mistakes do not cause serious injury, prevent mistakes
+* State awareness: drunk driving, texting, inexperience
+
 ### [Traffic Collisions](https://en.wikipedia.org/wiki/Traffic_collision)
+
 * Causes
   * Human Factors
   * Road Design
