@@ -1,9 +1,13 @@
 ## [Intelligent Transportation Systems](https://en.wikipedia.org/wiki/Intelligent_transportation_system) (ITS)
+
 ### Objective
+
 * Save lives, time, money, energy, the environment
 * Promote all modes
 * [Sustainable Transportation Systems](https://github.com/davidbailey/tum/blob/master/handbook/Sustainable%20Transportation%20Systems/) [self]
+
 ### [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
+
 * [Open Loop](https://en.wikipedia.org/wiki/Open-loop_controller)
 * [Feed Forward](https://en.wikipedia.org/wiki/Feed_forward_(control))
 * Closed Loop w/ [Feedback](https://en.wikipedia.org/wiki/Feedback)
@@ -11,25 +15,35 @@
 ![A block diagram of a negative feedback control system.](https://upload.wikimedia.org/wikipedia/commons/2/24/Feedback_loop_with_descriptions.svg)
 
 * [PID Controller](https://en.wikipedia.org/wiki/PID_controller)
-    * P: Present Values (Proportional Term)
-    * I: Past Values (Integral Term)
-    * D: Future Values (Derivative Term)
+  * P: Present Values (Proportional Term)
+  * I: Past Values (Integral Term)
+  * D: Future Values (Derivative Term)
+
 ![A block diagram of a PID controller in a feedback loop.](https://upload.wikimedia.org/wikipedia/commons/4/43/PID_en.svg)
+
 * [Model Predictive Control](https://en.wikipedia.org/wiki/Model_predictive_control)
+
 ### [State Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+
 * Stability
 * Controlability
 * Ovservability
 * [State Space](https://en.wikipedia.org/wiki/State_space)
-    * [State Space Representation](https://en.wikipedia.org/wiki/State-space_representation)
+  * [State Space Representation](https://en.wikipedia.org/wiki/State-space_representation)
+
 ### [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing)
+
 * [Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter)
+
 ### Telematics (Telecommunications and Informatics)
+
 * Acquisition
 * Transmission
 * Storage
 * Processing
+
 ### Networking
+
 * Destination
   * Unicast
   * Multicast
@@ -37,36 +51,43 @@
 * Latency
 * Bandwidth
 * OSI Model
-  1. Physical
-  2. Data Link
-  3. Network
-  4. Transport
-  5. Session
-  6. Presentation
-  7. Application
+  * Physical
+  * Data Link
+  * Network
+  * Transport
+  * Session
+  * Presentation
+  * Application
+
 ### Levels
+
 * Framework Architecture
-    * US: http://www.its.dot.gov/research_archives/arch/
-    * EU: http://frame-online.eu
-    * 2010 directive 2010/40/EU of European Parliament on ITS: Framework for the deployment of Intelligent Transport Systems in the field of road transportation and for interfaces with other modes of transport
+  * US: http://www.its.dot.gov/research_archives/arch/
+  * EU: http://frame-online.eu
+  * 2010 directive 2010/40/EU of European Parliament on ITS: Framework for the deployment of Intelligent Transport Systems in the field of road transportation and for interfaces with other modes of transport
 * Reference Architecture
 * Implementation
+
 ### Viewpoints
+
 * Functional: What?
 * Technical: How?
 * Organizational: Who?
+
 ### Autonomous Driving
-* SAE Levels of Automation: (0. No Automation)
-  1. Driver Assistance
-  2. Partial Automation
-  3. Conditional Automation
-  4. High Automation
-  5. Full Automation
+
+* SAE Levels of Automation:
+  * No Automation
+  * Driver Assistance
+  * Partial Automation
+  * Conditional Automation
+  * High Automation
+  * Full Automation
 * Driving Tasks
   * Localization and Mapping - Where am I?
     * [Six Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom)
 
-  ![Six Degrees of Freedom](https://upload.wikimedia.org/wikipedia/commons/f/fa/6DOF_en.jpg)
+    ![Six Degrees of Freedom](https://upload.wikimedia.org/wikipedia/commons/f/fa/6DOF_en.jpg)
 
     * [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
     * [Object Detection](https://en.wikipedia.org/wiki/Object_detection)
@@ -84,46 +105,46 @@
   * Driver State
     * Gaze: head and eyes
 * Inputs (Sensors)
-    * Internal
-      * Car Area Network (CAN)
-        * Wheel Speed
-        * Yaw Rate
-        * Steering Angle
-        * Acceleration/Brake Pedal
-        * Accelerometer
-        * Roll Angle
-        * Pitch Angle
-        * Rain/Temperature Sensor
-      * Cabin
-        * Cameras
-        * Internal Audio
-      * [Inertial Measurement Unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit)
-    * External
-        * Ultrasonic
-        * Radar
-        * LIDAR
-        * Optical Camera (Stereo)
-        * Infrared Camera
-        * Satellite Navigation
-        * Audio e.g. wet road
+  * Internal
+    * Car Area Network (CAN)
+      * Wheel Speed
+      * Yaw Rate
+      * Steering Angle
+      * Acceleration/Brake Pedal
+      * Accelerometer
+      * Roll Angle
+      * Pitch Angle
+      * Rain/Temperature Sensor
+    * Cabin
+      * Cameras
+      * Internal Audio
+    * [Inertial Measurement Unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit)
+  * External
+    * Ultrasonic
+    * Radar
+    * LIDAR
+    * Optical Camera (Stereo)
+    * Infrared Camera
+    * Satellite Navigation
+    * Audio e.g. wet road
 * Outputs
-    * Steering Angle (Steer By Wire)
-    * Brakes
-        * Pressure
-        * Modulation
-    * Engine (Drive By Wire)
-    * Driver Feedback
-        * Visual
-        * Haptic
-        * Acoustic
+  * Steering Angle (Steer By Wire)
+  * Brakes
+    * Pressure
+    * Modulation
+  * Engine (Drive By Wire)
+  * Driver Feedback
+    * Visual
+    * Haptic
+    * Acoustic
 * Functions (Computers)
-    * Fusion of Sensor Data
-    * Object Detection
-    * Object Identification (Classification)
-    * Route Planning
-    * Lateral Control
-        * Lane Selection (for route, safety, and speed)
-    * Longitudinal Control
+  * Fusion of Sensor Data
+  * Object Detection
+  * Object Identification (Classification)
+  * Route Planning
+  * Lateral Control
+    * Lane Selection (for route, safety, and speed)
+  * Longitudinal Control
 * Challenges
   * Snow / Rain
   * Open Spaces
@@ -133,252 +154,260 @@
   * Reflections
   * Merging
   * initial decrease in road capacity followed by possible increase in capacity if high adoption rate
+
 ### [Advanced Driver Assistance Systems (ADAS)](https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems)
-  * Anti-lock Braking System (ABS)
-  * [Electronic Stability Control](https://en.wikipedia.org/wiki/Electronic_stability_control)
-    * Traction Control System (TCS)
-  * [Adaptive Cruise Control](https://en.wikipedia.org/wiki/Autonomous_cruise_control_system)
-  * [Navigation](https://en.wikipedia.org/wiki/Automotive_navigation_system) = Positioning x Guidance
-    * Positioning
-      * Dead Reckoning = Velocity * Time + Last Known Location
-        * Can have high error propagation
-      * [Global Navigation Satellite System (GNSS)]() [self]
+
+* Anti-lock Braking System (ABS)
+* [Electronic Stability Control](https://en.wikipedia.org/wiki/Electronic_stability_control)
+  * Traction Control System (TCS)
+* [Adaptive Cruise Control](https://en.wikipedia.org/wiki/Autonomous_cruise_control_system)
+* [Navigation](https://en.wikipedia.org/wiki/Automotive_navigation_system) = Positioning x Guidance
+  * Positioning
+    * Dead Reckoning = Velocity * Time + Last Known Location
+      * Can have high error propagation
+    * [Global Navigation Satellite System (GNSS)]() [self]
+
 ### Cooperative Intelligent Transport Systems (C-ITS)
-  * [Cooperative ITS Corridor](http://www.c-its-korridor.de/?menuId=1&sp=en) [www.c-its-korridor.de]
-  * [Vehicular_communication_systems](https://en.wikipedia.org/wiki/Vehicular_communication_systems)
-      * [simTD](http://www.simtd.de/index.dhtml/enEN/index.html) [www.simtd.de]
-      * [Vehicle to Everything (V2X)](https://en.wikipedia.org/wiki/Vehicle-to-everything)
-      * [Vehicle to Vehicle (V2V)](https://en.wikipedia.org/wiki/Vehicle-to-vehicle)
-      * [Vehicle to Grid (V2G)](https://en.wikipedia.org/wiki/Vehicle-to-grid)
-      * [Vehicle to Device (V2D)](https://en.wikipedia.org/wiki/Vehicle-to-device)
-      * Vehicle to Pedestrian (V2P)
-      * Vehicle to Infrastructure (V2I)
+
+* [Cooperative ITS Corridor](http://www.c-its-korridor.de/?menuId=1&sp=en) [www.c-its-korridor.de]
+* [Vehicular_communication_systems](https://en.wikipedia.org/wiki/Vehicular_communication_systems)
+  * [simTD](http://www.simtd.de/index.dhtml/enEN/index.html) [www.simtd.de]
+  * [Vehicle to Everything (V2X)](https://en.wikipedia.org/wiki/Vehicle-to-everything)
+  * [Vehicle to Vehicle (V2V)](https://en.wikipedia.org/wiki/Vehicle-to-vehicle)
+  * [Vehicle to Grid (V2G)](https://en.wikipedia.org/wiki/Vehicle-to-grid)
+  * [Vehicle to Device (V2D)](https://en.wikipedia.org/wiki/Vehicle-to-device)
+  * Vehicle to Pedestrian (V2P)
+  * Vehicle to Infrastructure (V2I)
+
 ### Vehicle Safety
-  * Active: avoid crashes
-      * Blind Spot Warning
-      * Lane Keeping
-      * Emergency Braking
-      * Emergency Lane Change
-      * Car Preconditioning
-      * Pedestrian Warning
-      * Cyclist Warning
-      * Collision Warning / Prevention
-  * Passive: reduce effects of crashes
-      * During Crash
-          * Seat Belts (Lap Belt -> 3-point Belt)
-              * Belt Tensioners
-          * Head Restraint
-          * Crumple Zones
-          * Child Restraint Systems
-          * [Crash Tests](https://en.wikipedia.org/wiki/Crash_test)
-              * Standards
-                  * https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards
-                  * http://www.unece.org/trans/main/welcwp29.html
-                  * https://en.wikipedia.org/wiki/Euro_NCAP
-                  * https://en.wikipedia.org/wiki/Insurance_Institute_for_Highway_Safety
-              * Types: Single Wall vs. Car to Car
-                  * Front Impact
-                  * Side Impact
-                      * Pole
-                      * Moveable Barrier
-                  * Rear Impact: Fuel and Whiplash are often biggest problems.
-              * Crash Test Dummies
-                  * 50% Male
-                  * THOR
-                  * THUMS
-      * Airbags (Front, Side, Head)
-    * After Crash
-      * Automatic Emergency Call
-      * V2V/I Collision Notifications
+
+* Active: avoid crashes
+  * Blind Spot Warning
+  * Lane Keeping
+  * Emergency Braking
+  * Emergency Lane Change
+  * Car Preconditioning
+  * Pedestrian Warning
+  * Cyclist Warning
+  * Collision Warning / Prevention
+* Passive: reduce effects of crashes
+  * During Crash
+    * Seat Belts (Lap Belt -> 3-point Belt)
+      * Belt Tensioners
+    * Head Restraint
+    * Crumple Zones
+    * Child Restraint Systems
+    * [Crash Tests](https://en.wikipedia.org/wiki/Crash_test)
+      * Standards
+        * https://en.wikipedia.org/wiki/Federal_Motor_Vehicle_Safety_Standards
+        * http://www.unece.org/trans/main/welcwp29.html
+        * https://en.wikipedia.org/wiki/Euro_NCAP
+        * https://en.wikipedia.org/wiki/Insurance_Institute_for_Highway_Safety
+      * Types: Single Wall vs. Car to Car
+        * Front Impact
+        * Side Impact
+          * Pole
+          * Moveable Barrier
+        * Rear Impact: Fuel and Whiplash are often biggest problems.
+      * Crash Test Dummies
+        * 50% Male
+        * THOR
+        * THUMS
+  * Airbags (Front, Side, Head)
+* After Crash
+  * Automatic Emergency Call
+  * V2V/I Collision Notifications
+
 ### [Traffic Control](https://en.wikipedia.org/wiki/Road_traffic_control)
-  * Outputs
-    * Information (voluntary)
-      * Radio / Digital Radio
-      * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
-        * http://www.daktronics.com/en-us/products/its-dynamic-message-signs
-      * Apps (See Apps)
-    * Recommendations and Guidance (voluntary)
-    * Regulation and Control (mandatory)
-    * Static (e.g. Yield Sign) or Dynamic (e.g. Traffic Signal)
-    * Global (e.g. Yield Sign) or Individual (e.g. GPS)
-  * Components
-    * Central Systems
-      * Human-Machine Interface
-    * Distributed Systems
-    * Communication Network
-      * Wired
-      * Wireless
-        * V2X
-          * [802.11p](https://en.wikipedia.org/wiki/IEEE_802.11p)
-      * TCP/IP
-      * Preserve Project
-        * https://www.preserve-project.eu
-    * Signs and Actuators
-    * Detection
-      * Vehicle (See Traffic Counts)
-      * Environmental Sensors
-        * Weather
-          * air temperature
-          * humidity
-          * visability (fog)
-          * wind speed
-          * precipitation
-          * road surface temperature
-          * road surface condition
-        * Light
-        * Noise
-        * Air Pollution
-          * Examples
-            * https://www.arb.ca.gov/adam/index.html
-            * https://airnow.gov
-            * http://www.umweltbundesamt.de/en/data/current-concentrations-of-air-pollutants-in-germany
-          * carbon dioxide
-          * sulfur oxides
-          * nitrogen oxides
-          * carbon monoxide
-          * volatile organic compounds
-          * particulates
-          * ozone
-    * Software
-      * Data Processing
-        * Aggregation
-        * Filtering
-        * Plausibility Checks
-      * [National Transportation Communications for Intelligent Transportation System Protocol](https://en.wikipedia.org/wiki/National_Transportation_Communications_for_Intelligent_Transportation_System_Protocol)
-        * http://www.ntcip.org
-  * Urban
-    * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road)) / [Junctions](https://en.wikipedia.org/wiki/Junction_(road))
-      * Types
-        * Non-Signalized
-          * Priortiy Intersection
-            * [Priority to the Right](https://en.wikipedia.org/wiki/Priority_to_the_right)
-            * [Yield Sign](https://en.wikipedia.org/wiki/Yield_sign) / [Stop Sign](https://en.wikipedia.org/wiki/Stop_sign)
-              * [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) Procedure
-                1. Determine ranks of different streams
-                2. Determine design hour traffic volume
-                3. Determine basic capacity of subordinate streams
-                4. Determine maximum effective capacity
-                5. Consider influence of mixed lanes
-                6. Assess level of service
-                * Ground Capacity = number of vehicles that can cross superordinate stream in 1 hour. Depends on rank of the stream, type and location of intersection, and volume of superordinate streams
-                * Effective Capacity = number of vehicles that can cross superordinate stream in 1 hour, including effects of queuing. Depends on ground capacity and probability of queues in superordinate streams
-          * [Roundabout](https://en.wikipedia.org/wiki/Roundabout)
-            * http://www.wimp.com/mythbusters-test-a-four-way-stop-vs-a-roundabout/
-              * 4-way Roundabout averages 460 crossings in 15 minutes (+20% vs. Stop)
-              * 4-way Stop: 378 crossings in 15 minutes; 391 crossings in 15 minutes; averages 384.5 crossings
-              * Traffic Cop: 289 crossings
-            * https://www.youtube.com/watch?v=ONacAiKXe-8
-        * Signalized
-          * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
-            * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
-              * [Traffic Signal Timing Manual](https://ops.fhwa.dot.gov/publications/fhwahop08024/) [ops.fhwa.dot.gov]
-              * Signalized Intersection Design Process
-                1. Find complementary signals: analyze the intersection geometry and determine conflict points (conflicting signals).
-                2. Define which signal belong to which phases and choose an appropriate sequence of phases.
-                3. Determine inter-green times based conflict mode, type, geometry, and speed.
-                4. Determine saturation flow based on number of lanes * adjustment factors
-                5. Determine traffic volumes per stream
-                6. Determine cycle time between 60 and 120 seconds
-                7. Calculate necessary green times including minimum green times.
-                8. Calculate available green time = cycle time - sum of intergreen times
-                9. Determine capacity of the intersection = sum of all capacities = green time for each flow * saturation flow for each flow from 4.
-                10. Determine degree of saturation (highest of all flows) for all movements and assign a quality.
-                11. Set the signal plan.
-              * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
-                * Requirements for Coordination
-                  * Distance between intersections < 750-1000m
-                  * Coordinated cycle time across all intersections
-                  * Progresssion speed = 0.85 * speed limit to speed limit => offset time
-                  * Level of saturation < 0.85 for coordinated stream and < 0.9 for other streams
-                  * More than one lane for through traffic
-                  * Dedicated left turn lanes
-                  * No non-signalized pedestrian crossings
-                  * Limited parking
-                  * Fixed distance between intersections (for 2-way coordination). Otherwise coordinate 1-way in AM and other way in PM
-                * Procedure
-                  1. Define a cyce time for coordination, highest wins
-                  2. Calculate signal timing plans for intersections
-                  3. Define schedule of green periods based on progression speed and offset. Add 4.5 seconds the beginning of the phase to disolve queues but not more so you don't encourage speeding.
-                  4. Assess quality
-                    * number of vehicles that do not have to stop / total number of vehicles >= 65% is good
-              * [Pedestrian Scramble](https://en.wikipedia.org/wiki/Pedestrian_scramble)
-              * Leading Pedestrian Interval
-              * [Green Wave](https://en.wikipedia.org/wiki/Green_wave) (DE: Grüne Welle)
-            * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
-        * [Grade Seperation](https://en.wikipedia.org/wiki/Grade_separation)
-      * Turns
-        * Types (varies across the USA, even within a city)
-          * Permissive (green/red circle)
-            * Shorter delay for all users
-            * Typical in Germany
-          * Protected (green/red arrow)
-            * Longer delay for all users
-            * Typical in The Netherlands
-        * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
-        * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
-        * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
-        * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
-    * Adaptive Traffic Control
-      * Inputs (excluding Vehicle and Environment (See Detection))
-        * time of day
-        * day of week
-        * season of year
-        * special events
-        * incidents
-        * traffic management
-      * Coverage
-        * Local
-          * EPICS
-        * Line (e.g. coordinated signals)
-        * Network
-          * Types
-            * Centralized
-            * Central-Decentralized (German Philosophy)
-              * Central controller sets bounds every 5-15 minutes
-              * Local controllers act within those bounds.
-            * Decentralized
-          * Procedure
-            1. Inputs
-            2. Traffic Demand Model
-            3. Traffic Flow Model
-            4. Traffic Impact Model
-            5. Control Model
-            6. Signal Program
-            7. Repeat from 3. until optimized
-            8. Outputs
-          * Examples
-            * Los Angeles Automated Traffic Surveillance and Control
-              * http://www.trafficinfo.lacity.org/about-atsac.php
-            * SCOOT (Split Cycle Offset Optimisation Technique)
-              * http://www.scoot-utc.com
-              * small steps every 5 minutes
-            * MOTION
-            * TRANSYT
-            * BALANCE
-            * Sydney Coordinated Adaptive Traffic System (SCATS)
-            * UTOPIA
-            * Optimized Policies for Adaptive Control (OPAC)
-      * Levels
-        * Strategic - long-term
-        * Tactical - mid-term
-        * Operational - short-term
-      * Online Modifications
-        * cycle time
-        * offset
-        * phase sequence
-        * number of phases
-        * split
-      * Types
-        * rule-based e.g. end a green phase early if queue on other stream builds up
-        * good local for a few critical intersections
-      * model-based
-        * good network for network w/ complex cause-effect relationships
-    * Public Transportation Prioritization (Signal Preemption)
-      1. detect vehicle / request signal
-      2. end current phase (or extend current phase)
-      3. begin public transportation phase
-      4. detect vehicle / release signal
-      5. resume normal operations
+
+* Outputs
+  * Information (voluntary)
+    * Radio / Digital Radio
+    * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
+      * http://www.daktronics.com/en-us/products/its-dynamic-message-signs
+    * Apps (See Apps)
+  * Recommendations and Guidance (voluntary)
+  * Regulation and Control (mandatory)
+  * Static (e.g. Yield Sign) or Dynamic (e.g. Traffic Signal)
+  * Global (e.g. Yield Sign) or Individual (e.g. GPS)
+* Components
+  * Central Systems
+    * Human-Machine Interface
+  * Distributed Systems
+  * Communication Network
+    * Wired
+    * Wireless
+      * V2X
+        * [802.11p](https://en.wikipedia.org/wiki/IEEE_802.11p)
+    * TCP/IP
+    * Preserve Project
+      * https://www.preserve-project.eu
+  * Signs and Actuators
+  * Detection
+    * Vehicle (See Traffic Counts)
+    * Environmental Sensors
+      * Weather
+        * air temperature
+        * humidity
+        * visability (fog)
+        * wind speed
+        * precipitation
+        * road surface temperature
+        * road surface condition
+      * Light
+      * Noise
+      * Air Pollution
+        * Examples
+          * https://www.arb.ca.gov/adam/index.html
+          * https://airnow.gov
+          * http://www.umweltbundesamt.de/en/data/current-concentrations-of-air-pollutants-in-germany
+        * carbon dioxide
+        * sulfur oxides
+        * nitrogen oxides
+        * carbon monoxide
+        * volatile organic compounds
+        * particulates
+        * ozone
+  * Software
+    * Data Processing
+      * Aggregation
+      * Filtering
+      * Plausibility Checks
+    * [National Transportation Communications for Intelligent Transportation System Protocol](https://en.wikipedia.org/wiki/National_Transportation_Communications_for_Intelligent_Transportation_System_Protocol)
+      * http://www.ntcip.org
+* Urban
+  * [Intersections](https://en.wikipedia.org/wiki/Intersection_(road)) / [Junctions](https://en.wikipedia.org/wiki/Junction_(road))
+    * Types
+      * Non-Signalized
+        * Priortiy Intersection
+          * [Priority to the Right](https://en.wikipedia.org/wiki/Priority_to_the_right)
+          * [Yield Sign](https://en.wikipedia.org/wiki/Yield_sign) / [Stop Sign](https://en.wikipedia.org/wiki/Stop_sign)
+            * [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) Procedure
+              * Determine ranks of different streams
+              * Determine design hour traffic volume
+              * Determine basic capacity of subordinate streams
+              * Determine maximum effective capacity
+              * Consider influence of mixed lanes
+              * Assess level of service
+              * Ground Capacity = number of vehicles that can cross superordinate stream in 1 hour. Depends on rank of the stream, type and location of intersection, and volume of superordinate streams
+              * Effective Capacity = number of vehicles that can cross superordinate stream in 1 hour, including effects of queuing. Depends on ground capacity and probability of queues in superordinate streams
+        * [Roundabout](https://en.wikipedia.org/wiki/Roundabout)
+          * http://www.wimp.com/mythbusters-test-a-four-way-stop-vs-a-roundabout/
+            * 4-way Roundabout averages 460 crossings in 15 minutes (+20% vs. Stop)
+            * 4-way Stop: 378 crossings in 15 minutes; 391 crossings in 15 minutes; averages 384.5 crossings
+            * Traffic Cop: 289 crossings
+          * https://www.youtube.com/watch?v=ONacAiKXe-8
+      * Signalized
+        * [Traffic Signals](https://en.wikipedia.org/wiki/Traffic_light)
+          * [Signal Timing](https://en.wikipedia.org/wiki/Signal_timing)
+            * [Traffic Signal Timing Manual](https://ops.fhwa.dot.gov/publications/fhwahop08024/) [ops.fhwa.dot.gov]
+            * Signalized Intersection Design Process
+              * Find complementary signals: analyze the intersection geometry and determine conflict points (conflicting signals).
+              * Define which signal belong to which phases and choose an appropriate sequence of phases.
+              * Determine inter-green times based conflict mode, type, geometry, and speed.
+              * Determine saturation flow based on number of lanes * adjustment factors
+              * Determine traffic volumes per stream
+              * Determine cycle time between 60 and 120 seconds
+              * Calculate necessary green times including minimum green times.
+              * Calculate available green time = cycle time - sum of intergreen times
+              * Determine capacity of the intersection = sum of all capacities = green time for each flow * saturation flow for each flow from 4.
+              * Determine degree of saturation (highest of all flows) for all movements and assign a quality.
+              * Set the signal plan.
+            * [Traffic Signal Control and Coordination](https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Traffic_controller_systems)
+              * Requirements for Coordination
+                * Distance between intersections < 750-1000m
+                * Coordinated cycle time across all intersections
+                * Progresssion speed = 0.85 * speed limit to speed limit => offset time
+                * Level of saturation < 0.85 for coordinated stream and < 0.9 for other streams
+                * More than one lane for through traffic
+                * Dedicated left turn lanes
+                * No non-signalized pedestrian crossings
+                * Limited parking
+                * Fixed distance between intersections (for 2-way coordination). Otherwise coordinate 1-way in AM and other way in PM
+              * Procedure
+                * Define a cyce time for coordination, highest wins
+                * Calculate signal timing plans for intersections
+                * Define schedule of green periods based on progression speed and offset. Add 4.5 seconds the beginning of the phase to disolve queues but not more so you don't encourage speeding.
+                * Assess quality
+                  * number of vehicles that do not have to stop / total number of vehicles >= 65% is good
+            * [Pedestrian Scramble](https://en.wikipedia.org/wiki/Pedestrian_scramble)
+            * Leading Pedestrian Interval
+            * [Green Wave](https://en.wikipedia.org/wiki/Green_wave) (DE: Grüne Welle)
+          * [Turn on Red](https://en.wikipedia.org/wiki/Turn_on_red)
+      * [Grade Seperation](https://en.wikipedia.org/wiki/Grade_separation)
+    * Turns
+      * Types (varies across the USA, even within a city)
+        * Permissive (green/red circle)
+          * Shorter delay for all users
+          * Typical in Germany
+        * Protected (green/red arrow)
+          * Longer delay for all users
+          * Typical in The Netherlands
+      * [Hook Turn](https://en.wikipedia.org/wiki/Hook_turn)
+      * [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
+      * [Michigan Left](https://en.wikipedia.org/wiki/Michigan_left)
+      * [Jughandle](https://en.wikipedia.org/wiki/Jughandle)
+  * Adaptive Traffic Control
+    * Inputs (excluding Vehicle and Environment (See Detection))
+      * time of day
+      * day of week
+      * season of year
+      * special events
+      * incidents
+      * traffic management
+    * Coverage
+      * Local
+        * EPICS
+      * Line (e.g. coordinated signals)
+      * Network
+        * Types
+          * Centralized
+          * Central-Decentralized (German Philosophy)
+            * Central controller sets bounds every 5-15 minutes
+            * Local controllers act within those bounds.
+          * Decentralized
+        * Procedure
+          * Inputs
+          * Traffic Demand Model
+          * Traffic Flow Model
+          * Traffic Impact Model
+          * Control Model
+          * Signal Program
+          * Repeat from 3. until optimized
+          * Outputs
+        * Examples
+          * Los Angeles Automated Traffic Surveillance and Control
+            * http://www.trafficinfo.lacity.org/about-atsac.php
+          * SCOOT (Split Cycle Offset Optimisation Technique)
+            * http://www.scoot-utc.com
+            * small steps every 5 minutes
+          * MOTION
+          * TRANSYT
+          * BALANCE
+          * Sydney Coordinated Adaptive Traffic System (SCATS)
+          * UTOPIA
+          * Optimized Policies for Adaptive Control (OPAC)
+    * Levels
+      * Strategic - long-term
+      * Tactical - mid-term
+      * Operational - short-term
+    * Online Modifications
+      * cycle time
+      * offset
+      * phase sequence
+      * number of phases
+      * split
+    * Types
+      * rule-based e.g. end a green phase early if queue on other stream builds up
+      * good local for a few critical intersections
+    * model-based
+      * good network for network w/ complex cause-effect relationships
+  * Public Transportation Prioritization (Signal Preemption)
+    * detect vehicle / request signal
+    * end current phase (or extend current phase)
+    * begin public transportation phase
+    * detect vehicle / release signal
+    * resume normal operations
 * [Freeway / Motorway](https://en.wikipedia.org/wiki/Controlled-access_highway)
   * Objectives: increase traffic flow, increase safety, reduce emissions, reduce time lost
   * Classification
@@ -391,7 +420,7 @@
     * Section Control Systems
       * [ATDM Program Brief: An Introduction to Active Transportation and Demand Management](https://ops.fhwa.dot.gov/publications/fhwahop12032/) [ops.fhwa.dot.gov]
       * Model-based Control INCA
-         * Minimize the Objective Function = probability of a crash × cost of a crash + value of time / speed
+        * Minimize the Objective Function = probability of a crash × cost of a crash + value of time / speed
       * [Variable Message Signs](https://en.wikipedia.org/wiki/Variable-message_sign)
         * Text
           * Traffic Dependent (automatic)
@@ -414,12 +443,14 @@
             * Build Speed Funnels
           * Display Message
   * [Interchange](https://en.wikipedia.org/wiki/Interchange_(road)) Control Systems
-      * [Ramp Metering](https://en.wikipedia.org/wiki/Ramp_meter)
-        * Purpose
-          * Reduce congestion on freeway by temporarly reducing demand
-          * Break up entering [Platoons](https://en.wikipedia.org/wiki/Platoon_(automobile))
-        * ALINEA
+    * [Ramp Metering](https://en.wikipedia.org/wiki/Ramp_meter)
+      * Purpose
+        * Reduce congestion on freeway by temporarly reducing demand
+        * Break up entering [Platoons](https://en.wikipedia.org/wiki/Platoon_(automobile))
+      * ALINEA
+
 ### Automatic Incident Detection
+
 * Incident: drop in speed/safety or any deviation from the norm
   * Characteristics
     * Severity
