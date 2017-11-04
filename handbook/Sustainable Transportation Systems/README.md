@@ -66,7 +66,7 @@ Commuter Rail | | 100000+ (Mumbai 6000/train * 30 trains/h) | Mid-High
   * [Car Sharing](https://en.wikipedia.org/wiki/Carsharing)
 * [Bike Share](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
 
-### Infrastructure
+### Types of Infrastructure
 
 Infrastructure | Private Operator | Public Operator
 --- | --- | ---
