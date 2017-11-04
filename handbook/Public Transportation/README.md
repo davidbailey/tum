@@ -18,7 +18,7 @@
 * Control Center
 * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
 
-### Modes
+### Public Transportation Modes
 
 * Bus (about 90 people/vehicle, up to 6,000 people/hour/line)
   * Trolly Bus
