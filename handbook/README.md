@@ -1,12 +1,9 @@
 # [Transportation](https://en.wikipedia.org/wiki/Transport)
 
-To generate a new copy of this handbook, run `cat */README.md > README.md && doctoc README.md`.
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Links](#links)
 - [Artificial Intelligence (Machine Learning)](#artificial-intelligence-machine-learning)
   - [Courses](#courses)
   - [Competitions](#competitions)
@@ -127,12 +124,10 @@ To generate a new copy of this handbook, run `cat */README.md > README.md && doc
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 * Safety and Security are a component of all sections
-
-## Links
-
-* Wikipedia => Page Title
-* Internal => Page Title [self]
-* Other => Page Title [example.com]
+* Link Formats
+  * Wikipedia => Page Title
+  * Internal => Page Title [self]
+  * Other => Page Title [example.com]
 
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning))
 
