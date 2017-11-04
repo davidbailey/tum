@@ -1,0 +1,11 @@
+sudo: true
+dist: trusty
+
+install:
+- gem install doctoc
+
+script:
+- cat handbook/*/README.md > handbook/README.md
+- doctoc handbook/README.md
+- git commit -a -m 'Update README.md (via Travis-CI) [ci skip]'
+- git push
