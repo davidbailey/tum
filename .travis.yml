@@ -1,6 +1,11 @@
 sudo: true
 dist: trusty
 
+notifications:
+  slack:
+    on_success: always
+    on_failure: always
+
 env:
   global:
     - secure: "Co3mkARdc+qmROA+5zxKbj0tGa+hiQDNJDt8RDNqr43xCRNh187ku73/b+lHXLDuzmeI7NNilw15U/uapj5auD2FHsmtJvNtqoydgjDISDuwizE1aL0G5dhrSkbg/cU8WOWpe/3cQW92ub1lSbuRclJOAfkxZh8qL9NTUPWn0JKm+AkbJVYFzhXUNUe/zcPcN+e4Gbb/IbB1kGsZgCfh9Vbm1GGno0iIjX2smydsF+UFs+ALBs6wQiSc8KoMNLof+KmYsORg99OHYXgQM89QxfaMZFcHTEiDDrsUax1BK49+F98BBLOd9SgB2pQtU3UeYLiv9IY4xN9pWokLx3qZfBB8Rj8fNyyFGnClDrgPWgO3KNmAMoXwmKFEprJPgUU462v+RyE+JdC62Clj6hsft8e9TvYqXol5nBrLkSWvwGSji0s8TzLDuFiwt0f1mXYM8/m1/DKjou9E21T6zYICyng+TrhBHzdjhDj0JBGHu2VQQVj7OmPeBhlse10YlUJ6mMA6Wz/sLjfLO20GaCE2NNjkZ7ypxa5HuIIncBEBDJ90MD5tZYJuBUjHPlLhi61zbjzI7YEA7TTrplsAmDvNC+PZeIk0POzvJE2OARNCp7fxvVHcLdWWMiuM34kG057vwW9Zwbo4uE8dlky+rb+y4fHC7QGsmb8k2p+jbOKiKSY="
