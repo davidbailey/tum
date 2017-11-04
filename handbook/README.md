@@ -2678,7 +2678,7 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * Shops and Houses
   * 40kph design speed, not signed speed
   * => safer, quieter, less pollution
-  * smaller lanes, special median, attention markings, raised crossings, roundabouts instead of lights
+  * smaller lanes, special median (stones), attention markings, raised crossings with pedestrian islands, roundabouts instead of lights
 
 ### [Vienna - Affordable and Inclusive Greatness](http://www.vienncouver.com/2017/04/vienna-affordable-and-inclusive-greatness/) [www.vienncouver.com]
 
