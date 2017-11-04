@@ -1,4 +1,3 @@
-
 ## [Intelligent Transportation Systems](https://en.wikipedia.org/wiki/Intelligent_transportation_system) (ITS)
 
 ### Objective
