@@ -1,4 +1,3 @@
-
 ## Materials
 
 ### Material Safety
