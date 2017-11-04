@@ -1,4 +1,3 @@
-
 ## Geodesy
 
 ### Geoinformation: where, what, how much, how, why
