@@ -181,6 +181,7 @@
   * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) [sites.google.com]
   * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) [introtodeeplearning.com]
   * [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) [www.youtube.com]
+  * [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [www.youtube.com]
   * Non-free
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) [www.coursera.org]
 * Reading Lists
@@ -282,6 +283,8 @@
 * Training Process
   * Forward pass
   * Backpropigate
+    * [Hebbian Theory](https://en.wikipedia.org/wiki/Hebbian_theory)
+      * "Cells that fire together wire together."
   * Update weights and biases
   * Repeat
 * Overfitting
