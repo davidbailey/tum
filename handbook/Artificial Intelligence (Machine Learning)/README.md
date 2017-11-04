@@ -35,7 +35,8 @@
     * [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
 * Unsupervised: unlabled data; e.g. clustering, density estimation
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
-* other types of learning: demonstrations, observations, transfer learning
+* [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
+* other types of learning: demonstrations, observations
 
 ### Neural Networks (Deep Learning)
 
@@ -64,7 +65,6 @@
   * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
   * [Caffe2](https://caffe2.ai) [caffe2.ai]
     * [Model Zoo](https://github.com/caffe2/caffe2/wiki/Model-Zoo) [github.com]
-      * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
 * Formats
   * [Open Neural Network Exchange](https://github.com/onnx/onnx) [github.com/onnx/onnx]
 * Example Networks
