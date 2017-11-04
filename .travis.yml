@@ -2,7 +2,7 @@ sudo: true
 dist: trusty
 
 install:
-- gem install doctoc
+- npm install -g doctoc
 
 script:
 - cat handbook/*/README.md > handbook/README.md
