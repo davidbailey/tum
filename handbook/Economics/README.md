@@ -1,4 +1,3 @@
-
 ## Economics
 
 ### [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics): individual firms, households
