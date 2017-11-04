@@ -133,3 +133,4 @@
   * Courtyard block structure
     * Seperates public space (noise/air pollution), from private space e.g. Maxvorstadt in Munich
     * parking inside?
+

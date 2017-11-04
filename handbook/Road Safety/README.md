@@ -71,3 +71,4 @@
   * Car Collision: car hits object
   * [Human Collision](https://en.wikipedia.org/wiki/Second_impact_(safety)): human hits car (seat belt or steering wheel)
   * Internal Collision: human's organs and tissues hit other internal structures
+

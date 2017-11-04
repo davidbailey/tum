@@ -13,3 +13,4 @@
   * Fixed, Variable, Step
 * Cost Escalation
   * percent of escalation correlates with length of project
+

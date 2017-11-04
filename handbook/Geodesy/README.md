@@ -245,3 +245,4 @@
 * Symbols - clear and precise
 * No purposeless details
 * [Design principles for cartography](https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/) [blogs.esri.com]
+
