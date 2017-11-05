@@ -13,10 +13,12 @@ env:
 
 install:
 - npm install -g doctoc
+- gem install mdl
 
 script:
 - cat handbook/*/README.md > handbook/README.md
 - doctoc handbook/README.md
+- mdl handbook/README.md > handbook/mdl.txt
 - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
 - git config credential.helper "store --file=.git/credentials"
 - git commit -a -m 'Update README.md (via Travis-CI) [ci skip]'
