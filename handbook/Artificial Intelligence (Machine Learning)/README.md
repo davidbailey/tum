@@ -78,6 +78,7 @@
   * [Training a Neural Network ATARI Pong agent with Policy Gradients from raw pixels](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5) [gist.github.com]
   * [Demo of running NNs across different frameworks](https://github.com/ilkarman/DeepLearningFrameworks) [github.com]
   * [PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr) [github.com]
+  * [A Neural Network Playground](http://playground.tensorflow.org) [playground.tensorflow.org]
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
