@@ -16,7 +16,37 @@
 * Stops/Stations
   * [Last Mile](https://en.wikipedia.org/wiki/Last_mile_(transportation))
 * Control Center
+* Communication
+  * Generations
+    * Telephone
+    * Digital Radio
+    * Intermodal Transport Control Systems
+      * Real-time localization of all vehicles
+      * Continuous comparison of real-time vehicle location versus schedule
+  * Vehicle On Board Unit
+  * Incident Management
 * Service (Maintenance, Vehicle Parking) and Supply (Fuel)
+* Passenger Information
+  * Types
+    * Pre-trip
+      * Navigational Signage e.g. to station
+      * Routing, Scheduling, Available Modes and Cost
+        * Network Map: Real Geometry or False Geometry
+        * Timetables: Online or Printed
+        * Apps
+    * On-trip
+      * Navigational Signage e.g. stops
+      * Upcoming Stops
+      * Real-time Information
+      * Connections
+    * Post-trip
+      * Navigational Signage e.g. to activities
+  * focus information on group II, III, IV passengers
+  * Recommendations
+  * Delays
+  * Historical Data
+  * must be accessible
+
 
 ### Public Transportation Modes
 
