@@ -74,6 +74,7 @@
   * Subway / Metro (Rail Rapid Transit, Light Rail Rapid Transit, Rubber-tired Rapid Transit)
   * Regional Rail
   * Monorail
+  * [Average schedule speed: How does Metro compare?](https://ggwash.org/view/4524/average-schedule-speed-how-does-metro-compare) [ggwash.org]
 * Automated Guided Transit
 
 ### Right-of-Way
