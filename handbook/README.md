@@ -97,6 +97,7 @@
   - [Improvements](#improvements)
   - [Scheduling](#scheduling)
   - [Stakeholders](#stakeholders)
+  - [Demand](#demand)
   - [Vision Zero](#vision-zero)
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
   - [Traffic Collisions](#traffic-collisions)
@@ -2518,6 +2519,13 @@ Network Map | simple | simple | complex, no map
 
 * Operators
 * Management
+
+### Demand
+* What do you need for a metro system? money, population (total), housing (density)
+* 7 people/acre => bus route 1730 people / km2
+* 30 people/acre => lrt route 7413 people / km2
+* 45 people/acre => metro 11120 people / km2
+* [Why don't more U.S. cities have metro systems like New York?](https://www.youtube.com/watch?v=bLtmJHHqbh8) [www.youtube.com]
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
