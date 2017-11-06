@@ -98,6 +98,7 @@
   - [Scheduling](#scheduling)
   - [Stakeholders](#stakeholders)
   - [Demand](#demand)
+  - [Timetable](#timetable)
   - [Vision Zero](#vision-zero)
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
   - [Traffic Collisions](#traffic-collisions)
@@ -2393,7 +2394,10 @@ Network Map | simple | simple | complex, no map
     * e.g. Timed-transfer Stations
   * Schedule Coordination
     * uniform headway - easy to remember, balanced passenger loads -> less bunching
-    * timed transfers: arrive together, wait a bit, depart together
+    * timed transfers ((Integrated) Synchronized Timetable): arrive together, wait a bit, depart together
+      * when vehicles from two differnt lines have matching frequencies (typically 1 to 12 trains/hour) and meet each other across a platform at a certain station within 30 seconds to 5 minutes of each other. ticket/fare integation too.
+      * Advantages: high geographical network coverage, reduced travel times due to optimized connections, simpler timetable, improved punctuality, continuous operation, reduction of empty trips
+      * Disadvantages: high long-term investments in infrastructure, infrastructure is not used to capacity, high peak traffic at nodes, increase in travel time for some trips, requires prioritization of people over freight
     * short2short: no problem
     * long2short: no problem
     * short2long: publish timetable
@@ -2521,11 +2525,27 @@ Network Map | simple | simple | complex, no map
 * Management
 
 ### Demand
+
 * What do you need for a metro system? money, population (total), housing (density)
 * 7 people/acre => bus route 1730 people / km2
 * 30 people/acre => lrt route 7413 people / km2
 * 45 people/acre => metro 11120 people / km2
 * [Why don't more U.S. cities have metro systems like New York?](https://www.youtube.com/watch?v=bLtmJHHqbh8) [www.youtube.com]
+
+### Timetable
+
+* Customer / Passenger
+  * Quality = Headway / Travel Time
+    * < 0.5 = competitive w/ private transportation
+    * 2-3 = transportation for basic social service
+  * Travel Time = Measured Travel Time + Dwell Time + Congestion
+    * monitor and provide real-time updates
+  * Transfers
+    * Hierarchy of routes
+    * Minimize wait time
+    * Reliability
+* Vehicles
+* Drivers
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
@@ -2620,6 +2640,7 @@ Network Map | simple | simple | complex, no map
 * typical reasons for transportation projects (in order): efficency, safety, money, environment
 * technical and orgazational structure for transport: infrastructure, vehicles, rules
 * Elements: Nodes (important for capacity/performance) and Links
+* Transport Offer: network + services
 * Qualities
   * Connexity: are the points connected or not?
   * Connectivity: quality of interconnection = number of links / number of nodes. cul-de-sacs are poor connectivity
