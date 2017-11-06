@@ -97,7 +97,7 @@
   - [Fares](#fares)
   - [Improvements](#improvements)
   - [Scheduling](#scheduling)
-- [Road Safety](#road-safety)
+  - [Stakeholders](#stakeholders)
   - [Vision Zero](#vision-zero)
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
   - [Traffic Collisions](#traffic-collisions)
@@ -2303,6 +2303,7 @@ Network Map | simple | simple | complex, no map
     * can branch
   * poor connectivity, terminals in city = poor use of space
   * w/ Loop
+  * [Der MVV Netzplan - Eine Zeitreise von 1972 bis heute](https://www.youtube.com/watch?v=N0OGqjPS47E) [www.youtube.com]
 * Diametrical
   * radial, but through city
   * balance demand on both sides, unbalanced demand city to suburb
@@ -2386,16 +2387,30 @@ Network Map | simple | simple | complex, no map
 * Currency
   * Cash: simple, easy, security risk, time-consuming
   * Prepaid
-    * Types: single-ride, day, week, month, stored value, senior, disabled, low-income
-    * Device: card, phone
+    * Types: single-ride, multi-trip ticket, day, week, month, year, stored value, group, student, senior, disabled, low-income, event ticket
+      * [Automatic Fare Collection](https://en.wikipedia.org/wiki/Automated_fare_collection)
+
+    * Medium
+      * [Proximity Card](https://en.wikipedia.org/wiki/Proximity_card)
+        * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
+        * [OV-chipkaart](https://en.wikipedia.org/wiki/OV-chipkaart)
+      * [Magnetic Stripe Card](https://en.wikipedia.org/wiki/Magnetic_stripe_card)
+      * Paper Ticket (printed from [ticket-vending machine](https://en.wikipedia.org/wiki/Ticket_machine) or at home)
+      * Apps
+      * No Ticket (Bus)
   * Method
     * Self-service e.g. Germany -> random checks
     * Gates
   * Structure
-    * flat-fare
-    * distance-based
-  * Transfers - free or not
+    * Flat-fare - Pros: simple; Cons: transfers are expensive
+    * Distance-based - Pros: fair; Cons: can be very confusing
+      * Check-In/Check-Out e.g. BART, Oyster Card (TfL)
+      * Zone-based - Pros: fair; Cons: can be confusing
+    * Time-based - Cons: delays affect fares
+  * (Inter-agency) transfers e.g. [Integrated Ticketing](https://en.wikipedia.org/wiki/Integrated_ticketing)
   * Off-peak discount
+  * Class: 1st, 2nd
+  * Different fare for express service?
 
 ### Improvements
 
@@ -2456,6 +2471,19 @@ Network Map | simple | simple | complex, no map
   * Choice duty roster
   * Individual duty roster
 
+### Stakeholders
+
+* Customers
+
+| Group | Familiar with Area | Familiar with System | Description |
+| ----- | ------------------ | -------------------- | ----------- |
+| I | Yes | Yes | Frequent passenger on known route |
+| II | No | Yes | Frequent passenger on new route/city |
+| III | Yes | No | Occasional passenger on popular route |
+| IV | No | No | Occasional passenger in new area |
+
+* Operators
+* Management
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
