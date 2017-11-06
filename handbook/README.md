@@ -101,7 +101,7 @@
   - [Vision Zero](#vision-zero)
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
   - [Traffic Collisions](#traffic-collisions)
-- [Sustainable Transportation Systems](#sustainable-transportation-systems)
+  - [Road Safety Audits](#road-safety-audits)
   - [Modes](#modes)
   - [Renting / Sharing](#renting--sharing)
   - [Types of Infrastructure](#types-of-infrastructure)
@@ -2256,6 +2256,7 @@
   * Subway / Metro (Rail Rapid Transit, Light Rail Rapid Transit, Rubber-tired Rapid Transit)
   * Regional Rail
   * Monorail
+  * [Average schedule speed: How does Metro compare?](https://ggwash.org/view/4524/average-schedule-speed-how-does-metro-compare) [ggwash.org]
 * Automated Guided Transit
 
 ### Right-of-Way
@@ -2595,6 +2596,11 @@ Network Map | simple | simple | complex, no map
   * [Human Collision](https://en.wikipedia.org/wiki/Second_impact_(safety)): human hits car (seat belt or steering wheel)
   * Internal Collision: human's organs and tissues hit other internal structures
 
+### Road Safety Audits
+* https://safety.fhwa.dot.gov/rsa/
+* http://toolkit.irap.org
+* http://www.rsatoolkit.com.au
+* http://www2.gov.bc.ca/gov/content/transportation/driving-and-cycling/road-safety-rules-and-consequences/publications-legislation-and-data/bc-community-road-safety-toolkit
 ## [Sustainable](https://en.wikipedia.org/wiki/Sustainable_transport) [Transportation Systems](https://en.wikipedia.org/wiki/Transport_network)
 
 * derived from sustainable forestry ([Hans Carl von Carlowitz](https://en.wikipedia.org/wiki/Hans_Carl_von_Carlowitz))
