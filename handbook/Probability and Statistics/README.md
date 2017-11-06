@@ -122,6 +122,9 @@
           * Type II: incorrectly retaining a false null hypothesis (false negative)
   * [Nonparametric Tests](https://en.wikipedia.org/wiki/Nonparametric_statistics)
   * Distributions
+    * Properties
+      * [Efficiency](https://en.wikipedia.org/wiki/Efficiency_(statistics))
+      * [Consistency](https://en.wikipedia.org/wiki/Consistency_(statistics))
     * Random Variables
     * Probability Distribution (Probability Mass Function)
     * Cummulative Distribution Function
