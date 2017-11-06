@@ -4,6 +4,7 @@
 * typical reasons for transportation projects (in order): efficency, safety, money, environment
 * technical and orgazational structure for transport: infrastructure, vehicles, rules
 * Elements: Nodes (important for capacity/performance) and Links
+* Transport Offer: network + services
 * Qualities
   * Connexity: are the points connected or not?
   * Connectivity: quality of interconnection = number of links / number of nodes. cul-de-sacs are poor connectivity
