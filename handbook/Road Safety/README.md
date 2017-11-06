@@ -40,6 +40,13 @@
   * Sidewalks and protected bike lanes
   * Painted crosswalks and signals are an accessibility measure, not a safety measure because they do not prevent cars from hitting people. People do not have to slow or stop.
 * Communication is key: messages must speak to people, not engineers
+* http://www.pedbikesafe.org/BIKESAFE/index.cfm
+* http://www.trafikverket.se/en/startpage/operations/Operations-road/vision-zero-academy/Vision-Zero-and-ways-to-work/strada/
+* http://www.visionzeroinitiative.com/
+* http://www.rsa.ie/RSA/Road-Safety/Campaigns/Current-road-safety-campaigns/
+* http://visionzero.lacity.org/resources/#maps_data
+* https://www.pdx.edu/ibpi/relevant-research
+* https://dnproulx.wordpress.com/2014/12/03/slowing-down-traffic-can-actually-move-more-people/
 
 ### Systematic Safety: Humans are vulnerable and make mistakes
 
