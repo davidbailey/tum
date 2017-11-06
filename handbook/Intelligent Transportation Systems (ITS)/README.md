@@ -104,6 +104,9 @@
   * Movement Planning - Where am I going?
   * Driver State
     * Gaze: head and eyes
+    * [Pose](https://en.wikipedia.org/wiki/Pose_(computer_vision))
+      * [3D Pose Estimation](https://en.wikipedia.org/wiki/3D_pose_estimation)
+
 * Inputs (Sensors)
   * Internal
     * Car Area Network (CAN)
