@@ -79,3 +79,8 @@
   * [Human Collision](https://en.wikipedia.org/wiki/Second_impact_(safety)): human hits car (seat belt or steering wheel)
   * Internal Collision: human's organs and tissues hit other internal structures
 
+### Road Safety Audits
+* https://safety.fhwa.dot.gov/rsa/
+* http://toolkit.irap.org
+* http://www.rsatoolkit.com.au
+* http://www2.gov.bc.ca/gov/content/transportation/driving-and-cycling/road-safety-rules-and-consequences/publications-legislation-and-data/bc-community-road-safety-toolkit
