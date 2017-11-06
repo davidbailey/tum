@@ -866,8 +866,34 @@
   * [Automatic Train Control](https://en.wikipedia.org/wiki/Automatic_train_control)
   * [European Rail Traffic Management System](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
     * [European Train Control System](https://en.wikipedia.org/wiki/European_Train_Control_System)
+      * Train w/ intelligence
+        * European Vital Computer (EVC)
+          * Subset 26
+            * http://www.era.europa.eu/Document-Register/Pages/SUBSET-026v300.aspx
+          * Radar
+          * Antenna to read EuroBallses
+      * EuroBallses
+      * openETCS
+        * http://openetcs.org
+        * https://github.com/openetcs
+        * https://en.wikipedia.org/wiki/Requirements_Modeling_Framework
+          * https://en.wikipedia.org/wiki/Requirements_Interchange_Format
+        * https://en.wikipedia.org/wiki/V-Model_(software_development)
+        * ERTMSFormalSpecs
     * [GSM-R](https://en.wikipedia.org/wiki/GSM-R)
   * http://w3.usa.siemens.com/mobility/us/en/rail-solutions/rail-automation/train-control-system/Pages/train-control-system.aspx
+  * Other Equpitment
+    * (Balise)[https://en.wikipedia.org/wiki/Balise]
+      * (Transmission balise-locomotive)[https://en.wikipedia.org/wiki/Transmission_balise-locomotive#TBL_1]
+      * (Eurobalise)[https://en.wikipedia.org/wiki/Eurobalise]
+        * Fixed Data
+        * Transparent Data Balise
+        * Euroloop
+    * (Crocodile)[https://en.wikipedia.org/wiki/Crocodile_(train_protection_system)]
+    * (Track Circuits)[https://en.wikipedia.org/wiki/Track_circuit]
+    * (Alex Counters)[https://en.wikipedia.org/wiki/Axle_counter]
+    * Software
+      * (EN50128)[https://de.wikipedia.org/wiki/EN_50128]
 * Passenger
   * [Inter-city Rail](https://en.wikipedia.org/wiki/Inter-city_rail)
     * [High-speed Rail](https://en.wikipedia.org/wiki/High-speed_rail)
@@ -2453,6 +2479,13 @@ Network Map | simple | simple | complex, no map
   * Sidewalks and protected bike lanes
   * Painted crosswalks and signals are an accessibility measure, not a safety measure because they do not prevent cars from hitting people. People do not have to slow or stop.
 * Communication is key: messages must speak to people, not engineers
+* http://www.pedbikesafe.org/BIKESAFE/index.cfm
+* http://www.trafikverket.se/en/startpage/operations/Operations-road/vision-zero-academy/Vision-Zero-and-ways-to-work/strada/
+* http://www.visionzeroinitiative.com/
+* http://www.rsa.ie/RSA/Road-Safety/Campaigns/Current-road-safety-campaigns/
+* http://visionzero.lacity.org/resources/#maps_data
+* https://www.pdx.edu/ibpi/relevant-research
+* https://dnproulx.wordpress.com/2014/12/03/slowing-down-traffic-can-actually-move-more-people/
 
 ### Systematic Safety: Humans are vulnerable and make mistakes
 
