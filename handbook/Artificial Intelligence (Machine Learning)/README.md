@@ -206,6 +206,21 @@
         * ± 2 Standard Errors => 95% Confidence Interval
     * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
 
+### [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice)
+* [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+  * [Independence of Irrelevant Alternatives](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives)
+  * [Independent and Identically Distributed Random Variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
+  * [Logit](https://en.wikipedia.org/wiki/Logit)
+    * [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) [Logistic Function](https://en.wikipedia.org/wiki/Logistic function)
+  * [Mixed Logit](https://en.wikipedia.org/wiki/Mixed_logit)
+  * [Generalized Extreme Value Distribution](https://en.wikipedia.org/wiki/Generalized_extreme_value_distribution)
+  * [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+* [Probit Model](https://en.wikipedia.org/wiki/Probit_model)
+  * No [Closed-form Expression](https://en.wikipedia.org/wiki/Closed-form_expression)
+* References
+  * [Discrete Choice Methods with Simulation](https://eml.berkeley.edu/books/choice2.html) [eml.berkeley.edu]
+
+
 ### [Pattern Recognition](https://en.wikipedia.org/wiki/Pattern_recognition)
 
 * [K-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
