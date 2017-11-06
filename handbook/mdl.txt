@@ -2580,9 +2580,8 @@ handbook/README.md:3146: MD004 Unordered list style
 handbook/README.md:3149: MD004 Unordered list style
 handbook/README.md:3150: MD004 Unordered list style
 handbook/README.md:3155: MD004 Unordered list style
-handbook/README.md:3160: MD004 Unordered list style
-handbook/README.md:3161: MD004 Unordered list style
-handbook/README.md:3162: MD004 Unordered list style
+handbook/README.md:3156: MD004 Unordered list style
+handbook/README.md:3157: MD004 Unordered list style
 handbook/README.md:3128: MD004 Unordered list style
 handbook/README.md:3129: MD004 Unordered list style
 handbook/README.md:3131: MD004 Unordered list style
@@ -2602,31 +2601,27 @@ handbook/README.md:3145: MD004 Unordered list style
 handbook/README.md:3147: MD004 Unordered list style
 handbook/README.md:3148: MD004 Unordered list style
 handbook/README.md:3151: MD004 Unordered list style
-handbook/README.md:3154: MD004 Unordered list style
 handbook/README.md:3152: MD004 Unordered list style
 handbook/README.md:3153: MD004 Unordered list style
-handbook/README.md:3156: MD004 Unordered list style
-handbook/README.md:3157: MD004 Unordered list style
+handbook/README.md:3154: MD004 Unordered list style
 handbook/README.md:3158: MD004 Unordered list style
+handbook/README.md:3172: MD004 Unordered list style
 handbook/README.md:3159: MD004 Unordered list style
 handbook/README.md:3163: MD004 Unordered list style
-handbook/README.md:3177: MD004 Unordered list style
+handbook/README.md:3160: MD004 Unordered list style
+handbook/README.md:3161: MD004 Unordered list style
+handbook/README.md:3162: MD004 Unordered list style
 handbook/README.md:3164: MD004 Unordered list style
-handbook/README.md:3168: MD004 Unordered list style
 handbook/README.md:3165: MD004 Unordered list style
+handbook/README.md:3171: MD004 Unordered list style
 handbook/README.md:3166: MD004 Unordered list style
 handbook/README.md:3167: MD004 Unordered list style
+handbook/README.md:3168: MD004 Unordered list style
 handbook/README.md:3169: MD004 Unordered list style
 handbook/README.md:3170: MD004 Unordered list style
-handbook/README.md:3176: MD004 Unordered list style
-handbook/README.md:3171: MD004 Unordered list style
-handbook/README.md:3172: MD004 Unordered list style
 handbook/README.md:3173: MD004 Unordered list style
 handbook/README.md:3174: MD004 Unordered list style
 handbook/README.md:3175: MD004 Unordered list style
-handbook/README.md:3178: MD004 Unordered list style
-handbook/README.md:3179: MD004 Unordered list style
-handbook/README.md:3180: MD004 Unordered list style
 handbook/README.md:886: MD011 Reversed link syntax
 handbook/README.md:887: MD011 Reversed link syntax
 handbook/README.md:888: MD011 Reversed link syntax
@@ -2948,11 +2943,10 @@ handbook/README.md:3032: MD013 Line length
 handbook/README.md:3035: MD013 Line length
 handbook/README.md:3036: MD013 Line length
 handbook/README.md:3040: MD013 Line length
-handbook/README.md:3153: MD013 Line length
-handbook/README.md:3161: MD013 Line length
+handbook/README.md:3156: MD013 Line length
+handbook/README.md:3162: MD013 Line length
 handbook/README.md:3167: MD013 Line length
-handbook/README.md:3172: MD013 Line length
-handbook/README.md:3173: MD013 Line length
+handbook/README.md:3168: MD013 Line length
 handbook/README.md:795: MD034 Bare URL used
 handbook/README.md:796: MD034 Bare URL used
 handbook/README.md:797: MD034 Bare URL used
