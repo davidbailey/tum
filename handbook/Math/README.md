@@ -7,14 +7,15 @@
 
 ![Schematic depiction of the matrix product AB of two matrices A and B.](https://upload.wikimedia.org/wikipedia/commons/e/eb/Matrix_multiplication_diagram_2.svg)
 
-### Calculus
-* First Derivitave
+### [Calculus](https://en.wikipedia.org/wiki/Calculus)
+* [Derivitave](https://en.wikipedia.org/wiki/Derivative)
   * [Partial Derivitave](https://en.wikipedia.org/wiki/Partial_derivative)
   * [Gradient](https://en.wikipedia.org/wiki/Gradient)
     * [numpy.gradient](https://docs.scipy.org/doc/numpy/reference/generated/numpy.gradient.html) [docs.scipy.org])
   * [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
-* Second Derivitave: [Hessian](https://en.wikipedia.org/wiki/Hessian_matrix)
-* [Directional Derivitave](https://en.wikipedia.org/wiki/Directional_derivative)
+  * [Hessian](https://en.wikipedia.org/wiki/Hessian_matrix): Second Derivitave
+  * [Directional Derivitave](https://en.wikipedia.org/wiki/Directional_derivative)
+* [Integral](https://en.wikipedia.org/wiki/Integral)
 
 ### [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
