@@ -145,6 +145,9 @@
     * CIFAR-10: small labeled images
     * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html) [archive.ics.uci.edu]
   * Output
+    * Linear Units for [Gaussian](https://en.wikipedia.org/wiki/Normal_distribution) Output Distributions y = mx + b | h = Wᵀx + b
+    * Sigmoid Units for [Bernoulli](https://en.wikipedia.org/wiki/Bernoulli_distribution) Output Distributions
+    * Softmax Units for [Multinoulli](https://en.wikipedia.org/wiki/Categorical_distribution) Output Distributions
     * Class e.g. Cat, Dog
     * Probability
     * Segmentation => Heatmap of probabilities
