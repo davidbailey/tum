@@ -102,6 +102,7 @@
   - [Stakeholders](#stakeholders)
   - [Demand](#demand)
   - [Timetable](#timetable)
+  - [Surveys](#surveys)
   - [Vision Zero](#vision-zero)
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
   - [Traffic Collisions](#traffic-collisions)
@@ -2597,6 +2598,15 @@ Network Map | simple | simple | complex, no map
     * Census Data
     * Safety Data
   * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
+
+### Surveys
+
+* Self-administered
+  * Online
+  * Mail
+* Interview
+  * In-person
+  * Telephone
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
