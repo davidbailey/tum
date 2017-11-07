@@ -1,5 +1,20 @@
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
+### Measures
+* [Traffic Calming 101](https://www.pps.org/reference/livememtraffic/) [www.pps.org]
+  * Diagonal Parking
+  * Changing [One-Way Streets](https://en.wikipedia.org/wiki/One-way_traffic) to Two-Way
+  * Widening [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)/Narrowing [Streets](https://en.wikipedia.org/wiki/Street) and Traffic [Lanes](https://en.wikipedia.org/wiki/Lane)
+  * [Bulbs – Chokers – Neckdowns](https://en.wikipedia.org/wiki/Curb_extension)
+  * [Chicanes](https://en.wikipedia.org/wiki/Chicane)
+  * [Roundabouts](https://en.wikipedia.org/wiki/Roundabout)
+  * Traffic Circles (mini-roundabouts)
+  * Raised [Medians](https://en.wikipedia.org/wiki/Median_strip)
+  * Tight Corner Curbs
+  * Diverters
+  * [Road Humps, Speed Tables, and Cushions](https://en.wikipedia.org/wiki/Speed_bump)
+  * [Rumble Strips](https://en.wikipedia.org/wiki/Rumble_strip) and Other Surface Treatments
+
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
 
 * Origin: [September 3, 1967 (Dagen H)](https://en.wikipedia.org/wiki/Dagen_H)
