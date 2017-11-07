@@ -90,6 +90,7 @@
     ![Six Degrees of Freedom](https://upload.wikimedia.org/wikipedia/commons/f/fa/6DOF_en.jpg)
 
     * [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
+      * [GraphSLAM](https://en.wikipedia.org/wiki/GraphSLAM)
     * [Object Detection](https://en.wikipedia.org/wiki/Object_detection)
       * [Scale-invariant feature transform](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
         * [Kanade–Lucas–Tomasi feature tracker](https://en.wikipedia.org/wiki/Kanade–Lucas–Tomasi_feature_tracker)
