@@ -51,6 +51,7 @@
   * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) [introtodeeplearning.com]
   * [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) [www.youtube.com]
   * [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [www.youtube.com]
+  * [Theories of Deep Learning (STATS 385)](https://stats385.github.io) [stats385.github.io]
   * Non-free
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) [www.coursera.org]
 * Reading Lists
