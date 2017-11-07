@@ -151,6 +151,10 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * Bicycles cost less (social mobility)
   * Bicycles don't take up space or divide communities
 * Germany: 4th grade bicycle test with police as part of school
+* [Economic Impacts from Bicycle and Pedestrian Street Improvements](https://www.youtube.com/watch?v=nR74b2cidKI) [www.youtube.com]
+  * Depends on scale of the project, type of facility, types of benefits - transport, property values, economic development, ecosystem services, health, recreation, aesthetics, safety
+  * Perceptions - not so good, reality - good
+  * Property values = depend on ease of access to good bike facility, extensiveness of network
 * How to promote cycling
   * Routing
     * Design a Bike Network
