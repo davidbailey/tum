@@ -1777,8 +1777,6 @@
     * [Continious](https://en.wikipedia.org/wiki/Continuous_signal) e.g. velocity of a vehicle
   * [Deterministic](https://en.wikipedia.org/wiki/Deterministic_system) =  no randomness
   * [Stochastic](https://en.wikipedia.org/wiki/Stochastic) = randomly determined
-  * [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty)
-    * [Wait/Walk Dilemma](https://en.wikipedia.org/wiki/Wait/walk_dilemma)
 * Descriptive Statistics: summary and description
   * Visual Data Analysis
     * Good Practices
@@ -1867,10 +1865,12 @@
   * Visualizations
     * [Tree Diagrams](https://en.wikipedia.org/wiki/Tree_diagram_(probability_theory))
     * X-Y Plots
-* Sources of Uncertainty
-  * Inherent stochasticity
-  * Incomplete observability
-  * Incomplete modeling
+  * [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty)
+    * [Wait/Walk Dilemma](https://en.wikipedia.org/wiki/Wait/walk_dilemma)
+    * Sources of Uncertainty
+      * Inherent stochasticity
+      * Incomplete observability
+      * Incomplete modeling
 * [Analysis of Variance](https://en.wikipedia.org/wiki/Analysis_of_variance) [ANOVA]
 * [Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing): is the difference by chance or not?
   * [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) (H₀): no relationship between the two
