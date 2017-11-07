@@ -219,6 +219,7 @@
   * No [Closed-form Expression](https://en.wikipedia.org/wiki/Closed-form_expression)
 * References
   * [Discrete Choice Methods with Simulation](https://eml.berkeley.edu/books/choice2.html) [eml.berkeley.edu]
+  * [Discrete Dependent Variable Models](http://onlinepubs.trb.org/Onlinepubs/nchrp/cd-22/v2chapter5.html) [onlinepubs.trb.org]
 
 
 ### [Pattern Recognition](https://en.wikipedia.org/wiki/Pattern_recognition)
