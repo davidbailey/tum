@@ -1904,6 +1904,7 @@
 
 * [Duality](https://en.wikipedia.org/wiki/Duality_(optimization))
   * [Lagrangian](https://en.wikipedia.org/wiki/Lagrange_multiplier)
+    * [Karush–Kuhn–Tucker Conditions](https://en.wikipedia.org/wiki/Karush–Kuhn–Tucker_conditions)
 
 ### Unconstrained vs. Constrained Optimization
 
@@ -1916,6 +1917,7 @@
 ### Continious vs. Discrete Optimization
 
 * [Continious Optimization](https://en.wikipedia.org/wiki/Continuous_optimization)
+  * [Lipschitz Continuity](https://en.wikipedia.org/wiki/Lipschitz_continuity)
 * [Discrete Optimization](https://en.wikipedia.org/wiki/Discrete_optimization)
   * [Integer](https://en.wikipedia.org/wiki/Integer_programming) [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming)
   * [Combinational Optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)
