@@ -30,6 +30,7 @@
   - [Global Navigation Satellite System (GNSS)](#global-navigation-satellite-system-gnss)
   - [Design](#design)
 - [Governance](#governance)
+  - [Laws and Regulations](#laws-and-regulations)
   - [Law Enforcement](#law-enforcement)
 - [Infrastructure](#infrastructure)
   - [Road Transport](#road-transport)
@@ -747,6 +748,13 @@
 * [Design principles for cartography](https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/) [blogs.esri.com]
 
 ## Governance
+
+### Laws and Regulations
+
+* Germany
+  * [Verordnung über den Bau und Betrieb der Straßenbahnen](https://en.wikipedia.org/wiki/Verordnung_über_den_Bau_und_Betrieb_der_Straßenbahnen)
+  * [Eisenbahn-Bau- und Betriebsordnung](https://en.wikipedia.org/wiki/Eisenbahn-Bau-_und_Betriebsordnung)
+
 
 ### Law Enforcement
 
