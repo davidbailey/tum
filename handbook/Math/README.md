@@ -1,10 +1,7 @@
 ## Math
 
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
-* Variables
-    * Scalar a
-    * Vector *a*
-    * Matrix *A*
+* Variables: Scalar a, Vector **a**, Matrix **A**
 
 ### [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
