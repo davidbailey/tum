@@ -1700,7 +1700,11 @@
 ## Math
 
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+
 * Variables: Scalar a, Vector **a**, Matrix **A**
+* [Matrix Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
+
+![Schematic depiction of the matrix product AB of two matrices A and B.](https://upload.wikimedia.org/wikipedia/commons/e/eb/Matrix_multiplication_diagram_2.svg)
 
 ### [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
