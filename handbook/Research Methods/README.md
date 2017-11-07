@@ -6,10 +6,14 @@
   ![pafka2014](http://datascience.la/wp-content/uploads/2014/09/data-science-workflow-szilard.png)
   * [Sample, Explore, Modify, Model, Assess](https://en.wikipedia.org/wiki/SEMMA) (SEMMA)
 * Volume, Velocity, Variety
-* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-  * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
 * Data Sources
   * Surveys
+    * Self-administered
+      * Online
+      * Mail
+    * Interview
+      * In-person
+      * Telephone
     * Observations are usually more accurate
     * Helps understand why, not just what
     * Often miss special cases
@@ -25,15 +29,6 @@
   * Census Data
   * Safety Data
 * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
-
-### Surveys
-
-* Self-administered
-  * Online
-  * Mail
-* Interview
-  * In-person
-  * Telephone
 
 ### Other
 
