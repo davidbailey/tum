@@ -1,5 +1,9 @@
 ## [Research Methods](https://en.wikipedia.org/wiki/Research#Research_methods)
 
+### [Research Design](https://en.wikipedia.org/wiki/Research_design)
+* Types of Studies
+  * [Case-control study](https://en.wikipedia.org/wiki/Case-control_study)
+  
 ### [(Big)](https://en.wikipedia.org/wiki/Big_data) [Data Science](https://en.wikipedia.org/wiki/Data_science)
 * Workflow
   * http://datascience.la/data-science-toolbox-survey-results-surprise-r-and-python-win/
