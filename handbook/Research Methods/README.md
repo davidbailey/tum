@@ -25,3 +25,12 @@
     * Census Data
     * Safety Data
   * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
+
+### Surveys
+
+* Self-administered
+  * Online
+  * Mail
+* Interview
+  * In-person
+  * Telephone
