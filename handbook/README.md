@@ -104,7 +104,8 @@
   - [Stakeholders](#stakeholders)
   - [Demand](#demand)
   - [Timetable](#timetable)
-  - [Surveys](#surveys)
+  - [(Big) Data Science](#big-data-science)
+  - [Other](#other)
   - [Vision Zero](#vision-zero)
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
   - [Traffic Collisions](#traffic-collisions)
@@ -1138,6 +1139,7 @@
     ![Six Degrees of Freedom](https://upload.wikimedia.org/wikipedia/commons/f/fa/6DOF_en.jpg)
 
     * [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
+      * [GraphSLAM](https://en.wikipedia.org/wiki/GraphSLAM)
     * [Object Detection](https://en.wikipedia.org/wiki/Object_detection)
       * [Scale-invariant feature transform](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
         * [Kanade–Lucas–Tomasi feature tracker](https://en.wikipedia.org/wiki/Kanade–Lucas–Tomasi_feature_tracker)
@@ -1865,6 +1867,10 @@
   * Visualizations
     * [Tree Diagrams](https://en.wikipedia.org/wiki/Tree_diagram_(probability_theory))
     * X-Y Plots
+* Sources of Uncertainty
+  * Inherent stochasticity
+  * Incomplete observability
+  * Incomplete modeling
 * [Analysis of Variance](https://en.wikipedia.org/wiki/Analysis_of_variance) [ANOVA]
 * [Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing): is the difference by chance or not?
   * [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) (H₀): no relationship between the two
@@ -2584,40 +2590,39 @@ Network Map | simple | simple | complex, no map
 * Drivers
 ## [Research Methods](https://en.wikipedia.org/wiki/Research#Research_methods)
 
-* [(Big)](https://en.wikipedia.org/wiki/Big_data) [Data Science](https://en.wikipedia.org/wiki/Data_science)
-  * Workflow
-    * http://datascience.la/data-science-toolbox-survey-results-surprise-r-and-python-win/
-    ![pafka2014](http://datascience.la/wp-content/uploads/2014/09/data-science-workflow-szilard.png)
-    * [Sample, Explore, Modify, Model, Assess](https://en.wikipedia.org/wiki/SEMMA) (SEMMA)
-  * Volume, Velocity, Variety
-  * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-    * [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
-  * Data Sources
-    * Surveys
-      * Observations are usually more accurate
-      * Helps understand why, not just what
-      * Often miss special cases
-    * Environmental Sensors (See Environmental Sensors)
-    * Traffic Counts (See Traffic Counts)
-    * (Autonomous) Vehicles
-    * Social Media
-      * Twitter
-    * Energy Data
-    * Communication Data
-    * Activity Data
-    * Production and Consumption Data
-    * Census Data
-    * Safety Data
-  * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
+### [(Big)](https://en.wikipedia.org/wiki/Big_data) [Data Science](https://en.wikipedia.org/wiki/Data_science)
+* Workflow
+  * http://datascience.la/data-science-toolbox-survey-results-surprise-r-and-python-win/
+  ![pafka2014](http://datascience.la/wp-content/uploads/2014/09/data-science-workflow-szilard.png)
+  * [Sample, Explore, Modify, Model, Assess](https://en.wikipedia.org/wiki/SEMMA) (SEMMA)
+* Volume, Velocity, Variety
+* Data Sources
+  * Surveys
+    * Self-administered
+      * Online
+      * Mail
+    * Interview
+      * In-person
+      * Telephone
+    * Observations are usually more accurate
+    * Helps understand why, not just what
+    * Often miss special cases
+  * Environmental Sensors (See Environmental Sensors)
+  * Traffic Counts (See Traffic Counts)
+  * (Autonomous) Vehicles
+  * Social Media
+    * Twitter
+  * Energy Data
+  * Communication Data
+  * Activity Data
+  * Production and Consumption Data
+  * Census Data
+  * Safety Data
+* http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
 
-### Surveys
+### Other
 
-* Self-administered
-  * Online
-  * Mail
-* Interview
-  * In-person
-  * Telephone
+* Latent Variable: a variable we cannot directly observe
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
