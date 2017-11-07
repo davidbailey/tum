@@ -126,6 +126,10 @@
   * Visualizations
     * [Tree Diagrams](https://en.wikipedia.org/wiki/Tree_diagram_(probability_theory))
     * X-Y Plots
+* Sources of Uncertainty
+  * Inherent stochasticity
+  * Incomplete observability
+  * Incomplete modeling
 * [Analysis of Variance](https://en.wikipedia.org/wiki/Analysis_of_variance) [ANOVA]
 * [Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing): is the difference by chance or not?
   * [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) (H₀): no relationship between the two
