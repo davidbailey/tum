@@ -53,10 +53,7 @@
 * Differentiable Optimization
   * [Newton's Method](https://en.wikipedia.org/wiki/Newton%27s_method_in_optimization)
   * [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
-  * First Derivitave: [Partial Derivitave](https://en.wikipedia.org/wiki/Partial_derivative) or [Gradient](https://en.wikipedia.org/wiki/Gradient) ([numpy.gradient](https://docs.scipy.org/doc/numpy/reference/generated/numpy.gradient.html) [docs.scipy.org]) -> [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
-  * Second Derivitave: [Hessian](https://en.wikipedia.org/wiki/Hessian_matrix)
-  * [Directional Derivitave](https://en.wikipedia.org/wiki/Directional_derivative)
-  * Nice Properties
+  * nice properties to have
     * [Linearity](https://en.wikipedia.org/wiki/Linearity)
     * [Affinity](https://en.wikipedia.org/wiki/Affine_transformation)
 
