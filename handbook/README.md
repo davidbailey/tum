@@ -68,6 +68,7 @@
   - [Material Safety](#material-safety)
   - [Materials Testing](#materials-testing)
 - [Math](#math)
+  - [Linear Algebra](#linear-algebra)
   - [Probability and Statistics](#probability-and-statistics)
 - [Optimization](#optimization)
   - [Problem Formation](#problem-formation)
@@ -1697,6 +1698,9 @@
 * [Nondestructive](https://en.wikipedia.org/wiki/Nondestructive_testing)
 
 ## Math
+
+### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+* Variables: Scalar a, Vector **a**, Matrix **A**
 
 ### [Probability](https://en.wikipedia.org/wiki/Probability) and [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
