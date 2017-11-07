@@ -220,9 +220,6 @@
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
     * information only travels forward
-    * operations: Activation Function, [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation), Loss Function, Optimization Algorythm (usually gradient descent)
-      * [Vanishing Gradient Problem](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
-        * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
     * Additional Operations
       * [Convolution](https://en.wikipedia.org/wiki/Convolution): s(t) = (x * w)(t) = Σ x(a) × w(t − a)
@@ -288,12 +285,37 @@
     * Probability
     * Segmentation => Heatmap of probabilities
 * Training Process
-  * Forward pass
-  * Backpropigate
+  * Forward pass (compute the outputs)
+    * Linear Function
+    * Nonlinear Function (Activation Function)
+      * [Softmax Function](https://en.wikipedia.org/wiki/Softmax_function)
+      * [Rectified Linear Unit (ReLU)](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) g(z) = max{0, z}
+        * Maxout Unit
+      * Logistic Sigmoid discourged because gradient-based learning is difficult on the sides
+      * Hyperbolic Tangent
+      * radial basis function
+      * softplus
+      * hard tanh
+  * Compute the Loss Function
+  * Find the Gradient of the loss function
+    * [Vanishing Gradient Problem](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
+      * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
+  * [Backpropigate](https://en.wikipedia.org/wiki/Backpropagation
+) (backward pass)
     * [Hebbian Theory](https://en.wikipedia.org/wiki/Hebbian_theory)
       * "Cells that fire together wire together."
-  * Update weights and biases
-  * Repeat
+  * Run the Optimization algorythm to minimize the loss function by updating weights and biases
+    * Optimization algorithms
+      * [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
+      * [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+        * with Momentum
+        * with [Nesterov's](https://en.wikipedia.org/wiki/Yurii_Nesterov) Momentum
+        * with an Adaptive [Learning Rate](https://en.wikipedia.org/wiki/Learning_curve)
+          * Adagrad
+          * Adadelta
+          * RMSProp
+          * Adam
+  * Repeat if desired
 * Overfitting
   * How to avoid overfitting:
     * Add more data
