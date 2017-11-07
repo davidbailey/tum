@@ -2,7 +2,7 @@
 
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
-* Variables: Scalar a, Vector **a**, Matrix **A**
+* [Scalar](https://en.wikipedia.org/wiki/Scalar_(mathematics)) a, [Vector](https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)) **a**, [Matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)) **A**
 * [Matrix Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
 
 ![Schematic depiction of the matrix product AB of two matrices A and B.](https://upload.wikimedia.org/wikipedia/commons/e/eb/Matrix_multiplication_diagram_2.svg)
