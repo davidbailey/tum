@@ -189,6 +189,7 @@
           * Adadelta
           * RMSProp
           * Adam
+      * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) [ruder.io]
   * Repeat if desired
 * Performance
   * [Bayes Error Rate](https://en.wikipedia.org/wiki/Bayes_error_rate)
