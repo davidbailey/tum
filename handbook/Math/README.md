@@ -95,6 +95,9 @@
       * Skewness
       * Kurtosis
 * Inferential Statistics: generalizing from a sample to a population
+* [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
+  * Latent Variable: a variable we cannot directly observe
+
 * References
   * [NIST/SEMATECH e-Handbook of Statistical Methods](http://www.itl.nist.gov/div898/handbook/index.htm) [www.itl.nist.gov]
 
