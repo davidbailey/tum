@@ -1,7 +1,7 @@
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning))
 
 ### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
-* the simplest is the best
+* (all else equal) the simplest is the best
 
 ### Courses
 
@@ -36,6 +36,7 @@
     * Exploration (try something new, see if it's fun; a random action) vs. Exploitation (keep doing what you enjoy)
       * Controlled by ε
     * [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
+  * Problems: Trail and Error Learning, Delayed Reward, No Specified Instructions
 * Unsupervised: unlabled data; e.g. clustering, density estimation
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
 * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
