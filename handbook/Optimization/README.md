@@ -68,3 +68,5 @@
 * [Optimization@MIT](http://optimization.mit.edu/classes.php) [optimization.mit.edu]
 * [Optimization: principles and algorithms, by Michel Bierlaire](http://optimizationprinciplesalgorithms.com) [optimizationprinciplesalgorithms.com]
 
+### Other
+* [No Free Lunch](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
