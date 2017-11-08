@@ -99,5 +99,6 @@
 * http://toolkit.irap.org
 * http://www.rsatoolkit.com.au
 * http://www2.gov.bc.ca/gov/content/transportation/driving-and-cycling/road-safety-rules-and-consequences/publications-legislation-and-data/bc-community-road-safety-toolkit
+[Surrogate Safety Assessment Model](https://www.fhwa.dot.gov/publications/research/safety/08049/) [www.fhwa.dot.gov]
 
 [Ghost Bikes](http://ghostbikes.org) [ghostbikes.org]
