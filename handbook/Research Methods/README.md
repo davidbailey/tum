@@ -14,6 +14,7 @@
   * http://datascience.la/data-science-toolbox-survey-results-surprise-r-and-python-win/
   ![pafka2014](http://datascience.la/wp-content/uploads/2014/09/data-science-workflow-szilard.png)
   * [Sample, Explore, Modify, Model, Assess](https://en.wikipedia.org/wiki/SEMMA) (SEMMA)
+  * [Cross-industry standard process for data mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 * Volume, Velocity, Variety
 * Data Sources
   * Driving Simulators
