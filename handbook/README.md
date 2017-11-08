@@ -206,8 +206,10 @@
   * [Deep Learning Reading List](http://deeplearning.net/reading-list/) [deeplearning.net]
 * Libraries
   * [TensorFlow](https://www.tensorflow.org) [www.tensorflow.org]
+    * Symbol-to-symbol differientation - Can compute higher order derivatives 
   * [Keras](https://keras.io) [keras.io] / [keras.js](https://github.com/transcranial/keras-js) [github.com]
   * [Torch](http://torch.ch) [torch.ch] / [PyTorch](http://pytorch.org) [pytorch.org]
+    * Symbol-to-number differentiation: Torch
   * [Theano](http://www.deeplearning.net/software/theano/) [www.deeplearning.net]
   * [mxnet](https://mxnet.incubator.apache.org) [mxnet.incubator.apache.org]
   * [neon](https://www.intelnervana.com/neon/) [www.intelnervana.com]
@@ -330,12 +332,17 @@
           * RMSProp
           * Adam
   * Repeat if desired
-* Overfitting
-  * How to avoid overfitting:
-    * Add more data
-    * Data augmentation e.g. flip (usually horizontal, not vertical), stretch/compress, change the color/brightness a bit, etc.
-    * Normalization e.g. Batch normalization
-    * Reudce complexity e.g. Dropout
+* Performance
+  * [Bayes Error Rate](https://en.wikipedia.org/wiki/Bayes_error_rate)
+  * Underfitting
+  * Overfitting
+    * How to avoid overfitting:
+      * Add more data
+      * Data augmentation e.g. flip (usually horizontal, not vertical), stretch/compress, change the color/brightness a bit, etc.
+      * Normalization e.g. Batch normalization
+      * Reudce complexity e.g. Dropout
+  * Capacity (e.g. polinomial degree for least squares)
+    * [VC dimension](https://en.wikipedia.org/wiki/VC_dimension)
 * Other
   * Sliding image approach (versus Convolutional Neural Networks)
     * Create a detector for the object of interest
