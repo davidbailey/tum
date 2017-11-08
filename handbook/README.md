@@ -60,7 +60,6 @@
   - [Vehicle Safety](#vehicle-safety)
   - [Traffic Control](#traffic-control)
   - [Automatic Incident Detection](#automatic-incident-detection)
-- [Marketing](#marketing)
   - [Test. Optimize. Test again](#test-optimize-test-again)
   - [Digital Marketing Channels](#digital-marketing-channels)
   - [Channels](#channels)
@@ -1678,7 +1677,10 @@
   * Courtyard block structure
     * Seperates public space (noise/air pollution), from private space e.g. Maxvorstadt in Munich
     * parking inside?
-
+  * [Rural Areas](https://en.wikipedia.org/wiki/Rural_area)
+    * Rural Community: <150 people / km2
+    * Rural Region > 50% Rural > Intermediate Region > 15% Rural > Urban Region
+    * Relationship w/ Urban Region: Integrated, Intermediate, Distant
 ## [Marketing](https://en.wikipedia.org/wiki/Marketing)
 
 * (Engagement rates are the highest at 11 a.m.)
