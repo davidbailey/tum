@@ -1,5 +1,7 @@
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning))
 
+### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor): "among competing hypotheses, the one with the fewest assumptions should be selected"
+
 ### Courses
 
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
