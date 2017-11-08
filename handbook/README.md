@@ -130,6 +130,7 @@
   - [Users](#users)
   - [Buzzwords](#buzzwords)
   - [Moving from Traditional (Car-focused) to Sustainable (People-focused)](#moving-from-traditional-car-focused-to-sustainable-people-focused)
+  - [10 Principles for Sustainable Urban Transport](#10-principles-for-sustainable-urban-transport)
   - [Bicycle Transportation Planning and Engineering](#bicycle-transportation-planning-and-engineering)
   - [Transport Planning in Delft, Netherlands [www.youtube.com]](#transport-planning-in-delft-netherlands-wwwyoutubecom)
   - [Vienna - Affordable and Inclusive Greatness [www.vienncouver.com]](#vienna---affordable-and-inclusive-greatness-wwwvienncouvercom)
@@ -2936,6 +2937,10 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * Traditional approach: pick technology, fit city to technology, force people to adopt - results in high-costs and low ridership
   * Successful approach: design around people: network, easy, fast; evaluate options from the city perspective ($$$), decide
     * Mimic the good aspects of cars: e.g. high-speed, high-frequency (12+ vehicles/hr), high-quality e.g. BRT
+
+### [10 Principles for Sustainable Urban Transport](http://www.sutp.org/files/contents/documents/resources/J_Others/10_principles_english.pdf)
+
+![10 Principles for Sustainable Urban Transport](https://github.com/davidbailey/tum/raw/master/handbook/Sustainable%20Transportation%20Systems/10principles.png)
 
 ### [Bicycle Transportation Planning and Engineering](https://en.wikipedia.org/wiki/Bicycle_transportation_planning_and_engineering)
 
