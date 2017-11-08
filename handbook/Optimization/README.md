@@ -71,3 +71,6 @@
 ### Other
 * [No Free Lunch](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
 * [Pareto efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency)
+* Exploration vs Exploitation
+  * Greedy: always choose highest value, but gets stuck easily
+  * Non-Greedy: may choose a non-optimal solution
