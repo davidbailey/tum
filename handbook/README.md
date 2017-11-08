@@ -113,7 +113,7 @@
   - [Timetable](#timetable)
   - [Research Design](#research-design)
   - [(Big) Data Science](#big-data-science)
-  - [Other](#other-1)
+- [Road Safety](#road-safety)
   - [Measures](#measures)
   - [Vision Zero](#vision-zero)
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
@@ -2651,6 +2651,7 @@ Network Map | simple | simple | complex, no map
   * Driving Simulators
   * Field studies: expensive and difficult
   * Surveys: cheap, detailed, easy, flexible, biased
+    * [Panel data](https://en.wikipedia.org/wiki/Panel_data) repeated data from the same source
     * Self-administered (questionnaire, inventories, travel diaries)
       * Online / App
       * Mail
@@ -2674,9 +2675,6 @@ Network Map | simple | simple | complex, no map
   * Safety Data
 * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
 
-### Other
-
-* Latent Variable: a variable we cannot directly observe
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
 ### Measures
