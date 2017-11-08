@@ -17,6 +17,9 @@
   * [Directional Derivitave](https://en.wikipedia.org/wiki/Directional_derivative)
 * [Integral](https://en.wikipedia.org/wiki/Integral)
 
+### [Graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))
+* [Degree distribution](https://en.wikipedia.org/wiki/Degree_distribution)
+
 ### [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
 * Definations
