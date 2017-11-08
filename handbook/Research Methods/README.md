@@ -20,6 +20,7 @@
   * Driving Simulators
   * Field studies: expensive and difficult
   * Surveys: cheap, detailed, easy, flexible, biased
+    * [Panel data](https://en.wikipedia.org/wiki/Panel_data) repeated data from the same source
     * Self-administered (questionnaire, inventories, travel diaries)
       * Online / App
       * Mail
@@ -43,6 +44,3 @@
   * Safety Data
 * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
 
-### Other
-
-* Latent Variable: a variable we cannot directly observe
