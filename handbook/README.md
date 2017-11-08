@@ -5,6 +5,7 @@
 
 
 - [Artificial Intelligence (Machine Learning)](#artificial-intelligence-machine-learning)
+  - [Occam's Razor](#occams-razor)
   - [Courses](#courses)
   - [Competitions](#competitions)
   - [Tasks](#tasks)
@@ -142,6 +143,9 @@
   * Other => Page Title [example.com]
 
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning))
+
+### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+* the simplest is the best
 
 ### Courses
 
