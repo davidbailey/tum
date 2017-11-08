@@ -133,4 +133,7 @@
   * Courtyard block structure
     * Seperates public space (noise/air pollution), from private space e.g. Maxvorstadt in Munich
     * parking inside?
-
+  * [Rural Areas](https://en.wikipedia.org/wiki/Rural_area)
+    * Rural Community: <150 people / km2
+    * Rural Region > 50% Rural > Intermediate Region > 15% Rural > Urban Region
+    * Relationship w/ Urban Region: Integrated, Intermediate, Distant
