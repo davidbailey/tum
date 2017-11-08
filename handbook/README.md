@@ -232,7 +232,7 @@
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
-    * information only travels forward
+    * information only travels forward = no feedback
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN, ConvNet)
     * Additional Operations
       * [Convolution](https://en.wikipedia.org/wiki/Convolution): s(t) = (x * w)(t) = Σ x(a) × w(t − a)
@@ -276,6 +276,7 @@
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * Components
+  * Network (Directed Graph of a Depth): Inputs -> Hidden Layers -> Output Function -> Outputs
   * Neurons w/ Synapses
     * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
       * Process
