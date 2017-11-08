@@ -78,6 +78,7 @@
 - [Math](#math)
   - [Linear Algebra](#linear-algebra)
   - [Calculus](#calculus)
+  - [Graphs](#graphs)
   - [Statistics](#statistics)
   - [Probability](#probability)
 - [Optimization](#optimization)
@@ -1676,6 +1677,7 @@
     * low density, single-use, auto-centric, high mobility costs (time + money), socially exclusive/segregated, high satisfaction, long travel distances, high infrastructure costs, high land consumption
 * [Slum](https://en.wikipedia.org/wiki/Slum)
 * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
+  * [Sustainable Urban Mobility Plan](https://en.wikipedia.org/wiki/Sustainable_Urban_Mobility_Plan)
 * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
   * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
     * [Congress for the New Urbanism](https://www.cnu.org) [www.cnu.org]
@@ -1797,6 +1799,9 @@
   * [Directional Derivitave](https://en.wikipedia.org/wiki/Directional_derivative)
 * [Integral](https://en.wikipedia.org/wiki/Integral)
 
+### [Graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))
+* [Degree distribution](https://en.wikipedia.org/wiki/Degree_distribution)
+
 ### [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
 * Definations
@@ -1875,6 +1880,9 @@
       * Skewness
       * Kurtosis
 * Inferential Statistics: generalizing from a sample to a population
+* [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
+  * Latent Variable: a variable we cannot directly observe
+
 * References
   * [NIST/SEMATECH e-Handbook of Statistical Methods](http://www.itl.nist.gov/div898/handbook/index.htm) [www.itl.nist.gov]
 
@@ -2047,6 +2055,7 @@
 
 ### Other
 * [No Free Lunch](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
+* [Pareto efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency)
 ## Project and Performance Management
 
 ### Project Management
@@ -2776,6 +2785,7 @@ Network Map | simple | simple | complex, no map
 * http://toolkit.irap.org
 * http://www.rsatoolkit.com.au
 * http://www2.gov.bc.ca/gov/content/transportation/driving-and-cycling/road-safety-rules-and-consequences/publications-legislation-and-data/bc-community-road-safety-toolkit
+[Surrogate Safety Assessment Model](https://www.fhwa.dot.gov/publications/research/safety/08049/) [www.fhwa.dot.gov]
 
 [Ghost Bikes](http://ghostbikes.org) [ghostbikes.org]
 ## [Sustainable](https://en.wikipedia.org/wiki/Sustainable_transport) [Transportation Systems](https://en.wikipedia.org/wiki/Transport_network)
