@@ -125,6 +125,7 @@
     * low density, single-use, auto-centric, high mobility costs (time + money), socially exclusive/segregated, high satisfaction, long travel distances, high infrastructure costs, high land consumption
 * [Slum](https://en.wikipedia.org/wiki/Slum)
 * [Urban Design](https://en.wikipedia.org/wiki/Urban_design)
+  * [Sustainable Urban Mobility Plan](https://en.wikipedia.org/wiki/Sustainable_Urban_Mobility_Plan)
 * [Urbanism](https://en.wikipedia.org/wiki/Urbanism)
   * [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism)
     * [Congress for the New Urbanism](https://www.cnu.org) [www.cnu.org]
