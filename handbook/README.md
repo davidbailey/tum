@@ -81,6 +81,7 @@
   - [Graphs](#graphs)
   - [Statistics](#statistics)
   - [Probability](#probability)
+- [Mechanics](#mechanics)
 - [Optimization](#optimization)
   - [Problem Formation](#problem-formation)
   - [Convex Optimization](#convex-optimization)
@@ -1809,7 +1810,7 @@
     * [International Roughness Index](https://en.wikipedia.org/wiki/International_Roughness_Index)
   * [Strength of Materials](https://en.wikipedia.org/wiki/Strength_of_materials)
     * [California Bearing Ratio](https://en.wikipedia.org/wiki/California_bearing_ratio)
-## Math
+## [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
@@ -2024,6 +2025,8 @@
 * [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
   * Degrees of Freedom = Sample Size - 1
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+
+## Mechanics
 
 ## [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
 
