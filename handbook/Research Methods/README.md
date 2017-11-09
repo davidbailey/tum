@@ -8,6 +8,21 @@
   * [Cross-sectional study](https://en.wikipedia.org/wiki/Cross-sectional_study)
   * [Meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis)
   
+### Communicating Information
+
+* Principles
+  * Figure/ground: one thing in the foreground and one thing in the background; bottom thing is always foreground
+  * Proximity: we see things near each other as together
+  * Similarity: things that look similar go together
+  * Parallelism: parallel lines go together
+  * Common Fate: things that move together go together
+  * Closure: our brain completes the picture / sees what isn’t there
+  * Continuity: our brain fills gaps
+* Visualizations
+  * Tell a story. Start with a big header, then some introduction, then a bold call to action, then the data. Maybe add a little conclusion in a text box in the data. 
+  * Headline: communicates the key idea of the story
+  * Story: think of the story, then the data, then the visualization
+
 ### [(Big)](https://en.wikipedia.org/wiki/Big_data) [Data Science](https://en.wikipedia.org/wiki/Data_science)
 
 * Workflow
