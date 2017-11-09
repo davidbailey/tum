@@ -24,4 +24,4 @@
     * [Spectral density](https://en.wikipedia.org/wiki/Spectral_density)
     * [International Roughness Index](https://en.wikipedia.org/wiki/International_Roughness_Index)
   * [Strength of Materials](https://en.wikipedia.org/wiki/Strength_of_materials)
-    * California Bearing Ratio](https://en.wikipedia.org/wiki/California_bearing_ratio)
+    * [California Bearing Ratio](https://en.wikipedia.org/wiki/California_bearing_ratio)
