@@ -829,6 +829,8 @@
 
 ### [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
 
+* Design Standards
+  * [Cambridge Department of Public Works](https://www.cambridgema.gov/theworks/ourservices/engineering/Resources/standarddetails.aspx) [www.cambridgema.gov]
 * Pedestrian Paths
   * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
     * Children in Sweden can walk alone at age 12-13.
@@ -844,6 +846,7 @@
     * [Unprotected](https://en.wikipedia.org/wiki/Bike_lane)
       * Buffered
   * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
+  * [Curbs](https://en.wikipedia.org/wiki/Curb)
 * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
 * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
   * [2+1 Road](https://en.wikipedia.org/wiki/2%2B1_road)
