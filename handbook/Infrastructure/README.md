@@ -190,6 +190,7 @@
 ### [Air](https://en.wikipedia.org/wiki/Aviation)
 
 * [Airports](https://en.wikipedia.org/wiki/Airport)
+  * [Landing slot](https://en.m.wikipedia.org/wiki/Landing_slot)
 * [Airplanes](https://en.wikipedia.org/wiki/Airplane)
 * [Helicopters](https://en.wikipedia.org/wiki/Helicopter)
 * [Hot Air Balloons](https://en.wikipedia.org/wiki/Hot_air_balloon)
