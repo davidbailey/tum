@@ -1,4 +1,4 @@
-## Math
+## [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
