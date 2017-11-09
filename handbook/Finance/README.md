@@ -8,6 +8,7 @@
         * [Toll Collect](https://www.toll-collect.de) [www.toll-collect.de]
       * [Congestion pricing](https://en.wikipedia.org/wiki/Congestion_pricing)
         * [Congestion and Challenge: How Cities Can Respond to Transportation Demands — with Daniel Firth](https://www.youtube.com/watch?v=giuCRjBjyrU) [www.youtube.com]
+          * public support is often negative before implementation, but switches to positive after implementation. e.g. London, Stockholm
       * [Shunpiking](https://en.wikipedia.org/wiki/Shunpiking)
     * [Value Capture](https://en.wikipedia.org/wiki/Value_capture)
   * Private
