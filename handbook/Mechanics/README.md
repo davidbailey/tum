@@ -3,6 +3,8 @@
 ### [Simple harmonic motion](https://en.wikipedia.org/wiki/Simple_harmonic_motion)
 
 * [Spring](https://en.wikipedia.org/wiki/Spring_(device))
+* [Damper](https://en.wikipedia.org/wiki/Shock_absorber)
+* [Mass-spring-damper model](https://en.wikipedia.org/wiki/Mass-spring-damper_model)
 
 ### [Harmonic oscillator](https://en.wikipedia.org/wiki/Harmonic_oscillator)
 
