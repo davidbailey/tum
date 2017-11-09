@@ -42,16 +42,17 @@
 * Descriptive Statistics: summary and description
   * Visual Data Analysis
     * Good Practices
-      * Clear Labels
-        * Title
-        * Variables
-        * Axes
-        * Units
+      * Clear Labels: Title, Variables, Axes, Units, Legends
+        * drive the reader’s focus, less is more, gray > black
       * Identify Sources and Dates of Data
-    * Keep in Mind
-      * May be printed in black and white and people are colorblind
-      * Projectors are not good
-      * Less is more
+      * Color
+        * [Adobe Color](https://color.adobe.com)
+        * Hue is important
+        * May be printed in black and white
+        * people are colorblind
+        * Projectors are not good
+        * Less is more, limit to 5-7 colors
+      * Scale: start bar (and area) charts at 0, use round numbers
     * Tables
     * [Stem-and-leaf Displays](https://en.wikipedia.org/wiki/Stem-and-leaf_display)
       * 8 | 00 15 30 45
@@ -65,10 +66,12 @@
     * [Box Plot](https://en.wikipedia.org/wiki/Box_plot)
       * min \*-----[ | ]-----\* max
       * box is lower quarter (median of lower half), median, upper quarter (median of upper half)
-    * [Parallel Coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates)
+    * [Parallel Coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates) (and slope graphs)
     * [Heatmaps](https://en.wikipedia.org/wiki/Heat_map)
     * [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram)
-      * [Summary Measures](https://en.wikipedia.org/wiki/Summary_statistics)
+    * [Bar chart](https://en.wikipedia.org/wiki/Bar_chart)
+    * [Line chart](https://en.wikipedia.org/wiki/Line_chart): data over time
+  * [Summary Measures](https://en.wikipedia.org/wiki/Summary_statistics)
     * Location [Central Tendency](https://en.wikipedia.org/wiki/Central_tendency))
       * [Mean](https://en.wikipedia.org/wiki/Mean) (Average) = (x₁ + x₂) / n
         * sensative to [Outliers](https://en.wikipedia.org/wiki/Outlier) (observations w/ extreme values)
