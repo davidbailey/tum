@@ -1857,6 +1857,11 @@
     * [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram)
     * [Bar chart](https://en.wikipedia.org/wiki/Bar_chart)
     * [Line chart](https://en.wikipedia.org/wiki/Line_chart): data over time
+    * Examples
+      * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery) [github.com]
+      * [Matplotlib Examples](http://matplotlib.org/examples/index.html) [matplotlib.org]
+      * [The Python Graph Gallery](https://python-graph-gallery.com) [python-graph-gallery]
+      * [Awesome dataviz](https://github.com/fasouto/awesome-dataviz) [github.com]
   * [Summary Measures](https://en.wikipedia.org/wiki/Summary_statistics)
     * Location [Central Tendency](https://en.wikipedia.org/wiki/Central_tendency))
       * [Mean](https://en.wikipedia.org/wiki/Mean) (Average) = (x₁ + x₂) / n
