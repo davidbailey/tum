@@ -31,6 +31,7 @@
   - [Global Navigation Satellite System (GNSS)](#global-navigation-satellite-system-gnss)
   - [Design](#design)
 - [Governance](#governance)
+  - [People / Society](#people--society)
   - [Laws and Regulations](#laws-and-regulations)
   - [Law Enforcement](#law-enforcement)
 - [Infrastructure](#infrastructure)
@@ -549,6 +550,7 @@
 
 * Sources
   * Public
+    * Taxes
     * [Value Capture](https://en.wikipedia.org/wiki/Value_capture)
   * Private
   * Public Private Partnership: Design, Build (w/ Warrenty), (Finance), (Operate, Maintain)
@@ -810,6 +812,11 @@
 * [Design principles for cartography](https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/) [blogs.esri.com]
 
 ## Governance
+
+### People / [Society](https://en.wikipedia.org/wiki/Society)
+
+* [Tactical urbanism](https://en.wikipedia.org/wiki/Tactical_urbanism)
+  * [Transform Your City With Tactical Urbanism](https://vimeo.com/220812813)
 
 ### Laws and Regulations
 
