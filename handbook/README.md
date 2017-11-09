@@ -76,7 +76,6 @@
   - [Concrete](#concrete)
   - [Material Safety](#material-safety)
   - [Materials Testing](#materials-testing)
-- [Math](#math)
   - [Linear Algebra](#linear-algebra)
   - [Calculus](#calculus)
   - [Graphs](#graphs)
@@ -958,6 +957,7 @@
     * [Positive Train Control](https://en.wikipedia.org/wiki/Positive_train_control)
   * [Automatic Train Control](https://en.wikipedia.org/wiki/Automatic_train_control)
   * [Automatic train operation](https://en.wikipedia.org/wiki/Automatic_train_operation)
+    * [SelTrac](https://en.wikipedia.org/wiki/SelTrac)
   * [European Rail Traffic Management System](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
     * [European Train Control System](https://en.wikipedia.org/wiki/European_Train_Control_System)
       * Train w/ intelligence
@@ -1791,10 +1791,11 @@
 
 * [Destructive testing](https://en.wikipedia.org/wiki/Destructive_testing)
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing)
-  * Measuring roughness
+  * [Surface roughness](https://en.wikipedia.org/wiki/Surface_roughness)
     * [Spectral density](https://en.wikipedia.org/wiki/Spectral_density)
     * [International Roughness Index](https://en.wikipedia.org/wiki/International_Roughness_Index)
-
+  * [Strength of Materials](https://en.wikipedia.org/wiki/Strength_of_materials)
+    * [California Bearing Ratio](https://en.wikipedia.org/wiki/California_bearing_ratio)
 ## Math
 
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
