@@ -10,6 +10,8 @@
   * [Richtlinien für die Anlage von Stadtstraßen](https://de.wikipedia.org/wiki/Richtlinien_für_die_Anlage_von_Stadtstraßen)
   * [Empfehlungen für Radverkehrsanlagen](https://de.wikipedia.org/wiki/Empfehlungen_für_Radverkehrsanlagen)
   * [Empfehlungen für Fußgängerverkehrsanlagen](https://de.wikipedia.org/wiki/Empfehlungen_für_Fußgängerverkehrsanlagen)
+* United States
+  * [National Environmental Policy Act](https://en.wikipedia.org/wiki/National_Environmental_Policy_Act)
 
 
 ### Law Enforcement
