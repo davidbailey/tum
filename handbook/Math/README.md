@@ -77,6 +77,11 @@
       * [The Python Graph Gallery](https://python-graph-gallery.com) [python-graph-gallery]
       * [Awesome dataviz](https://github.com/fasouto/awesome-dataviz) [github.com]
   * [Summary Measures](https://en.wikipedia.org/wiki/Summary_statistics)
+    * [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+    
+    ![All four sets are identical when examined using simple summary statistics, but vary considerably when graphed
+](https://upload.wikimedia.org/wikipedia/commons/e/ec/Anscombe%27s_quartet_3.svg)
+    
     * Location [Central Tendency](https://en.wikipedia.org/wiki/Central_tendency))
       * [Mean](https://en.wikipedia.org/wiki/Mean) (Average) = (x₁ + x₂) / n
         * sensative to [Outliers](https://en.wikipedia.org/wiki/Outlier) (observations w/ extreme values)
