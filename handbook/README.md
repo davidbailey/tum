@@ -90,6 +90,7 @@
   - [Deterministic vs. Stochastic Optimization](#deterministic-vs-stochastic-optimization)
   - [References](#references)
   - [Other](#other)
+  - [SVS Engineering Process](#svs-engineering-process)
   - [Project Management](#project-management)
   - [Performance Management](#performance-management)
 - [Public Transportation](#public-transportation)
@@ -2102,6 +2103,12 @@
   * Non-Greedy: may choose a non-optimal solution
 ## Project and Performance Management
 
+### SVS Engineering Process
+
+* Design the system
+* Simulate the system in software
+* Step-by-step, replace each componenet of the simulation with hardware until you have a complete system
+
 ### Project Management
 
 * Goal: Sustainable Transportation
@@ -2201,23 +2208,23 @@
       * [California Environmental Quality Act](https://en.wikipedia.org/wiki/California_Environmental_Quality_Act)
         * [California Environmental Protection Agency](https://en.wikipedia.org/wiki/California_Environmental_Protection_Agency)
         * [CEQA Guidelines](http://resources.ca.gov/ceqa/guidelines/) [resources.ca.gov]
-        * Aesthetics
-        * Agriculture Resources
-        * Air Quality
-        * Biological Resources
-        * Cultural Resources
-        * Geology/Soils
-        * Hazards & Hazardous Materials
-        * Hydrology/Water Quality
-        * Land Use/Planning
-        * Mineral Resources
-        * Noise
-        * Population/Housing
-        * Public Services
-        * Recreation
-        * Transportation/Traffic
-        * Utilities/Service Systems
-        * Mandatory Findings of Significance
+          * Aesthetics
+          * Agriculture Resources
+          * Air Quality
+          * Biological Resources
+          * Cultural Resources
+          * Geology/Soils
+          * Hazards & Hazardous Materials
+          * Hydrology/Water Quality
+          * Land Use/Planning
+          * Mineral Resources
+          * Noise
+          * Population/Housing
+          * Public Services
+          * Recreation
+          * Transportation/Traffic
+          * Utilities/Service Systems
+          * Mandatory Findings of Significance
     * [EIA Open Education Resource](http://eia.unu.edu) [eia.unu.edu]
     * EU: Motive, Scoping, Report, Public
     * DE: Compensatory: Any damage must be compensated. Contingency: Different means, same result.
