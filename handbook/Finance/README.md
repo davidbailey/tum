@@ -5,6 +5,7 @@
     * Taxes
     * [Road pricing](https://en.wikipedia.org/wiki/Road_pricing)
       * [Toll roads](https://en.wikipedia.org/wiki/Toll_road)
+        * [Toll Collect](https://www.toll-collect.de) [www.toll-collect.de]
       * [Congestion pricing](https://en.wikipedia.org/wiki/Congestion_pricing)
       * [Shunpiking](https://en.wikipedia.org/wiki/Shunpiking)
     * [Value Capture](https://en.wikipedia.org/wiki/Value_capture)
