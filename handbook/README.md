@@ -122,7 +122,7 @@
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
   - [Traffic Collisions](#traffic-collisions)
   - [Road Safety Audits](#road-safety-audits)
-- [Sustainable Transportation Systems](#sustainable-transportation-systems)
+  - [References](#references-1)
   - [Modes](#modes)
   - [Renting / Sharing](#renting--sharing)
   - [Types of Infrastructure](#types-of-infrastructure)
@@ -2833,7 +2833,9 @@ Network Map | simple | simple | complex, no map
 * http://www2.gov.bc.ca/gov/content/transportation/driving-and-cycling/road-safety-rules-and-consequences/publications-legislation-and-data/bc-community-road-safety-toolkit
 [Surrogate Safety Assessment Model](https://www.fhwa.dot.gov/publications/research/safety/08049/) [www.fhwa.dot.gov]
 
-[Ghost Bikes](http://ghostbikes.org) [ghostbikes.org]
+### References
+* [Interactive Highway Safety Design Model](http://www.ihsdm.org/) [www.ihsdm.org]
+* [Ghost Bikes](http://ghostbikes.org) [ghostbikes.org]
 ## [Sustainable](https://en.wikipedia.org/wiki/Sustainable_transport) [Transportation Systems](https://en.wikipedia.org/wiki/Transport_network)
 
 * derived from sustainable forestry ([Hans Carl von Carlowitz](https://en.wikipedia.org/wiki/Hans_Carl_von_Carlowitz))
