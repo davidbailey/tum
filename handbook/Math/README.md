@@ -92,7 +92,7 @@
         * [Quartiles](https://en.wikipedia.org/wiki/Quartile) divide data into four equal parts
         * [Percentiles](https://en.wikipedia.org/wiki/Percentile) divide the data into 100 equal parts e.g. 99%
       * [Mode](https://en.wikipedia.org/wiki/Mode_(statistics))
-    * Variation ([Statistical Dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion)
+    * Variation ([Statistical Dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion))
       * [Range](https://en.wikipedia.org/wiki/Range_(statistics)) = xmax - xmin
       * [Deviation](https://en.wikipedia.org/wiki/Deviation_(statistics)) from Mean = mean - xi
       * [Unbiased Sample Variance](https://en.wikipedia.org/wiki/Variance) s = 1 / (N - 1) × Σ(( Deviation from the Mean of xi )²)
