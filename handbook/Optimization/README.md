@@ -39,6 +39,7 @@
   * [Lipschitz Continuity](https://en.wikipedia.org/wiki/Lipschitz_continuity)
 * [Discrete Optimization](https://en.wikipedia.org/wiki/Discrete_optimization)
   * [Integer](https://en.wikipedia.org/wiki/Integer_programming) [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming)
+    * [Simplex algorithm](https://en.wikipedia.org/wiki/Simplex_algorithm)
   * [Combinational Optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)
     * [Graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))
       * [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
