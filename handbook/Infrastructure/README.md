@@ -2,6 +2,7 @@
 
 ### [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
 
+* Ideal road alignment is curvy to initiate communication from the infrastructure to the driver
 * Design Standards
   * [Cambridge Department of Public Works](https://www.cambridgema.gov/theworks/ourservices/engineering/Resources/standarddetails.aspx) [www.cambridgema.gov]
 * Pedestrian Paths
@@ -57,6 +58,7 @@
 
 ### [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
 
+* Ideal rail alignment is straight and level
 * Design Standards
   * American Railway Engineering and Maintenance-of-Way Association
   * Caltrain: http://www.caltrain.com/about/doingbusiness/engineering/engineeringstandards.html
