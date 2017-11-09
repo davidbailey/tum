@@ -833,6 +833,7 @@
 * Ideal road alignment is curvy to initiate communication from the infrastructure to the driver
 * Design Standards
   * [Cambridge Department of Public Works](https://www.cambridgema.gov/theworks/ourservices/engineering/Resources/standarddetails.aspx) [www.cambridgema.gov]
+  * [Urban Street Stormwater Guide](https://nacto.org/publication/urban-street-stormwater-guide/) [nacto.org]
 * Pedestrian Paths
   * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
     * Children in Sweden can walk alone at age 12-13.
