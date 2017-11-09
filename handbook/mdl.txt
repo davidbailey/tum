@@ -566,13 +566,14 @@ handbook/README.md:804: MD004 Unordered list style
 handbook/README.md:810: MD004 Unordered list style
 handbook/README.md:811: MD004 Unordered list style
 handbook/README.md:812: MD004 Unordered list style
-handbook/README.md:818: MD004 Unordered list style
+handbook/README.md:819: MD004 Unordered list style
 handbook/README.md:813: MD004 Unordered list style
 handbook/README.md:814: MD004 Unordered list style
 handbook/README.md:815: MD004 Unordered list style
 handbook/README.md:816: MD004 Unordered list style
 handbook/README.md:817: MD004 Unordered list style
-handbook/README.md:819: MD004 Unordered list style
+handbook/README.md:818: MD004 Unordered list style
+handbook/README.md:820: MD004 Unordered list style
 handbook/README.md:824: MD004 Unordered list style
 handbook/README.md:825: MD004 Unordered list style
 handbook/README.md:826: MD004 Unordered list style
@@ -2870,7 +2871,6 @@ handbook/README.md:985: MD011 Reversed link syntax
 handbook/README.md:987: MD011 Reversed link syntax
 handbook/README.md:6: MD012 Multiple consecutive blank lines
 handbook/README.md:416: MD012 Multiple consecutive blank lines
-handbook/README.md:821: MD012 Multiple consecutive blank lines
 handbook/README.md:2351: MD012 Multiple consecutive blank lines
 handbook/README.md:154: MD013 Line length
 handbook/README.md:161: MD013 Line length
@@ -2965,6 +2965,7 @@ handbook/README.md:742: MD013 Line length
 handbook/README.md:765: MD013 Line length
 handbook/README.md:772: MD013 Line length
 handbook/README.md:804: MD013 Line length
+handbook/README.md:818: MD013 Line length
 handbook/README.md:857: MD013 Line length
 handbook/README.md:858: MD013 Line length
 handbook/README.md:865: MD013 Line length
