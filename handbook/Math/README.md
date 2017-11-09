@@ -47,10 +47,10 @@
       * Identify Sources and Dates of Data
       * Color
         * [Adobe Color](https://color.adobe.com)
-        * Hue is important
-        * May be printed in black and white
-        * people are colorblind
-        * Projectors are not good
+        * [Hue](https://en.wikipedia.org/wiki/Hue) is important
+        * May be printed in [black and white](https://en.wikipedia.org/wiki/Black_and_white)
+        * people are [colorblind](https://en.wikipedia.org/wiki/Color_blindness)
+        * [Projectors](https://en.wikipedia.org/wiki/Projector) are not good
         * Less is more, limit to 5-7 colors
       * Scale: start bar (and area) charts at 0, use round numbers
     * Tables
