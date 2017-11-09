@@ -149,7 +149,7 @@
   * [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) (H₀): no relationship between the two
   * Process
     * Choose a null hypothesis and an alternate hypothesis.
-      * e.g. H₀ = there has been no chnage in speeds as a result of a new law. H₁ = there has been a change.
+      * e.g. H₀ = there has been no change in speeds as a result of a new law. H₁ = there has been a change.
     * Calculate the appropriate test statistic.
       * (Sample Estimate - Hypothesised Value) / Standard Error of Sample Estimate
     * Refer this statistic to a known distribution if the null hypothesis were true.
