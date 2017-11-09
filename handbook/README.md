@@ -87,7 +87,8 @@
   - [Harmonic oscillator](#harmonic-oscillator)
   - [Damping ratio](#damping-ratio)
   - [Contact Mechanics](#contact-mechanics)
-- [Optimization](#optimization)
+  - [Flexural modulus](#flexural-modulus)
+  - [Stiffness](#stiffness)
   - [Problem Formation](#problem-formation)
   - [Convex Optimization](#convex-optimization)
   - [Unconstrained vs. Constrained Optimization](#unconstrained-vs-constrained-optimization)
@@ -553,7 +554,10 @@
     * Taxes
     * [Road pricing](https://en.wikipedia.org/wiki/Road_pricing)
       * [Toll roads](https://en.wikipedia.org/wiki/Toll_road)
+        * [Toll Collect](https://www.toll-collect.de) [www.toll-collect.de]
       * [Congestion pricing](https://en.wikipedia.org/wiki/Congestion_pricing)
+        * [Congestion and Challenge: How Cities Can Respond to Transportation Demands — with Daniel Firth](https://www.youtube.com/watch?v=giuCRjBjyrU) [www.youtube.com]
+          * public support is often negative before implementation, but switches to positive after implementation. e.g. London, Stockholm
       * [Shunpiking](https://en.wikipedia.org/wiki/Shunpiking)
     * [Value Capture](https://en.wikipedia.org/wiki/Value_capture)
   * Private
@@ -2054,6 +2058,12 @@
 ### [Damping ratio](https://en.wikipedia.org/wiki/Damping_ratio)
 
 ### [Contact Mechanics](https://en.wikipedia.org/wiki/Contact_mechanics)
+
+### [Flexural modulus](https://en.wikipedia.org/wiki/Flexural_modulus)
+
+### [Stiffness](https://en.wikipedia.org/wiki/Stiffness)
+
+* [Young's modulus](https://en.wikipedia.org/wiki/Young%27s_modulus)
 ## [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
 
 ### Problem Formation
@@ -2095,6 +2105,7 @@
   * [Lipschitz Continuity](https://en.wikipedia.org/wiki/Lipschitz_continuity)
 * [Discrete Optimization](https://en.wikipedia.org/wiki/Discrete_optimization)
   * [Integer](https://en.wikipedia.org/wiki/Integer_programming) [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming)
+    * [Simplex algorithm](https://en.wikipedia.org/wiki/Simplex_algorithm)
   * [Combinational Optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)
     * [Graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))
       * [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
