@@ -20,7 +20,8 @@
 
 * [Destructive testing](https://en.wikipedia.org/wiki/Destructive_testing)
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing)
-  * Measuring roughness
+  * [Surface roughness](https://en.wikipedia.org/wiki/Surface_roughness)
     * [Spectral density](https://en.wikipedia.org/wiki/Spectral_density)
     * [International Roughness Index](https://en.wikipedia.org/wiki/International_Roughness_Index)
-
+  * [Strength of Materials](https://en.wikipedia.org/wiki/Strength_of_materials)
+    * California Bearing Ratio](https://en.wikipedia.org/wiki/California_bearing_ratio)
