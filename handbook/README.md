@@ -954,8 +954,10 @@
   * [Automatic Warning System](https://en.wikipedia.org/wiki/Automatic_Warning_System) (AWS) and [Train Protection and Warning System](https://en.wikipedia.org/wiki/Train_Protection_%26_Warning_System) (TPWS)
     * https://www.rssb.co.uk/rgs/standards/GERT8075%20Iss%202.pdf
     * http://orr.gov.uk/__data/assets/pdf_file/0019/5662/incident-ladbrokegrove-jointinquiry.pdf
-  * [Positive Train Control](https://en.wikipedia.org/wiki/Positive_train_control)
+  * [Automatic Train protection](https://en.wikipedia.org/wiki/Automatic_train_protection)
+    * [Positive Train Control](https://en.wikipedia.org/wiki/Positive_train_control)
   * [Automatic Train Control](https://en.wikipedia.org/wiki/Automatic_train_control)
+  * [Automatic train operation](https://en.wikipedia.org/wiki/Automatic_train_operation)
   * [European Rail Traffic Management System](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
     * [European Train Control System](https://en.wikipedia.org/wiki/European_Train_Control_System)
       * Train w/ intelligence
