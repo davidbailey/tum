@@ -1,4 +1,4 @@
-## Mechanics
+## [Mechanics](https://en.wikipedia.org/wiki/Mechanics)
 
 ### [Simple harmonic motion](https://en.wikipedia.org/wiki/Simple_harmonic_motion)
 
