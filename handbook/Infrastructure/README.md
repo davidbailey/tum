@@ -6,6 +6,7 @@
 * Design Standards
   * [Cambridge Department of Public Works](https://www.cambridgema.gov/theworks/ourservices/engineering/Resources/standarddetails.aspx) [www.cambridgema.gov]
   * [Urban Street Stormwater Guide](https://nacto.org/publication/urban-street-stormwater-guide/) [nacto.org]
+  * [Gravel Roads Maintenance and Design Manual](http://www.mnltap.umn.edu/publications/videos/gravelroadmaintenance/documents/manual.pdf)
 * Pedestrian Paths
   * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
     * Children in Sweden can walk alone at age 12-13.
