@@ -101,4 +101,6 @@
 * http://www2.gov.bc.ca/gov/content/transportation/driving-and-cycling/road-safety-rules-and-consequences/publications-legislation-and-data/bc-community-road-safety-toolkit
 [Surrogate Safety Assessment Model](https://www.fhwa.dot.gov/publications/research/safety/08049/) [www.fhwa.dot.gov]
 
-[Ghost Bikes](http://ghostbikes.org) [ghostbikes.org]
+### References
+* [Interactive Highway Safety Design Model](http://www.ihsdm.org/) [www.ihsdm.org]
+* [Ghost Bikes](http://ghostbikes.org) [ghostbikes.org]
