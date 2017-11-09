@@ -808,6 +808,7 @@
 ### Laws and Regulations
 
 * [Vienna Convention on Road Traffic](https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Traffic)
+  * [Vienna Convention on Road Traffic](http://www.unece.org/fileadmin/DAM/trans/conventn/crt1968e.pdf) [www.unece.org]
 * [Vienna Convention on Road Signs and Signals](https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Signs_and_Signals)
 * Germany
   * [Verordnung über den Bau und Betrieb der Straßenbahnen](https://en.wikipedia.org/wiki/Verordnung_über_den_Bau_und_Betrieb_der_Straßenbahnen)
@@ -1796,6 +1797,9 @@
 
 * [Destructive testing](https://en.wikipedia.org/wiki/Destructive_testing)
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing)
+  * [Road slipperiness](https://en.wikipedia.org/wiki/Road_slipperiness)
+    * [SCRIM](https://en.wikipedia.org/wiki/SCRIM)
+    * [Stuttgarter_Reibungsmesser](https://de.wikipedia.org/wiki/Stuttgarter_Reibungsmesser)
   * [Surface roughness](https://en.wikipedia.org/wiki/Surface_roughness)
     * [Spectral density](https://en.wikipedia.org/wiki/Spectral_density)
     * [International Roughness Index](https://en.wikipedia.org/wiki/International_Roughness_Index)
