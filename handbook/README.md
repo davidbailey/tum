@@ -2440,7 +2440,7 @@
   * Light Rail
   * [Tram-Train](https://en.wikipedia.org/wiki/Tram-train)
     * [Karlsruhe Model](https://en.wikipedia.org/wiki/Karlsruhe_model)
-* Heavy Rail (about 180 people/car × 6-10+ cars, up to 80,000 people/hour/line)
+* [Heavy Rail](https://en.wikipedia.org/wiki/Rapid_transit) (about 180 people/car × 6-10+ cars, up to 80,000 people/hour/line)
   * Subway / Metro (Rail Rapid Transit, Light Rail Rapid Transit, Rubber-tired Rapid Transit)
   * Regional Rail
   * Monorail
