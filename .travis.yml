@@ -21,5 +21,5 @@ script:
 - mdl handbook/README.md > handbook/mdl.txt || true # don't fail a build just because it doesn't lint
 - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
 - git config credential.helper "store --file=.git/credentials"
-- git commit -a -m 'Update README.md (via Travis-CI) [ci skip]'
+- git commit -a -m 'Update README.md and mdl.txt (via Travis-CI) [ci skip]'
 - git push origin HEAD:master
