@@ -5,7 +5,7 @@
 * [Tactical urbanism](https://en.wikipedia.org/wiki/Tactical_urbanism)
   * [Transform Your City With Tactical Urbanism](https://vimeo.com/220812813)
 
-### Laws and Regulations
+### Laws and [Regulations](https://en.wikipedia.org/wiki/Regulation)
 
 * [Vienna Convention on Road Traffic](https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Traffic)
   * [Vienna Convention on Road Traffic](http://www.unece.org/fileadmin/DAM/trans/conventn/crt1968e.pdf) [www.unece.org]
