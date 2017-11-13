@@ -35,6 +35,7 @@
   * Driving Simulators
   * Field studies: expensive and difficult
   * Surveys: cheap, detailed, easy, flexible, biased
+    * [Survey Design](https://en.wikiversity.org/wiki/Survey_design) [en.wikiversity.org]
     * [Panel data](https://en.wikipedia.org/wiki/Panel_data) repeated data from the same source
     * Self-administered (questionnaire, inventories, travel diaries)
       * Online / App
