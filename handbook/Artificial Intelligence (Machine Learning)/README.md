@@ -245,7 +245,7 @@
         * ± 2 Standard Errors => 95% Confidence Interval
     * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
 
-### [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice)
+### [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice) [Modelling](https://en.wikipedia.org/wiki/Choice_modelling)
 * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
   * [Independence of Irrelevant Alternatives](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives)
   * [Independent and Identically Distributed Random Variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
