@@ -176,6 +176,7 @@
       * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
   * [Backpropigate](https://en.wikipedia.org/wiki/Backpropagation
 ) (backward pass)
+    * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) [mattmazur.com]
     * [Hebbian Theory](https://en.wikipedia.org/wiki/Hebbian_theory)
       * "Cells that fire together wire together."
   * Run the Optimization algorythm to minimize the loss function by updating weights and biases
