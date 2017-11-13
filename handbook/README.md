@@ -12,7 +12,7 @@
   - [Learning Types](#learning-types)
   - [Neural Networks (Deep Learning)](#neural-networks-deep-learning)
   - [Regression](#regression)
-  - [Discrete Choice](#discrete-choice)
+  - [Discrete Choice Modelling](#discrete-choice-modelling)
   - [Pattern Recognition](#pattern-recognition)
 - [Economics](#economics)
   - [Microeconomics: individual firms, households](#microeconomics-individual-firms-households)
@@ -337,6 +337,7 @@
       * [Untersuchungen zu dynamischen neuronalen Netzen](http://www.bioinf.jku.at/publications/older/3804.pdf) [www.bioinf.jku.at]
   * [Backpropigate](https://en.wikipedia.org/wiki/Backpropagation
 ) (backward pass)
+    * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) [mattmazur.com]
     * [Hebbian Theory](https://en.wikipedia.org/wiki/Hebbian_theory)
       * "Cells that fire together wire together."
   * Run the Optimization algorythm to minimize the loss function by updating weights and biases
@@ -406,7 +407,7 @@
         * ± 2 Standard Errors => 95% Confidence Interval
     * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
 
-### [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice)
+### [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice) [Modelling](https://en.wikipedia.org/wiki/Choice_modelling)
 * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
   * [Independence of Irrelevant Alternatives](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives)
   * [Independent and Identically Distributed Random Variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
