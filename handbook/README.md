@@ -120,6 +120,7 @@
   - [Demand](#demand)
   - [Timetable](#timetable)
   - [Research Design](#research-design)
+  - [Experimental design](#experimental-design)
   - [Communicating Information](#communicating-information)
   - [(Big) Data Science](#big-data-science)
 - [Road Safety](#road-safety)
@@ -2743,6 +2744,12 @@ Network Map | simple | simple | complex, no map
   * [Cross-sectional study](https://en.wikipedia.org/wiki/Cross-sectional_study)
   * [Meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis)
   
+### [Experimental design](https://en.wikipedia.org/wiki/Design_of_experiments)
+* Full [factorial design](https://en.wikipedia.org/wiki/Factorial_experiment)
+* [Fractional factorial design](https://en.wikipedia.org/wiki/Fractional_factorial_design)
+* [Robust parameter design](https://en.wikipedia.org/wiki/Robust_parameter_design)
+* [Sparsity-of-effects principle](https://en.wikipedia.org/wiki/Sparsity-of-effects_principle)
+
 ### Communicating Information
 
 * Principles
