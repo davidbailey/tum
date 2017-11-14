@@ -18,7 +18,7 @@
 ### Vulnerable Road Users
 
 * [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
-  * (Pedestrian safety through vehicle design)[https://en.wikipedia.org/wiki/Pedestrian_safety_through_vehicle_design]
+  * [Pedestrian safety through vehicle design](https://en.wikipedia.org/wiki/Pedestrian_safety_through_vehicle_design)
 * Cyclists
 * Motorcyclists
 * Children and elderly people
