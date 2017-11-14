@@ -857,7 +857,8 @@
 * Design Standards
   * [Cambridge Department of Public Works](https://www.cambridgema.gov/theworks/ourservices/engineering/Resources/standarddetails.aspx) [www.cambridgema.gov]
   * [Urban Street Stormwater Guide](https://nacto.org/publication/urban-street-stormwater-guide/) [nacto.org]
-  * [Gravel Roads Maintenance and Design Manual](http://www.mnltap.umn.edu/publications/videos/gravelroadmaintenance/documents/manual.pdf)
+  * [Gravel Roads Maintenance and Design Manual](http://www.mnltap.umn.edu/publications/videos/gravelroadmaintenance/documents/manual.pdf) [www.mnltap.umn.edu]
+  * [Separated Bike Lane Planning & Design Guide](https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx) [www.massdot.state.ma.us]
 * Pedestrian Paths
   * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
     * Children in Sweden can walk alone at age 12-13.
@@ -3095,8 +3096,7 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
     * Fill Missing Links
     * Add Bridges and Tunnels
   * Result: people bike more for short trips
-* References
-  * [Separated Bike Lane Planning & Design Guide](https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx) [www.massdot.state.ma.us]
+* [The Definitive Rules of the Road for Urban Cyclists](https://www.citylab.com/amp/article/526500/) [www.citylab.com]
 
 ### [Transport Planning in Delft, Netherlands](https://www.youtube.com/watch?v=Y5_0T51vOuI) [www.youtube.com]
 
