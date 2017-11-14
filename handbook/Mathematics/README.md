@@ -113,7 +113,8 @@
 * Inferential Statistics: generalizing from a sample to a population
 * [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
   * Latent Variable: a variable we cannot directly observe
-
+* [Likelihood function](https://en.wikipedia.org/wiki/Likelihood_function)
+  * [Likelihood principle](https://en.wikipedia.org/wiki/Likelihood_principle)
 * References
   * [NIST/SEMATECH e-Handbook of Statistical Methods](http://www.itl.nist.gov/div898/handbook/index.htm) [www.itl.nist.gov]
 
@@ -213,4 +214,6 @@
 * [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
   * Degrees of Freedom = Sample Size - 1
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
-
+* [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+* [Frequentist probability](https://en.wikipedia.org/wiki/Frequentist_probability)
+* [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability)
