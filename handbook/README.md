@@ -24,8 +24,7 @@
   - [Land Use (transportation infrastructure uses land)](#land-use-transportation-infrastructure-uses-land)
   - [Seperation Effects (transportation infrastructure acts as a barrier)](#seperation-effects-transportation-infrastructure-acts-as-a-barrier)
 - [Finance](#finance)
-- [Freight (Cargo)](#freight-cargo)
-  - [Multimodal 2+ modes](#multimodal-2-modes)
+- [Geodesy](#geodesy)
   - [Geoinformation: where, what, how much, how, why](#geoinformation-where-what-how-much-how-why)
   - [Geoinformatics: art, science, engineering, techonogy of geoinformation](#geoinformatics-art-science-engineering-techonogy-of-geoinformation)
   - [Geographic Information System: tools + display + database](#geographic-information-system-tools--display--database)
@@ -573,13 +572,6 @@
 * Cost Escalation
   * percent of escalation correlates with length of project
 
-## [Freight (Cargo)](https://en.wikipedia.org/wiki/Cargo)
-
-### [Multimodal](https://en.wikipedia.org/wiki/Multimodal_transport) 2+ modes
-
-* [Intermodal](https://en.wikipedia.org/wiki/Intermodal_freight_transport) in a [container](https://en.wikipedia.org/wiki/Intermodal_container)
-  * [Contanierization](https://en.wikipedia.org/wiki/Containerization)
-    * [Swap Body](https://en.wikipedia.org/wiki/Swap_body)
 ## Geodesy
 
 ### Geoinformation: where, what, how much, how, why
