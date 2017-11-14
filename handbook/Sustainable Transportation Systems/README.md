@@ -173,8 +173,7 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
     * Fill Missing Links
     * Add Bridges and Tunnels
   * Result: people bike more for short trips
-* References
-  * [Separated Bike Lane Planning & Design Guide](https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx) [www.massdot.state.ma.us]
+* [The Definitive Rules of the Road for Urban Cyclists](https://www.citylab.com/amp/article/526500/) [www.citylab.com]
 
 ### [Transport Planning in Delft, Netherlands](https://www.youtube.com/watch?v=Y5_0T51vOuI) [www.youtube.com]
 
