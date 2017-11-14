@@ -24,7 +24,7 @@
   - [Land Use (transportation infrastructure uses land)](#land-use-transportation-infrastructure-uses-land)
   - [Seperation Effects (transportation infrastructure acts as a barrier)](#seperation-effects-transportation-infrastructure-acts-as-a-barrier)
 - [Finance](#finance)
-- [Freight](#freight)
+- [Freight/Cargo](#freightcargo)
   - [Multimodal: 2+ modes](#multimodal-2-modes)
   - [Geoinformation: where, what, how much, how, why](#geoinformation-where-what-how-much-how-why)
   - [Geoinformatics: art, science, engineering, techonogy of geoinformation](#geoinformatics-art-science-engineering-techonogy-of-geoinformation)
@@ -44,7 +44,6 @@
   - [Pipeline](#pipeline)
   - [Cable](#cable)
   - [Hyperloop](#hyperloop)
-  - [Freight/Cargo](#freightcargo)
   - [Civil Structures](#civil-structures)
   - [Station Design Process](#station-design-process)
 - [Intelligent Transportation Systems (ITS)](#intelligent-transportation-systems-its)
@@ -574,11 +573,13 @@
 * Cost Escalation
   * percent of escalation correlates with length of project
 
-## Freight
+## [Freight/Cargo](https://en.wikipedia.org/wiki/Cargo)
 
 ### [Multimodal](https://en.wikipedia.org/wiki/Multimodal_transport): 2+ modes
 
 * [Intermodal](https://en.wikipedia.org/wiki/Intermodal_freight_transport): in a [container](https://en.wikipedia.org/wiki/Intermodal_container)
+  * [Contanierization](https://en.wikipedia.org/wiki/Containerization)
+    * [Swap Body](https://en.wikipedia.org/wiki/Swap_body)
 ## Geodesy
 
 ### Geoinformation: where, what, how much, how, why
@@ -1037,8 +1038,6 @@
     * [Tram](https://en.wikipedia.org/wiki/Tram)
     * [Monorail](https://en.wikipedia.org/wiki/Monorail)
 * [Freight](https://en.wikipedia.org/wiki/Rail_freight_transport)
-  * (See Freight/Cargo)
-* https://www.youtube.com/playlist?list=PL6EF5E8751546E017
 
 ### [Waterways](https://en.wikipedia.org/wiki/Waterway)
 
@@ -1069,11 +1068,6 @@
 * [How ski lifts are installed: Vail's new Chair 5](https://www.youtube.com/watch?v=8CSxkYnyFg0) [www.youtube.com]
 
 ### [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
-
-### [Freight/Cargo](https://en.wikipedia.org/wiki/Cargo)
-
-* [Contanierization](https://en.wikipedia.org/wiki/Containerization)
-  * [Swap Body](https://en.wikipedia.org/wiki/Swap_body)
 
 ### Civil Structures
 
