@@ -6,7 +6,8 @@
 * Design Standards
   * [Cambridge Department of Public Works](https://www.cambridgema.gov/theworks/ourservices/engineering/Resources/standarddetails.aspx) [www.cambridgema.gov]
   * [Urban Street Stormwater Guide](https://nacto.org/publication/urban-street-stormwater-guide/) [nacto.org]
-  * [Gravel Roads Maintenance and Design Manual](http://www.mnltap.umn.edu/publications/videos/gravelroadmaintenance/documents/manual.pdf)
+  * [Gravel Roads Maintenance and Design Manual](http://www.mnltap.umn.edu/publications/videos/gravelroadmaintenance/documents/manual.pdf) [www.mnltap.umn.edu]
+  * [Separated Bike Lane Planning & Design Guide](https://www.massdot.state.ma.us/highway/DoingBusinessWithUs/ManualsPublicationsForms/SeparatedBikeLanePlanningDesignGuide.aspx) [www.massdot.state.ma.us]
 * Pedestrian Paths
   * [Walking Bus](https://en.wikipedia.org/wiki/Walking_bus)
     * Children in Sweden can walk alone at age 12-13.
