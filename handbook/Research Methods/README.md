@@ -8,6 +8,12 @@
   * [Cross-sectional study](https://en.wikipedia.org/wiki/Cross-sectional_study)
   * [Meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis)
   
+### [Experimental design](https://en.wikipedia.org/wiki/Design_of_experiments)
+* Full [factorial design](https://en.wikipedia.org/wiki/Factorial_experiment)
+* [Fractional factorial design](https://en.wikipedia.org/wiki/Fractional_factorial_design)
+* [Robust parameter design](https://en.wikipedia.org/wiki/Robust_parameter_design)
+* [Sparsity-of-effects principle](https://en.wikipedia.org/wiki/Sparsity-of-effects_principle)
+
 ### Communicating Information
 
 * Principles
