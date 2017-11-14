@@ -111,8 +111,6 @@
       * Skewness
       * Kurtosis
 * Inferential Statistics: generalizing from a sample to a population
-* [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
-  * Latent Variable: a variable we cannot directly observe
 * [Likelihood function](https://en.wikipedia.org/wiki/Likelihood_function)
   * [Likelihood principle](https://en.wikipedia.org/wiki/Likelihood_principle)
 * References
