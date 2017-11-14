@@ -125,6 +125,7 @@
   - [(Big) Data Science](#big-data-science)
 - [Road Safety](#road-safety)
   - [Measures](#measures)
+  - [Vulnerable Road Users](#vulnerable-road-users)
   - [Vision Zero](#vision-zero)
   - [Systematic Safety: Humans are vulnerable and make mistakes](#systematic-safety-humans-are-vulnerable-and-make-mistakes)
   - [Traffic Collisions](#traffic-collisions)
@@ -2819,6 +2820,14 @@ Network Map | simple | simple | complex, no map
   * Diverters
   * [Road Humps, Speed Tables, and Cushions](https://en.wikipedia.org/wiki/Speed_bump)
   * [Rumble Strips](https://en.wikipedia.org/wiki/Rumble_strip) and Other Surface Treatments
+
+### Vulnerable Road Users
+
+* [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
+  * [Pedestrian safety through vehicle design](https://en.wikipedia.org/wiki/Pedestrian_safety_through_vehicle_design)
+* Cyclists
+* Motorcyclists
+* Children and elderly people
 
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
 
