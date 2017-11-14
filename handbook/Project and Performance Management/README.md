@@ -1,10 +1,14 @@
 ## Project and Performance Management
 
-### SVS Engineering Process
+### SVS engineering process
 
 * Design the system
 * Simulate the system in software
 * Step-by-step, replace each componenet of the simulation with hardware until you have a complete system
+
+### [Business model](https://en.m.wikipedia.org/wiki/Business_model)
+
+* [Business Model Canvas](https://en.m.wikipedia.org/wiki/Business_Model_Canvas) 
 
 ### Project Management
 
