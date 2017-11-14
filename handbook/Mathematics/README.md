@@ -215,5 +215,6 @@
   * Degrees of Freedom = Sample Size - 1
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+  * P(A|B) = P(B|A) × P(A) / P(B)
 * [Frequentist probability](https://en.wikipedia.org/wiki/Frequentist_probability)
 * [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability)
