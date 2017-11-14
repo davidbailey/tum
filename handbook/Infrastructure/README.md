@@ -90,6 +90,7 @@
         * https://www.law.cornell.edu/cfr/text/49/213.57
         * http://www.highspeed-rail.org/Documents/PRIIA%20305%20DocSpec%20and%20other%20NGEC%20Documents/305%20PRIIA%20Tilt%20presentation.pdf
       * https://github.com/davidbailey/py/blob/master/railRadius.py
+  * [Street running](https://en.wikipedia.org/wiki/Street_running)
   * Equiptment
     * Impediance Bond
 * [Trains](https://en.wikipedia.org/wiki/Train)
