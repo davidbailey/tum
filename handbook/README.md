@@ -1943,8 +1943,6 @@
       * Skewness
       * Kurtosis
 * Inferential Statistics: generalizing from a sample to a population
-* [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
-  * Latent Variable: a variable we cannot directly observe
 * [Likelihood function](https://en.wikipedia.org/wiki/Likelihood_function)
   * [Likelihood principle](https://en.wikipedia.org/wiki/Likelihood_principle)
 * References
@@ -2749,6 +2747,9 @@ Network Map | simple | simple | complex, no map
 * [Fractional factorial design](https://en.wikipedia.org/wiki/Fractional_factorial_design)
 * [Robust parameter design](https://en.wikipedia.org/wiki/Robust_parameter_design)
 * [Sparsity-of-effects principle](https://en.wikipedia.org/wiki/Sparsity-of-effects_principle)
+* [Indicator function](https://en.wikipedia.org/wiki/Indicator_function) e.g. 1 if male, 0 if female
+* [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
+  * Latent variable: a variable we cannot directly observe: Observable variables -> Latent variable -> Observable outputs
 
 ### Communicating Information
 
