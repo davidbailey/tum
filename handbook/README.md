@@ -972,6 +972,7 @@
     * [Block Signaling](https://en.wikipedia.org/wiki/Automatic_block_signaling)
       * [Overlap](https://en.wikipedia.org/wiki/Overlap_(railway_signalling))
     * [Continuous Train Control](https://en.wikipedia.org/wiki/Linienzugbeeinflussung)
+    * [Communications-based train control](https://en.wikipedia.org/wiki/Communications-based_train_control)
     * [Running a Red Light (Signal Passed at Danger)](https://en.wikipedia.org/wiki/Signal_passed_at_danger)
       * Causes
         * Distraction
