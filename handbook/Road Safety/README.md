@@ -15,6 +15,14 @@
   * [Road Humps, Speed Tables, and Cushions](https://en.wikipedia.org/wiki/Speed_bump)
   * [Rumble Strips](https://en.wikipedia.org/wiki/Rumble_strip) and Other Surface Treatments
 
+### Vulnerable Road Users
+
+* [Pedestrians](https://en.wikipedia.org/wiki/Pedestrian)
+  * (Pedestrian safety through vehicle design)[https://en.wikipedia.org/wiki/Pedestrian_safety_through_vehicle_design]
+* Cyclists
+* Motorcyclists
+* Children and elderly people
+
 ### [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
 
 * Origin: [September 3, 1967 (Dagen H)](https://en.wikipedia.org/wiki/Dagen_H)
