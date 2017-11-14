@@ -96,7 +96,8 @@
   - [Deterministic vs. Stochastic Optimization](#deterministic-vs-stochastic-optimization)
   - [References](#references)
   - [Other](#other)
-  - [SVS Engineering Process](#svs-engineering-process)
+  - [SVS engineering process](#svs-engineering-process)
+  - [Business model](#business-model)
   - [Project Management](#project-management)
   - [Performance Management](#performance-management)
 - [Public Transportation](#public-transportation)
@@ -2146,11 +2147,15 @@
   * Non-Greedy: may choose a non-optimal solution
 ## Project and Performance Management
 
-### SVS Engineering Process
+### SVS engineering process
 
 * Design the system
 * Simulate the system in software
 * Step-by-step, replace each componenet of the simulation with hardware until you have a complete system
+
+### [Business model](https://en.m.wikipedia.org/wiki/Business_model)
+
+* [Business Model Canvas](https://en.m.wikipedia.org/wiki/Business_Model_Canvas) 
 
 ### Project Management
 
