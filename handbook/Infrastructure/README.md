@@ -180,8 +180,6 @@
     * [Tram](https://en.wikipedia.org/wiki/Tram)
     * [Monorail](https://en.wikipedia.org/wiki/Monorail)
 * [Freight](https://en.wikipedia.org/wiki/Rail_freight_transport)
-  * (See Freight/Cargo)
-* https://www.youtube.com/playlist?list=PL6EF5E8751546E017
 
 ### [Waterways](https://en.wikipedia.org/wiki/Waterway)
 
@@ -212,11 +210,6 @@
 * [How ski lifts are installed: Vail's new Chair 5](https://www.youtube.com/watch?v=8CSxkYnyFg0) [www.youtube.com]
 
 ### [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
-
-### [Freight/Cargo](https://en.wikipedia.org/wiki/Cargo)
-
-* [Contanierization](https://en.wikipedia.org/wiki/Containerization)
-  * [Swap Body](https://en.wikipedia.org/wiki/Swap_body)
 
 ### Civil Structures
 
