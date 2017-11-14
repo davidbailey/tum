@@ -26,6 +26,7 @@
 * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
 * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
   * [2+1 Road](https://en.wikipedia.org/wiki/2%2B1_road)
+  * [2+2 Road](https://en.wikipedia.org/wiki/2%2B2_road)
   * [Super Two](https://en.wikipedia.org/wiki/Super_two)
   * [Two-lane Expressway](https://en.wikipedia.org/wiki/Two-lane_expressway)
   * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
