@@ -3005,7 +3005,6 @@ handbook/README.md:530: MD013 Line length
 handbook/README.md:561: MD013 Line length
 handbook/README.md:562: MD013 Line length
 handbook/README.md:566: MD013 Line length
-handbook/README.md:580: MD013 Line length
 handbook/README.md:605: MD013 Line length
 handbook/README.md:628: MD013 Line length
 handbook/README.md:632: MD013 Line length
