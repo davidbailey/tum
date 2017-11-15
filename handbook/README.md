@@ -923,6 +923,8 @@
       * Pollution
       * Visibility
       * Wind Speed
+* Parking
+  * [Parking Generation](http://www.ite.org/tripgeneration/parking.asp) [www.ite.org]
 
 ### [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
 
@@ -1209,13 +1211,15 @@
 ### Autonomous Driving
 
 * SAE Levels of Automation:
-  * No Automation
-  * Driver Assistance
-    * Self Parking
-  * Partial Automation
-  * Conditional Automation
-  * High Automation
-  * Full Automation
+  * Human monitors the driving environment
+    * No Automation
+    * Driver Assistance
+      * Self Parking
+    * Partial Automation
+  * Car monitors the driving environment
+    * Conditional Automation: need a process to bring the driver back into the loop
+    * High Automation
+    * Full Automation
 * Driving Tasks
   * Localization and Mapping - Where am I?
     * [Six Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom)
