@@ -1892,6 +1892,11 @@ People outside cities (who most often drive) think of corridors (often freeways)
 ![Schematic depiction of the matrix product AB of two matrices A and B.](https://upload.wikimedia.org/wikipedia/commons/e/eb/Matrix_multiplication_diagram_2.svg)
 
 * [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+* [Norm](https://en.wikipedia.org/wiki/Norm_(mathematics))
+  * L1 Norm: red line
+  * L2 Norm: green line
+
+![Taxicab geometry versus Euclidean distance: In taxicab geometry, the red, yellow, and blue paths all have the shortest length of 12. In Euclidean geometry, the green line has length , and is the unique shortest path.](https://upload.wikimedia.org/wikipedia/commons/0/08/Manhattan_distance.svg)
 
 ### [Calculus](https://en.wikipedia.org/wiki/Calculus)
 * [Derivitave](https://en.wikipedia.org/wiki/Derivative)
