@@ -122,6 +122,7 @@
   - [Research Design](#research-design)
   - [Experimental design](#experimental-design)
   - [Sensitivity analysis](#sensitivity-analysis)
+  - [High Dimensional Space](#high-dimensional-space)
   - [Communicating Information](#communicating-information)
   - [(Big) Data Science](#big-data-science)
 - [Road Safety](#road-safety)
@@ -2781,7 +2782,11 @@ Network Map | simple | simple | complex, no map
 * [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
   * Latent variable: a variable we cannot directly observe: Observable variables -> Latent variable -> Observable outputs
 
-### [Sensitivity analysis] (https://en.wikipedia.org/wiki/Sensitivity_analysis)
+### [Sensitivity analysis](https://en.wikipedia.org/wiki/Sensitivity_analysis)
+
+### High [Dimensional](https://en.wikipedia.org/wiki/Dimension) Space
+
+* [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
 
 ### Communicating Information
 
