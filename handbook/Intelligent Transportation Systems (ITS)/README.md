@@ -211,6 +211,8 @@
       * Belt Tensioners
     * Head Restraint
     * Crumple Zones
+      * High [g-forces](https://en.wikipedia.org/wiki/G-force) in a short time period are very bad.
+      * Smaller vehicles need stiffer crumple zones because they have less mass so they need to absorb more impact.
     * Child Restraint Systems
     * [Crash Tests](https://en.wikipedia.org/wiki/Crash_test)
       * Standards
