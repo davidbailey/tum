@@ -1,4 +1,6 @@
-## Travel Behavior Analysis
+## Psychology
+
+### Travel Behavior Analysis
 
 * Why Travel?
   * Activities at Destination
@@ -49,4 +51,13 @@
     * Public Transportation: Speed, Frequency, Transfers
     * Car: Speed, Congestion
     * Bicycle: Speed (based on safe routes)
+
+### The Driving Task
+
+* Driver-Vehicle-Environment System
+  * Task-Capability Interface Model
+    * Task Difficulty Homeostasis
+    * We drive slower on more perceived dangerous roads and faster on perceived safer roads.
+* Demographics of more dangerous drivers: Young, Old
+* [Highway hypnosis](https://en.wikipedia.org/wiki/Highway_hypnosis)
 
