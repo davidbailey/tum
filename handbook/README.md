@@ -893,6 +893,8 @@
   * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
     * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(road))
     * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
+* [Transition curve](https://en.wikipedia.org/wiki/Track_transition_curve)
+  * [Clothoid](https://en.wikipedia.org/wiki/Euler_spiral)
 * Layers
   * [Surface](https://en.wikipedia.org/wiki/Road_surface)
     * [Concrete](https://en.wikipedia.org/wiki/Concrete)
@@ -1349,6 +1351,8 @@
       * Belt Tensioners
     * Head Restraint
     * Crumple Zones
+      * High [g-forces](https://en.wikipedia.org/wiki/G-force) in a short time period are very bad.
+      * Smaller vehicles need stiffer crumple zones because they have less mass so they need to absorb more impact.
     * Child Restraint Systems
     * [Crash Tests](https://en.wikipedia.org/wiki/Crash_test)
       * Standards
