@@ -1662,6 +1662,12 @@
 * Land Use and Public Transportation Index
   * build public transportation where there is high density and low quality public transportation
   * increase density where there is high quality public transportation and low density
+* Dutch ABC Policy - locate residences and businesses at the appropriate site
+  * A - good public transportation access - e.g. housing, offices with lots of workers, busy shops
+  * B - good public transportation and car access
+  * C - good car access - e.g. industrial sites
+* [Vinex-location](https://en.wikipedia.org/wiki/Vinex-location)
+
     
 ### [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
 
