@@ -33,6 +33,8 @@
   * [Route Numbers](https://en.wikipedia.org/wiki/Route_number)
     * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(road))
     * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
+* [Transition curve](https://en.wikipedia.org/wiki/Track_transition_curve)
+  * [Clothoid](https://en.wikipedia.org/wiki/Euler_spiral)
 * Layers
   * [Surface](https://en.wikipedia.org/wiki/Road_surface)
     * [Concrete](https://en.wikipedia.org/wiki/Concrete)
