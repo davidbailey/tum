@@ -1,4 +1,4 @@
-## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning))
+## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 
 ### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 * (all else equal) simplest is best
