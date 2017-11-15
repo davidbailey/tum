@@ -132,6 +132,7 @@
     * Infrared Camera
     * Satellite Navigation
     * Audio e.g. wet road
+  * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems)
 * Outputs
   * Steering Angle (Steer By Wire)
   * Brakes
