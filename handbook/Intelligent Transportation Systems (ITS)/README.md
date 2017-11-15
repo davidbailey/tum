@@ -229,6 +229,7 @@
 * After Crash
   * Automatic Emergency Call
   * V2V/I Collision Notifications
+* "Night Vision" Systems
 
 ### [Traffic Control](https://en.wikipedia.org/wiki/Road_traffic_control)
 
