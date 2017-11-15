@@ -270,3 +270,4 @@
   * if k=2+, find the closest matches, but there are gaps
 * [Kernel methods](https://en.wikipedia.org/wiki/Kernel_method)
   * [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
+
