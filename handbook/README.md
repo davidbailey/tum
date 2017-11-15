@@ -14,7 +14,6 @@
   - [Regression](#regression)
   - [Discrete Choice Modelling](#discrete-choice-modelling)
   - [Pattern Recognition](#pattern-recognition)
-- [Economics](#economics)
   - [Microeconomics: individual firms, households](#microeconomics-individual-firms-households)
   - [Macroeconomics: growth, inflation, unemployment](#macroeconomics-growth-inflation-unemployment)
   - [Air Pollution](#air-pollution)
@@ -432,7 +431,8 @@
 * [K-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   * L1 diff |image1 - image2| to find the closest match (if k=1)
   * if k=2+, find the closest matches, but there are gaps
-
+* [Kernel methods](https://en.wikipedia.org/wiki/Kernel_method)
+  * [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 ## Economics
 
 ### [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics): individual firms, households
@@ -1260,6 +1260,7 @@
     * Infrared Camera
     * Satellite Navigation
     * Audio e.g. wet road
+  * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems)
 * Outputs
   * Steering Angle (Steer By Wire)
   * Brakes
@@ -1864,6 +1865,8 @@
 * [Matrix Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
 
 ![Schematic depiction of the matrix product AB of two matrices A and B.](https://upload.wikimedia.org/wikipedia/commons/e/eb/Matrix_multiplication_diagram_2.svg)
+
+* [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 ### [Calculus](https://en.wikipedia.org/wiki/Calculus)
 * [Derivitave](https://en.wikipedia.org/wiki/Derivative)
