@@ -7,6 +7,8 @@
 
 ![Schematic depiction of the matrix product AB of two matrices A and B.](https://upload.wikimedia.org/wikipedia/commons/e/eb/Matrix_multiplication_diagram_2.svg)
 
+* [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+
 ### [Calculus](https://en.wikipedia.org/wiki/Calculus)
 * [Derivitave](https://en.wikipedia.org/wiki/Derivative)
   * [Partial Derivitave](https://en.wikipedia.org/wiki/Partial_derivative)
