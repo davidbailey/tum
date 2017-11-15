@@ -77,13 +77,15 @@
 ### Autonomous Driving
 
 * SAE Levels of Automation:
-  * No Automation
-  * Driver Assistance
-    * Self Parking
-  * Partial Automation
-  * Conditional Automation
-  * High Automation
-  * Full Automation
+  * Human monitors the driving environment
+    * No Automation
+    * 1. Driver Assistance
+      * Self Parking
+    * 2. Partial Automation
+  * Car monitors the driving environment
+    * 3. Conditional Automation: need a process to bring the driver back into the loop
+    * 4. High Automation
+    * 5 Full Automation
 * Driving Tasks
   * Localization and Mapping - Where am I?
     * [Six Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom)
