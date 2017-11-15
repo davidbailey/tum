@@ -56,6 +56,7 @@
   - [Viewpoints](#viewpoints)
   - [Autonomous Driving](#autonomous-driving)
   - [Advanced Driver Assistance Systems (ADAS)](#advanced-driver-assistance-systems-adas)
+  - [Vehicle Efficency/Convinence Improvements](#vehicle-efficencyconvinence-improvements)
   - [Cooperative Intelligent Transport Systems (C-ITS)](#cooperative-intelligent-transport-systems-c-its)
   - [Vehicle Safety](#vehicle-safety)
   - [Traffic Control](#traffic-control)
@@ -932,6 +933,7 @@
     * [Sleeper](https://en.wikipedia.org/wiki/Railroad_tie)
       * [Ladder track](https://en.wikipedia.org/wiki/Ladder_track)
     * [Fastening system](https://en.wikipedia.org/wiki/Rail_fastening_system)
+      * [A Better Sounding Subway](https://www.wnyc.org/story/better-sounding-subway/) [www.wnyc.org]
     * [Ballast](https://en.wikipedia.org/wiki/Track_ballast) or Ballastless track
     * [Subgrade](https://en.wikipedia.org/wiki/Subgrade)
   * [Track Geometry](https://en.wikipedia.org/wiki/Track_geometry)
@@ -1197,6 +1199,7 @@
 * SAE Levels of Automation:
   * No Automation
   * Driver Assistance
+    * Self Parking
   * Partial Automation
   * Conditional Automation
   * High Automation
@@ -1289,6 +1292,13 @@
       * Can have high error propagation
     * [Global Navigation Satellite System (GNSS)]() [self]
 
+### Vehicle Efficency/Convinence Improvements
+
+* Regenerative Braking
+* Automatic Engine Stop / Start
+* Cooperative Traffic Signal Communication with Vehicles (Speed for Green)
+    * Dynamic Speed Limit on Motorways
+
 ### Cooperative Intelligent Transport Systems (C-ITS)
 
 * [Cooperative ITS Corridor](http://www.c-its-korridor.de/?menuId=1&sp=en) [www.c-its-korridor.de]
@@ -1339,6 +1349,7 @@
 * After Crash
   * Automatic Emergency Call
   * V2V/I Collision Notifications
+* "Night Vision" Systems
 
 ### [Traffic Control](https://en.wikipedia.org/wiki/Road_traffic_control)
 
