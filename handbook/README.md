@@ -125,6 +125,7 @@
   - [Research Design](#research-design)
   - [Experimental design](#experimental-design)
   - [Sensitivity analysis](#sensitivity-analysis)
+  - [Model Calibration and Validation](#model-calibration-and-validation)
   - [High Dimensional Space](#high-dimensional-space)
   - [Communicating Information](#communicating-information)
   - [(Big) Data Science](#big-data-science)
@@ -2893,6 +2894,11 @@ Network Map | simple | simple | complex, no map
   * Latent variable: a variable we cannot directly observe: Observable variables -> Latent variable -> Observable outputs
 
 ### [Sensitivity analysis](https://en.wikipedia.org/wiki/Sensitivity_analysis)
+
+### Model Calibration and Validation
+
+* Minimize the Mean Square Error - always a good thing to try
+* Number of runs determined by mean square error deviation and confidence interval
 
 ### High [Dimensional](https://en.wikipedia.org/wiki/Dimension) Space
 
