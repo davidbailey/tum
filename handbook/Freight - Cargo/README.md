@@ -1,4 +1,4 @@
-## [Freight (Cargo)](https://en.wikipedia.org/wiki/Cargo)		
+## [Freight - Cargo](https://en.wikipedia.org/wiki/Cargo)		
 
 ### [Multimodal](https://en.wikipedia.org/wiki/Multimodal_transport) 2+ modes		
 
