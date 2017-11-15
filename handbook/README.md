@@ -148,9 +148,9 @@
   - [Bicycle Transportation Planning and Engineering](#bicycle-transportation-planning-and-engineering)
   - [Transport Planning in Delft, Netherlands [www.youtube.com]](#transport-planning-in-delft-netherlands-wwwyoutubecom)
   - [Vienna - Affordable and Inclusive Greatness [www.vienncouver.com]](#vienna---affordable-and-inclusive-greatness-wwwvienncouvercom)
-- [Traffic](#traffic)
+  - [The North American Model](#the-north-american-model)
   - [Level of Service (German: Qualitätsstufen des Verkehrsablaufs)](#level-of-service-german-qualit%C3%A4tsstufen-des-verkehrsablaufs)
-  - [Traffic](#traffic-1)
+  - [Traffic](#traffic)
   - [Traffic Models](#traffic-models)
   - [Simulation](#simulation)
   - [Traffic Counts and (Speed Surveys)](#traffic-counts-and-speed-surveys)
@@ -3244,6 +3244,14 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 
 ### [Vienna - Affordable and Inclusive Greatness](http://www.vienncouver.com/2017/04/vienna-affordable-and-inclusive-greatness/) [www.vienncouver.com]
 
+### The North American Model
+* Reasons why cars are the dominant transportation mode 
+  * personal freedom
+  * zoning - residential and commercial are farther from each other, not mixed
+  * the US got the car earlier than Europe
+  * people liked the bus more than the streetcar - more accessibility, faster
+  * parking minimums
+  * [Why Public Transportation Sucks in the US](https://www.youtube.com/watch?v=-cjfTG8DbwA) [www.youtube.com]
 ## [Traffic](https://en.wikipedia.org/wiki/Traffic)
 
 ### [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) (German: Qualitätsstufen des Verkehrsablaufs)
