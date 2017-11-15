@@ -1626,6 +1626,8 @@
   * [Incident Detection Alogrithm Evaluation](http://www.mountain-plains.org/pubs/pdf/MPC01-122.pdf) [www.mountain-plains.org]
 ## [Land Use](https://en.wikipedia.org/wiki/Land_use) and Transport Interactions
 
+People outside cities (who most often drive) think of corridors (often freeways) because they always go the same way to and from their homes. People in cities (walking, cycling, transiting, driving) think of networks because they can go in any direction from their homes.
+
 ### History
 
 * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich) -> Walking city
@@ -2927,6 +2929,8 @@ Network Map | simple | simple | complex, no map
 * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
 
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
+
+We don't tolerate buildings where people die in accidents, but we do tolerate roads where people die in accidents.
 
 ### Measures
 * [Traffic Calming 101](https://www.pps.org/reference/livememtraffic/) [www.pps.org]
