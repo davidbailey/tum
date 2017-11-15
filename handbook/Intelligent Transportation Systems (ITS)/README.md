@@ -171,6 +171,13 @@
       * Can have high error propagation
     * [Global Navigation Satellite System (GNSS)]() [self]
 
+### Vehicle Efficency Improvements
+
+* Regenerative Braking
+* Automatic Engine Stop / Start
+* Cooperative Traffic Signal Communication with Vehicles (Speed for Green)
+    * Dynamic Speed Limit on Motorways
+
 ### Cooperative Intelligent Transport Systems (C-ITS)
 
 * [Cooperative ITS Corridor](http://www.c-its-korridor.de/?menuId=1&sp=en) [www.c-its-korridor.de]
