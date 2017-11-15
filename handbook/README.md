@@ -17,7 +17,6 @@
 - [Economics](#economics)
   - [Microeconomics: individual firms, households](#microeconomics-individual-firms-households)
   - [Macroeconomics: growth, inflation, unemployment](#macroeconomics-growth-inflation-unemployment)
-- [Environment](#environment)
   - [Air Pollution](#air-pollution)
   - [Noise Pollution](#noise-pollution)
   - [Light Pollution](#light-pollution)
@@ -204,6 +203,7 @@
 * Unsupervised: unlabled data; e.g. clustering, density estimation
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
 * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
+* [Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)
 * other types of learning: demonstrations, observations
 
 ### Neural Networks (Deep Learning)
@@ -481,6 +481,7 @@
 
 ### [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics): growth, inflation, unemployment
 
+* [Nowcasting](https://en.wikipedia.org/wiki/Nowcasting_(economics))
 ## Environment
 
 ### Air Pollution
@@ -1852,6 +1853,8 @@
     * [International Roughness Index](https://en.wikipedia.org/wiki/International_Roughness_Index)
   * [Strength of Materials](https://en.wikipedia.org/wiki/Strength_of_materials)
     * [California Bearing Ratio](https://en.wikipedia.org/wiki/California_bearing_ratio)
+  * Pavement Quality
+    * [PASER scale](https://en.wikipedia.org/wiki/Pavement_Surface_Evaluation_and_Rating)
 ## [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
