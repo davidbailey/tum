@@ -76,6 +76,13 @@
       * [Island Platform](https://en.wikipedia.org/wiki/Island_platform)
       * [Spanish Solution](https://en.wikipedia.org/wiki/Spanish_solution)
 * [Track](https://en.wikipedia.org/wiki/Track_(rail_transport))
+  * Components
+    * [Rail](https://en.wikipedia.org/wiki/Rail_profile)
+    * [Sleeper](https://en.wikipedia.org/wiki/Railroad_tie)
+      * [Ladder track](https://en.wikipedia.org/wiki/Ladder_track)
+    * [Fastening system](https://en.wikipedia.org/wiki/Rail_fastening_system)
+    * [Ballast](https://en.wikipedia.org/wiki/Track_ballast) or Ballastless track
+    * [Subgrade](https://en.wikipedia.org/wiki/Subgrade)
   * [Track Geometry](https://en.wikipedia.org/wiki/Track_geometry)
     * [Speed Limit](https://en.wikipedia.org/wiki/Rail_speed_limits_in_the_United_States)
       * https://davidbailey.github.io/rail
@@ -93,7 +100,6 @@
         * http://www.highspeed-rail.org/Documents/PRIIA%20305%20DocSpec%20and%20other%20NGEC%20Documents/305%20PRIIA%20Tilt%20presentation.pdf
       * https://github.com/davidbailey/py/blob/master/railRadius.py
   * [Street running](https://en.wikipedia.org/wiki/Street_running)
-  * [Ladder track](https://en.wikipedia.org/wiki/Ladder_track)
   * Equiptment
     * Impediance Bond
 * [Trains](https://en.wikipedia.org/wiki/Train)
