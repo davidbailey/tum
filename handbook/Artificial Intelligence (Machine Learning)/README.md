@@ -40,6 +40,7 @@
 * Unsupervised: unlabled data; e.g. clustering, density estimation
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
 * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
+* [Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)
 * other types of learning: demonstrations, observations
 
 ### Neural Networks (Deep Learning)
