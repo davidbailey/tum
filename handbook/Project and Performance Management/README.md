@@ -6,6 +6,16 @@
 * Simulate the system in software
 * Step-by-step, replace each componenet of the simulation with hardware until you have a complete system
 
+### TUM engineering process
+
+* Define goals
+* Analyse the current situation
+* Identify problems
+* Design measures
+* Predict the impact of these measures
+* Implement measures
+* Continious quality monitoring
+
 ### [Business model](https://en.m.wikipedia.org/wiki/Business_model)
 
 * [Business Model Canvas](https://en.m.wikipedia.org/wiki/Business_Model_Canvas) 
