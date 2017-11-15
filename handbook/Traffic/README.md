@@ -15,12 +15,14 @@
   * Road Supply -> Travel Demand -> Road Supply... (positive feedback loop is controlled by congestion)
   * http://www.accessmagazine.org/articles/spring-2003/induced-travel-studies-inducing-bad-investments/
   * http://trec.pdx.edu/events/professional-development/friday-transportation-seminar-topic-tba-0
+  * [Downs–Thomson paradox](https://en.wikipedia.org/wiki/Downs–Thomson_paradox)
 * [Rush Hour](https://en.wikipedia.org/wiki/Rush_hour)
 * [Braess' Paradox](https://en.wikipedia.org/wiki/Braess%27_paradox)
 * [Congestion](https://en.wikipedia.org/wiki/Traffic_congestion) Causes Rule of Thumb: 1/3 of Each
   * Capicity (too much demand)
   * Construction
   * Crashes
+  * Anthony Downs’ law of peak hour traffic congestion
 
 ### [Traffic Models](https://en.wikipedia.org/wiki/Traffic_model)
 
