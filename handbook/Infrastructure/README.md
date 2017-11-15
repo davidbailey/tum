@@ -38,6 +38,8 @@
     * [Concrete](https://en.wikipedia.org/wiki/Concrete)
       * [Dowel Bars](https://en.wikipedia.org/wiki/Dowel_bar_retrofit)
     * [Asphalt](https://en.wikipedia.org/wiki/Asphalt_concrete)
+    * Semi-rigid pavement
+      * [The semi-rigid pavement with higher performances for roads and parking aprons](http://www.chemilink.com/files/pdf/C-P60/C-P60-FullPaper.pdf) [www.chemilink.com]
 * Bridges
 * [Tunnels](https://en.wikipedia.org/wiki/Tunnel)
   * Low Probability, High Consequence Events e.g. Fire, Smoke, Explosions, Hazardous Materials
