@@ -24,7 +24,10 @@
 * Supervised: provide large sample of labeled training data (ground truth: inputs and outputs); e.g. regression, classification, structured data
   * Humans can learn from much less data, simple instructions.
 * [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning): reward or punish based on just outcome, ground truth is scarce
-  * agent acts (decision) on environment, environment rewards or punishes agent
+  * [agent](https://en.wikipedia.org/wiki/Intelligent_agent) acts (decision) on environment, environment rewards or punishes agent
+  
+  ![Simple reflex agent](https://upload.wikimedia.org/wikipedia/commons/3/3f/IntelligentAgent-SimpleReflex.png)
+  
   * End-to-end learning: combine perceptiona and decision and optimize both together
   * supervised learning -> reinforcement learning - inputs: observations; output: actions; reward: loss function
   * Model-based reinforcement learning
