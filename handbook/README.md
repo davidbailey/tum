@@ -122,6 +122,7 @@
   - [Timetable](#timetable)
   - [Research Design](#research-design)
   - [Experimental design](#experimental-design)
+  - [Sensitivity analysis](#sensitivity-analysis)
   - [Communicating Information](#communicating-information)
   - [(Big) Data Science](#big-data-science)
 - [Road Safety](#road-safety)
@@ -2776,6 +2777,8 @@ Network Map | simple | simple | complex, no map
 * [Indicator function](https://en.wikipedia.org/wiki/Indicator_function) e.g. 1 if male, 0 if female
 * [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
   * Latent variable: a variable we cannot directly observe: Observable variables -> Latent variable -> Observable outputs
+
+### [Sensitivity analysis] (https://en.wikipedia.org/wiki/Sensitivity_analysis)
 
 ### Communicating Information
 
