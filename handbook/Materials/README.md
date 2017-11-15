@@ -28,3 +28,5 @@
     * [International Roughness Index](https://en.wikipedia.org/wiki/International_Roughness_Index)
   * [Strength of Materials](https://en.wikipedia.org/wiki/Strength_of_materials)
     * [California Bearing Ratio](https://en.wikipedia.org/wiki/California_bearing_ratio)
+  * Pavement Quality
+    * [PASER scale](https://en.wikipedia.org/wiki/Pavement_Surface_Evaluation_and_Rating)
