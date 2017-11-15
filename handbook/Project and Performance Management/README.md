@@ -12,7 +12,7 @@
 
 ### Project Management
 
-* Goal: Sustainable Transportation
+* Goal: Sustainable Transportation: Multimodal and Multijurisdictional
   * Vision: long-term goal
   * Strategy: medium-term plans
   * Action: short-term projects
