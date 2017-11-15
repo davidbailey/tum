@@ -1,5 +1,7 @@
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
+We don't tolerate buildings where people die in accidents, but we do tolerate roads where people die in accidents.
+
 ### Measures
 * [Traffic Calming 101](https://www.pps.org/reference/livememtraffic/) [www.pps.org]
   * Diagonal Parking
