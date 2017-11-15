@@ -14,10 +14,10 @@
   - [Regression](#regression)
   - [Discrete Choice Modelling](#discrete-choice-modelling)
   - [Pattern Recognition](#pattern-recognition)
+- [Economics](#economics)
   - [Microeconomics: individual firms, households](#microeconomics-individual-firms-households)
   - [Macroeconomics: growth, inflation, unemployment](#macroeconomics-growth-inflation-unemployment)
   - [Air Pollution](#air-pollution)
-  - [Noise Pollution](#noise-pollution)
   - [Light Pollution](#light-pollution)
   - [Land Use (transportation infrastructure uses land)](#land-use-transportation-infrastructure-uses-land)
   - [Seperation Effects (transportation infrastructure acts as a barrier)](#seperation-effects-transportation-infrastructure-acts-as-a-barrier)
@@ -435,6 +435,7 @@
   * if k=2+, find the closest matches, but there are gaps
 * [Kernel methods](https://en.wikipedia.org/wiki/Kernel_method)
   * [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
+
 ## Economics
 
 ### [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics): individual firms, households
@@ -539,7 +540,8 @@
       * [Cap and Trade](https://en.wikipedia.org/wiki/Emissions_trading)
     * [Low Carbon Technology](https://en.wikipedia.org/wiki/Low-carbon_technology)
     * [Kyoto Protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol)
-
+* [Handbook Emission Factors for Road Transport (HBEFA)](https://en.wikipedia.org/wiki/Handbook_Emission_Factors_for_Road_Transport_(HBEFA))
+  * [Handbook Emission Factors for Road Transport](http://www.hbefa.net) [www.hbefa.net]
 ### Noise Pollution
 
 * Sound
