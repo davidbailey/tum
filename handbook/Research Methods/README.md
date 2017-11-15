@@ -17,7 +17,11 @@
 * [Latent class model](https://en.wikipedia.org/wiki/Latent_class_model)
   * Latent variable: a variable we cannot directly observe: Observable variables -> Latent variable -> Observable outputs
 
-### [Sensitivity analysis] (https://en.wikipedia.org/wiki/Sensitivity_analysis)
+### [Sensitivity analysis](https://en.wikipedia.org/wiki/Sensitivity_analysis)
+
+### High [Dimensional](https://en.wikipedia.org/wiki/Dimension) Space
+
+* [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
 
 ### Communicating Information
 
