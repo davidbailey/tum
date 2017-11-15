@@ -95,6 +95,7 @@
   - [References](#references)
   - [Other](#other)
   - [SVS engineering process](#svs-engineering-process)
+  - [TUM engineering process](#tum-engineering-process)
   - [Business model](#business-model)
   - [Project Management](#project-management)
   - [Performance Management](#performance-management)
@@ -2209,6 +2210,16 @@ People outside cities (who most often drive) think of corridors (often freeways)
 * Design the system
 * Simulate the system in software
 * Step-by-step, replace each componenet of the simulation with hardware until you have a complete system
+
+### TUM engineering process
+
+* Define goals
+* Analyse the current situation
+* Identify problems
+* Design measures
+* Predict the impact of these measures
+* Implement measures
+* Continious quality monitoring
 
 ### [Business model](https://en.m.wikipedia.org/wiki/Business_model)
 
