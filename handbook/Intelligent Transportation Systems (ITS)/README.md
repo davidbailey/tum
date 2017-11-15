@@ -79,6 +79,7 @@
 * SAE Levels of Automation:
   * No Automation
   * Driver Assistance
+    * Self Parking
   * Partial Automation
   * Conditional Automation
   * High Automation
@@ -171,7 +172,7 @@
       * Can have high error propagation
     * [Global Navigation Satellite System (GNSS)]() [self]
 
-### Vehicle Efficency Improvements
+### Vehicle Efficency/Convinence Improvements
 
 * Regenerative Braking
 * Automatic Engine Stop / Start
