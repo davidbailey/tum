@@ -202,3 +202,11 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 
 ### [Vienna - Affordable and Inclusive Greatness](http://www.vienncouver.com/2017/04/vienna-affordable-and-inclusive-greatness/) [www.vienncouver.com]
 
+### The North American Model
+* Reasons why cars are the dominant transportation mode 
+  * personal freedom
+  * zoning - residential and commercial are farther from each other, not mixed
+  * the US got the car earlier than Europe
+  * people liked the bus more than the streetcar - more accessibility, faster
+  * parking minimums
+  * [Why Public Transportation Sucks in the US](https://www.youtube.com/watch?v=-cjfTG8DbwA) [www.youtube.com]
