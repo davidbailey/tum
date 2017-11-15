@@ -1397,7 +1397,6 @@ handbook/README.md:1798: MD004 Unordered list style
 handbook/README.md:1799: MD004 Unordered list style
 handbook/README.md:1801: MD004 Unordered list style
 handbook/README.md:1804: MD004 Unordered list style
-handbook/README.md:1810: MD004 Unordered list style
 handbook/README.md:1777: MD004 Unordered list style
 handbook/README.md:1778: MD004 Unordered list style
 handbook/README.md:1779: MD004 Unordered list style

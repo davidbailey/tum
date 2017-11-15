@@ -4,7 +4,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Artificial Intelligence (Machine Learning)](#artificial-intelligence-machine-learning)
+- [Artificial Intelligence - Machine Learning](#artificial-intelligence---machine-learning)
   - [Occam's Razor](#occams-razor)
   - [Courses](#courses)
   - [Competitions](#competitions)
@@ -22,7 +22,7 @@
   - [Land Use (transportation infrastructure uses land)](#land-use-transportation-infrastructure-uses-land)
   - [Seperation Effects (transportation infrastructure acts as a barrier)](#seperation-effects-transportation-infrastructure-acts-as-a-barrier)
 - [Finance](#finance)
-- [Freight (Cargo)](#freight-cargo)
+- [Freight - Cargo](#freight---cargo)
   - [Multimodal 2+ modes](#multimodal-2-modes)
   - [Geoinformation: where, what, how much, how, why](#geoinformation-where-what-how-much-how-why)
   - [Geoinformatics: art, science, engineering, techonogy of geoinformation](#geoinformatics-art-science-engineering-techonogy-of-geoinformation)
@@ -167,7 +167,7 @@
   * Internal => Page Title [self]
   * Other => Page Title [example.com]
 
-## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning))
+## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 
 ### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 * (all else equal) simplest is best
@@ -589,7 +589,7 @@
 * Cost Escalation
   * percent of escalation correlates with length of project
 
-## [Freight (Cargo)](https://en.wikipedia.org/wiki/Cargo)		
+## [Freight - Cargo](https://en.wikipedia.org/wiki/Cargo)		
 
 ### [Multimodal](https://en.wikipedia.org/wiki/Multimodal_transport) 2+ modes		
 
@@ -1807,7 +1807,7 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * Relationship w/ Urban Region: Integrated, Intermediate, Distant
 ## [Marketing](https://en.wikipedia.org/wiki/Marketing)
 
-* (Engagement rates are the highest at 11 a.m.)
+(Engagement rates are the highest at 11 a.m.)
 
 ### Test. Optimize. Test again
 
