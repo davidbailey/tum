@@ -159,7 +159,8 @@
   * [Automatic Train Control](https://en.wikipedia.org/wiki/Automatic_train_control)
   * [Automatic train operation](https://en.wikipedia.org/wiki/Automatic_train_operation)
     * [SelTrac](https://en.wikipedia.org/wiki/SelTrac)
-  * [European Rail Traffic Management System](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
+    * Project RUBIN in Nürnberg
+  * [European Rail Traffic Management System](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
     * [European Train Control System](https://en.wikipedia.org/wiki/European_Train_Control_System)
       * Train w/ intelligence
         * European Vital Computer (EVC)
