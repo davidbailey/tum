@@ -113,6 +113,10 @@
 * Inferential Statistics: generalizing from a sample to a population
 * [Likelihood function](https://en.wikipedia.org/wiki/Likelihood_function)
   * [Likelihood principle](https://en.wikipedia.org/wiki/Likelihood_principle)
+* [Simpson's_paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+
+![Simpson's paradox for quantitative data: a positive trend appears for two separate groups, whereas a negative trend appears when the groups are combined.](https://upload.wikimedia.org/wikipedia/commons/4/47/Simpson%27s_paradox_continuous.svg)
+
 * References
   * [NIST/SEMATECH e-Handbook of Statistical Methods](http://www.itl.nist.gov/div898/handbook/index.htm) [www.itl.nist.gov]
 
