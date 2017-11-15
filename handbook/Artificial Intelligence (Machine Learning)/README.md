@@ -268,4 +268,5 @@
 * [K-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   * L1 diff |image1 - image2| to find the closest match (if k=1)
   * if k=2+, find the closest matches, but there are gaps
-
+* [Kernel methods](https://en.wikipedia.org/wiki/Kernel_method)
+  * [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
