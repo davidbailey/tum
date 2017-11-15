@@ -3,6 +3,7 @@
 We don't tolerate buildings where people die in accidents, but we do tolerate roads where people die in accidents.
 
 ### Measures
+
 * [Traffic Calming 101](https://www.pps.org/reference/livememtraffic/) [www.pps.org]
   * Diagonal Parking
   * Changing [One-Way Streets](https://en.wikipedia.org/wiki/One-way_traffic) to Two-Way
@@ -16,6 +17,22 @@ We don't tolerate buildings where people die in accidents, but we do tolerate ro
   * Diverters
   * [Road Humps, Speed Tables, and Cushions](https://en.wikipedia.org/wiki/Speed_bump)
   * [Rumble Strips](https://en.wikipedia.org/wiki/Rumble_strip) and Other Surface Treatments
+
+### Measuring Road Safety
+
+* Pyramid
+  * Fatal crashes
+  * Severe injury crashes
+  * injury crashes
+  * damage only crashes
+  * near crashes
+  * slight conflicts
+  * potential conflicts
+  * no conflict
+* Direct measures: fatalities, crashes
+  * But these events are rare, often unreported, and are difficult to simulate
+* Indirect measures: conflicts, time-to-collision, post-encroachment time, headway
+  * More frequent, easier to simulate, but not reality
 
 ### Vulnerable Road Users
 
