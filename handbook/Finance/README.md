@@ -9,6 +9,7 @@
       * [Congestion pricing](https://en.wikipedia.org/wiki/Congestion_pricing)
         * [Congestion and Challenge: How Cities Can Respond to Transportation Demands — with Daniel Firth](https://www.youtube.com/watch?v=giuCRjBjyrU) [www.youtube.com]
           * public support is often negative before implementation, but switches to positive after implementation. e.g. London, Stockholm
+          * requirements: strong political commitment, clear objectives, extensive public participation and marketing, strong project management, adequate public transportation alternatives and traffic management
       * [Shunpiking](https://en.wikipedia.org/wiki/Shunpiking)
     * [Value Capture](https://en.wikipedia.org/wiki/Value_capture)
   * Private
