@@ -24,6 +24,7 @@
 - [Finance](#finance)
 - [Freight - Cargo](#freight---cargo)
   - [Multimodal 2+ modes](#multimodal-2-modes)
+- [Geodesy](#geodesy)
   - [Geoinformation: where, what, how much, how, why](#geoinformation-where-what-how-much-how-why)
   - [Geoinformatics: art, science, engineering, techonogy of geoinformation](#geoinformatics-art-science-engineering-techonogy-of-geoinformation)
   - [Geographic Information System: tools + display + database](#geographic-information-system-tools--display--database)
@@ -595,6 +596,7 @@
 
 * [Intermodal](https://en.wikipedia.org/wiki/Intermodal_freight_transport) in a [container](https://en.wikipedia.org/wiki/Intermodal_container)		([Contanierization](https://en.wikipedia.org/wiki/Containerization))
 * [Swap Body](https://en.wikipedia.org/wiki/Swap_body)		
+
 ## Geodesy
 
 ### Geoinformation: where, what, how much, how, why
