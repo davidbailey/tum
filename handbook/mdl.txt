@@ -3551,4 +3551,3 @@ handbook/README.md:3722: MD034 Bare URL used
 handbook/README.md:3723: MD034 Bare URL used
 handbook/README.md:3724: MD034 Bare URL used
 handbook/README.md:3725: MD034 Bare URL used
-handbook/README.md:2255: MD037 Spaces inside emphasis markers

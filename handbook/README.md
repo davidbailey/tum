@@ -2252,7 +2252,7 @@ People outside cities (who most often drive) think of corridors (often freeways)
 * Integration: Technical, Spatial, Temporal, Organizational, Methodological, Political
 * Stakeholders: Customers, Operators, Management, Society
 * [Project management triangle](https://en.wikipedia.org/wiki/Project_management_triangle)
-  * Quality = Cost * Schedule * Scope
+  * Quality = Cost × Schedule × Scope
 * Process
   * Problem Statement and Goal
   * Brainstorm Alternatives
