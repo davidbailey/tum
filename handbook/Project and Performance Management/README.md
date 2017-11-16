@@ -29,6 +29,7 @@
 * Principles: Comprehensive, Efficient, Inclusive, Informative, Integrated, Logical, Transparent
 * Integration: Technical, Spatial, Temporal, Organizational, Methodological, Political
 * Stakeholders: Customers, Operators, Management, Society
+* [Project management triangle](https://en.wikipedia.org/wiki/Project_management_triangle)
 * Process
   * Problem Statement and Goal
   * Brainstorm Alternatives
