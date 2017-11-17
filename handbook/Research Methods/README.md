@@ -51,6 +51,12 @@
   * [Sample, Explore, Modify, Model, Assess](https://en.wikipedia.org/wiki/SEMMA) (SEMMA)
   * [Cross-industry standard process for data mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 * Volume, Velocity, Variety
+* [Databases](https://en.wikipedia.org/wiki/Database)
+  * [Data Warehouse](https://en.wikipedia.org/wiki/Data_warehouse) vs. [Data Lake](https://en.wikipedia.org/wiki/Data_lake) vs. Data Swamp
+  * [Extract, transform, load (ETL)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+  * [Data cleaning](https://en.wikipedia.org/wiki/Data_cleansing)
+  * [ACID (Atomicity, Consistency, Isolation, Durability)](https://en.wikipedia.org/wiki/ACID)
+  * [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem): Consistency,	Availability,	Partition tolerance - Pick 2 of 3
 * Data Sources
   * Driving Simulators
   * Field studies: expensive and difficult
