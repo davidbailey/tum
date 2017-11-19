@@ -134,6 +134,7 @@
         * Decide what to remember (from the Previous State and/or New Data)
         * Decide what to output (if anything)
       * Uses: machine translation, handwriting recogntion, character-level text generation, image/video caption generation, steer sliding window, add audio to silent video, medical diagnosis, audio classification (wet road/dry road)
+      * [Understanding LSTM and its diagrams](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714) [medium.com]
   * [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (DNN)
   * [Deep Belief Networks](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * Components
