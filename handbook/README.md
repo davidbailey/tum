@@ -2124,6 +2124,7 @@ People outside cities (who most often drive) think of corridors (often freeways)
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
   * P(A|B) = P(B|A) × P(A) / P(B)
+  * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/html/index.html) [www.greenteapress.com]
 * [Frequentist probability](https://en.wikipedia.org/wiki/Frequentist_probability)
 * [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability)
 ## [Mechanics](https://en.wikipedia.org/wiki/Mechanics)
