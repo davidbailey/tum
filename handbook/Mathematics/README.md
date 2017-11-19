@@ -227,5 +227,6 @@
 * [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
   * P(A|B) = P(B|A) × P(A) / P(B)
   * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/html/index.html) [www.greenteapress.com]
+  * [Bayesian Modelling](http://mlg.eng.cam.ac.uk/zoubin/talks/lect1bayes.pdf) [mlg.eng.cam.ac.uk]
 * [Frequentist probability](https://en.wikipedia.org/wiki/Frequentist_probability)
 * [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability)
