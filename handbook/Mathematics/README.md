@@ -22,6 +22,7 @@
   * [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
   * [Hessian](https://en.wikipedia.org/wiki/Hessian_matrix): Second Derivitave
   * [Directional Derivitave](https://en.wikipedia.org/wiki/Directional_derivative)
+  * [Matrix Calculus](http://www.matrixcalculus.org) [www.matrixcalculus.org]
 * [Integral](https://en.wikipedia.org/wiki/Integral)
 
 ### [Graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))
