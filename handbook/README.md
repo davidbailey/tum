@@ -261,6 +261,7 @@
   * [PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr) [github.com]
   * [A Neural Network Playground](http://playground.tensorflow.org) [playground.tensorflow.org]
   * [Boltzmann Machines in TensorFlow with examples](https://github.com/monsta-hd/boltzmann-machines) [github.com]
+  * [Notebook for A Non-Expert’s Guide to Image Segmentation Using Deep Neural Nets](https://github.com/brine-io/u-net-segmentation-example/blob/master/U-Net%20Furniture%20Segmentation%20Example.ipynb) [github.com]
 * Types
   * Multilayer Perceptron (MLP) / Deep Feedforward Networks / FeedForward Neural Networks
     * basic neural networks
