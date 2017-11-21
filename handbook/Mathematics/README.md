@@ -223,6 +223,9 @@
   * Standard Error of the Distribution of the Difference of the Two Averages = sqrt((Variance₁ / Sample Size₁) + (Variance₂ / Sample Size₂))
 * [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
   * Degrees of Freedom = Sample Size - 1
+  * only when population variances are equal
+  * [Welch's t-test](https://en.wikipedia.org/wiki/Welch%27s_t-test)
+    * when pouplation variances are unequal
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
   * P(A|B) = P(B|A) × P(A) / P(B)
