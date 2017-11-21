@@ -73,6 +73,9 @@
     * Observations are usually more accurate
     * Helps understand why, not just what
     * Often miss special cases
+    * Reasonableness check: ask for individual satisfaction and overall satisfaction. they should match.
+    Order of questions matters.
+    * Provide Other, N/A, etc.
   * Environmental Sensors (See Environmental Sensors)
   * Traffic Counts (See Traffic Counts)
   * (Autonomous) Vehicles
