@@ -68,8 +68,10 @@ People outside cities (who most often drive) think of corridors (often freeways)
 ### Accessibility
 
 * "The more or less easiness with which one can reach a location (a) to perform an activity (b)" - geometric and economic easiness
+* e.g. how many jobs can I reach? f(jobs, transportation) how many workers can i reach? f(workers, transportation)
 * Accessibility = Σ Activities at Destinations × function(Generalized Costs to Travel to Destinations)
   * cost function is typically based on a [Gravity Model](https://en.wikipedia.org/wiki/Gravity_model_of_trade)
+    * but [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) is probably better...
   * (maybe Activities at Destinations should be function(Activities at Destinations) too...)
 * Density, Diversity, Design
   * [RAD Lab: Revitalizing the City Block](https://www.lynda.com/Documentaries-tutorials/RAD-Lab-Revitalizing-City-Block/447889-2.html) [www.lynda.com]
