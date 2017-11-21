@@ -263,6 +263,7 @@
   * [Ordered logit](https://en.wikipedia.org/wiki/Ordered_logit)
   * [Generalized Extreme Value Distribution](https://en.wikipedia.org/wiki/Generalized_extreme_value_distribution)
   * [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+  * [Factor analysis](https://en.wikipedia.org/wiki/Factor_analysis)
 * [Probit Model](https://en.wikipedia.org/wiki/Probit_model)
   * No [Closed-form Expression](https://en.wikipedia.org/wiki/Closed-form_expression)
 * References
