@@ -260,6 +260,7 @@
   * [Logit](https://en.wikipedia.org/wiki/Logit)
     * [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) [Logistic Function](https://en.wikipedia.org/wiki/Logistic_function)
   * [Mixed Logit](https://en.wikipedia.org/wiki/Mixed_logit)
+  * [Ordered logit](https://en.wikipedia.org/wiki/Ordered_logit)
   * [Generalized Extreme Value Distribution](https://en.wikipedia.org/wiki/Generalized_extreme_value_distribution)
   * [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 * [Probit Model](https://en.wikipedia.org/wiki/Probit_model)
