@@ -42,6 +42,10 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * [MATSim](https://en.wikipedia.org/wiki/MATSim) (See MATSim)
   * [UrbanSim](https://en.wikipedia.org/wiki/UrbanSim) (See UrbanSim)
     * [UrbanSim](https://www.urbansim.com) [www.urbansim.com]
+* Node-Place Model
+  * x-axis: place-value: accessibility e.g. # public transportation departures / hour
+  * x-axis: node-value: # jobs or # people
+  * [Node-Place-Model; A Strategic Tool for Regional Land Use Planning](http://arkitekturforskning.net/na/article/viewFile/164/128) [arkitekturforskning.net]
 * Land Use and Public Transportation Index
   * build public transportation where there is high density and low quality public transportation
   * increase density where there is high quality public transportation and low density
