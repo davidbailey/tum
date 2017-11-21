@@ -430,6 +430,7 @@
   * [Logit](https://en.wikipedia.org/wiki/Logit)
     * [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) [Logistic Function](https://en.wikipedia.org/wiki/Logistic_function)
   * [Mixed Logit](https://en.wikipedia.org/wiki/Mixed_logit)
+  * [Ordered logit](https://en.wikipedia.org/wiki/Ordered_logit)
   * [Generalized Extreme Value Distribution](https://en.wikipedia.org/wiki/Generalized_extreme_value_distribution)
   * [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 * [Probit Model](https://en.wikipedia.org/wiki/Probit_model)
@@ -2124,6 +2125,9 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * Standard Error of the Distribution of the Difference of the Two Averages = sqrt((Variance₁ / Sample Size₁) + (Variance₂ / Sample Size₂))
 * [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
   * Degrees of Freedom = Sample Size - 1
+  * only when population variances are equal
+  * [Welch's t-test](https://en.wikipedia.org/wiki/Welch%27s_t-test)
+    * when pouplation variances are unequal
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
   * P(A|B) = P(B|A) × P(A) / P(B)
