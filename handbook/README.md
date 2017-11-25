@@ -30,7 +30,7 @@
   - [Geographic Information System: tools + display + database](#geographic-information-system-tools--display--database)
   - [Global Navigation Satellite System (GNSS)](#global-navigation-satellite-system-gnss)
   - [Design](#design)
-- [Governance](#governance)
+- [Governance: "all patterns of rule"](#governance-all-patterns-of-rule)
   - [People / Society](#people--society)
   - [Laws and Regulations](#laws-and-regulations)
   - [Law Enforcement](#law-enforcement)
@@ -127,9 +127,9 @@
   - [Research Design](#research-design)
   - [Experimental design](#experimental-design)
   - [Sensitivity analysis](#sensitivity-analysis)
-  - [Model Calibration and Validation](#model-calibration-and-validation)
   - [High Dimensional Space](#high-dimensional-space)
   - [Communicating Information](#communicating-information)
+  - [Models](#models)
   - [(Big) Data Science](#big-data-science)
 - [Road Safety](#road-safety)
   - [Measures](#measures)
@@ -205,12 +205,19 @@
   * [Policy Gradient Method](https://en.wikipedia.org/wiki/Reinforcement_learning#Direct_policy_search): increase log probability when 'good' actions occur, decrease log probabilities when 'bad' actions occur
     * [Policy gradient methods](http://www.scholarpedia.org/article/Policy_gradient_methods) [www.scholarpedia.org]
   * [Markov Decision Model](https://en.wikipedia.org/wiki/Markov_decision_process): state, action, reward -> state, action, reward -> ...
+  * [Markov property](https://en.wikipedia.org/wiki/Markov_property): the future state depends only on the present state
   * maximize sum of future rewards (discounted because future rewards may not be realized)
   * [Q-Learning](https://en.wikipedia.org/wiki/Q-learning)
     * Exploration (try something new, see if it's fun; a random action) vs. Exploitation (keep doing what you enjoy)
       * Controlled by ε
     * [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
   * Problems: Trail and Error Learning, Delayed Reward, No Specified Instructions
+  * Dataset Aggregation
+    * supervised learning
+    * run the model on new data
+    * label the outputs
+    * aggregate 1 and 3.
+    * repeat
 * Unsupervised: unlabled data; e.g. clustering, density estimation
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
 * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
@@ -425,10 +432,12 @@
     * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
 
 ### [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice) [Modelling](https://en.wikipedia.org/wiki/Choice_modelling)
+* Choice set (alternatives): discrete, exhaustive, mutually exclusive
+  * problems for the chooser: availability and knowledge of each alternative
 * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
   * [Independence of Irrelevant Alternatives](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives)
   * [Independent and Identically Distributed Random Variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
-  * [Logit](https://en.wikipedia.org/wiki/Logit)
+  * [Logit](https://en.wikipedia.org/wiki/Logit) ([Daniel McFadden](https://en.wikipedia.org/wiki/Daniel_McFadden))
     * [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) [Logistic Function](https://en.wikipedia.org/wiki/Logistic_function)
   * [Mixed Logit](https://en.wikipedia.org/wiki/Mixed_logit)
   * [Ordered logit](https://en.wikipedia.org/wiki/Ordered_logit)
@@ -851,7 +860,7 @@
 * No purposeless details
 * [Design principles for cartography](https://blogs.esri.com/esri/arcgis/2011/10/28/design-principles-for-cartography/) [blogs.esri.com]
 
-## Governance
+## Governance: "all patterns of rule"
 
 ### People / [Society](https://en.wikipedia.org/wiki/Society)
 
@@ -916,10 +925,15 @@
     * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
 * [Transition curve](https://en.wikipedia.org/wiki/Track_transition_curve)
   * [Clothoid](https://en.wikipedia.org/wiki/Euler_spiral)
-* Layers
+* Layers: decrease strength and distribute load as you go down
   * [Surface](https://en.wikipedia.org/wiki/Road_surface)
     * [Concrete](https://en.wikipedia.org/wiki/Concrete)
-      * [Dowel Bars](https://en.wikipedia.org/wiki/Dowel_bar_retrofit)
+      * Jointed Plane Concrete Pavement
+        * expansion joints
+        * [Dowel Bars](https://en.wikipedia.org/wiki/Dowel_bar_retrofit): coated to prevent corrosion (DE) or uncoated (US) will corrode, but just make them a bit bigger
+      * Continously Reinforced Concrete Pavement
+        * more expensive
+        * Blacktopping: add a thin asphalt layer on top to reduce noise
     * [Asphalt](https://en.wikipedia.org/wiki/Asphalt_concrete)
     * Semi-rigid pavement
       * [The semi-rigid pavement with higher performances for roads and parking aprons](http://www.chemilink.com/files/pdf/C-P60/C-P60-FullPaper.pdf) [www.chemilink.com]
@@ -1708,6 +1722,7 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * B - good public transportation and car access
   * C - good car access - e.g. industrial sites
 * [Vinex-location](https://en.wikipedia.org/wiki/Vinex-location)
+* Contour Plots: travel time to a place, number of jobs reachable w/in a time by mode
 
     
 ### [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
@@ -1748,6 +1763,7 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * spacial distance, temporal distance, traffic-dependent, mode-dependent
 * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
   * ability to move - related to an activity - individual perspective, depends on [Built Environment](https://en.wikipedia.org/wiki/Built_environment)
+  * spatial (land use) + transportation supply
   * Mobility Rate: number of trips/person/day e.g. 3 in DE
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
   * [Victoria Transport Institute Online TDM Encyclopedia](http://www.vtpi.org/tdm/) [www.vtpi.org]
@@ -2858,7 +2874,7 @@ Network Map | simple | simple | complex, no map
 ### Scheduling
 
 * Trip Building
-  * Compute the necessary headway
+  * Compute the necessary headway: based on demand or policy
   * Compute the travel time, terminal time, cycle time, and number of vehicles needed
   * Create the timetable
 * Block Building: assign Transport Units to depot
@@ -2928,11 +2944,6 @@ Network Map | simple | simple | complex, no map
 
 ### [Sensitivity analysis](https://en.wikipedia.org/wiki/Sensitivity_analysis)
 
-### Model Calibration and Validation
-
-* Minimize the Mean Square Error - always a good thing to try
-* Number of runs determined by mean square error deviation and confidence interval
-
 ### High [Dimensional](https://en.wikipedia.org/wiki/Dimension) Space
 
 * [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
@@ -2951,6 +2962,44 @@ Network Map | simple | simple | complex, no map
   * Tell a story. Start with a big header, then some introduction, then a bold call to action, then the data. Maybe add a little conclusion in a text box in the data. 
   * Headline: communicates the key idea of the story
   * Story: think of the story, then the data, then the visualization
+* Presentations / Lectures
+  * Types
+    * Monologue: the presenter speaks the entire time
+    * Guided Monlogue: the presenter acts as a guide and prompts the audience to provide the material
+    * Seminar: the audience guides the discussion, may not cover all the material desired to be covered by the presenter
+  * Multimedia: slides, pictures, video, posters, handouts
+  * Questions: are good, allow for them
+  * Exercises: can be good
+
+### Models
+
+* Requirements for Models
+  * sensativity: as close to reality as necessary
+  * logical consistancy: makes sense
+  * operability: easy and cheap to use 
+  * transparency: clear and understandable
+  * reliability: same result with the same external conditions
+  * validity: suitable for representation and analysis
+* Model error is based on data error (measurement error) and specification error
+  * Data error increases w/ complexity
+  * Specification error decreases w/ complexity
+* Types
+  * Physical Models
+  * Mathmatical (Relationship) Model e.g. function w/ inputs and outputs
+    * Numerical and Analytical
+  * Process Model e.g. complex system w/ many relationships, interfaces (input/output), and feedback loops
+  * Modelling Platform e.g. a tool
+* Properties
+  * Static and Dynamic
+  * Deterministic and Stochastic
+  * Continuous and Discrete
+* Objectives
+  * Visualize/analyze/understand today
+  * Predict the future w/ and w/o implementing changes to make a better decision today
+* Calibration and Validation
+  * Minimize the Mean Square Error - always a good thing to try
+  * Number of runs determined by mean square error deviation and confidence interval
+
 
 ### [(Big)](https://en.wikipedia.org/wiki/Big_data) [Data Science](https://en.wikipedia.org/wiki/Data_science)
 
@@ -2998,6 +3047,7 @@ Network Map | simple | simple | complex, no map
   * Census Data
   * Safety Data
 * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
+
 
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
@@ -3373,217 +3423,194 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 
 ### [Traffic Models](https://en.wikipedia.org/wiki/Traffic_model)
 
-* Requirements for Models
-  * sensativity: as close to reality as necessary
-  * logical consistancy: makes sense
-  * operability: easy and cheap to use
-  * transparency: clear and understandable
-  * reliability: same result with the same external conditions
-  * validity: suitable for representation and analysis
-* Model error is based on data error and specification error
-  * Data error increases w/ complexity
-  * Specification error decreases w/ complexity
-* Types
-  * Physical Models
-  * Mathmatical (Relationship) Model e.g. function w/ inputs and outputs
-    * Numerical and Analytical
-  * Process Model e.g. complex system w/ many relationships, interfaces (input/output), and feedback loops
-  * Modelling Platform e.g. a tool
-  * Static and Dynamic
-  * Deterministic and Stochastic
-  * Continuous and Discrete
-* Objectives
-  * Visualize/analyze/understand today
-  * Predict the future w/ and w/o implementing changes to make a better decision today
-* Method
-  * [Microscopic Traffic Flow Models](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
+* [Microscopic Traffic Flow Models](https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model)
+  * Purpose
+    * car-following behavior
+    * lane change behavior
+    * merge behavior
+    * driver-infrastructure interaction behavior
+    * driver-vehicle interaction behavior
+  * Definations
+    * Net Distance = Time Gap = Back of 1st car to Front of 2nd car => Distance necessary to drive perpendicular across the direction of traffic
+    * Gross Distance = Headway = Front of 1st car to Front of 2nd car => For measuring vehicles/hour
+    * Braking Distance
+      * Absolute = minimum distance to stop before hitting a stopped object in front of you
+      * Relative = minimum distance to stop before hitting a moving object in front of you
+    * Time-to-crash: seconds until a vehicle hits the vehicle in front if neither speed changes
+    * Post-encroachment Time: seconds between perpindicular vehicles occupying the same point
+  * Variables
+    * Temporal Distance = headway = seconds
+    * Spatial Distance = meters
+    * Velocity = kilometers / hour = meters / seconds
+  * [Mass Point Model](https://en.wikipedia.org/wiki/Mass_point_geometry)
+    * with constant velocity
+      * a = 0
+      * v = constant
+      * s = s₀ + v × t
+      * Centrifugal Force = (m × v²)/R
+    * with constant acceleration
+      * a = constant
+      * v = v₀ + a × t
+      * s = ½ × a × t² + v₀ × t
+      * F = m × a
+    * [Weight](https://en.wikipedia.org/wiki/Weight) = m × g
+    * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ × Normal Force
+      * Dry Concrete and Rubber: µ = 1.0
+      * Lubricated Steel and Steel: µ = 0.16
+  * Car-Following Model
+    * [Gipps' model](https://en.wikipedia.org/wiki/Gipps%27_model) (1970s)
+    * [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model) (2000)
+    * [Newell's car-following model](https://en.wikipedia.org/wiki/Newell%27s_car-following_model) (2002)
+    * Psycho-physical car-following model
+      * incorporates the driver - following distance is not fixed, but oscillates
+      * drivers cannot judge the speed of a car in front of them well -> design roads like ~~~~~~~ not -------
+    * https://www.desmos.com/calculator/aqfmizrvdo
+    * Cellular Automation Model
+      * discrete car on discrete road
+      * fast to compute
+  * Lane Changing Model
+    * to change or not
+    * Mandatory versus Discretionary
+  * Fundamental Equation of Traffic Flow (Greenshields, 1935)
+    * Volume = Density × Velocity (momentary, not local)
+      * q = k × v
+      * cars/hr = cars/km × km/hr
+    * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
+    ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/Traffic/schick2003.png)
+
+    |   | Density (k) | Volume (q) | Velocity (v) |
+    | - | ----------- | ---------- | ------------ |
+    | Free Flow | Low | Low | High |
+    | Partially Dense | Medium | High | Medium-High |
+    | Dense | High | Low | Low |
+
+    * Two Areas of Traffic
+      * Free flow (stable)
+      * Transitional (unstable)
+      * Congested (stable)
+    * [Three Phases of Traffic](https://en.wikipedia.org/wiki/Three-phase_traffic_theory) (Kerner 2003)
+      * Free flow
+      * Synchronized flow
+      * Wide moving jam
+    * Van Aerde Model
+    * Uses
+      * design capacity determination
+      * probablilty of congestion / level of service prediction
+  * Continuum Theory and Dynamic Modeling
+    * [Kinematic Wave](https://en.wikipedia.org/wiki/Kinematic_wave)
+      * q = v × k => q = f(k) = q(k(x)) => k = f(x - c × t), c = speed of the wave
+      * [shock waves](https://en.wikipedia.org/wiki/Shock_wave) occur where two waves meet
+	* shock wave velocity, u = (q₂ – q₁) / (k₂ – k₁)
+	  * positive: downstream, no effect on congestion
+	  * negative: upstream, causes congestion
+* [Macroscopic Traffic Flow Models](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
+  * Definations
+    * Passenger Car Unit = [Passenger Car Equivalent](https://en.wikipedia.org/wiki/Passenger_car_equivalent)
+      * Car = 1
+      * Motorcycle = .5
+      * Bus = 2-4
+      * Truck = 2-4
+    * Homogeneous = gradiant at point in time is constant
+    * [Stationary](https://en.wikipedia.org/wiki/Stationary_state) = gradiant at point in space is constant
+  * Variables
+    * Traffic Volume = q = vehicles / hour
+      * Max capacity per lane = 1800 vehicles per hour = 1 vehicle every 2 seconds
+    * Traffic Density = k = vehicles / km
+      * Max density per lane = 150 vehicles per kilometer in congestions = 7 meters per vehicle
+    * Average velocity = v = km / hour
+      * Local = space is constant, time is variable overcounts fast vehicles = higher than momentary
+      * Momentary = time is constant, space is variable
+  * Four-step Model
     * Purpose
-      * car-following behavior
-      * lane change behavior
-      * merge behavior
-      * driver-infrastructure interaction behavior
-      * driver-vehicle interaction behavior
-    * Definations
-      * Net Distance = Time Gap = Back of 1st car to Front of 2nd car => Distance necessary to drive perpendicular across the direction of traffic
-      * Gross Distance = Headway = Front of 1st car to Front of 2nd car => For measuring vehicles/hour
-      * Braking Distance
-        * Absolute = minimum distance to stop before hitting a stopped object in front of you
-        * Relative = minimum distance to stop before hitting a moving object in front of you
-      * Time-to-crash: seconds until a vehicle hits the vehicle in front if neither speed changes
-      * Post-encroachment Time: seconds between perpindicular vehicles occupying the same point
-    * Variables
-      * Temporal Distance = headway = seconds
-      * Spatial Distance = meters
-      * Velocity = kilometers / hour = meters / seconds
-    * [Mass Point Model](https://en.wikipedia.org/wiki/Mass_point_geometry)
-      * with constant velocity
-        * a = 0
-        * v = constant
-        * s = s₀ + v × t
-        * Centrifugal Force = (m × v²)/R
-      * with constant acceleration
-        * a = constant
-        * v = v₀ + a × t
-        * s = ½ × a × t² + v₀ × t
-        * F = m × a
-      * [Weight](https://en.wikipedia.org/wiki/Weight) = m × g
-      * [Friction Force](https://en.wikipedia.org/wiki/Friction) = µ × Normal Force
-        * Dry Concrete and Rubber: µ = 1.0
-        * Lubricated Steel and Steel: µ = 0.16
-    * Car-Following Model
-      * [Gipps' model](https://en.wikipedia.org/wiki/Gipps%27_model) (1970s)
-      * [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model) (2000)
-      * [Newell's car-following model](https://en.wikipedia.org/wiki/Newell%27s_car-following_model) (2002)
-      * Psycho-physical car-following model
-        * incorporates the driver - following distance is not fixed, but oscillates
-        * drivers cannot judge the speed of a car in front of them well -> design roads like ~~~~~~~ not -------
-      * https://www.desmos.com/calculator/aqfmizrvdo
-      * Cellular Automation Model
-        * discrete car on discrete road
-        * fast to compute
-    * Lane Changing Model
-      * to change or not
-      * Mandatory versus Discretionary
-    * Fundamental Equation of Traffic Flow (Greenshields, 1935)
-      * Volume = Density × Velocity (momentary, not local)
-        * q = k × v
-        * cars/hr = cars/km × km/hr
-      * [Fundamental Diagram of Traffic Flow](https://en.wikipedia.org/wiki/Fundamental_diagram_of_traffic_flow)
-      ![schick2003](https://github.com/davidbailey/tum/raw/master/handbook/Traffic/schick2003.png)
-
-      |   | Density (k) | Volume (q) | Velocity (v) |
-      | - | ----------- | ---------- | ------------ |
-      | Free Flow | Low | Low | High |
-      | Partially Dense | Medium | High | Medium-High |
-      | Dense | High | Low | Low |
-
-      * Two Areas of Traffic
-        * Free flow (stable)
-        * Transitional (unstable)
-        * Congested (stable)
-      * [Three Phases of Traffic](https://en.wikipedia.org/wiki/Three-phase_traffic_theory) (Kerner 2003)
-        * Free flow
-        * Synchronized flow
-        * Wide moving jam
-      * Van Aerde Model
-      * Uses
-        * design capacity determination
-        * probablilty of congestion / level of service prediction
-    * Continuum Theory and Dynamic Modeling
-      * [Kinematic Wave](https://en.wikipedia.org/wiki/Kinematic_wave)
-        * q = v × k => q = f(k) = q(k(x)) => k = f(x - c × t), c = speed of the wave
-        * [shock waves](https://en.wikipedia.org/wiki/Shock_wave) occur where two waves meet
-          * shock wave velocity, u = (q₂ – q₁) / (k₂ – k₁)
-            * positive: downstream, no effect on congestion
-            * negative: upstream, causes congestion
-  * [Macroscopic Traffic Flow Models](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model)
-    * Definations
-      * Passenger Car Unit = [Passenger Car Equivalent](https://en.wikipedia.org/wiki/Passenger_car_equivalent)
-        * Car = 1
-        * Motorcycle = .5
-        * Bus = 2-4
-        * Truck = 2-4
-      * Homogeneous = gradiant at point in time is constant
-      * [Stationary](https://en.wikipedia.org/wiki/Stationary_state) = gradiant at point in space is constant
-    * Variables
-      * Traffic Volume = q = vehicles / hour
-        * Max capacity per lane = 1800 vehicles per hour = 1 vehicle every 2 seconds
-      * Traffic Density = k = vehicles / km
-        * Max density per lane = 150 vehicles per kilometer in congestions = 7 meters per vehicle
-      * Average velocity = v = km / hour
-        * Local = space is constant, time is variable overcounts fast vehicles = higher than momentary
-        * Momentary = time is constant, space is variable
-    * Four-step Model
-      * Purpose
-        * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
-      * Assumptions / Recommendations
-        * Zones (and traffic to/from a zone) is consolidated into one point via a connector. Lot of calibration needed here.
-        * Create single-use zones. e.g. all residential, all commercial, etc.
-        * Use natural and political boundaries if appropriate.
-        * Create smaller zones in more dense areas
-        * Create a study area bigger than the planning area
-        * Does not consider feedback between land use and transportation
-        * Does not consider feedback between the four stages.
-        * Mode choice is done after destination choice
-        * Ignores internal trips and through trips (to/from outside the region)
-        * Ignores trip chaining
-      * Required Information
-        * Links: speeds, capacity (number of lanes), congestion, permissible transport modes, public transport lines
-        * Nodes: capacity, turn restrictions, mean delay time for each traffic stream, public transport stops
-      * Steps
-        * Trip Generation
-          * Number of person/vehicle trips entering or leaving a zone.
-          * Structural data (population, jobs, square feet of retail space, number of seats, etc.) * Mobility rate for that data
-          * Hopefully this is symmetric. e.g. number of people who leave for work = number of people who arrive at work.
-        * Trip Distribution
-          * Based on a gravity function Tij = Oi × Dj × f(cij)
-            * Tij = trips from i to j
-            * Oi = trips w/ origin i
-            * Dj = trips w/ destination j
-            * cij = resistance based on distance, travel time, costs, etc.
-            * f() = deterrence function e.g. power function or exponential function
-          * Not necessarily symmetric.
-          * Big problem is a lack of understanding of spacial decision making. E.g. what if you visit a friend across town?
-        * Mode Choice
-          * Generalized cost term (utility) = (time + cost + comfort) × perception of each
-          * Based on the person (income, car availability, etc.) and the mode (travel time, comfort, etc.)
-          * Public transport times from timetable/reality
-          * Time includes wait time, access time (walk to car or public tranportation)
-          * Comfort includes stress, reliability, safety, etc.
-          * Captive riders must use public transportation (no car). Captive drivers must drive (no public tranportation).
-          * Methods
-            * [Kirchhoff's Law](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
-            * [Binary Logit Model](https://en.wikipedia.org/wiki/Logistic_regression)
-            * [Nested Logit Model](https://en.wikipedia.org/wiki/Discrete_choice#nested_logit)
-        * Route Assignment
-          * Car: which roads to take
-          * Public transportation: which lines, which transfers
-          * Inputs are travel demands (O/D Matrix, mode choice), transportation network with qualities for each mode, and a methodology for route choice and assignment
-          * Convert from input (people) to output (vehicles) by dividing by an occupancy rate e.g. 1.1 people/vehicle for commuting
-          * Outputs are impacts: traffic, congestion, noise, air pollution, loads on nodes and links
-          * Methods
-            * All or nothing
-              * Route identification for each O/D pair
-              * Route choice
-              * Load routes onto the network
-              * Evaluate the effects of congestion on 1.
-            * Capacity-restraint function
-              * t = t0 × (1 + a × (V / C) ^ b
-                * t = congested travel time
-                * t0 = free flow travel time
-                * V = traffic volume on the link
-                * C = capacity of the link
-                * a,b = parameters
-              * Iterative method. e.g. add 50%, then 30%, then 20%
-              * User Equilibrium / System Optimum Method
-                * Minimize Sum of Travel Time
-                * Deterministic or Stochastic (Percieved Best Route)
-          * Limitations
-            * Drivers do not assign themselves logically and change assignments over time
-            * Congestion affects destination choice, mode choice, whether to take the trip at all
-      * [John Glen Wardrop](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
-  * [Queuing Theory](https://en.wikipedia.org/wiki/Queueing_theory)
-    * e.g. intersections, toll plazas, merging at bottlenecks, loading and unloading boats, planes, buses, trains
-    * Arriaval Process ([FIFO](https://en.wikipedia.org/wiki/First-come,_first-served), LIFO, Service in Random Order) -> Queuing Order -> Service Process
-    * [Kendall's notation](https://en.wikipedia.org/wiki/Kendall%27s_notation)
-      * A/B/m/n
-        * A = arrival time distribution (often stochastic)
-        * B = service time distribution (often deterministic)
-        * m = number of service points
-        * n = number of waiting places before entering the system
-        * e.g. One Lane @ Traffic Signal = A/B/1/1; Two Lanes @ Traffic Signal = A/B/1/2; Toll Plaza w/ 3 approaching lanes and 5 gates = A/B/5/3
-    * ~ 2 seconds / vehicle to leave the queue
-    * [Degree of Saturation](https://en.wikipedia.org/wiki/Degree_of_saturation_(traffic))
-      * Deterministic Degree of Saturation = r = Arrival Volume / Capacity e.g. Traffic Signal
-        * r > 1 = oversaturated (realistic here)
-        * at a traffic signal r = Arrival Rate / (Service Rate * α) where α = Effective Greentime / Cycle Length
-      * Stochastic Degree of Saturation = ρ = Arrival Rate / Service Rate e.g. Toll Gate
-        * ρ < 1 = undersaturation (realistic here)
-        * mean waiting time = 1 / (Service Rate - Arrival Rate)
-        * mean queue length = Arrival Rate / (Service Rate - Arrival Rate)
-      * Use Stochastic for ρ < 1 and Deterministic for r > 1. Problem at 1.
-        * Webster Formula - useful for Traffic Signals
-        * Kimber/Hollis Model
+      * [Transportation Forcasting](https://en.wikipedia.org/wiki/Transportation_forecasting)
+    * Assumptions / Recommendations
+      * Zones (and traffic to/from a zone) is consolidated into one point via a connector. Lot of calibration needed here.
+      * Create single-use zones. e.g. all residential, all commercial, etc.
+      * Use natural and political boundaries if appropriate.
+      * Create smaller zones in more dense areas
+      * Create a study area bigger than the planning area
+      * Does not consider feedback between land use and transportation
+      * Does not consider feedback between the four stages.
+      * Mode choice is done after destination choice
+      * Ignores internal trips and through trips (to/from outside the region)
+      * Ignores trip chaining
+    * Required Information
+      * Links: speeds, capacity (number of lanes), congestion, permissible transport modes, public transport lines
+      * Nodes: capacity, turn restrictions, mean delay time for each traffic stream, public transport stops
+    * Steps
+      * Trip Generation
+	* Number of person/vehicle trips entering or leaving a zone.
+	* Structural data (population, jobs, square feet of retail space, number of seats, etc.) * Mobility rate for that data
+	* Hopefully this is symmetric. e.g. number of people who leave for work = number of people who arrive at work.
+      * Trip Distribution
+	* Based on a gravity function Tij = Oi × Dj × f(cij)
+	  * Tij = trips from i to j
+	  * Oi = trips w/ origin i
+	  * Dj = trips w/ destination j
+	  * cij = resistance based on distance, travel time, costs, etc.
+	  * f() = deterrence function e.g. power function or exponential function
+	* Not necessarily symmetric.
+	* Big problem is a lack of understanding of spacial decision making. E.g. what if you visit a friend across town?
+      * Mode Choice
+	* Generalized cost term (utility) = (time + cost + comfort) × perception of each
+	* Based on the person (income, car availability, etc.) and the mode (travel time, comfort, etc.)
+	* Public transport times from timetable/reality
+	* Time includes wait time, access time (walk to car or public tranportation)
+	* Comfort includes stress, reliability, safety, etc.
+	* Captive riders must use public transportation (no car). Captive drivers must drive (no public tranportation).
+	* Methods
+	  * [Kirchhoff's Law](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
+	  * [Binary Logit Model](https://en.wikipedia.org/wiki/Logistic_regression)
+	  * [Nested Logit Model](https://en.wikipedia.org/wiki/Discrete_choice#nested_logit)
+      * Route Assignment
+	* Car: which roads to take
+	* Public transportation: which lines, which transfers
+	* Inputs are travel demands (O/D Matrix, mode choice), transportation network with qualities for each mode, and a methodology for route choice and assignment
+	* Convert from input (people) to output (vehicles) by dividing by an occupancy rate e.g. 1.1 people/vehicle for commuting
+	* Outputs are impacts: traffic, congestion, noise, air pollution, loads on nodes and links
+	* Methods
+	  * All or nothing
+	    * Route identification for each O/D pair
+	    * Route choice
+	    * Load routes onto the network
+	    * Evaluate the effects of congestion on 1.
+	  * Capacity-restraint function
+	    * t = t0 × (1 + a × (V / C) ^ b
+	      * t = congested travel time
+	      * t0 = free flow travel time
+	      * V = traffic volume on the link
+	      * C = capacity of the link
+	      * a,b = parameters
+	    * Iterative method. e.g. add 50%, then 30%, then 20%
+	    * User Equilibrium / System Optimum Method
+	      * Minimize Sum of Travel Time
+	      * Deterministic or Stochastic (Percieved Best Route)
+	* Limitations
+	  * Drivers do not assign themselves logically and change assignments over time
+	  * Congestion affects destination choice, mode choice, whether to take the trip at all
+    * [John Glen Wardrop](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
+* [Queuing Theory](https://en.wikipedia.org/wiki/Queueing_theory)
+  * e.g. intersections, toll plazas, merging at bottlenecks, loading and unloading boats, planes, buses, trains
+  * Arriaval Process ([FIFO](https://en.wikipedia.org/wiki/First-come,_first-served), LIFO, Service in Random Order) -> Queuing Order -> Service Process
+  * [Kendall's notation](https://en.wikipedia.org/wiki/Kendall%27s_notation)
+    * A/B/m/n
+      * A = arrival time distribution (often stochastic)
+      * B = service time distribution (often deterministic)
+      * m = number of service points
+      * n = number of waiting places before entering the system
+      * e.g. One Lane @ Traffic Signal = A/B/1/1; Two Lanes @ Traffic Signal = A/B/1/2; Toll Plaza w/ 3 approaching lanes and 5 gates = A/B/5/3
+  * ~ 2 seconds / vehicle to leave the queue
+  * [Degree of Saturation](https://en.wikipedia.org/wiki/Degree_of_saturation_(traffic))
+    * Deterministic Degree of Saturation = r = Arrival Volume / Capacity e.g. Traffic Signal
+      * r > 1 = oversaturated (realistic here)
+      * at a traffic signal r = Arrival Rate / (Service Rate * α) where α = Effective Greentime / Cycle Length
+    * Stochastic Degree of Saturation = ρ = Arrival Rate / Service Rate e.g. Toll Gate
+      * ρ < 1 = undersaturation (realistic here)
+      * mean waiting time = 1 / (Service Rate - Arrival Rate)
+      * mean queue length = Arrival Rate / (Service Rate - Arrival Rate)
+    * Use Stochastic for ρ < 1 and Deterministic for r > 1. Problem at 1.
+      * Webster Formula - useful for Traffic Signals
+      * Kimber/Hollis Model
 
 ### [Simulation](https://en.wikipedia.org/wiki/Traffic_simulation)
 
