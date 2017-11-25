@@ -54,6 +54,7 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * B - good public transportation and car access
   * C - good car access - e.g. industrial sites
 * [Vinex-location](https://en.wikipedia.org/wiki/Vinex-location)
+* Contour Plots: travel time to a place, number of jobs reachable w/in a time by mode
 
     
 ### [Activity](https://en.wikipedia.org/wiki/Action_(philosophy))
@@ -94,6 +95,7 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * spacial distance, temporal distance, traffic-dependent, mode-dependent
 * [Mobility](https://en.wikipedia.org/wiki/Mobilities)
   * ability to move - related to an activity - individual perspective, depends on [Built Environment](https://en.wikipedia.org/wiki/Built_environment)
+  * spatial (land use) + transportation supply
   * Mobility Rate: number of trips/person/day e.g. 3 in DE
 * [Transportation Demand Management](https://en.wikipedia.org/wiki/Transportation_demand_management)
   * [Victoria Transport Institute Online TDM Encyclopedia](http://www.vtpi.org/tdm/) [www.vtpi.org]

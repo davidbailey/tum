@@ -310,7 +310,7 @@ Network Map | simple | simple | complex, no map
 ### Scheduling
 
 * Trip Building
-  * Compute the necessary headway
+  * Compute the necessary headway: based on demand or policy
   * Compute the travel time, terminal time, cycle time, and number of vehicles needed
   * Create the timetable
 * Block Building: assign Transport Units to depot

@@ -35,10 +35,15 @@
     * [Highway Shield](https://en.wikipedia.org/wiki/Highway_shield)
 * [Transition curve](https://en.wikipedia.org/wiki/Track_transition_curve)
   * [Clothoid](https://en.wikipedia.org/wiki/Euler_spiral)
-* Layers
+* Layers: decrease strength and distribute load as you go down
   * [Surface](https://en.wikipedia.org/wiki/Road_surface)
     * [Concrete](https://en.wikipedia.org/wiki/Concrete)
-      * [Dowel Bars](https://en.wikipedia.org/wiki/Dowel_bar_retrofit)
+      * Jointed Plane Concrete Pavement
+        * expansion joints
+        * [Dowel Bars](https://en.wikipedia.org/wiki/Dowel_bar_retrofit): coated to prevent corrosion (DE) or uncoated (US) will corrode, but just make them a bit bigger
+      * Continously Reinforced Concrete Pavement
+        * more expensive
+        * Blacktopping: add a thin asphalt layer on top to reduce noise
     * [Asphalt](https://en.wikipedia.org/wiki/Asphalt_concrete)
     * Semi-rigid pavement
       * [The semi-rigid pavement with higher performances for roads and parking aprons](http://www.chemilink.com/files/pdf/C-P60/C-P60-FullPaper.pdf) [www.chemilink.com]

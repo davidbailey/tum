@@ -34,12 +34,19 @@
   * [Policy Gradient Method](https://en.wikipedia.org/wiki/Reinforcement_learning#Direct_policy_search): increase log probability when 'good' actions occur, decrease log probabilities when 'bad' actions occur
     * [Policy gradient methods](http://www.scholarpedia.org/article/Policy_gradient_methods) [www.scholarpedia.org]
   * [Markov Decision Model](https://en.wikipedia.org/wiki/Markov_decision_process): state, action, reward -> state, action, reward -> ...
+  * [Markov property](https://en.wikipedia.org/wiki/Markov_property): the future state depends only on the present state
   * maximize sum of future rewards (discounted because future rewards may not be realized)
   * [Q-Learning](https://en.wikipedia.org/wiki/Q-learning)
     * Exploration (try something new, see if it's fun; a random action) vs. Exploitation (keep doing what you enjoy)
       * Controlled by ε
     * [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
   * Problems: Trail and Error Learning, Delayed Reward, No Specified Instructions
+  * Dataset Aggregation
+    * supervised learning
+    * run the model on new data
+    * label the outputs
+    * aggregate 1 and 3.
+    * repeat
 * Unsupervised: unlabled data; e.g. clustering, density estimation
 * [Competitive Self-Play](https://blog.openai.com/competitive-self-play) [blog.openai.com]
 * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
@@ -254,10 +261,12 @@
     * T-Ratio compared against t-Student distribution with (Sample Size - Number of Variables) degrees of freedom
 
 ### [Discrete Choice](https://en.wikipedia.org/wiki/Discrete_choice) [Modelling](https://en.wikipedia.org/wiki/Choice_modelling)
+* Choice set (alternatives): discrete, exhaustive, mutually exclusive
+  * problems for the chooser: availability and knowledge of each alternative
 * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
   * [Independence of Irrelevant Alternatives](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives)
   * [Independent and Identically Distributed Random Variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
-  * [Logit](https://en.wikipedia.org/wiki/Logit)
+  * [Logit](https://en.wikipedia.org/wiki/Logit) ([Daniel McFadden](https://en.wikipedia.org/wiki/Daniel_McFadden))
     * [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) [Logistic Function](https://en.wikipedia.org/wiki/Logistic_function)
   * [Mixed Logit](https://en.wikipedia.org/wiki/Mixed_logit)
   * [Ordered logit](https://en.wikipedia.org/wiki/Ordered_logit)

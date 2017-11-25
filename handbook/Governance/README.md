@@ -1,4 +1,4 @@
-## Governance
+## Governance: "all patterns of rule"
 
 ### People / [Society](https://en.wikipedia.org/wiki/Society)
 

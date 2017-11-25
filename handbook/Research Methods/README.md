@@ -19,11 +19,6 @@
 
 ### [Sensitivity analysis](https://en.wikipedia.org/wiki/Sensitivity_analysis)
 
-### Model Calibration and Validation
-
-* Minimize the Mean Square Error - always a good thing to try
-* Number of runs determined by mean square error deviation and confidence interval
-
 ### High [Dimensional](https://en.wikipedia.org/wiki/Dimension) Space
 
 * [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
@@ -42,6 +37,44 @@
   * Tell a story. Start with a big header, then some introduction, then a bold call to action, then the data. Maybe add a little conclusion in a text box in the data. 
   * Headline: communicates the key idea of the story
   * Story: think of the story, then the data, then the visualization
+* Presentations / Lectures
+  * Types
+    * Monologue: the presenter speaks the entire time
+    * Guided Monlogue: the presenter acts as a guide and prompts the audience to provide the material
+    * Seminar: the audience guides the discussion, may not cover all the material desired to be covered by the presenter
+  * Multimedia: slides, pictures, video, posters, handouts
+  * Questions: are good, allow for them
+  * Exercises: can be good
+
+### Models
+
+* Requirements for Models
+  * sensativity: as close to reality as necessary
+  * logical consistancy: makes sense
+  * operability: easy and cheap to use 
+  * transparency: clear and understandable
+  * reliability: same result with the same external conditions
+  * validity: suitable for representation and analysis
+* Model error is based on data error (measurement error) and specification error
+  * Data error increases w/ complexity
+  * Specification error decreases w/ complexity
+* Types
+  * Physical Models
+  * Mathmatical (Relationship) Model e.g. function w/ inputs and outputs
+    * Numerical and Analytical
+  * Process Model e.g. complex system w/ many relationships, interfaces (input/output), and feedback loops
+  * Modelling Platform e.g. a tool
+* Properties
+  * Static and Dynamic
+  * Deterministic and Stochastic
+  * Continuous and Discrete
+* Objectives
+  * Visualize/analyze/understand today
+  * Predict the future w/ and w/o implementing changes to make a better decision today
+* Calibration and Validation
+  * Minimize the Mean Square Error - always a good thing to try
+  * Number of runs determined by mean square error deviation and confidence interval
+
 
 ### [(Big)](https://en.wikipedia.org/wiki/Big_data) [Data Science](https://en.wikipedia.org/wiki/Data_science)
 
@@ -89,4 +122,5 @@
   * Census Data
   * Safety Data
 * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
+
 
