@@ -3359,6 +3359,9 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
     * Add Bridges and Tunnels
   * Result: people bike more for short trips
 * [The Definitive Rules of the Road for Urban Cyclists](https://www.citylab.com/amp/article/526500/) [www.citylab.com]
+* Amsterdam vs Copenhagen
+  * [Part 1 – Basic urban cycle track anatomy](https://robertweetman.wordpress.com/2017/11/04/amsterdam-vs-copenhagen-part-1/) [robertweetman.wordpress.com]
+  * [Part 2 – Basic junction anatomy](https://robertweetman.wordpress.com/2017/11/25/amsterdam-vs-copenhagen-part-2/) [robertweetman.wordpress.com]
 
 ### [Transport Planning in Delft, Netherlands](https://www.youtube.com/watch?v=Y5_0T51vOuI) [www.youtube.com]
 
