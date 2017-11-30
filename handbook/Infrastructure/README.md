@@ -47,6 +47,7 @@
     * [Asphalt](https://en.wikipedia.org/wiki/Asphalt_concrete)
     * Semi-rigid pavement
       * [The semi-rigid pavement with higher performances for roads and parking aprons](http://www.chemilink.com/files/pdf/C-P60/C-P60-FullPaper.pdf) [www.chemilink.com]
+    * [Permeable materials](https://en.wikipedia.org/wiki/Permeable_paving): stones, pavers
 * Bridges
 * [Tunnels](https://en.wikipedia.org/wiki/Tunnel)
   * Low Probability, High Consequence Events e.g. Fire, Smoke, Explosions, Hazardous Materials
