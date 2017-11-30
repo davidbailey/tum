@@ -72,6 +72,7 @@
   - [Project Management](#project-management)
   - [Planning](#planning)
   - [Performance Management](#performance-management)
+  - [Risk Management](#risk-management)
 - [Marketing](#marketing)
   - [Test. Optimize. Test again](#test-optimize-test-again)
   - [Digital Marketing Channels](#digital-marketing-channels)
@@ -938,6 +939,7 @@
     * [Asphalt](https://en.wikipedia.org/wiki/Asphalt_concrete)
     * Semi-rigid pavement
       * [The semi-rigid pavement with higher performances for roads and parking aprons](http://www.chemilink.com/files/pdf/C-P60/C-P60-FullPaper.pdf) [www.chemilink.com]
+    * [Permeable materials](https://en.wikipedia.org/wiki/Permeable_paving): stones, pavers
 * Bridges
 * [Tunnels](https://en.wikipedia.org/wiki/Tunnel)
   * Low Probability, High Consequence Events e.g. Fire, Smoke, Explosions, Hazardous Materials
@@ -2091,6 +2093,15 @@ People outside cities (who most often drive) think of corridors (often freeways)
       * Value: best bang for the buck
       * Resolve conflicts between policies
       * Get more funding…
+
+### Risk Management
+
+Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year) × Consequence ($/occurance)
+* Why? Decisions involving uncertainty, risk management, optimization
+* Uncertainty
+  * Aleatory: cannot be reduced, caused by randomness
+  * Epistemic: can be reduced w/ more knowledge, caused by lack of knowledge
+    * Reduced through Bayes' Theorem
 
 ## [Marketing](https://en.wikipedia.org/wiki/Marketing)
 
