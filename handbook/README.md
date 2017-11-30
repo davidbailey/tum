@@ -6,7 +6,7 @@
 
 - [Artificial Intelligence - Machine Learning](#artificial-intelligence---machine-learning)
   - [Occam's Razor](#occams-razor)
-  - [Courses](#courses)
+  - [Courses / References](#courses--references)
   - [Competitions](#competitions)
   - [Tasks](#tasks)
   - [Learning Types](#learning-types)
@@ -33,8 +33,6 @@
 - [Governance: "all patterns of rule"](#governance-all-patterns-of-rule)
   - [People / Society](#people--society)
   - [Laws and Regulations](#laws-and-regulations)
-  - [Law Enforcement](#law-enforcement)
-- [Infrastructure](#infrastructure)
   - [Road Transport](#road-transport)
   - [Rail / Railway Engineering](#rail--railway-engineering)
   - [Waterways](#waterways)
@@ -174,10 +172,11 @@
 ### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 * (all else equal) simplest is best
 
-### Courses
+### Courses / References
 
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) [developers.google.com]
 
 ### Competitions
 
@@ -882,13 +881,12 @@
   * [Gesetz über den Ausbau der Bundesfernstraßen (Fernstraßenausbaugesetz - FStrAbG)](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html) [www.gesetze-im-internet.de]
 * United States
   * [National Environmental Policy Act](https://en.wikipedia.org/wiki/National_Environmental_Policy_Act)
-
-### Law Enforcement
-
-* [State Police](https://en.wikipedia.org/wiki/State_police_(United_States))
-* [County Sheriff](https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States)
-* [City Police](https://en.wikipedia.org/wiki/Municipal_police)
-
+* Enforcement
+  * [State Police](https://en.wikipedia.org/wiki/State_police_(United_States))
+  * [County Sheriff](https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States)
+  * [City Police](https://en.wikipedia.org/wiki/Municipal_police)
+  * [Automated Enforcement](https://en.wikipedia.org/wiki/Traffic_enforcement_camera): [red light camera](https://en.wikipedia.org/wiki/Red_light_camera), stop sign, [speed](https://en.wikipedia.org/wiki/Speed_limit_enforcement), crosswalks
+* Education for law enforcement and road users
 ## Infrastructure
 
 ### [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
