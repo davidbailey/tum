@@ -19,6 +19,13 @@
 ### [Business model](https://en.m.wikipedia.org/wiki/Business_model)
 
 * [Business Model Canvas](https://en.m.wikipedia.org/wiki/Business_Model_Canvas) 
+  * Customer
+    * Segment
+    * Relationships
+    * Channels
+  * Offer: [value proposition](https://en.m.wikipedia.org/wiki/Value_proposition)
+  * Infrastructure: physical, patents, cash
+  * Financial viability: revenue > costs?
 
 ### Project Management
 
