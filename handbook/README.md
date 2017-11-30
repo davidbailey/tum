@@ -439,6 +439,7 @@
   * [Independent and Identically Distributed Random Variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
   * [Logit](https://en.wikipedia.org/wiki/Logit) ([Daniel McFadden](https://en.wikipedia.org/wiki/Daniel_McFadden))
     * [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) [Logistic Function](https://en.wikipedia.org/wiki/Logistic_function)
+  * Nested Logit
   * [Mixed Logit](https://en.wikipedia.org/wiki/Mixed_logit)
   * [Ordered logit](https://en.wikipedia.org/wiki/Ordered_logit)
   * [Generalized Extreme Value Distribution](https://en.wikipedia.org/wiki/Generalized_extreme_value_distribution)
