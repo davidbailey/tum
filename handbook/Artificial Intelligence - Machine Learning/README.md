@@ -3,10 +3,11 @@
 ### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 * (all else equal) simplest is best
 
-### Courses
+### Courses / References
 
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) [developers.google.com]
 
 ### Competitions
 
