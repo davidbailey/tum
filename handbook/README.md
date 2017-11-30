@@ -33,7 +33,7 @@
 - [Governance: "all patterns of rule"](#governance-all-patterns-of-rule)
   - [People / Society](#people--society)
   - [Laws and Regulations](#laws-and-regulations)
-  - [Road Transport](#road-transport)
+  - [Road Transport (Highway Engineering)](#road-transport-highway-engineering)
   - [Rail / Railway Engineering](#rail--railway-engineering)
   - [Waterways](#waterways)
   - [Aqueducts](#aqueducts)
@@ -891,7 +891,7 @@
 * Education for law enforcement and road users
 ## Infrastructure
 
-### [Road Transport](https://en.wikipedia.org/wiki/Road_transport)
+### [Road Transport](https://en.wikipedia.org/wiki/Road_transport) ([Highway Engineering](https://en.wikipedia.org/wiki/Highway_engineering))
 
 * Ideal road alignment is curvy to initiate communication from the infrastructure to the driver
 * Design Standards
@@ -1857,6 +1857,13 @@ People outside cities (who most often drive) think of corridors (often freeways)
 ### [Business model](https://en.m.wikipedia.org/wiki/Business_model)
 
 * [Business Model Canvas](https://en.m.wikipedia.org/wiki/Business_Model_Canvas) 
+  * Customer
+    * Segment
+    * Relationships
+    * Channels
+  * Offer: [value proposition](https://en.m.wikipedia.org/wiki/Value_proposition)
+  * Infrastructure: physical, patents, cash
+  * Financial viability: revenue > costs?
 
 ### Project Management
 
