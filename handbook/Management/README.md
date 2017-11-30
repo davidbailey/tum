@@ -256,7 +256,7 @@
 
 ### Risk Management
 
-Risk: Hazard * Vulnerability * Consequence = Probability (e.g. occurances/year) * Consequence ($/occurance)
+Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year) × Consequence ($/occurance)
 * Why? Decisions involving uncertainty, risk management, optimization
 * Uncertainty
   * Aleatory: cannot be reduced, caused by randomness
