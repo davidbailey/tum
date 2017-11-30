@@ -254,3 +254,12 @@
       * Resolve conflicts between policies
       * Get more funding…
 
+### Risk Management
+
+Risk: Hazard * Vulnerability * Consequence = Probability (e.g. occurances/year) * Consequence ($/occurance)
+* Why? Decisions involving uncertainty, risk management, optimization
+* Uncertainty
+  * Aleatory: cannot be reduced, caused by randomness
+  * Epistemic: can be reduced w/ more knowledge, caused by lack of knowledge
+    * Reduced through Bayes' Theorem
+
