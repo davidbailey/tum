@@ -221,7 +221,13 @@
     * UK: Local Transport Plan
     * [Sustainable Urban Mobility Plan](https://en.wikipedia.org/wiki/Sustainable_Urban_Mobility_Plan)
 
-### [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
+### Planning
+
+* [Rational planning](https://en.wikipedia.org/wiki/Rational_planning_model): set a goal, determine how to achieve the goal, do it
+* [Disjointed Incrementalism](https://en.wikipedia.org/wiki/Incrementalism): small steps
+* Mixed scanning
+
+### [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement): combine rational planning and disjointed incrimentalism
 
 * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
   * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
