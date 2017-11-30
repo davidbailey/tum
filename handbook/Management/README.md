@@ -1,4 +1,4 @@
-## Project and Performance Management
+## Management
 
 ### SVS engineering process
 
@@ -225,9 +225,9 @@
 
 * [Rational planning](https://en.wikipedia.org/wiki/Rational_planning_model): set a goal, determine how to achieve the goal, do it
 * [Disjointed Incrementalism](https://en.wikipedia.org/wiki/Incrementalism): small steps
-* Mixed scanning
+* Mixed scanning: combine rational planning and disjointed incrimentalism
 
-### [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement): combine rational planning and disjointed incrimentalism
+### [Performance Management](https://en.wikipedia.org/wiki/Performance_measurement)
 
 * [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator) (KPI)
   * Efficiency: mobility, speed, travel time, travel time variance, delay, queues, stops, level of service,
