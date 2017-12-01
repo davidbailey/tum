@@ -76,3 +76,5 @@
   * Greedy: always choose highest value, but gets stuck easily
   * Non-Greedy: may choose a non-optimal solution
 * [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+
+
