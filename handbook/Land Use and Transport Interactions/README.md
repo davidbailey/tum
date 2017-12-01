@@ -167,3 +167,5 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * Rural Community: <150 people / km2
   * Rural Region > 50% Rural > Intermediate Region > 15% Rural > Urban Region
   * Relationship w/ Urban Region: Integrated, Intermediate, Distant
+
+
