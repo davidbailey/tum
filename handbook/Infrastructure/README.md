@@ -1,6 +1,6 @@
 ## Infrastructure
 
-### [Road Transport](https://en.wikipedia.org/wiki/Road_transport) ([Highway Engineering](https://en.wikipedia.org/wiki/Highway_engineering))
+### [Road Transport](https://en.wikipedia.org/wiki/Road_transport) / [Highway Engineering](https://en.wikipedia.org/wiki/Highway_engineering)
 
 * Ideal road alignment is curvy to initiate communication from the infrastructure to the driver
 * Design Standards
@@ -78,7 +78,7 @@
 * Parking
   * [Parking Generation](http://www.ite.org/tripgeneration/parking.asp) [www.ite.org]
 
-### [Rail](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
+### [Rail Transport](https://en.wikipedia.org/wiki/Rail_transport) / [Railway Engineering](https://en.wikipedia.org/wiki/Railway_engineering)
 
 * Ideal rail alignment is straight and level
 * Design Standards
