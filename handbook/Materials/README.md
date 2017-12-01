@@ -1,8 +1,5 @@
 ## Materials
 
-### [Concrete](https://en.wikipedia.org/wiki/Concrete)
-* [Prestressed concrete](https://en.wikipedia.org/wiki/Prestressed_concrete)
-
 ### Material Safety
 
 * Levels of Safety
