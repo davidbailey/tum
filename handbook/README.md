@@ -33,6 +33,7 @@
 - [Governance: "all patterns of rule"](#governance-all-patterns-of-rule)
   - [People / Society](#people--society)
   - [Laws and Regulations](#laws-and-regulations)
+- [Infrastructure](#infrastructure)
   - [Road Transport (Highway Engineering)](#road-transport-highway-engineering)
   - [Rail / Railway Engineering](#rail--railway-engineering)
   - [Waterways](#waterways)
@@ -59,6 +60,7 @@
   - [Vehicle Safety](#vehicle-safety)
   - [Traffic Control](#traffic-control)
   - [Automatic Incident Detection](#automatic-incident-detection)
+- [Land Use and Transport Interactions](#land-use-and-transport-interactions)
   - [History](#history)
   - [Systems](#systems)
   - [Land Use Forcasting](#land-use-forcasting)
@@ -66,6 +68,7 @@
   - [Accessibility](#accessibility)
   - [Zoning](#zoning)
   - [Spacial Planning / Urban Planning](#spacial-planning--urban-planning)
+- [Management](#management)
   - [SVS engineering process](#svs-engineering-process)
   - [TUM engineering process](#tum-engineering-process)
   - [Business model](#business-model)
@@ -83,11 +86,13 @@
   - [Concrete](#concrete)
   - [Material Safety](#material-safety)
   - [Materials Testing](#materials-testing)
+- [Mathematics](#mathematics)
   - [Linear Algebra](#linear-algebra)
   - [Calculus](#calculus)
   - [Graphs](#graphs)
   - [Statistics](#statistics)
   - [Probability](#probability)
+- [Mechanics](#mechanics)
   - [Simple harmonic motion](#simple-harmonic-motion)
   - [Harmonic oscillator](#harmonic-oscillator)
   - [Damping ratio](#damping-ratio)
@@ -102,6 +107,7 @@
   - [Deterministic vs. Stochastic Optimization](#deterministic-vs-stochastic-optimization)
   - [References](#references)
   - [Other](#other)
+- [Psychology](#psychology)
   - [Travel Behavior Analysis](#travel-behavior-analysis)
   - [The Driving Task](#the-driving-task)
 - [Public Transportation](#public-transportation)
@@ -124,6 +130,7 @@
   - [Stakeholders](#stakeholders)
   - [Demand](#demand)
   - [Timetable](#timetable)
+- [Research Methods](#research-methods)
   - [Research Design](#research-design)
   - [Experimental design](#experimental-design)
   - [Sensitivity analysis](#sensitivity-analysis)
@@ -155,8 +162,9 @@
   - [Transport Planning in Delft, Netherlands [www.youtube.com]](#transport-planning-in-delft-netherlands-wwwyoutubecom)
   - [Vienna - Affordable and Inclusive Greatness [www.vienncouver.com]](#vienna---affordable-and-inclusive-greatness-wwwvienncouvercom)
   - [The North American Model](#the-north-american-model)
+- [Traffic](#traffic)
   - [Level of Service (German: Qualitätsstufen des Verkehrsablaufs)](#level-of-service-german-qualit%C3%A4tsstufen-des-verkehrsablaufs)
-  - [Traffic](#traffic)
+  - [Traffic](#traffic-1)
   - [Traffic Models](#traffic-models)
   - [Simulation](#simulation)
   - [Traffic Counts and (Speed Surveys)](#traffic-counts-and-speed-surveys)
@@ -890,6 +898,8 @@
   * [City Police](https://en.wikipedia.org/wiki/Municipal_police)
   * [Automated Enforcement](https://en.wikipedia.org/wiki/Traffic_enforcement_camera): [red light camera](https://en.wikipedia.org/wiki/Red_light_camera), stop sign, [speed](https://en.wikipedia.org/wiki/Speed_limit_enforcement), crosswalks
 * Education for law enforcement and road users
+
+
 ## Infrastructure
 
 ### [Road Transport](https://en.wikipedia.org/wiki/Road_transport) ([Highway Engineering](https://en.wikipedia.org/wiki/Highway_engineering))
@@ -1669,6 +1679,8 @@
   * [Expressway Monitoring and Advisory System](https://en.wikipedia.org/wiki/Expressway_Monitoring_and_Advisory_System) (SG)
   * [Freeway Traffic Management System](https://en.wikipedia.org/wiki/Freeway_Traffic_Management_System) COMPASS (CA)
   * [Incident Detection Alogrithm Evaluation](http://www.mountain-plains.org/pubs/pdf/MPC01-122.pdf) [www.mountain-plains.org]
+
+
 ## [Land Use](https://en.wikipedia.org/wiki/Land_use) and Transport Interactions
 
 People outside cities (who most often drive) think of corridors (often freeways) because they always go the same way to and from their homes. People in cities (walking, cycling, transiting, driving) think of networks because they can go in any direction from their homes.
@@ -1838,6 +1850,8 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * Rural Community: <150 people / km2
   * Rural Region > 50% Rural > Intermediate Region > 15% Rural > Urban Region
   * Relationship w/ Urban Region: Integrated, Intermediate, Distant
+
+
 ## Management
 
 ### SVS engineering process
@@ -2192,6 +2206,8 @@ Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year
     * [California Bearing Ratio](https://en.wikipedia.org/wiki/California_bearing_ratio)
   * Pavement Quality
     * [PASER scale](https://en.wikipedia.org/wiki/Pavement_Surface_Evaluation_and_Rating)
+
+
 ## [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
@@ -2427,6 +2443,8 @@ Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year
   * [Bayesian Modelling](http://mlg.eng.cam.ac.uk/zoubin/talks/lect1bayes.pdf) [mlg.eng.cam.ac.uk]
 * [Frequentist probability](https://en.wikipedia.org/wiki/Frequentist_probability)
 * [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability)
+
+
 ## [Mechanics](https://en.wikipedia.org/wiki/Mechanics)
 
 ### [Simple harmonic motion](https://en.wikipedia.org/wiki/Simple_harmonic_motion)
@@ -2524,6 +2542,8 @@ Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year
   * Greedy: always choose highest value, but gets stuck easily
   * Non-Greedy: may choose a non-optimal solution
 * [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+
+
 ## Psychology
 
 ### Travel Behavior Analysis
@@ -2948,6 +2968,8 @@ Network Map | simple | simple | complex, no map
     * Reliability
 * Vehicles
 * Drivers
+
+
 ## [Research Methods](https://en.wikipedia.org/wiki/Research#Research_methods)
 
 ### [Research Design](https://en.wikipedia.org/wiki/Research_design)
@@ -3423,6 +3445,8 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * people liked the bus more than the streetcar - more accessibility, faster
   * parking minimums
   * [Why Public Transportation Sucks in the US](https://www.youtube.com/watch?v=-cjfTG8DbwA) [www.youtube.com]
+
+
 ## [Traffic](https://en.wikipedia.org/wiki/Traffic)
 
 ### [Level of Service](https://en.wikipedia.org/wiki/Level_of_service) (German: Qualitätsstufen des Verkehrsablaufs)
