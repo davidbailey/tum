@@ -44,6 +44,7 @@
       * Continously Reinforced Concrete Pavement
         * more expensive
         * Blacktopping: add a thin asphalt layer on top to reduce noise
+      * [Prestressed concrete](https://en.wikipedia.org/wiki/Prestressed_concrete)
     * [Asphalt](https://en.wikipedia.org/wiki/Asphalt_concrete)
     * Semi-rigid pavement
       * [The semi-rigid pavement with higher performances for roads and parking aprons](http://www.chemilink.com/files/pdf/C-P60/C-P60-FullPaper.pdf) [www.chemilink.com]
