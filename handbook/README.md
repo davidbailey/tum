@@ -84,7 +84,6 @@
   - [Strategies](#strategies)
   - [Landing Pages](#landing-pages)
 - [Materials](#materials)
-  - [Concrete](#concrete)
   - [Material Safety](#material-safety)
   - [Materials Testing](#materials-testing)
 - [Mathematics](#mathematics)
@@ -100,6 +99,7 @@
   - [Contact Mechanics](#contact-mechanics)
   - [Flexural modulus](#flexural-modulus)
   - [Stiffness](#stiffness)
+- [Optimization](#optimization)
   - [Problem Formation](#problem-formation)
   - [Convex Optimization](#convex-optimization)
   - [Unconstrained vs. Constrained Optimization](#unconstrained-vs-constrained-optimization)
@@ -949,6 +949,7 @@
       * Continously Reinforced Concrete Pavement
         * more expensive
         * Blacktopping: add a thin asphalt layer on top to reduce noise
+      * [Prestressed concrete](https://en.wikipedia.org/wiki/Prestressed_concrete)
     * [Asphalt](https://en.wikipedia.org/wiki/Asphalt_concrete)
     * Semi-rigid pavement
       * [The semi-rigid pavement with higher performances for roads and parking aprons](http://www.chemilink.com/files/pdf/C-P60/C-P60-FullPaper.pdf) [www.chemilink.com]
@@ -2179,9 +2180,6 @@ Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year
 
 ## Materials
 
-### [Concrete](https://en.wikipedia.org/wiki/Concrete)
-* [Prestressed concrete](https://en.wikipedia.org/wiki/Prestressed_concrete)
-
 ### Material Safety
 
 * Levels of Safety
@@ -2467,6 +2465,8 @@ Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year
 ### [Stiffness](https://en.wikipedia.org/wiki/Stiffness)
 
 * [Young's modulus](https://en.wikipedia.org/wiki/Young%27s_modulus)
+
+
 ## [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
 
 ### Problem Formation
