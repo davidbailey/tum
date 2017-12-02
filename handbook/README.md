@@ -301,6 +301,7 @@
       * light -> eye -> retina -> optic nerve -> brain -> primary visual cortex -> medial temporal lobe -> inferotemporal cortex
       * reverse correlation reveals Gabor functions -> edge detection
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
+    * image preprocessing: flip, scale, tilt, adjust color, etc.
     * filter that slides around the image => convolution
       * can find the feature anywhere in the image
     * allows you to find small objects in larger images
