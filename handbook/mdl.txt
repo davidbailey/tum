@@ -1333,6 +1333,7 @@ handbook/README.md:1737: MD004 Unordered list style
 handbook/README.md:1740: MD004 Unordered list style
 handbook/README.md:1744: MD004 Unordered list style
 handbook/README.md:1745: MD004 Unordered list style
+handbook/README.md:1746: MD004 Unordered list style
 handbook/README.md:1716: MD004 Unordered list style
 handbook/README.md:1717: MD004 Unordered list style
 handbook/README.md:1718: MD004 Unordered list style
@@ -3211,7 +3212,6 @@ handbook/README.md:466: MD012 Multiple consecutive blank lines
 handbook/README.md:526: MD012 Multiple consecutive blank lines
 handbook/README.md:906: MD012 Multiple consecutive blank lines
 handbook/README.md:1688: MD012 Multiple consecutive blank lines
-handbook/README.md:1747: MD012 Multiple consecutive blank lines
 handbook/README.md:1859: MD012 Multiple consecutive blank lines
 handbook/README.md:2212: MD012 Multiple consecutive blank lines
 handbook/README.md:2449: MD012 Multiple consecutive blank lines
