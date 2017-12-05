@@ -117,9 +117,10 @@
     2-D | Greyscale image, Audio pre-processed with Fourier transofrm | Color image
     3-D | Greyscale video, Volumetric data | Color video
 
-    * Humans
+    * Humans / Animals
       * light -> eye -> retina -> optic nerve -> brain -> primary visual cortex -> medial temporal lobe -> inferotemporal cortex
       * reverse correlation reveals Gabor functions -> edge detection
+      * [David H. Hubel](https://en.wikipedia.org/wiki/David_H._Hubel) and [Torsten Wiesel](https://en.wikipedia.org/wiki/Torsten_Wiesel): [Hubel & Wiesel](http://cns-alumni.bu.edu/~slehar/webstuff/pcave/hubel.html) [cns-alumni.bu.edu]
     * inputs have spacial (height, width, and depth (color depth, number of frames)) information e.g. image, video
     * image preprocessing: flip, scale, tilt, adjust color, etc.
     * filter that slides around the image => convolution
@@ -164,6 +165,7 @@
     * [Dropout](https://en.wikipedia.org/wiki/Dropout_(neural_networks))
   * Input
     * [ImageNet](http://www.image-net.org) [www.image-net.org]: labeled images
+      * [Large Scale Visual Recognition Challenge](http://www.image-net.org/challenges/LSVRC/) [www.image-net.org]
     * [MNIST](https://en.wikipedia.org/wiki/MNIST_database): handwritten digits
     * CIFAR-10: small labeled images
     * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html) [archive.ics.uci.edu]
