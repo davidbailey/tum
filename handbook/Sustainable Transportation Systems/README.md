@@ -177,6 +177,9 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 * Amsterdam vs Copenhagen
   * [Part 1 – Basic urban cycle track anatomy](https://robertweetman.wordpress.com/2017/11/04/amsterdam-vs-copenhagen-part-1/) [robertweetman.wordpress.com]
   * [Part 2 – Basic junction anatomy](https://robertweetman.wordpress.com/2017/11/25/amsterdam-vs-copenhagen-part-2/) [robertweetman.wordpress.com]
+* [Designing for All Ages & Abilities: Contextual Guidance for High-Comfort Bicycle Facilities](https://nacto.org/wp-content/uploads/2017/12/NACTO_Designing-for-All-Ages-Abilities.pdf) [nacto.org]
+![Contextual Guidance for Selecting All Ages & Abilities Bikeways](http://peopleforbikes.org/wp-content/uploads/2017/10/contextual-guidance-money-chart.png)
+
 
 ### [Transport Planning in Delft, Netherlands](https://www.youtube.com/watch?v=Y5_0T51vOuI) [www.youtube.com]
 
