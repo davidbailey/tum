@@ -64,6 +64,7 @@
       * may allow stopping of two buses and overtaking lanes
     * Marketing, education, and outreach
     * Transit-oriented development
+    * [The Online BRT Planning Guide](https://brtguide.itdp.org) [brtguide.itdp.org]
 * Light Rail (wide range of systems) (about 180 people/car × 2-3+ cars, up to 24,000 people/hour/line)
   * (Low Floor) Streetcar
   * Tram (unidirectional or bidirectional)
