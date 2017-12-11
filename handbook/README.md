@@ -33,6 +33,7 @@
   - [Design](#design)
 - [Governance: "all patterns of rule"](#governance-all-patterns-of-rule)
   - [People / Society](#people--society)
+  - [Policy](#policy)
   - [Laws and Regulations](#laws-and-regulations)
 - [Infrastructure](#infrastructure)
   - [Road Transport / Highway Engineering](#road-transport--highway-engineering)
@@ -884,6 +885,11 @@
 * [Tactical urbanism](https://en.wikipedia.org/wiki/Tactical_urbanism)
   * [Transform Your City With Tactical Urbanism](https://vimeo.com/220812813)
 
+### [Policy](https://en.wikipedia.org/wiki/Policy)
+* Policy actors
+  * Dolowitz and Marsh model: elected officials, political parties, bureaucrats/civil servants, pressure groups, policy entrepreneurs and experts, transnational corporations, think tanks, supra-national governmental and nongovernmental institutions, and consultants
+* [Policy transfer](https://en.wikipedia.org/wiki/Policy_transfer)
+
 ### Laws and [Regulations](https://en.wikipedia.org/wiki/Regulation)
 
 * [Vienna Convention on Road Traffic](https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Traffic)
@@ -904,7 +910,6 @@
   * [City Police](https://en.wikipedia.org/wiki/Municipal_police)
   * [Automated Enforcement](https://en.wikipedia.org/wiki/Traffic_enforcement_camera): [red light camera](https://en.wikipedia.org/wiki/Red_light_camera), stop sign, [speed](https://en.wikipedia.org/wiki/Speed_limit_enforcement), crosswalks
 * Education for law enforcement and road users
-
 
 ## Infrastructure
 
