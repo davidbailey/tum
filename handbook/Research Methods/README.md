@@ -45,6 +45,7 @@
   * Multimedia: slides, pictures, video, posters, handouts
   * Questions: are good, allow for them
   * Exercises: can be good
+* [Design Principles](https://principles.design/examples/) [principles.design]
 
 ### Models
 
