@@ -219,6 +219,8 @@
       * Add more data
       * Data augmentation e.g. flip (usually horizontal, not vertical), stretch/compress, change the color/brightness a bit, etc.
       * Normalization e.g. Batch normalization
+        * mean = 0, variance = 1
+        * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
       * Reudce complexity e.g. Dropout
   * Capacity (e.g. polinomial degree for least squares)
     * [VC dimension](https://en.wikipedia.org/wiki/VC_dimension)
@@ -295,3 +297,32 @@
 * [Kernel methods](https://en.wikipedia.org/wiki/Kernel_method)
   * [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
+### Amazon Web Services AI
+
+* most services give confidence %
+* Recognition
+  * photo recognition e.g. faces, object w/ bounding box
+  * text too. e.g. license plates
+  * video object detection w/ time stamp
+* Polly: text to speech
+* Transcribe: speech to text w/ timestamp, multiple speaker detection
+* Comprehend: natural language processing
+  * sentiment, entities, languages, phrases, topics
+* Translate: translation
+* SageMaker:
+  * auto ml model creation from jupyter notebooks(spin up instances, includes algorithms, etc.)
+  * spark too
+  * Pre-built notebook instance w/ library of pre-trained ML algorithms, train your own models, hyper parameter optimization, 
+  * Algorithms
+    * Linear regression, w/ correlated variables
+    * k-means clustering
+    * PCA
+    * Neural Topic Modeling
+    * Spectral Latent Dirichlet Allocation
+    * Boosted Decision Trees
+    * Sequence to Sequence: [Train Neural Machine Translation Models with Sockeye](https://aws.amazon.com/blogs/ai/train-neural-machine-translation-models-with-sockeye/)
+    * Image Classification (Rekognition / ResNet) w/ transfer learning
+* Deep Lens: a camera
+  * or use a raspberry pi: [https://aws.amazon.com/blogs/ai/build-a-real-time-object-classification-system-with-apache-mxnet-on-raspberry-pi/](https://aws.amazon.com/blogs/ai/build-a-real-time-object-classification-system-with-apache-mxnet-on-raspberry-pi/)
+  
+  
