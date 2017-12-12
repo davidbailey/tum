@@ -88,6 +88,7 @@
 * Formats
   * [Open Neural Network Exchange](https://github.com/onnx/onnx) [github.com/onnx/onnx]
 * Example Networks
+  * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/)
   * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
   * [VGG](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) [www.robots.ox.ac.uk]
   * ResNet
