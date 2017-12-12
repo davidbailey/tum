@@ -1276,6 +1276,9 @@
 
 ### Autonomous Driving
 
+* History
+  * [Navlab](https://en.wikipedia.org/wiki/Navlab)
+  * [Eureka Prometheus Project](https://en.wikipedia.org/wiki/Eureka_Prometheus_Project)
 * SAE Levels of Automation:
   * Human monitors the driving environment
     * No Automation
