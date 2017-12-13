@@ -53,6 +53,7 @@
 * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
 * [Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)
 * other types of learning: demonstrations, observations
+* [https://en.wikipedia.org/wiki/Generative_adversarial_network](Generative adversarial network)
 
 ### Neural Networks (Deep Learning)
 
