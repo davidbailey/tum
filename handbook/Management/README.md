@@ -1,5 +1,9 @@
 ## Management
 
+### Management Theories
+
+* [Theory X and Theory Y](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
+
 ### SVS engineering process
 
 * Design the system
