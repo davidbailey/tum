@@ -26,6 +26,7 @@
   * Offer: [value proposition](https://en.m.wikipedia.org/wiki/Value_proposition)
   * Infrastructure: physical, patents, cash
   * Financial viability: revenue > costs?
+* [Transportation as a Service](https://en.wikipedia.org/wiki/Transportation_as_a_Service)
 
 ### Project Management
 
