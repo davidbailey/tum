@@ -4,6 +4,8 @@
 
 * [Theory X and Theory Y](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
 
+![Mnemonic device for the two theories: a person refusing to work ("X") and a person cheering the opportunity to work ("Y")](https://upload.wikimedia.org/wikipedia/commons/8/85/McgregorXY-languages_%28cropped%29.gif)
+
 ### SVS engineering process
 
 * Design the system
