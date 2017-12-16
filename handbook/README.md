@@ -72,6 +72,7 @@
   - [Zoning](#zoning)
   - [Spacial Planning / Urban Planning](#spacial-planning--urban-planning)
 - [Management](#management)
+  - [Management Theories](#management-theories)
   - [SVS engineering process](#svs-engineering-process)
   - [TUM engineering process](#tum-engineering-process)
   - [Business model](#business-model)
@@ -1902,6 +1903,10 @@ People outside cities (who most often drive) think of corridors (often freeways)
 
 
 ## Management
+
+### Management Theories
+
+* [Theory X and Theory Y](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
 
 ### SVS engineering process
 
