@@ -316,6 +316,7 @@
     * network architecture: input -> conv -> pooling -> conf -> pooling -> ... -> fully-connected layer -> output
     * network architecture (heatmap): input -> conv -> pooling -> conf -> pooling -> ... -> output
     * Time-delay Neural Networks
+    * [cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks/blob/master/README.md) [github.com]
   * [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
     * derived from parameter sharing
     * unfolding a state function s(t) = f(s(t−1); θ) to remove recurrance -> create a neural network from this unfolded function
