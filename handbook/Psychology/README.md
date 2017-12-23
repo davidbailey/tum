@@ -30,7 +30,10 @@
   * System Optimum (Wardrop)
   * Agent-based Model
   * Activity-based Model
-* Behaviourally Homogenous Groups: Demographic groups that have the same daily schedule
+* Common assumptions
+  * Homogonous population: we all live/work the same way and have similar schedules. Can break up a pouplation into semi-homogenous groups
+  * People are rational
+  * People have all information about the transportation system: know all the possible routes, modes, timetables, delays, etc.
 * We are lacking a good spacial choice model. Why do we live, work, etc. where we do?
 * Transportation System
   * Travel Cost
