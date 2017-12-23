@@ -15,15 +15,14 @@
   - [Discrete Choice Modelling](#discrete-choice-modelling)
   - [Pattern Recognition](#pattern-recognition)
   - [Amazon Web Services AI](#amazon-web-services-ai)
-- [Economics](#economics)
-  - [Microeconomics: individual firms, households](#microeconomics-individual-firms-households)
-  - [Macroeconomics: growth, inflation, unemployment](#macroeconomics-growth-inflation-unemployment)
 - [Environment](#environment)
   - [Air Pollution](#air-pollution)
   - [Light Pollution](#light-pollution)
   - [Land Use (transportation infrastructure uses land)](#land-use-transportation-infrastructure-uses-land)
   - [Seperation Effects (transportation infrastructure acts as a barrier)](#seperation-effects-transportation-infrastructure-acts-as-a-barrier)
 - [Finance](#finance)
+  - [Economics](#economics)
+  - [Funding](#funding)
 - [Freight - Cargo](#freight---cargo)
   - [Multimodal 2+ modes](#multimodal-2-modes)
 - [Geodesy](#geodesy)
@@ -461,6 +460,8 @@
   * [Independent and Identically Distributed Random Variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
   * [Logit](https://en.wikipedia.org/wiki/Logit) ([Daniel McFadden](https://en.wikipedia.org/wiki/Daniel_McFadden))
     * [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) [Logistic Function](https://en.wikipedia.org/wiki/Logistic_function)
+    * depends only on the difference in utilities
+    * n-1 alternative-specific constants
   * Nested Logit
   * [Mixed Logit](https://en.wikipedia.org/wiki/Mixed_logit)
   * [Ordered logit](https://en.wikipedia.org/wiki/Ordered_logit)
@@ -511,58 +512,6 @@
   * or use a raspberry pi: [https://aws.amazon.com/blogs/ai/build-a-real-time-object-classification-system-with-apache-mxnet-on-raspberry-pi/](https://aws.amazon.com/blogs/ai/build-a-real-time-object-classification-system-with-apache-mxnet-on-raspberry-pi/)
   
   
-## Economics
-
-### [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics): individual firms, households
-
-* [Supply and Demand](https://en.wikipedia.org/wiki/Supply_and_demand)
-  * [Supply Curve](https://en.wikipedia.org/wiki/Supply_curve) and [Demand Curve](https://en.wikipedia.org/wiki/Demand_curve)
-  * Price => Quantity Supplied and Quantity Demanded
-  * Assumptions
-    * Space - no distances
-    * Time - everything is instant
-    * Goods - all equal
-    * People - all equal, no preferences
-    * Information - all known by all
-  * [Budget](https://en.wikipedia.org/wiki/Budget)
-    * [Budget Constraints](https://en.wikipedia.org/wiki/Budget_constraint)
-    * [Superior Good](https://en.wikipedia.org/wiki/Superior_good): buy more when income rises
-    * [Inferior Good](https://en.wikipedia.org/wiki/Inferior_good): buy less when income rises
-* [Utility](https://en.wikipedia.org/wiki/Utility)
-  * [Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility): change in utility from increase in consumption
-* [Cost](https://en.wikipedia.org/wiki/Cost)
-  * [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost): change in opportunity cost from increase in production
-  * [Cost Curve](https://en.wikipedia.org/wiki/Cost_curve)
-    * [Total Cost](https://en.wikipedia.org/wiki/Total_cost) = [Fixed Cost](https://en.wikipedia.org/wiki/Fixed_cost) + [Variable Cost](https://en.wikipedia.org/wiki/Variable_cost) × Units
-    * [Average Cost](https://en.wikipedia.org/wiki/Average_cost)
-* [Optimal Decision](https://en.wikipedia.org/wiki/Optimal_decision)
-  * [Utility maximization problem](https://en.wikipedia.org/wiki/Utility_maximization_problem)
-    * [Indifference Curve](https://en.wikipedia.org/wiki/Indifference_curve)
-      * [Marginal Rate of Substitution](https://en.wikipedia.org/wiki/Marginal_rate_of_substitution)
-  * [Cost Minimization](https://en.wikipedia.org/wiki/Cost-minimization_analysis)
-    * [Isoquant](https://en.wikipedia.org/wiki/Isoquant)
-      * [Marginal Rate of Technical Substitution](https://en.wikipedia.org/wiki/Marginal_rate_of_technical_substitution)
-* [Returns to Scale](https://en.wikipedia.org/wiki/Returns_to_scale)
-* [Economies of Scale](https://en.wikipedia.org/wiki/Economies_of_scale)
-* [Consumer Choice](https://en.wikipedia.org/wiki/Consumer_choice)
-  * [Income Consumption Curve](https://en.wikipedia.org/wiki/Income–consumption_curve)
-    * [Slutsky Equation](https://en.wikipedia.org/wiki/Slutsky_equation)
-      * Income Effect
-      * [Substitution Effect](https://en.wikipedia.org/wiki/Substitution_effect)
-  * [Engel Curve](https://en.wikipedia.org/wiki/Engel_curve)
-  * [Elasticity](https://en.wikipedia.org/wiki/Elasticity_(economics)) i.e. Correlation
-  * [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm)
-    * Profit = Revenue - Cost
-    * Objective: Maximize Profit
-    * [Output](https://en.wikipedia.org/wiki/Output_(economics))
-      * [Marginal Product](https://en.wikipedia.org/wiki/Marginal_product)
-        * [Diminishing Returns](https://en.wikipedia.org/wiki/Diminishing_returns)
-
-### [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics): growth, inflation, unemployment
-
-* [Nowcasting](https://en.wikipedia.org/wiki/Nowcasting_(economics))
-
-
 ## Environment
 
 ### Air Pollution
@@ -636,28 +585,80 @@
 
 ## Finance
 
-* Sources
-  * Public
-    * Taxes
-    * [Road pricing](https://en.wikipedia.org/wiki/Road_pricing)
-      * [Toll roads](https://en.wikipedia.org/wiki/Toll_road)
-        * [Toll Collect](https://www.toll-collect.de) [www.toll-collect.de]
-      * [Congestion pricing](https://en.wikipedia.org/wiki/Congestion_pricing)
-        * [Congestion and Challenge: How Cities Can Respond to Transportation Demands — with Daniel Firth](https://www.youtube.com/watch?v=giuCRjBjyrU) [www.youtube.com]
-          * public support is often negative before implementation, but switches to positive after implementation. e.g. London, Stockholm
-          * requirements: strong political commitment, clear objectives, extensive public participation and marketing, strong project management, adequate public transportation alternatives and traffic management
-      * [Shunpiking](https://en.wikipedia.org/wiki/Shunpiking)
-    * [Value Capture](https://en.wikipedia.org/wiki/Value_capture)
-  * Private
-  * Public Private Partnership: Design, Build (w/ Warrenty), (Finance), (Operate, Maintain)
-    * [Shadow Toll](https://en.wikipedia.org/wiki/Shadow_toll)
-* Capital Costs
-  * planning, design, land, construction, vehicles
-* Operational Costs
-  * labor, energy, maintenance, overhead
-  * Fixed, Variable, Step
-* Cost Escalation
-  * percent of escalation correlates with length of project
+### Economics
+
+* [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics): individual firms, households
+  * [Supply and Demand](https://en.wikipedia.org/wiki/Supply_and_demand)
+    * [Supply Curve](https://en.wikipedia.org/wiki/Supply_curve) and [Demand Curve](https://en.wikipedia.org/wiki/Demand_curve)
+    * Price => Quantity Supplied and Quantity Demanded
+      * Surge pricing
+    * Assumptions
+      * Space - no distances
+      * Time - everything is instant
+      * Goods - all equal
+      * People - all equal, no preferences
+      * Information - all known by all
+    * [Budget](https://en.wikipedia.org/wiki/Budget)
+      * [Budget Constraints](https://en.wikipedia.org/wiki/Budget_constraint)
+      * [Superior Good](https://en.wikipedia.org/wiki/Superior_good): buy more when income rises
+      * [Inferior Good](https://en.wikipedia.org/wiki/Inferior_good): buy less when income rises
+  * [Utility](https://en.wikipedia.org/wiki/Utility)
+    * [Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility): change in utility from increase in consumption
+  * [Cost](https://en.wikipedia.org/wiki/Cost)
+    * Capital Costs
+      * planning, design, land, construction, vehicles
+    * Operational Costs
+      * labor, energy, maintenance, overhead
+      * Fixed, Variable, Step
+    * Cost Escalation
+      * percent of escalation correlates with length of project
+    * [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost): change in opportunity cost from increase in production
+    * [Cost Curve](https://en.wikipedia.org/wiki/Cost_curve)
+      * [Total Cost](https://en.wikipedia.org/wiki/Total_cost) = [Fixed Cost](https://en.wikipedia.org/wiki/Fixed_cost) + [Variable Cost](https://en.wikipedia.org/wiki/Variable_cost) × Units
+      * [Average Cost](https://en.wikipedia.org/wiki/Average_cost)
+  * [Optimal Decision](https://en.wikipedia.org/wiki/Optimal_decision)
+    * [Utility maximization problem](https://en.wikipedia.org/wiki/Utility_maximization_problem)
+      * [Indifference Curve](https://en.wikipedia.org/wiki/Indifference_curve)
+	* [Marginal Rate of Substitution](https://en.wikipedia.org/wiki/Marginal_rate_of_substitution)
+    * [Cost Minimization](https://en.wikipedia.org/wiki/Cost-minimization_analysis)
+      * [Isoquant](https://en.wikipedia.org/wiki/Isoquant)
+	* [Marginal Rate of Technical Substitution](https://en.wikipedia.org/wiki/Marginal_rate_of_technical_substitution)
+  * [Returns to Scale](https://en.wikipedia.org/wiki/Returns_to_scale)
+  * [Economies of Scale](https://en.wikipedia.org/wiki/Economies_of_scale)
+  * [Consumer Choice](https://en.wikipedia.org/wiki/Consumer_choice)
+    * [Income Consumption Curve](https://en.wikipedia.org/wiki/Income–consumption_curve)
+      * [Slutsky Equation](https://en.wikipedia.org/wiki/Slutsky_equation)
+	* Income Effect
+	* [Substitution Effect](https://en.wikipedia.org/wiki/Substitution_effect)
+    * [Engel Curve](https://en.wikipedia.org/wiki/Engel_curve)
+    * [Elasticity](https://en.wikipedia.org/wiki/Elasticity_(economics)) i.e. Correlation
+    * [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm)
+      * Profit = Revenue - Cost
+      * Objective: Maximize Profit
+      * [Output](https://en.wikipedia.org/wiki/Output_(economics))
+	* [Marginal Product](https://en.wikipedia.org/wiki/Marginal_product)
+	  * [Diminishing Returns](https://en.wikipedia.org/wiki/Diminishing_returns)
+* [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics): growth, inflation, unemployment
+  * [Nowcasting](https://en.wikipedia.org/wiki/Nowcasting_(economics))
+
+
+### Funding
+
+* Public
+  * Taxes
+  * [Road pricing](https://en.wikipedia.org/wiki/Road_pricing)
+    * [Toll roads](https://en.wikipedia.org/wiki/Toll_road)
+      * [Toll Collect](https://www.toll-collect.de) [www.toll-collect.de]
+    * [Congestion pricing](https://en.wikipedia.org/wiki/Congestion_pricing)
+      * [Congestion and Challenge: How Cities Can Respond to Transportation Demands — with Daniel Firth](https://www.youtube.com/watch?v=giuCRjBjyrU) [www.youtube.com]
+	* public support is often negative before implementation, but switches to positive after implementation. e.g. London, Stockholm
+	* requirements: strong political commitment, clear objectives, extensive public participation and marketing, strong project management, adequate public transportation alternatives and traffic management
+    * [Shunpiking](https://en.wikipedia.org/wiki/Shunpiking)
+  * [Value Capture](https://en.wikipedia.org/wiki/Value_capture)
+* Private
+* Public Private Partnership: Design, Build (w/ Warrenty), (Finance), (Operate, Maintain)
+  * [Shadow Toll](https://en.wikipedia.org/wiki/Shadow_toll)
+
 
 ## [Freight - Cargo](https://en.wikipedia.org/wiki/Cargo)		
 
@@ -2631,7 +2632,10 @@ Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year
   * System Optimum (Wardrop)
   * Agent-based Model
   * Activity-based Model
-* Behaviourally Homogenous Groups: Demographic groups that have the same daily schedule
+* Common assumptions
+  * Homogonous population: we all live/work the same way and have similar schedules. Can break up a pouplation into semi-homogenous groups
+  * People are rational
+  * People have all information about the transportation system: know all the possible routes, modes, timetables, delays, etc.
 * We are lacking a good spacial choice model. Why do we live, work, etc. where we do?
 * Transportation System
   * Travel Cost
