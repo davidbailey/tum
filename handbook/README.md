@@ -1085,13 +1085,16 @@
       * [Electric](https://en.wikipedia.org/wiki/Electric_train)
         * https://pedestrianobservations.wordpress.com/2017/02/19/where-is-electrification-warranted/
       * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
-  * Passenger Cars
+  * [Passenger Cars](https://en.wikipedia.org/wiki/Passenger_car_(rail))
+    * [Budd Metroliner](https://en.wikipedia.org/wiki/Budd_Metroliner)
+    * [Amfleet](https://en.wikipedia.org/wiki/Amfleet)
     * [Bi-Level](https://en.wikipedia.org/wiki/Bilevel_rail_car)
       * [Budd Hi-Level](https://en.wikipedia.org/wiki/Hi-Level)
       * [Superliner](https://en.wikipedia.org/wiki/Superliner_(railcar))
       * [California Car](https://en.wikipedia.org/wiki/California_Car_(railcar))
       * [Surfliner](https://en.wikipedia.org/wiki/Surfliner_(railcar))
       * [Next Generation Bi-Level Passenger Rail Car](https://en.wikipedia.org/wiki/Next_Generation_Bi-Level_Passenger_Rail_Car)
+    * [Buff strength](https://en.wikipedia.org/wiki/Buff_strength)
   * [Braking](https://en.wikipedia.org/wiki/Railway_brake)
   * Suspension
   * Maintenance of Way Equiptment
