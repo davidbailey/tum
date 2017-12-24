@@ -1077,11 +1077,20 @@
       * [Locomotive](https://en.wikipedia.org/wiki/Locomotive)
         * [Cab Cars](https://en.wikipedia.org/wiki/Control_car)
         * [Distributed Power](https://en.wikipedia.org/wiki/Distributed_power)
+        * Examples
+          * [Siemens Charger](https://en.wikipedia.org/wiki/Siemens_Charger)
       * [Multiple Unit](https://en.wikipedia.org/wiki/Multiple_unit)
     * Motive Power
       * [Electric](https://en.wikipedia.org/wiki/Electric_train)
         * https://pedestrianobservations.wordpress.com/2017/02/19/where-is-electrification-warranted/
       * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
+  * Passenger Cars
+    * [Bi-Level](https://en.wikipedia.org/wiki/Bilevel_rail_car)
+      * [Budd Hi-Level](https://en.wikipedia.org/wiki/Hi-Level)
+      * [Superliner](https://en.wikipedia.org/wiki/Superliner_(railcar))
+      * [California Car](https://en.wikipedia.org/wiki/California_Car_(railcar))
+      * [Surfliner](https://en.wikipedia.org/wiki/Surfliner_(railcar))
+      * [Next Generation Bi-Level Passenger Rail Car](https://en.wikipedia.org/wiki/Next_Generation_Bi-Level_Passenger_Rail_Car)
   * [Braking](https://en.wikipedia.org/wiki/Railway_brake)
   * Suspension
   * Maintenance of Way Equiptment
