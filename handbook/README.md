@@ -1042,7 +1042,8 @@
       * [Cross-platform Interchange](https://en.wikipedia.org/wiki/Cross-platform_interchange)
       * [Side Platform](https://en.wikipedia.org/wiki/Side_platform)
       * [Island Platform](https://en.wikipedia.org/wiki/Island_platform)
-      * [Spanish Solution](https://en.wikipedia.org/wiki/Spanish_solution)
+      * [Spanish Solution](https://en.wikipedia.org/wiki/Spanish_solution
+      * [Platform Height](https://en.wikipedia.org/wiki/Railway_platform_height)
 * [Track](https://en.wikipedia.org/wiki/Track_(rail_transport))
   * Components
     * [Rail](https://en.wikipedia.org/wiki/Rail_profile)
