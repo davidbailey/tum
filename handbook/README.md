@@ -1078,15 +1078,14 @@
       * [Locomotive](https://en.wikipedia.org/wiki/Locomotive)
         * [Cab Cars](https://en.wikipedia.org/wiki/Control_car)
         * [Distributed Power](https://en.wikipedia.org/wiki/Distributed_power)
-        * Examples
-          * [Siemens Charger](https://en.wikipedia.org/wiki/Siemens_Charger)
+        * [Siemens Charger](https://en.wikipedia.org/wiki/Siemens_Charger)
       * [Multiple Unit](https://en.wikipedia.org/wiki/Multiple_unit)
     * Motive Power
       * [Electric](https://en.wikipedia.org/wiki/Electric_train)
+          * [Budd Metroliner](https://en.wikipedia.org/wiki/Budd_Metroliner)
         * https://pedestrianobservations.wordpress.com/2017/02/19/where-is-electrification-warranted/
       * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
   * [Passenger Cars](https://en.wikipedia.org/wiki/Passenger_car_(rail))
-    * [Budd Metroliner](https://en.wikipedia.org/wiki/Budd_Metroliner)
     * [Amfleet](https://en.wikipedia.org/wiki/Amfleet)
     * [Bi-Level](https://en.wikipedia.org/wiki/Bilevel_rail_car)
       * [Budd Hi-Level](https://en.wikipedia.org/wiki/Hi-Level)
