@@ -3090,6 +3090,13 @@ Network Map | simple | simple | complex, no map
   * Questions: are good, allow for them
   * Exercises: can be good
 * [Design Principles](https://principles.design/examples/) [principles.design]
+* Remove to improve
+  * [the data-ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked) [www.darkhorseanalytics.com]
+![the data-ink ratio](https://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/t/5671eae2816924fc2265189a/1454121618204/data-ink.gif)
+  * [the data tables edition](https://www.darkhorseanalytics.com/blog/clear-off-the-table) [www.darkhorseanalytics.com]
+![the data tables edition](https://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/t/5671eb1e816924fc2265196e/1454121002571/ClearOffTheTableMd.gif)
+  * [the map edition](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition) [www.darkhorseanalytics.com]
+![the map edition](https://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/t/5810e4186a4963ac4defc76b/1481623134192/map_reduce2.gif)
 
 ### Models
 
