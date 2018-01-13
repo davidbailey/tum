@@ -84,6 +84,8 @@
       * [Matplotlib Examples](http://matplotlib.org/examples/index.html) [matplotlib.org]
       * [The Python Graph Gallery](https://python-graph-gallery.com) [python-graph-gallery]
       * [Awesome dataviz](https://github.com/fasouto/awesome-dataviz) [github.com]
+      * [Visualizing Distribution](https://www.darkhorseanalytics.com/blog/visualizing-distributions-3) [www.darkhorseanalytics.com]
+      ![Plotting Distributions](https://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/t/5835bb7d6a4963bb18294015/1479916424186/plotting+distributions)
   * [Summary Measures](https://en.wikipedia.org/wiki/Summary_statistics)
     * [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
     
