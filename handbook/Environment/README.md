@@ -55,7 +55,7 @@
 * [Handbook Emission Factors for Road Transport (HBEFA)](https://en.wikipedia.org/wiki/Handbook_Emission_Factors_for_Road_Transport_(HBEFA))
   * [Handbook Emission Factors for Road Transport](http://www.hbefa.net) [www.hbefa.net]
 
-### Noise Pollution
+### Noise
 
 * Sound
   * Frequency: human hearing 20hz - 17000hz
@@ -64,7 +64,11 @@
     * pain threshold: 20,000,000 μPa
 * effects: stress, high blood pressure, heart disease, hearing dammage
 
-### Light Pollution
+### Vibration
+
+* [ISO 14837 Mechanical vibration -- Ground-borne noise and vibration arising from rail systems](https://www.iso.org/standard/31447.html) [www.iso.org]
+
+### Light
 
 ### Land Use (transportation infrastructure uses land)
 
