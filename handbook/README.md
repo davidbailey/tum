@@ -1129,6 +1129,9 @@
     * http://orr.gov.uk/__data/assets/pdf_file/0019/5662/incident-ladbrokegrove-jointinquiry.pdf
   * [Automatic Train protection](https://en.wikipedia.org/wiki/Automatic_train_protection)
     * [Positive Train Control](https://en.wikipedia.org/wiki/Positive_train_control)
+      * [Interoperable Electronic Train Management System (I-ETMS](https://www.wabtec.com/products/1454/i-etms™) [www.wabtec.com]
+      * [Incremental Train Control System (ITCS)](https://www.fra.dot.gov/Page/P0287) [www.fra.dot.gov]
+        * [Communications Based Overlay Signal System (CBOSS)](http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/CBOSS-PTC-Project.html) [www.caltrain.com]
   * [Automatic Train Control](https://en.wikipedia.org/wiki/Automatic_train_control)
   * [Automatic train operation](https://en.wikipedia.org/wiki/Automatic_train_operation)
     * [SelTrac](https://en.wikipedia.org/wiki/SelTrac)
