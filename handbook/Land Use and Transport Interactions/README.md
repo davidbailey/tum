@@ -11,6 +11,7 @@ People outside cities (who most often drive) think of corridors (often freeways)
   * Autonomous cars: how will this change travel and cities? Will people choose to live further from work because they can be productive during their commute? But we already have commuter trains. Will cities no longer have parking? Will traffic congestion get better or worse? Shared mobility: will people own cars? More walking and cycling?
   * Peak Car, growth (population, vmt) is not always up and to the right, other modes of transportation (e.g. Hyperloop, (e-)cycling, Internet) => What If Scinerios (Models + Experts)
 * [Disneyland - 4.26 - Magic Highway U.S.A. - YouTube](https://www.youtube.com/watch?v=e0q_oP9TPD4) [youtube.com]
+* Predict and provide (old model) -> predict and prevent (new model) i.e. demand management
   
 ### Systems
 
