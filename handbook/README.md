@@ -937,8 +937,9 @@
   * Sometimes [Democratic](https://en.wikipedia.org/wiki/Democracy)
     * [Deliberative](https://en.wikipedia.org/wiki/Deliberative_democracy)
     * [Participatory](https://en.wikipedia.org/wiki/Participatory_democracy)
-  * Sometimes [Legitimate](https://en.wikipedia.org/wiki/Legitimacy_(political))
+  * Sometimes [Legitimate](https://en.wikipedia.org/wiki/Legitimacy_(political)): legally or politically
   * Sometimes [Accountable](https://en.wikipedia.org/wiki/Accountability)
+  * Sometimes [Transparent](https://en.wikipedia.org/wiki/Transparency_(behavior))
 
 ### [Policy](https://en.wikipedia.org/wiki/Policy)
 * Policy actors
