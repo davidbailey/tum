@@ -34,6 +34,7 @@
   - [Global Navigation Satellite System (GNSS)](#global-navigation-satellite-system-gnss)
   - [Design](#design)
 - [Governance: "all patterns of rule"](#governance-all-patterns-of-rule)
+  - [Propaganda](#propaganda)
   - [Policy](#policy)
   - [Laws and Regulations](#laws-and-regulations)
 - [Infrastructure](#infrastructure)
@@ -937,9 +938,14 @@
   * Sometimes [Democratic](https://en.wikipedia.org/wiki/Democracy)
     * [Deliberative](https://en.wikipedia.org/wiki/Deliberative_democracy)
     * [Participatory](https://en.wikipedia.org/wiki/Participatory_democracy)
-  * Sometimes [Legitimate](https://en.wikipedia.org/wiki/Legitimacy_(political)): legally or politically
+  * Sometimes [Legitimate](https://en.wikipedia.org/wiki/Legitimacy_(political)): legally or politically, input-oriented and output-oriented
   * Sometimes [Accountable](https://en.wikipedia.org/wiki/Accountability)
   * Sometimes [Transparent](https://en.wikipedia.org/wiki/Transparency_(behavior))
+  * Perception vs. Reality
+
+### [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
+
+* Socially constructed political problems. e.g. fixing traffic
 
 ### [Policy](https://en.wikipedia.org/wiki/Policy)
 * Policy actors
