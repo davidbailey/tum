@@ -19,7 +19,7 @@
   * Sometimes [Transparent](https://en.wikipedia.org/wiki/Transparency_(behavior))
   * Perception vs. Reality
 
-### [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
+### [Propaganda](https://en.wikipedia.org/wiki/Propaganda) / Storytelling
 
 * Socially constructed political problems. e.g. fixing traffic
 
