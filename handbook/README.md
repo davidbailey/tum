@@ -34,7 +34,7 @@
   - [Global Navigation Satellite System (GNSS)](#global-navigation-satellite-system-gnss)
   - [Design](#design)
 - [Governance: "all patterns of rule"](#governance-all-patterns-of-rule)
-  - [Propaganda](#propaganda)
+  - [Propaganda / Storytelling](#propaganda--storytelling)
   - [Policy](#policy)
   - [Laws and Regulations](#laws-and-regulations)
 - [Infrastructure](#infrastructure)
@@ -943,7 +943,7 @@
   * Sometimes [Transparent](https://en.wikipedia.org/wiki/Transparency_(behavior))
   * Perception vs. Reality
 
-### [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
+### [Propaganda](https://en.wikipedia.org/wiki/Propaganda) / Storytelling
 
 * Socially constructed political problems. e.g. fixing traffic
 
