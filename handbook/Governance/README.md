@@ -1,6 +1,6 @@
 ## Governance: "all patterns of rule"
 
-* Components
+* Organization
   * People / [Society](https://en.wikipedia.org/wiki/Society)
     * [Tactical urbanism](https://en.wikipedia.org/wiki/Tactical_urbanism)
       * [Transform Your City With Tactical Urbanism](https://vimeo.com/220812813)
@@ -12,6 +12,11 @@
   * [The Market](https://en.wikipedia.org/wiki/Market_(economics)) / [the Economy](https://en.wikipedia.org/wiki/Economy) / Companies
 * Usually organized as a [network](https://en.wikipedia.org/wiki/Network_theory), not a [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).
 * A process.
+  * Sometimes [Democratic](https://en.wikipedia.org/wiki/Democracy)
+    * [Deliberative](https://en.wikipedia.org/wiki/Deliberative_democracy)
+    * [Participatory](https://en.wikipedia.org/wiki/Participatory_democracy)
+  * Sometimes [Legitimate](https://en.wikipedia.org/wiki/Legitimacy_(political))
+  * Sometimes [Accountable](https://en.wikipedia.org/wiki/Accountability)
 
 ### [Policy](https://en.wikipedia.org/wiki/Policy)
 * Policy actors
