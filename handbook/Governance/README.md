@@ -1,6 +1,7 @@
 ## Governance: "all patterns of rule"
 
-* Typically a [network](https://en.wikipedia.org/wiki/Network_theory), not a [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).  * People / [Society](https://en.wikipedia.org/wiki/Society)
+* Typically a [network](https://en.wikipedia.org/wiki/Network_theory), not a [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).
+  * People / [Society](https://en.wikipedia.org/wiki/Society)
     * [Tactical urbanism](https://en.wikipedia.org/wiki/Tactical_urbanism)
       * [Transform Your City With Tactical Urbanism](https://vimeo.com/220812813)
     * [Non-governmental organization](https://en.wikipedia.org/wiki/Non-governmental_organization)
