@@ -1,9 +1,17 @@
 ## Governance: "all patterns of rule"
 
-### People / [Society](https://en.wikipedia.org/wiki/Society)
-
-* [Tactical urbanism](https://en.wikipedia.org/wiki/Tactical_urbanism)
-  * [Transform Your City With Tactical Urbanism](https://vimeo.com/220812813)
+* Components
+  * People / [Society](https://en.wikipedia.org/wiki/Society)
+    * [Tactical urbanism](https://en.wikipedia.org/wiki/Tactical_urbanism)
+      * [Transform Your City With Tactical Urbanism](https://vimeo.com/220812813)
+    * [Non-governmental organization](https://en.wikipedia.org/wiki/Non-governmental_organization)
+  * The State / Government
+    * Political
+    * Civil
+    * Policy
+  * [The Market](https://en.wikipedia.org/wiki/Market_(economics)) / [the Economy](https://en.wikipedia.org/wiki/Economy) / Companies
+* Usually organized as a [network](https://en.wikipedia.org/wiki/Network_theory), not a [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).
+* A process.
 
 ### [Policy](https://en.wikipedia.org/wiki/Policy)
 * Policy actors
