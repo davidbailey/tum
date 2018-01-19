@@ -11,7 +11,7 @@
     * Policy
   * [The Market](https://en.wikipedia.org/wiki/Market_(economics)) / [the Economy](https://en.wikipedia.org/wiki/Economy) / Companies
 * Usually organized as a [network](https://en.wikipedia.org/wiki/Network_theory), not a [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).
-* A process.
+* A process involving [power](https://en.wikipedia.org/wiki/Power_(social_and_political)) and [knowledge](https://en.wikipedia.org/wiki/Knowledge).
   * Sometimes [Democratic](https://en.wikipedia.org/wiki/Democracy)
     * [Deliberative](https://en.wikipedia.org/wiki/Deliberative_democracy)
     * [Participatory](https://en.wikipedia.org/wiki/Participatory_democracy)
