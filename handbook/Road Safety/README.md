@@ -4,8 +4,8 @@ We don't tolerate buildings where people die in accidents, but we do tolerate ro
 
 ### Measures
 
-* [Traffic Calming 101](https://www.pps.org/reference/livememtraffic/) [www.pps.org]
-  * Diagonal Parking
+* [Traffic Calming](https://en.wikipedia.org/wiki/Traffic_calming) [101](https://www.pps.org/reference/livememtraffic/) [www.pps.org]
+  * [Diagonal Parking](https://en.wikipedia.org/wiki/Parking_space#Angle_parking/echelon_parking)
   * Changing [One-Way Streets](https://en.wikipedia.org/wiki/One-way_traffic) to Two-Way
   * Widening [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)/Narrowing [Streets](https://en.wikipedia.org/wiki/Street) and Traffic [Lanes](https://en.wikipedia.org/wiki/Lane)
   * [Bulbs – Chokers – Neckdowns](https://en.wikipedia.org/wiki/Curb_extension)
@@ -17,6 +17,17 @@ We don't tolerate buildings where people die in accidents, but we do tolerate ro
   * Diverters
   * [Road Humps, Speed Tables, and Cushions](https://en.wikipedia.org/wiki/Speed_bump)
   * [Rumble Strips](https://en.wikipedia.org/wiki/Rumble_strip) and Other Surface Treatments
+*[Towards more livable and safer cities: Examples for safe road infrastructure design](http://sutp.org/files/contents/documents/resources/J_Others/GIZ_SUTP_Towards-more-livable-and-safer-cities_Examples-for-save-road-infrastructure-design.pdf) [sutp.org]
+  * Pedestrian curb extensions
+  * [Crosswalks (pedestrian crossings)](https://en.wikipedia.org/wiki/Pedestrian_crossing)
+  * [On-street parking](https://en.wikipedia.org/wiki/Parallel_parking)
+  * [Pedestrian refugee islands](https://en.wikipedia.org/wiki/Refuge_island)
+  * Raised sidewalks at driveway intersections
+  * Road narrowing
+  * Small [roundabouts](https://en.wikipedia.org/wiki/Roundabout)
+  * Traffic diverter
+  * [Traffic Calming](https://en.wikipedia.org/wiki/Traffic_calming)
+  * Plantation
 
 ### Measuring Road Safety
 
