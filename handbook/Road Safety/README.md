@@ -17,7 +17,7 @@ We don't tolerate buildings where people die in accidents, but we do tolerate ro
   * Diverters
   * [Road Humps, Speed Tables, and Cushions](https://en.wikipedia.org/wiki/Speed_bump)
   * [Rumble Strips](https://en.wikipedia.org/wiki/Rumble_strip) and Other Surface Treatments
-*[Towards more livable and safer cities: Examples for safe road infrastructure design](http://sutp.org/files/contents/documents/resources/J_Others/GIZ_SUTP_Towards-more-livable-and-safer-cities_Examples-for-save-road-infrastructure-design.pdf) [sutp.org]
+* [Towards more livable and safer cities: Examples for safe road infrastructure design](http://sutp.org/files/contents/documents/resources/J_Others/GIZ_SUTP_Towards-more-livable-and-safer-cities_Examples-for-save-road-infrastructure-design.pdf) [sutp.org]
   * Pedestrian curb extensions
   * [Crosswalks (pedestrian crossings)](https://en.wikipedia.org/wiki/Pedestrian_crossing)
   * [On-street parking](https://en.wikipedia.org/wiki/Parallel_parking)
