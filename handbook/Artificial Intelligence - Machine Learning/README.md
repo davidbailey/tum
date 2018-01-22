@@ -8,7 +8,7 @@
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) [developers.google.com]
-
+* [Introduction to Discrete Choice Models](https://www.edx.org/course/introduction-choice-models-epflx-discretechoicex) [www.edx.org]
 ### Competitions
 
 * [Kaggle](https://www.kaggle.com) [www.kaggle.com]
