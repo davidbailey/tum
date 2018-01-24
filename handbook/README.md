@@ -599,6 +599,7 @@
   * [Supply and Demand](https://en.wikipedia.org/wiki/Supply_and_demand)
     * [Supply Curve](https://en.wikipedia.org/wiki/Supply_curve) and [Demand Curve](https://en.wikipedia.org/wiki/Demand_curve)
     * Price => Quantity Supplied and Quantity Demanded
+      * [Pricing](https://ocw.mit.edu/courses/sloan-school-of-management/15-818-pricing-spring-2010/index.htm) [ocw.mit.edu]
       * Surge pricing
     * Assumptions
       * Space - no distances
