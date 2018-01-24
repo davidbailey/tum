@@ -8,7 +8,6 @@
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) [developers.google.com]
-* [Introduction to Discrete Choice Models](https://www.edx.org/course/introduction-choice-models-epflx-discretechoicex) [www.edx.org]
 ### Competitions
 
 * [Kaggle](https://www.kaggle.com) [www.kaggle.com]
@@ -69,6 +68,7 @@
   * [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) [www.youtube.com]
   * [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [www.youtube.com]
   * [Theories of Deep Learning (STATS 385)](https://stats385.github.io) [stats385.github.io]
+  * [Deep Learning](https://www.kaggle.com/learn/deep-learning) [www.kaggle.com]
   * Non-free
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) [www.coursera.org]
 * Reading Lists
@@ -288,9 +288,11 @@
   * [Factor analysis](https://en.wikipedia.org/wiki/Factor_analysis)
 * [Probit Model](https://en.wikipedia.org/wiki/Probit_model)
   * No [Closed-form Expression](https://en.wikipedia.org/wiki/Closed-form_expression)
-* References
+* References / Courses
   * [Discrete Choice Methods with Simulation](https://eml.berkeley.edu/books/choice2.html) [eml.berkeley.edu]
   * [Discrete Dependent Variable Models](http://onlinepubs.trb.org/Onlinepubs/nchrp/cd-22/v2chapter5.html) [onlinepubs.trb.org]
+  * [Introduction to Discrete Choice Models](https://www.edx.org/course/introduction-choice-models-epflx-discretechoicex) [www.edx.org]
+
 
 
 ### [Pattern Recognition](https://en.wikipedia.org/wiki/Pattern_recognition)
