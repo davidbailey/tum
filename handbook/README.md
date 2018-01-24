@@ -2537,6 +2537,8 @@ Risk: Hazard × Vulnerability × Consequence = Probability (e.g. occurances/year
     * when pouplation variances are unequal
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
   * [Gibbs sampling](https://en.wikipedia.org/wiki/Gibbs_sampling)
+    * [Bayesian Inference: Gibbs Sampling
+](http://www.mit.edu/~ilkery/papers/GibbsSampling.pdf) [www.mit.edu]
 * [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
   * P(A|B) = P(B|A) × P(A) / P(B)
   * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/html/index.html) [www.greenteapress.com]
