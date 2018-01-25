@@ -2,6 +2,9 @@
 
 People outside cities (who most often drive) think of corridors (often freeways) because they always go the same way to and from their homes. People in cities (walking, cycling, transiting, driving) think of networks because they can go in any direction from their homes.
 
+* References / Courses
+  * [Transportation and Spatial Modelling](https://ocw.tudelft.nl/courses/transportation-and-spatial-modelling/) [ocw.tudelft.nl]
+
 ### History
 
 * Midevil cities built around walking and defense. Compact, dense, sometimes overcrowded, human scale. Everything mixed-use. No street grid. Size limited by 30 minute walk (2-3km) from one side to the other. Often located at the junction (node) of two trade routes (links) (e.g. Munich) -> Walking city
