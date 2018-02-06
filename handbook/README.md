@@ -142,6 +142,7 @@
   - [Communicating Information](#communicating-information)
   - [Models](#models)
   - [(Big) Data Science](#big-data-science)
+  - [Randomness](#randomness)
 - [Road Safety](#road-safety)
   - [Measures](#measures)
   - [Measuring Road Safety](#measuring-road-safety)
@@ -422,6 +423,7 @@
   * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
     * [Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
   * [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination) R² = 1 - Residual Sum of Squares / Total Sum of Squares, better fit = closer to 1
+  * [Generalized linear models](https://en.wikipedia.org/wiki/Generalized_linear_model)
 * [p-value](https://en.wikipedia.org/wiki/P-value) lower is better
 * [Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)): split data into training and test sets. compare mean square error of test set w/ training set. they should be about the same.
   * [Correlation](https://en.wikipedia.org/wiki/Correlation_and_dependence): two things that happen or change together
@@ -3214,7 +3216,13 @@ Network Map | simple | simple | complex, no map
   * Safety Data
 * http://trec.pdx.edu/events/professional-development/big-data-and-future-travel-modeling
 
+### [Randomness](https://en.wikipedia.org/wiki/Randomness)
 
+* [Random number generator](https://en.wikipedia.org/wiki/Random_number_generation)
+  * [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
+    * [Halton sequence](https://en.wikipedia.org/wiki/Halton_sequence)
+    
+    
 ## [Road Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
 
 We don't tolerate buildings where people die in accidents, but we do tolerate roads where people die in accidents.
