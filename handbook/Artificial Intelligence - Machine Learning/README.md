@@ -239,6 +239,7 @@
   * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
     * [Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
   * [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination) R² = 1 - Residual Sum of Squares / Total Sum of Squares, better fit = closer to 1
+  * [Generalized linear models](https://en.wikipedia.org/wiki/Generalized_linear_model)
 * [p-value](https://en.wikipedia.org/wiki/P-value) lower is better
 * [Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)): split data into training and test sets. compare mean square error of test set w/ training set. they should be about the same.
   * [Correlation](https://en.wikipedia.org/wiki/Correlation_and_dependence): two things that happen or change together
