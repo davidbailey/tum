@@ -270,6 +270,7 @@
   * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) [cs.stanford.edu]
   * [Caffe2](https://caffe2.ai) [caffe2.ai]
     * [Model Zoo](https://github.com/caffe2/caffe2/wiki/Model-Zoo) [github.com]
+  * [WebDNN](https://github.com/mil-tokyo/webdnn) [github.com]
 * Formats
   * [Open Neural Network Exchange](https://github.com/onnx/onnx) [github.com/onnx/onnx]
 * Example Networks
