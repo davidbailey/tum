@@ -62,6 +62,7 @@
 
 * Stochastic Optimization
   * [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+  * [Simultaneous perturbation stochastic approximation](https://en.wikipedia.org/wiki/Simultaneous_perturbation_stochastic_approximation)
 
 ### References
 
