@@ -201,7 +201,7 @@
 * Formal Tasks e.g. board games
 * Expert Tasks e.g. engineering design
 * Mundane Tasks e.g. walking
-* More Tasks: Classification, Classification with missing inputs, Regression, Transcription (OCR, Speech Recognition), Machine translation, Structured output, Anomaly detection, Synthesis and Sampling, Filling missing values, Noise removal, Density estimation, …
+* More Tasks: Detection, Classification, Classification with missing inputs, Segmentation, Prediction, Recommendation, Regression, Transcription (OCR, Speech Recognition), Machine translation, Structured output, Anomaly detection, Synthesis and Sampling, Filling missing values, Noise removal, Density estimation, …
 
 ### Learning Types
 
