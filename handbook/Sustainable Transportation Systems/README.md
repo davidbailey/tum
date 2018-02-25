@@ -209,6 +209,7 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 ### [Vienna - Affordable and Inclusive Greatness](http://www.vienncouver.com/2017/04/vienna-affordable-and-inclusive-greatness/) [www.vienncouver.com]
 
 ### The North American Model
+
 * Reasons why cars are the dominant transportation mode 
   * personal freedom
   * zoning - residential and commercial are farther from each other, not mixed
@@ -216,5 +217,13 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
   * people liked the bus more than the streetcar - more accessibility, faster
   * parking minimums
   * [Why Public Transportation Sucks in the US](https://www.youtube.com/watch?v=-cjfTG8DbwA) [www.youtube.com]
+
+### [The changemakers guide to walkable & bikeable cities](https://miovision.com/walkable-bikeable-city-guide/) [miovision.com]
+
+* Chapter 1: The case for people-centered cities
+* Chapter 2: Fighting the good fight
+* Chapter 3: Making it happen
+* Chapter 4: Analyzing & collecting data
+* Chapter 5: Implementation in action
 
 
