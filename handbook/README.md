@@ -1005,6 +1005,7 @@
       * Buffered
   * [Sidewalks](https://en.wikipedia.org/wiki/Sidewalk)
   * [Curbs](https://en.wikipedia.org/wiki/Curb)
+    * [Making Streets Better: The Joy of Kerbs](https://cityinfinity.files.wordpress.com/2018/02/the-joy-of-kerbs-draft.pdf) [cityinfinity.files.wordpress.com]
 * [Bicycle Boulevard](https://en.wikipedia.org/wiki/Bicycle_boulevard)
 * [Freeways/Motorways](https://en.wikipedia.org/wiki/Controlled-access_highway)
   * [2+1 Road](https://en.wikipedia.org/wiki/2%2B1_road)
