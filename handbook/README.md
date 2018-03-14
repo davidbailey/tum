@@ -1163,11 +1163,15 @@
       * [Incremental Train Control System (ITCS)](https://www.fra.dot.gov/Page/P0287) [www.fra.dot.gov]
         * [Communications Based Overlay Signal System (CBOSS)](http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/CBOSS-PTC-Project.html) [www.caltrain.com]
   * [Automatic Train Control](https://en.wikipedia.org/wiki/Automatic_train_control)
+  * [Cab signalling](https://en.wikipedia.org/wiki/Cab_signalling)
+    * [Transmission Voie-Machine](https://en.wikipedia.org/wiki/Transmission_Voie-Machine)
+    * [Punktförmige Zugbeeinflussung](https://en.wikipedia.org/wiki/Punktförmige_Zugbeeinflussung)
+  * [Train protection system](https://en.wikipedia.org/wiki/Train_protection_system)
   * [Automatic train operation](https://en.wikipedia.org/wiki/Automatic_train_operation)
     * [SelTrac](https://en.wikipedia.org/wiki/SelTrac)
     * Project RUBIN in Nürnberg
-  * [European Rail Traffic Management System](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
-    * [European Train Control System](https://en.wikipedia.org/wiki/European_Train_Control_System)
+  * [European Rail Traffic Management System (ERTMS)](https://en.wikipedia.org/wiki/European_Rail_Traffic_Management_System)
+    * [European Train Control System (ETCS)](https://en.wikipedia.org/wiki/European_Train_Control_System)
       * Train w/ intelligence
         * European Vital Computer (EVC)
           * Subset 26
@@ -1185,17 +1189,17 @@
     * [GSM-R](https://en.wikipedia.org/wiki/GSM-R)
   * http://w3.usa.siemens.com/mobility/us/en/rail-solutions/rail-automation/train-control-system/Pages/train-control-system.aspx
   * Other Equpitment
-    * (Balise)[https://en.wikipedia.org/wiki/Balise]
-      * (Transmission balise-locomotive)[https://en.wikipedia.org/wiki/Transmission_balise-locomotive#TBL_1]
-      * (Eurobalise)[https://en.wikipedia.org/wiki/Eurobalise]
+    * [Balise](https://en.wikipedia.org/wiki/Balise)
+      * [Transmission balise-locomotive](https://en.wikipedia.org/wiki/Transmission_balise-locomotive#TBL_1)
+      * [Eurobalise](https://en.wikipedia.org/wiki/Eurobalise)
         * Fixed Data
         * Transparent Data Balise
         * Euroloop
-    * (Crocodile)[https://en.wikipedia.org/wiki/Crocodile_(train_protection_system)]
-    * (Track Circuits)[https://en.wikipedia.org/wiki/Track_circuit]
-    * (Alex Counters)[https://en.wikipedia.org/wiki/Axle_counter]
+    * [Crocodile](https://en.wikipedia.org/wiki/Crocodile_(train_protection_system))
+    * [Track Circuits](https://en.wikipedia.org/wiki/Track_circuit)
+    * [Alex Counters](https://en.wikipedia.org/wiki/Axle_counter)
     * Software
-      * (EN50128)[https://de.wikipedia.org/wiki/EN_50128]
+      * [EN50128](https://de.wikipedia.org/wiki/EN_50128)
 * Passenger
   * [Inter-city Rail](https://en.wikipedia.org/wiki/Inter-city_rail)
     * [High-speed Rail](https://en.wikipedia.org/wiki/High-speed_rail)
