@@ -208,17 +208,17 @@
     * [GSM-R](https://en.wikipedia.org/wiki/GSM-R)
   * http://w3.usa.siemens.com/mobility/us/en/rail-solutions/rail-automation/train-control-system/Pages/train-control-system.aspx
   * Other Equpitment
-    * (Balise)[https://en.wikipedia.org/wiki/Balise]
-      * (Transmission balise-locomotive)[https://en.wikipedia.org/wiki/Transmission_balise-locomotive#TBL_1]
-      * (Eurobalise)[https://en.wikipedia.org/wiki/Eurobalise]
+    * [Balise](https://en.wikipedia.org/wiki/Balise)
+      * [Transmission balise-locomotive](https://en.wikipedia.org/wiki/Transmission_balise-locomotive#TBL_1)
+      * [Eurobalise](https://en.wikipedia.org/wiki/Eurobalise)
         * Fixed Data
         * Transparent Data Balise
         * Euroloop
-    * (Crocodile)[https://en.wikipedia.org/wiki/Crocodile_(train_protection_system)]
-    * (Track Circuits)[https://en.wikipedia.org/wiki/Track_circuit]
-    * (Alex Counters)[https://en.wikipedia.org/wiki/Axle_counter]
+    * [Crocodile](https://en.wikipedia.org/wiki/Crocodile_(train_protection_system))
+    * [Track Circuits](https://en.wikipedia.org/wiki/Track_circuit)
+    * [Alex Counters](https://en.wikipedia.org/wiki/Axle_counter)
     * Software
-      * (EN50128)[https://de.wikipedia.org/wiki/EN_50128]
+      * [EN50128](https://de.wikipedia.org/wiki/EN_50128)
 * Passenger
   * [Inter-city Rail](https://en.wikipedia.org/wiki/Inter-city_rail)
     * [High-speed Rail](https://en.wikipedia.org/wiki/High-speed_rail)
