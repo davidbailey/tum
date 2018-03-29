@@ -123,6 +123,8 @@
   * [Street running](https://en.wikipedia.org/wiki/Street_running)
   * Equiptment
     * Impediance Bond
+  * Maintenance
+    * [track renewal train](https://www.youtube.com/watch?v=Kh3_QcnCamE) [youtube.com]
 * [Trains](https://en.wikipedia.org/wiki/Train)
   * Propulsion
     * Power Configuration
