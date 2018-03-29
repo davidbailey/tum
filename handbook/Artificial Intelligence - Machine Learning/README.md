@@ -8,6 +8,7 @@
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [www.cs.ox.ac.uk]
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) [www.coursera.org]
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) [developers.google.com]
+* [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/) [blogs.sas.com]
 ### Competitions
 
 * [Kaggle](https://www.kaggle.com) [www.kaggle.com]
@@ -52,7 +53,7 @@
 * [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning): use a pre-trained model as part of a new model in a different domain
 * [Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)
 * other types of learning: demonstrations, observations
-* [https://en.wikipedia.org/wiki/Generative_adversarial_network](Generative adversarial network)
+* [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 
 ### Neural Networks (Deep Learning)
 
