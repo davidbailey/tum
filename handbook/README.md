@@ -1120,6 +1120,8 @@
           * [Budd Metroliner](https://en.wikipedia.org/wiki/Budd_Metroliner)
         * https://pedestrianobservations.wordpress.com/2017/02/19/where-is-electrification-warranted/
       * [Diesel](https://en.wikipedia.org/wiki/Diesel_train)
+  * Wheels
+    * [Why train wheels have conical geometry](https://i.imgur.com/wMuS2Fz.gifv) [i.imgur.com]
   * [Passenger Cars](https://en.wikipedia.org/wiki/Passenger_car_(rail))
     * [Amfleet](https://en.wikipedia.org/wiki/Amfleet)
     * [Bi-Level](https://en.wikipedia.org/wiki/Bilevel_rail_car)
