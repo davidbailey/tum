@@ -53,7 +53,7 @@
 ![the data tables edition](https://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/t/5671eb1e816924fc2265196e/1454121002571/ClearOffTheTableMd.gif)
   * [the map edition](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition) [www.darkhorseanalytics.com]
 ![the map edition](https://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/t/5810e4186a4963ac4defc76b/1481623134192/map_reduce2.gif)
-
+* [SSAC18: Talk Data to your Organization Part 1](https://www.youtube.com/watch?v=txrOQ2p7xK8)
 ### Models
 
 * Requirements for Models
