@@ -3941,5 +3941,3 @@ handbook/README.md:4000: MD034 Bare URL used
 handbook/README.md:4001: MD034 Bare URL used
 handbook/README.md:4002: MD034 Bare URL used
 handbook/README.md:4003: MD034 Bare URL used
-handbook/README.md:35: MD039 Spaces inside link text
-handbook/README.md:591: MD039 Spaces inside link text
