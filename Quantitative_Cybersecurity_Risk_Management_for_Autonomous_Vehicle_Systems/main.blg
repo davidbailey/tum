@@ -1,0 +1,89 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--entry type for "benz__co._in_mannheim_fahrzeug_1886" isn't style-file defined
+--line 615 of file references.bib
+Warning--entry type for "tiwari_vehicle_2018" isn't style-file defined
+--line 2298 of file references.bib
+Warning--entry type for "fairfield_remote_2016" isn't style-file defined
+--line 2388 of file references.bib
+Warning--entry type for "okumura_remote_2016" isn't style-file defined
+--line 2416 of file references.bib
+Warning--entry type for "rust_expert_2017" isn't style-file defined
+--line 2437 of file references.bib
+Warning--entry type for "levinson_teleoperation_2016" isn't style-file defined
+--line 2465 of file references.bib
+Warning--entry type for "alrabady_secure_2011" isn't style-file defined
+--line 2601 of file references.bib
+Warning--entry type for "lewis_over--air_2016" isn't style-file defined
+--line 2632 of file references.bib
+Warning--empty year in automotive_information_sharing_and_analysis_center_auto-isac_automotive_
+Warning--empty booktitle in breiling_secure_2017
+Warning--empty booktitle in cho_fingerprinting_2016
+Warning--empty booktitle in christensen_key_2015
+Warning--empty booktitle in daxin_tian_intrusion_2018
+Warning--empty publisher in department_of_defense_csc-std-001-83_1983
+Warning--empty booktitle in dickmanns_seeing_1994
+Warning--empty year in federal_financial_institutions_examination_council_ffiec_it_
+Warning--empty publisher in hubbard_how_2016
+Warning--empty journal in jackson_impact_2008
+Warning--empty booktitle in joh_defining_2017
+Warning--empty booktitle in king_remarks_2018
+Warning--empty journal in koopman_practical_2018
+Warning--empty year in korosec_82_nodate
+Warning--empty year in korosec_98_nodate
+Warning--empty year in magliozzi_car_nodate
+Warning--empty institution in mccarthy_national_2014
+Warning--empty year in national_institute_of_standards_and_technology_national_
+Warning--empty journal in national_institute_of_standards_and_technology_federal_2006
+Warning--empty institution in national_institute_of_standards_and_technology_nist_2013
+Warning--empty institution in national_institute_of_standards_and_technology_nist_2017
+Warning--empty year in north_american_electric_reliability_corporation_critical_
+Warning--empty institution in sae_international_taxonomy_2018
+Warning--empty year in stanford_university_it_risk_
+Warning--empty publisher in swartz_guerilla_2008
+Warning--empty booktitle in thrun_stanley_2007
+You've used 146 entries,
+            2773 wiz_defined-function locations,
+            1271 strings with 29765 characters,
+and the built_in function-call counts, 55680 in all, are:
+= -- 4699
+> -- 3127
+< -- 136
++ -- 1106
+- -- 956
+* -- 3863
+:= -- 8621
+add.period$ -- 437
+call.type$ -- 146
+change.case$ -- 746
+chr.to.int$ -- 142
+cite$ -- 318
+duplicate$ -- 2643
+empty$ -- 4891
+format.name$ -- 1152
+if$ -- 11750
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 68
+newline$ -- 729
+num.names$ -- 587
+pop$ -- 1909
+preamble$ -- 1
+purify$ -- 610
+quote$ -- 0
+skip$ -- 2162
+stack$ -- 0
+substring$ -- 688
+swap$ -- 349
+text.length$ -- 20
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1536
+warning$ -- 26
+while$ -- 470
+width$ -- 0
+write$ -- 1786
+(There were 34 warnings)

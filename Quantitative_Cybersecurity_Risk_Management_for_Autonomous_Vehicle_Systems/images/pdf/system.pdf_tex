@@ -1,0 +1,141 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'system.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{745.71796875bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.03907213)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{system.pdf}}%
+    \put(0.15272614,0.2662404){\makebox(0,0)[rb]{\smash{Autonomous Vehicle System}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{system.pdf}}%
+    \put(0.31364488,0.57750442){\makebox(0,0)[rb]{\smash{Autonomous Vehicles}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{system.pdf}}%
+    \put(0.63548237,0.17298){\makebox(0,0)[rb]{\smash{Wide Area Networks}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{system.pdf}}%
+    \put(0.47456363,0.04823679){\makebox(0,0)[rb]{\smash{Teleoperation Facility}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{system.pdf}}%
+    \put(0.47456363,0.94638793){\makebox(0,0)[rb]{\smash{Actuators}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{system.pdf}}%
+    \put(0.81356579,0.70937582){\makebox(0,0)[lb]{\smash{Cables}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{system.pdf}}%
+    \put(0.81356579,0.68442718){\makebox(0,0)[lb]{\smash{Computers}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{system.pdf}}%
+    \put(0.63548237,0.55968396){\makebox(0,0)[rb]{\smash{Local Area Networks}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{system.pdf}}%
+    \put(0.81356579,0.43494075){\makebox(0,0)[lb]{\smash{WAN networking equipment}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{system.pdf}}%
+    \put(0.81356579,0.40999211){\makebox(0,0)[lb]{\smash{Power supply}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{system.pdf}}%
+    \put(0.63548237,0.29772321){\makebox(0,0)[rb]{\smash{Sensors}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{system.pdf}}%
+    \put(0.81356579,0.18545432){\makebox(0,0)[lb]{\smash{Cellular network}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{system.pdf}}%
+    \put(0.81356579,0.16050568){\makebox(0,0)[lb]{\smash{Internet}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{system.pdf}}%
+    \put(0.63548237,0.09813407){\makebox(0,0)[rb]{\smash{Computer}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{system.pdf}}%
+    \put(0.81356579,0.03576247){\makebox(0,0)[lb]{\smash{Cables}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{system.pdf}}%
+    \put(0.81356579,0.01081382){\makebox(0,0)[lb]{\smash{WAN networking equipment}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{system.pdf}}%
+    \put(0.63548237,1.03370817){\makebox(0,0)[rb]{\smash{Lateral control}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{system.pdf}}%
+    \put(0.63548237,0.97133657){\makebox(0,0)[rb]{\smash{Longitudinal control}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{system.pdf}}%
+    \put(0.63548237,0.83411903){\makebox(0,0)[rb]{\smash{Other actuators}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{system.pdf}}%
+    \put(0.81356579,0.63452989){\makebox(0,0)[lb]{\smash{Bluetooth}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{system.pdf}}%
+    \put(0.81356579,0.60958125){\makebox(0,0)[lb]{\smash{Controller Area Network (CAN) Bus}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{system.pdf}}%
+    \put(0.81356579,0.58463261){\makebox(0,0)[lb]{\smash{Cellular}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{system.pdf}}%
+    \put(0.81356579,0.55968396){\makebox(0,0)[lb]{\smash{Ethernet}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{system.pdf}}%
+    \put(0.81356579,0.53473532){\makebox(0,0)[lb]{\smash{Near field communications}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{system.pdf}}%
+    \put(0.81356579,0.50978668){\makebox(0,0)[lb]{\smash{Tire-pressure monitoring system}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{system.pdf}}%
+    \put(0.81356579,0.48483803){\makebox(0,0)[lb]{\smash{WiFi}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{system.pdf}}%
+    \put(0.81356579,0.36009482){\makebox(0,0)[lb]{\smash{Cameras}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{system.pdf}}%
+    \put(0.81356579,0.33514618){\makebox(0,0)[lb]{\smash{Global navigation satellite system}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{system.pdf}}%
+    \put(0.81356579,0.31019754){\makebox(0,0)[lb]{\smash{Lidar}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{system.pdf}}%
+    \put(0.81356579,0.28524889){\makebox(0,0)[lb]{\smash{Traditional (CAN Bus) sensors}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{system.pdf}}%
+    \put(0.81356579,0.26030025){\makebox(0,0)[lb]{\smash{Radar}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{system.pdf}}%
+    \put(0.81356579,0.23535161){\makebox(0,0)[lb]{\smash{Ultrasonic}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=33]{system.pdf}}%
+    \put(0.81356579,0.11060839){\makebox(0,0)[lb]{\smash{Controls}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=34]{system.pdf}}%
+    \put(0.81356579,0.08565975){\makebox(0,0)[lb]{\smash{Monitor}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=35]{system.pdf}}%
+    \put(0.81356579,1.03370817){\makebox(0,0)[lb]{\smash{Steering}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=36]{system.pdf}}%
+    \put(0.81356579,0.98381089){\makebox(0,0)[lb]{\smash{Braking (Deceleration)}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=37]{system.pdf}}%
+    \put(0.81356579,0.95886225){\makebox(0,0)[lb]{\smash{Powertrain (Acceleration)}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=38]{system.pdf}}%
+    \put(0.81356579,0.90896496){\makebox(0,0)[lb]{\smash{Climate control}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=39]{system.pdf}}%
+    \put(0.81356579,0.88401632){\makebox(0,0)[lb]{\smash{Dashboard/displays}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=40]{system.pdf}}%
+    \put(0.81356579,0.85906768){\makebox(0,0)[lb]{\smash{Door locks/windows}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=41]{system.pdf}}%
+    \put(0.81356579,0.83411903){\makebox(0,0)[lb]{\smash{Horn}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=42]{system.pdf}}%
+    \put(0.81356579,0.80917039){\makebox(0,0)[lb]{\smash{Lights/signals}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=43]{system.pdf}}%
+    \put(0.81356579,0.78422175){\makebox(0,0)[lb]{\smash{Radio}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=44]{system.pdf}}%
+    \put(0.81356579,0.7592731){\makebox(0,0)[lb]{\smash{Windshield wipers/fluid}}}%
+  \end{picture}%
+\endgroup%

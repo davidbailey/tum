@@ -1,0 +1,38 @@
+\contentsline {section}{List of Figures}{5}{section*.2}
+\contentsline {section}{List of Tables}{6}{section*.3}
+\contentsline {section}{\numberline {1}Introduction}{10}{section.1}
+\contentsline {subsection}{\numberline {1.1}Benz and Stanley}{10}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Autonomous and Teleoperated Vehicles}{12}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Information Security and Vehicle Security}{14}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Risk}{19}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Controls}{19}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Risk Management}{21}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Risk Assessment}{23}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Risk Quantification}{24}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}Research Questions and Contributions}{27}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}Structure of the Thesis}{28}{subsection.1.10}
+\contentsline {section}{\numberline {2}Methods}{29}{section.2}
+\contentsline {subsection}{\numberline {2.1}Prepare for Assessment}{29}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Conduct Assessment}{30}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Identify threat sources and events}{30}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Identify vulnerabilities and predisposing conditions}{32}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Determine likelihood of occurrence}{33}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Determine magnitude of impact}{33}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Determine risk}{35}{subsubsection.2.2.5}
+\contentsline {subsection}{\numberline {2.3}Communicate Results}{35}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Maintain Assessment}{36}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Optimization of Controls}{36}{subsection.2.5}
+\contentsline {section}{\numberline {3}Results}{37}{section.3}
+\contentsline {subsection}{\numberline {3.1}Risk Assessment}{37}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Optimization of Controls}{49}{subsection.3.2}
+\contentsline {section}{\numberline {4}Discussion}{52}{section.4}
+\contentsline {section}{\numberline {5}Conclusion}{55}{section.5}
+\contentsline {section}{\numberline {6}Appendix I: MIL-STD-882E Risk Tables}{56}{section.6}
+\contentsline {section}{\numberline {7}Appendix II: ASIL Risk Tables}{58}{section.7}
+\contentsline {section}{\numberline {8}Appendix III: OWASP Risk Rating Methodology}{59}{section.8}
+\contentsline {section}{\numberline {9}Appendix IV: Security Control Identifiers}{60}{section.9}
+\contentsline {section}{\numberline {10}Appendix V: CIS Controls}{61}{section.10}
+\contentsline {section}{\numberline {11}Appendix VI: PCI Data Security Standard -- High Level Overview}{62}{section.11}
+\contentsline {section}{\numberline {12}Glossary}{63}{section.12}
+\contentsline {section}{\numberline {13}Bibliography}{64}{section.13}
+\contentsline {section}{\numberline {14}Colophon}{77}{section.14}

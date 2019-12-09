@@ -1,0 +1,935 @@
+\begin{thebibliography}{146}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abelson et~al.(1996)Abelson, Sussman, and
+  Sussman]{abelson_structure_1996}
+Harold Abelson, Gerald~Jay Sussman, and Julie Sussman.
+\newblock \emph{Structure and {{Interpretation}} of {{Computer Programs}}}.
+\newblock {MIT Press}, second edition, September 1996.
+\newblock ISBN 0-262-01077-1.
+
+\bibitem[Adams(2005)]{adams_risk_2005}
+John Adams.
+\newblock Risk {{Management}}: It's not rocket science - it's much more
+  complicated, March 2005.
+
+\bibitem[Alrabady et~al.(2011)Alrabady, Carver, and
+  Trupiano]{alrabady_secure_2011}
+Ansaf~I. Alrabady, Howard~J. Carver, and Salvatore~G. Trupiano.
+\newblock Secure over-the-air modification of automotive vehicular options,
+  April 2011.
+
+\bibitem[Archer~Jr.(1996)]{archer_jr._health_1996}
+William~Reynolds Archer~Jr.
+\newblock Health {{Insurance Portability}} and {{Accountability Act}} of 1996,
+  1996.
+
+\bibitem[Asimov(1950)]{asimov_runaround_1950}
+Isaac Asimov.
+\newblock Runaround.
+\newblock In \emph{I, {{Robot}}}, page~40. {Doubleday}, New York, 1950.
+\newblock ISBN 0-385-42304-7.
+
+\bibitem[{Automotive Information Sharing {and} Analysis Center
+  (Auto-ISAC)}()]{automotive_information_sharing_and_analysis_center_auto-isac_automotive_}
+{Automotive Information Sharing {and} Analysis Center (Auto-ISAC)}.
+\newblock Automotive {{Cybersecurity Best Practices}}.
+\newblock https://www.automotiveisac.com/best-practices/.
+
+\bibitem[Bailey(2018)]{bailey_rail_2018}
+David Bailey.
+\newblock {{RAIL}}: {{Risk Assessment Library}}, September 2018.
+
+\bibitem[Bainwol and Bozzella(2014)]{bainwol_letter_2014}
+Mitch Bainwol and John Bozzella.
+\newblock Letter from {{Mitch Bainwol}} and {{John Bozzella}} to {{David J}}.
+  {{Friedman}}, July 2014.
+
+\bibitem[{Benz \& Co. in Mannheim}(1886)]{benz__co._in_mannheim_fahrzeug_1886}
+{Benz \& Co. in Mannheim}.
+\newblock Fahrzeug mit {{Gasmotorenbetrieb}}., January 1886.
+
+\bibitem[Bernstein(1998)]{bernstein_against_1998}
+Peter~L. Bernstein.
+\newblock \emph{Against the {{Gods}}: {{The Remarkable Story}} of {{Risk}}}.
+\newblock {Wiley}, August 1998.
+\newblock ISBN 978-0-471-29563-1.
+
+\bibitem[Beuse(2014)]{beuse_docket_2014}
+Nathaniel Beuse.
+\newblock Docket {{Submission}} of {{One Document Related}} to an {{Automotive
+  Cybersecurity Initiative}}, October 2014.
+
+\bibitem[Blalock et~al.(2005)Blalock, Kadiyali, and Simon]{blalock_impact_2005}
+Garrick Blalock, Vrinda Kadiyali, and Daniel~H. Simon.
+\newblock The {{Impact}} of 9/11 on {{Road Fatalities}}: {{The Other Lives
+  Lost}} to {{Terrorism}}.
+\newblock Technical Report ID 677549, {Social Science Research Network},
+  Rochester, NY, February 2005.
+
+\bibitem[Blincoe et~al.(2015)Blincoe, Miller, Zaloshnja, and
+  Lawrence]{blincoe_economic_2015}
+Lawrence Blincoe, Ted~R. Miller, Eduard Zaloshnja, and Bruce~A. Lawrence.
+\newblock The {{Economic}} and {{Societal Impact}} of {{Motor Vehicle
+  Crashes}}, 2010 ({{Revised}}).
+\newblock {{NHTSA Technical Report}} DOT HS 812 013, {U.S. Department of
+  Transportation, National Highway Traffic Safety Administration 1200 New
+  Jersey Avenue SE. Washington, DC 20590}, National Center for Statistics and
+  Analysis, National Highway Traffic Safety Administration Washington, DC
+  20590, May 2015.
+
+\bibitem[Boudguiga et~al.(2016)Boudguiga, Klaudel, Boulanger, and
+  Chiron]{boudguiga_simple_2016}
+A.~Boudguiga, W.~Klaudel, A.~Boulanger, and P.~Chiron.
+\newblock A simple intrusion detection method for controller area network.
+\newblock In \emph{2016 {{IEEE International Conference}} on {{Communications}}
+  ({{ICC}})}, pages 1--7, May 2016.
+\newblock \doi{10.1109/ICC.2016.7511098}.
+
+\bibitem[Braden(1989)]{braden_rfc_1989}
+R.~Braden.
+\newblock {{RFC}} 1122: {{Requirements}} for {{Internet Hosts}} -
+  {{Communication Layers}}.
+\newblock https://tools.ietf.org/html/rfc1122, October 1989.
+
+\bibitem[Breiling et~al.(2017)Breiling, Dieber, and
+  Schartner]{breiling_secure_2017}
+Benjamin Breiling, Bernhard Dieber, and Peter Schartner.
+\newblock Secure {{Communication}} for the {{Robot Operating System}}.
+\newblock Montreal, April 2017.
+\newblock \doi{10.1109/SYSCON.2017.7934755}.
+
+\bibitem[Brooks(1986)]{brooks_robust_1986}
+R.~Brooks.
+\newblock A robust layered control system for a mobile robot.
+\newblock \emph{IEEE Journal on Robotics and Automation}, 2\penalty0
+  (1):\penalty0 14--23, March 1986.
+\newblock ISSN 0882-4967.
+\newblock \doi{10.1109/JRA.1986.1087032}.
+
+\bibitem[Bruton(2014)]{bruton_securing_2014}
+Jennifer~Ann Bruton.
+\newblock \emph{Securing {{CAN Bus Communication}}: {{An Analysis}} of
+  {{Cryptographic Approaches}}}.
+\newblock PhD thesis, National University of Ireland, Galway, Galway, August
+  2014.
+
+\bibitem[Bryant and Campbell(2006)]{bryant_user_2006}
+Kay Bryant and John Campbell.
+\newblock User {{Behaviours Associated}} with {{Password Security}} and
+  {{Management}}.
+\newblock \emph{Australasian Journal of Information Systems}, 14\penalty0 (1),
+  November 2006.
+\newblock ISSN 1449-8618, 1449-8618.
+\newblock \doi{10.3127/ajis.v14i1.9}.
+
+\bibitem[Buckley(1974)]{buckley_family_1974}
+James~L. Buckley.
+\newblock Family {{Educational Rights}} and {{Privacy Act}} of 1974
+  \textsection{} 20 {{U}}.{{S}}.{{C}}. \textsection{} 1232g, 1974.
+
+\bibitem[{Bundesamt f\"ur Sicherheit in der
+  Informationstechnik}(2008)]{bundesamt_fur_sicherheit_in_der_informationstechnik_elementary_2008}
+{Bundesamt f\"ur Sicherheit in der Informationstechnik}.
+\newblock Elementary {{Threats}}.
+\newblock
+  https://www.bsi.bund.de/EN/Topics/ITGrundschutz/Download/download\_node.html,
+  2008.
+
+\bibitem[{Bureau of Labor
+  Statistics}(2018)]{bureau_of_labor_statistics_cpi-all_2018}
+{Bureau of Labor Statistics}.
+\newblock {{CPI}}-{{All Urban Consumers}} ({{Current Series}}).
+\newblock https://data.bls.gov/timeseries/CUSR0000SA0, 2018.
+
+\bibitem[Burns(1785)]{burns_mouse_1785}
+Robert Burns.
+\newblock To a {{Mouse}}.
+\newblock \emph{On Turning up in Her Nest with the Plough}, November 1785.
+
+\bibitem[Carey et~al.(2006)Carey, Stulz, and {National Bureau of Economic
+  Research}]{carey_risks_2006}
+Mark~S. Carey, Ren\'e~M. Stulz, and {National Bureau of Economic Research},
+  editors.
+\newblock \emph{The Risks of Financial Institutions}.
+\newblock A National Bureau of Economic Research conference report. {University
+  of Chicago Press}, Chicago, 2006.
+\newblock ISBN 978-0-226-09285-0.
+\newblock OCLC: ocm65521611.
+
+\bibitem[Carlin(1984)]{carlin_carlin_1984}
+George Carlin.
+\newblock Carlin on {{Campus}}, April 1984.
+
+\bibitem[{Center for Internet
+  Security}(2018)]{center_for_internet_security_cis_2018}
+{Center for Internet Security}.
+\newblock {{CIS Controls}}.
+\newblock https://www.sans.org/critical-security-controls/, 2018.
+
+\bibitem[Cho and Shin(2016)]{cho_fingerprinting_2016}
+Kyong-Tak Cho and Kang~G. Shin.
+\newblock Fingerprinting {{Electronic Control Units}} for {{Vehicle Intrusion
+  Detection}} | {{USENIX}}.
+\newblock Austin, TX, August 2016.
+\newblock ISBN 978-1-931971-32-4.
+
+\bibitem[Christensen et~al.(2015)Christensen, Cunningham, Engelman, Green,
+  Kawashima, Kiger, Prokhorov, Tellis, Wendling, and
+  Barickman]{christensen_key_2015}
+Andy Christensen, Andrew Cunningham, Jerry Engelman, Charles Green, Charles
+  Kawashima, Steve Kiger, Danil Prokhorov, Levasseur Tellis, Barbara Wendling,
+  and Frank Barickman.
+\newblock Key {{Considerations}} in the {{Development}} of {{Driving Automation
+  Systems}}.
+\newblock 2015.
+
+\bibitem[Clarke(1951)]{clarke_superiority_1951}
+Arthur~C. Clarke.
+\newblock Superiority.
+\newblock \emph{The Magazine of Fantasy \& Science Fiction}, August 1951.
+
+\bibitem[{Cloud Security Alliance Top Threats Working
+  Group}(2016)]{cloud_security_alliance_top_threats_working_group_treacherous_2016}
+{Cloud Security Alliance Top Threats Working Group}.
+\newblock The {{Treacherous}} 12 {{Cloud Computing Top Threats}} in 2016,
+  February 2016.
+
+\bibitem[Cromwell(1977)]{cromwell_wooden_1977}
+Carter Cromwell.
+\newblock Wooden {{Preaches Preparation}}.
+\newblock \emph{Lubbock Avalanche-Journal}, page~D3, January 1977.
+
+\bibitem[Dakroub and Cadena(2014)]{2014-01-0256}
+Husein Dakroub and Robert Cadena.
+\newblock Analysis of {{Software Update}} in {{Connected Vehicles}}.
+\newblock \emph{SAE Int. J. Passeng. Cars \textendash{} Electron. Electr.
+  Syst.}, 7:\penalty0 411--417, April 2014.
+\newblock \doi{10.4271/2014-01-0256}.
+
+\bibitem[Davis(2006)]{davis_say_2006}
+Joshua Davis.
+\newblock Say {{Hello}} to {{Stanley}}.
+\newblock \emph{WIRED}, January 2006.
+
+\bibitem[Davis~III(2002)]{davis_iii_federal_2002}
+Thomas~Milburn Davis~III.
+\newblock Federal {{Information Security Management Act}} of 2002
+  \textsection{} 44 {{U}}.{{S}}.{{C}}. \textsection{} 3541, 2002.
+
+\bibitem[{Daxin Tian} et~al.(2018){Daxin Tian}, {Yuzhou Li}, {Yunpeng Wang},
+  {Xuting Duan}, {Congyu Wang}, {Wenyang Wang}, {Rong Hui}, and {Peng
+  Guo}]{daxin_tian_intrusion_2018}
+{Daxin Tian}, {Yuzhou Li}, {Yunpeng Wang}, {Xuting Duan}, {Congyu Wang},
+  {Wenyang Wang}, {Rong Hui}, and {Peng Guo}.
+\newblock An {{Intrusion Detection System Based}} on {{Machine Learning}} for
+  {{CAN}}-{{Bus}} | {{SpringerLink}}.
+\newblock January 2018.
+\newblock ISBN 978-3-319-74176-5.
+\newblock \doi{https://doi.org/10.1007/978-3-319-74176-5_25}.
+
+\bibitem[{Defense Advanced Research Projects
+  Agency}(2004)]{defense_advanced_research_projects_agency_darpa_2004}
+{Defense Advanced Research Projects Agency}.
+\newblock \emph{{{DARPA Grand Challenge}} 2005 {{Rules}}}.
+\newblock {Defense Advanced Research Projects Agency}, 3701 North Fairfax Drive
+  Arlington, VA 22203-1714, August 2004.
+
+\bibitem[{Department of
+  Defense}(1983)]{department_of_defense_csc-std-001-83_1983}
+{Department of Defense}.
+\newblock \emph{{{CSC}}-{{STD}}-001-83: {{Department}} of {{Defense Trusted
+  Computer System Evaluation Criteria}}}.
+\newblock August 1983.
+
+\bibitem[{Department of
+  Defense}(2012)]{department_of_defense_mil-std-882e_2012}
+{Department of Defense}.
+\newblock {{MIL}}-{{STD}}-{{882E}} - {{System Safety}}, May 2012.
+
+\bibitem[{Department of Motor
+  Vehicles}(2018)]{department_of_motor_vehicles_driverless_2018}
+{Department of Motor Vehicles}.
+\newblock Driverless {{Testing}} and {{Public Use Rules}} for {{Autonomous
+  Vehicles Approved}}, February 2018.
+
+\bibitem[Dickmanns et~al.(1994)Dickmanns, Behringer, Dickmanns, Hildebrandt,
+  Maurer, Thomanek, and Schiehlen]{dickmanns_seeing_1994}
+E.D. Dickmanns, R.~Behringer, D.~Dickmanns, T.~Hildebrandt, M.~Maurer,
+  F.~Thomanek, and J.~Schiehlen.
+\newblock The seeing passenger car '{{VaMoRs}}-{{P}}'.
+\newblock pages 68--73. {IEEE}, 1994.
+\newblock ISBN 978-0-7803-2135-9.
+\newblock \doi{10.1109/IVS.1994.639472}.
+
+\bibitem[Dieber et~al.(2017)Dieber, Breiling, Taurer, Kacianka, Rass, and
+  Schartner]{dieber_security_2017}
+Bernhard Dieber, Benjamin Breiling, Sebastian Taurer, Severin Kacianka, Stefan
+  Rass, and Peter Schartner.
+\newblock Security for the {{Robot Operating System}}.
+\newblock \emph{Robotics and Autonomous Systems}, 98:\penalty0 192--203,
+  December 2017.
+\newblock ISSN 0921-8890.
+\newblock \doi{10.1016/j.robot.2017.09.017}.
+
+\bibitem[Embrechts et~al.(2005)Embrechts, {Chavez-Demoulin}, and
+  Neslehova]{embrechts_lectures_2005}
+Paul Embrechts, Valerie {Chavez-Demoulin}, and Johanna Neslehova.
+\newblock Lectures at the {{Federal Reserve Bank}} of {{Boston}}, September
+  2005.
+
+\bibitem[{European Parliament {and}
+  Council}(2016)]{european_parliament_and_council_regulation_2016}
+{European Parliament {and} Council}.
+\newblock Regulation ({{EU}}) 2016/679 of the {{European Parliament}} and of
+  the {{Council}} of 27 {{April}} 2016 on the protection of natural persons
+  with regard to the processing of personal data and on the free movement of
+  such data, and repealing {{Directive}} 95/46/{{EC}} ({{General Data
+  Protection Regulation}}) ({{Text}} with {{EEA}} relevance), May 2016.
+
+\bibitem[Evtimov et~al.(2017)Evtimov, Eykholt, Fernandes, Kohno, Li, Prakash,
+  Rahmati, and Song]{evtimov_robust_2017}
+Ivan Evtimov, Kevin Eykholt, Earlence Fernandes, Tadayoshi Kohno, Bo~Li, Atul
+  Prakash, Amir Rahmati, and Dawn Song.
+\newblock Robust {{Physical}}-{{World Attacks}} on {{Deep Learning Models}}.
+\newblock \emph{arXiv:1707.08945 [cs]}, July 2017.
+
+\bibitem[Fairfield and Herbach(2016)]{fairfield_remote_2016}
+Nathaniel Fairfield and Joshua~Seth Herbach.
+\newblock Remote assistance for an autonomous vehicle in low confidence
+  situations, October 2016.
+
+\bibitem[{Federal Financial Institutions Examination Council
+  (FFIEC)}()]{federal_financial_institutions_examination_council_ffiec_it_}
+{Federal Financial Institutions Examination Council (FFIEC)}.
+\newblock {{IT Examination Handbook}}.
+
+\bibitem[{FIRST.org, Inc.}(2015)]{first.org_inc._common_2015}
+{FIRST.org, Inc.}
+\newblock Common {{Vulnerability Scoring System}} v3.0.
+\newblock https://www.first.org/cvss/specification-document, 2015.
+
+\bibitem[{Ford Motor Company}(2018)]{ford_motor_company_matter_2018}
+{Ford Motor Company}.
+\newblock A {{Matter}} of {{Trust}}: {{Ford}}'s {{Approach}} to {{Developing
+  Self}}-driving {{Vehicles}}, 2018.
+
+\bibitem[Goodfellow et~al.(2017)Goodfellow, Papernot, Huang, Duan, Abbelle, and
+  Clark]{goodfellow_attacking_2017}
+Ian Goodfellow, Nicolas Papernot, Sandy Huang, Yan Duan, Pieter Abbelle, and
+  Jack Clark.
+\newblock Attacking {{Machine Learning}} with {{Adversarial Examples}},
+  February 2017.
+
+\bibitem[Gordon(2015)]{gordon_official_2015-1}
+Adam Gordon.
+\newblock \emph{Official ({{ISC}})2 {{Guide}} to the {{CISSP CBK}}}.
+\newblock {CRC Press}, Boca Raton, FL, fourth edition, February 2015.
+\newblock ISBN 978-1-4822-6275-9.
+
+\bibitem[Gramm(1999)]{gramm_grammleachbliley_1999}
+William~Philip Gramm.
+\newblock Gramm\textendash{{Leach}}\textendash{{Bliley Act}} \textsection{} 15
+  {{U}}.{{S}}.{{C}}. {{Subchapter I}}, 1999.
+
+\bibitem[Greenberg(2015)]{greenberg_gm_2015}
+Andy Greenberg.
+\newblock {{GM Took}} 5 {{Years}} to {{Fix}} a {{Full}}-{{Takeover Hack}} in
+  {{Millions}} of {{OnStar Cars}}.
+\newblock \emph{Wired}, September 2015.
+\newblock ISSN 1059-1028.
+
+\bibitem[Held and Baghdasaryan(2017)]{held_measuring_2017}
+Garrett Held and Davit Baghdasaryan.
+\newblock Measuring {{End}}-to-{{End Security Engineering}}, 2017.
+
+\bibitem[{HITRUST Alliance}(2018)]{hitrust_alliance_hitrust_2018}
+{HITRUST Alliance}.
+\newblock {{HITRUST CSF}}.
+\newblock https://hitrustalliance.net/hitrust-csf/, 2018.
+
+\bibitem[Holbrook and Reynolds(1991)]{holbrook_rfc_1991}
+J.~P. Holbrook and J.~K. Reynolds.
+\newblock {{RFC}} 1244: {{Site Security Handbook}}.
+\newblock https://tools.ietf.org/html/rfc1244, July 1991.
+
+\bibitem[Hubbard and Seiersen(2016)]{hubbard_how_2016}
+Douglas~W. Hubbard and Richard Seiersen.
+\newblock \emph{How to {{Measure Anything}} in {{Cybersecurity Risk}}}.
+\newblock July 2016.
+\newblock ISBN 978-1-119-08529-4.
+
+\bibitem[{International Federation of
+  Accountants}(2011)]{international_federation_of_accountants_international_2011}
+{International Federation of Accountants}.
+\newblock International {{Standard}} for {{Assurance Engagements}} ({{ISAE}})
+  3402 {{Assurance Reports}} on {{Controls}} at a {{Service Organization}},
+  June 2011.
+
+\bibitem[{International Organization for
+  Standardization}(1994)]{international_organization_for_standardization_iso/iec_1994}
+{International Organization for Standardization}.
+\newblock {{ISO}}/{{IEC}} 7498 - {{Information}} technology - {{Open Systems
+  Interconnection}} - {{Basic Reference Model}}.
+\newblock
+  http://standards.iso.org/ittf/PubliclyAvailableStandards/s020269\_ISO\_IEC\_7498-1\_1994(E).zip,
+  1994.
+
+\bibitem[{International Organization for
+  Standardization}(2011)]{international_organization_for_standardization_iso_2011}
+{International Organization for Standardization}.
+\newblock {{ISO}} 26262 - {{Functional Safety}} for {{Road Vehicles}}.
+\newblock https://www.iso.org/standard/43464.html, 2011.
+
+\bibitem[{International Organization for
+  Standardization}(2013)]{international_organization_for_standardization_iso/iec_2013}
+{International Organization for Standardization}.
+\newblock {{ISO}}/{{IEC}} 27000 - {{Information}} security management systems.
+\newblock https://www.iso.org/isoiec-27001-information-security.html, 2013.
+
+\bibitem[{International Organization for
+  Standardization}(2015)]{international_organization_for_standardization_iso_2015}
+{International Organization for Standardization}.
+\newblock {{ISO}} 11898 - {{Road}} vehicles - {{Controller}} area network
+  ({{CAN}}).
+\newblock https://www.iso.org/standard/63648.html, 2015.
+
+\bibitem[{International Organization for
+  Standardization}(2018{\natexlab{a}})]{international_organization_for_standardization_iso/iec_2018}
+{International Organization for Standardization}.
+\newblock {{ISO}}/{{IEC}} 27005 - {{Information}} security risk management.
+\newblock https://www.iso.org/obp/ui/\#iso:std:iso-iec:27005:ed-3:v1:en,
+  2018{\natexlab{a}}.
+
+\bibitem[{International Organization for
+  Standardization}(2018{\natexlab{b}})]{international_organization_for_standardization_iso_2018}
+{International Organization for Standardization}.
+\newblock {{ISO}} 31000 - {{Risk}} management.
+\newblock https://www.iso.org/iso-31000-risk-management.html,
+  2018{\natexlab{b}}.
+
+\bibitem[Jackson(2008)]{jackson_impact_2008}
+Olivia~A Jackson.
+\newblock The {{Impact}} of the 9/11 {{Terrorist Attacks}} on the {{US
+  Economy}}.
+\newblock March 2008.
+
+\bibitem[Joh and Malaiya(2017)]{joh_defining_2017}
+HyunChul Joh and Yashwant~K Malaiya.
+\newblock Defining and {{Assessing Quantitative Security Risk Measures Using
+  Vulnerability Lifecycle}} and {{CVSS Metrics}}.
+\newblock 2017.
+
+\bibitem[Kang and Kang(2016)]{kang_intrusion_2016}
+Min-Joo Kang and Je-Won Kang.
+\newblock Intrusion {{Detection System Using Deep Neural Network}} for
+  {{In}}-{{Vehicle Network Security}}.
+\newblock \emph{PLOS ONE}, 11\penalty0 (6):\penalty0 e0155781, June 2016.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0155781}.
+
+\bibitem[{Keen Security Lab of
+  Tencent}(2016)]{keen_security_lab_of_tencent_car_2016}
+{Keen Security Lab of Tencent}.
+\newblock Car {{Hacking Research}}: {{Remote Attack Tesla Motors}}, September
+  2016.
+
+\bibitem[{Keen Security Lab of
+  Tencent}(2017)]{keen_security_lab_of_tencent_new_2017}
+{Keen Security Lab of Tencent}.
+\newblock New {{Car Hacking Research}}: 2017, {{Remote Attack Tesla Motors
+  Again}}, July 2017.
+
+\bibitem[King(2018)]{king_remarks_2018}
+Heidi King.
+\newblock Remarks at {{SAE}}/{{NHTSA Cybersecurity Workshop}}.
+\newblock January 2018.
+
+\bibitem[Kleberger et~al.(2011)Kleberger, Olovsson, and
+  Jonsson]{kleberger_security_2011}
+P.~Kleberger, T.~Olovsson, and E.~Jonsson.
+\newblock Security aspects of the in-vehicle network in the connected car.
+\newblock In \emph{2011 {{IEEE Intelligent Vehicles Symposium}} ({{IV}})},
+  pages 528--533, June 2011.
+\newblock \doi{10.1109/IVS.2011.5940525}.
+
+\bibitem[Kockelman et~al.(2016)Kockelman, Avery, Bansal, Boyles, Bujanovic,
+  {Tejas Choudhary}, {Lewis Clements}, {Gleb Domnenko}, {Dan Fagnant}, {John
+  Helsel}, {Rebecca Hutchinson}, {Michael Levin}, {Jia Li}, {Tianxin Li}, {Lisa
+  Loftus-Otway}, {Aqshems Nichols}, {Michele Simoni}, and {Duncan
+  Stewart}]{kockelman_implications_2016}
+Kara Kockelman, Paul Avery, Prateek Bansal, Stephen~D. Boyles, Pavle Bujanovic,
+  {Tejas Choudhary}, {Lewis Clements}, {Gleb Domnenko}, {Dan Fagnant}, {John
+  Helsel}, {Rebecca Hutchinson}, {Michael Levin}, {Jia Li}, {Tianxin Li}, {Lisa
+  Loftus-Otway}, {Aqshems Nichols}, {Michele Simoni}, and {Duncan Stewart}.
+\newblock Implications of {{Connected}} and {{Automated Vehicles}} on the
+  {{Safety}} and {{Operations}} of {{Roadway Networks}}: {{A Final Report}}.
+\newblock Technical Report FHWA/TX-16/0-6849-1, {Center for Transportation
+  Research}, The University of Texas at Austin 1616 Guadalupe Street, Suite
+  4.202 Austin, TX 78701, August 2016.
+
+\bibitem[Koopman(2018)]{koopman_practical_2018}
+Philip Koopman.
+\newblock Practical {{Experience Report}}: {{Automotive Safety Practices}} vs.
+  {{Accepted Principles}}.
+\newblock page~9, 2018.
+
+\bibitem[Korosec et~al.({\natexlab{a}})Korosec, Niedermeyer, and
+  Roy]{korosec_82_nodate}
+Kirsten Korosec, E.W. Niedermeyer, and Alex Roy.
+\newblock \#82: {{Elliot Katz}} and {{Jordan Sanders}} of {{Phantom Auto}},
+  {\natexlab{a}}.
+
+\bibitem[Korosec et~al.({\natexlab{b}})Korosec, Niedermeyer, and
+  Roy]{korosec_98_nodate}
+Kirsten Korosec, E.W. Niedermeyer, and Alex Roy.
+\newblock \#98: {{Stefan Seltz}}-{{Axmacher}} of {{Starsky Robotics}},
+  {\natexlab{b}}.
+
+\bibitem[Koscher et~al.(2010)Koscher, Czeskis, Roesner, Patel, Kohno,
+  Checkoway, McCoy, Kantor, Anderson, Shacham, and
+  Savage]{koscher_experimental_2010}
+K.~Koscher, A.~Czeskis, F.~Roesner, S.~Patel, T.~Kohno, S.~Checkoway, D.~McCoy,
+  B.~Kantor, D.~Anderson, H.~Shacham, and S.~Savage.
+\newblock Experimental {{Security Analysis}} of a {{Modern Automobile}}.
+\newblock In \emph{2010 {{IEEE Symposium}} on {{Security}} and {{Privacy}}},
+  pages 447--462, May 2010.
+\newblock \doi{10.1109/SP.2010.34}.
+
+\bibitem[Larson et~al.(2008)Larson, Nilsson, and Jonsson]{larson_approach_2008}
+U.~E. Larson, D.~K. Nilsson, and E.~Jonsson.
+\newblock An approach to specification-based attack detection for in-vehicle
+  networks.
+\newblock In \emph{2008 {{IEEE Intelligent Vehicles Symposium}}}, pages
+  220--225, June 2008.
+\newblock \doi{10.1109/IVS.2008.4621263}.
+
+\bibitem[Latta(2017)]{latta_self_2017}
+Robert Latta.
+\newblock {{SELF DRIVE Act}}, July 2017.
+
+\bibitem[{Le Monde.fr with AFP}(2016)]{le_monde.fr_with_afp_bilan_2016}
+{Le Monde.fr with AFP}.
+\newblock {Le bilan de l'attentat de Nice port\'e \`a 86 morts}.
+\newblock \emph{Le Monde.fr}, August 2016.
+\newblock ISSN 1950-6244.
+
+\bibitem[LeBlanc(2007)]{leblanc_dreadful_2007}
+David LeBlanc.
+\newblock {{DREADful}}, August 2007.
+
+\bibitem[Levinson et~al.(2016)Levinson, Kentley, Sibley, Gamara, Rege, and
+  Linscott]{levinson_teleoperation_2016}
+Jesse~Sol Levinson, Timothy~David Kentley, Gabriel~Thurston Sibley,
+  Rachad~Youssef Gamara, Ashutosh~Gajanan Rege, and Gary Linscott.
+\newblock Teleoperation system and method for trajectory modification of
+  autonomous vehicles, November 2016.
+
+\bibitem[Lewis(2016)]{lewis_over--air_2016}
+Derek~Lane Lewis.
+\newblock Over-the-air vehicle systems updating and associate security
+  protocols, October 2016.
+
+\bibitem[Lin and Qing(2015)]{lin_gps_2015}
+Huang Lin and Yang Qing.
+\newblock {{GPS Spoofing}}: {{Low}}-cost {{GPS}} simulator, August 2015.
+
+\bibitem[Littman(2018)]{littman_autonomous_2018}
+Todd Littman.
+\newblock Autonomous {{Vehicle Implementation Predictions}}: {{Implications}}
+  for {{Transport Planning}}, March 2018.
+
+\bibitem[Lynn and Moore(2012)]{lynn_particular_2012}
+Gilbert Lynn and Gaylen Moore.
+\newblock \emph{Particular {{Passions}}: {{Grace Murray Hopper}}}.
+\newblock Women of Wisdom. {Lynn Gilbert Inc.}, New York City, 1st edition,
+  December 2012.
+\newblock ISBN 978-1-61979-403-0.
+
+\bibitem[Magliozzi()]{magliozzi_car_nodate}
+Tom Magliozzi.
+\newblock Car {{Talk}}.
+
+\bibitem[Markiewicz and Raderman(2015)]{markiewicz_guidelines_2015}
+Doug Markiewicz and Laura Raderman.
+\newblock Guidelines for {{Data Classification}}.
+\newblock
+  http://www.cmu.edu/iso/governance/guidelines/data-classification.html, July
+  2015.
+
+\bibitem[McCarthy and Harnett(2014)]{mccarthy_national_2014}
+Charlie McCarthy and Kevin Harnett.
+\newblock National {{Institute}} of {{Standards}} and {{Technology}} ({{NIST}})
+  {{Cybersecurity Risk Management Framework Applied}} to {{Modern Vehicles}}.
+\newblock Technical Report DOT HS 812 073, Washington DC: National Highway
+  Traffic Safety Administration, October 2014.
+
+\bibitem[McCumber(2004)]{mccumber_assessing_2004}
+John McCumber.
+\newblock \emph{Assessing and {{Managing Security Risk}} in {{IT Systems}}: {{A
+  Structured Methodology}}}.
+\newblock {CRC Press}, Boca Raton, FL, 2004.
+\newblock ISBN 987-0-203-49042-6.
+
+\bibitem[McMorris~Rodgers(2009)]{mcmorris_rodgers_health_2009}
+Cathy~Anne McMorris~Rodgers.
+\newblock Health {{Information Technology}} for {{Economic}} and {{Clinical
+  Health Act}}, 2009.
+
+\bibitem[McNab(2007)]{mcnab_network_2007}
+Chris McNab.
+\newblock \emph{Network {{Security Assessment}}}.
+\newblock {O'Reilly Media, Inc.}, 1005 Gravenstein Highway North, Sebastopol,
+  CA 95472, second edition edition, October 2007.
+\newblock ISBN 978-0-596-00611-2.
+
+\bibitem[McNeil et~al.(2015)McNeil, Frey, and
+  Embrechts]{mcneil_quantitative_2015}
+Alexander~J McNeil, R\"udiger Frey, and Paul Embrechts.
+\newblock \emph{Quantitative Risk Management : Concepts, Techniques and Tools}.
+\newblock {Princeton University Press}, Princeton, NJ, May 2015.
+\newblock ISBN 978-0-691-16627-8.
+
+\bibitem[Miller and Valasek(2016{\natexlab{a}})]{miller_advanced_2016}
+Chalie Miller and Chris Valasek.
+\newblock Advanced {{CAN Injection Techniques}} for {{Vehicle Networks}},
+  2016{\natexlab{a}}.
+
+\bibitem[Miller and Valasek(2014)]{miller_adventures_2014}
+Charlie Miller and Chris Valasek.
+\newblock Adventures in {{Automotive Networks}} and {{Control Units}}, 2014.
+
+\bibitem[Miller and Valasek(2015)]{miller_remote_2015}
+Charlie Miller and Chris Valasek.
+\newblock Remote {{Exploitation}} of an {{Unaltered Passenger Vehicle}}, August
+  2015.
+
+\bibitem[Miller and Valasek(2016{\natexlab{b}})]{miller_can_2016}
+Charlie Miller and Chris Valasek.
+\newblock {{CAN Message Injection}}: {{OG Dynamite Edition}}, June
+  2016{\natexlab{b}}.
+
+\bibitem[Mukund and Shamrao(2015)]{mukund_security_2015}
+Sutar~Tejaswini Mukund and Pawar~Sanjay Shamrao.
+\newblock Security for {{CAN}} ({{Controller Area Network}}) {{Bus}} in
+  {{Vehicle Communication System}}.
+\newblock \emph{International Journal for Scientific Research \& Development},
+  3\penalty0 (8), 2015.
+
+\bibitem[M\"uter and Asaj(2011)]{muter_entropy-based_2011}
+M.~M\"uter and N.~Asaj.
+\newblock Entropy-based anomaly detection for in-vehicle networks.
+\newblock In \emph{2011 {{IEEE Intelligent Vehicles Symposium}} ({{IV}})},
+  pages 1110--1115, June 2011.
+\newblock \doi{10.1109/IVS.2011.5940552}.
+
+\bibitem[{National Highway Traffic Safety
+  Administration}(2016)]{national_highway_traffic_safety_administration_guidelines_2016}
+{National Highway Traffic Safety Administration}.
+\newblock Guidelines for the {{Safe Deployment}} and {{Operation}} of
+  {{Automated Vehicle Safety Technologies}}, 2016.
+
+\bibitem[{National Institute of Standards and
+  Technology}()]{national_institute_of_standards_and_technology_national_}
+{National Institute of Standards and Technology}.
+\newblock National {{Vulnerability Database}}.
+\newblock https://nvd.nist.gov/.
+
+\bibitem[{National Institute of Standards and
+  Technology}(2006)]{national_institute_of_standards_and_technology_federal_2006}
+{National Institute of Standards and Technology}.
+\newblock Federal {{Information Processing Standard}} 200: {{Minimum Security
+  Requirements}} for {{Federal Information}} and {{Information Systems}}.
+\newblock March 2006.
+
+\bibitem[{National Institute of Standards and
+  Technology}(2012)]{national_institute_of_standards_and_technology_nist_2012}
+{National Institute of Standards and Technology}.
+\newblock {{NIST Special Publication}} 800-30 {{Revision}} 1: {{Guide}} for
+  conducting risk assessments.
+\newblock Technical Report NIST SP 800-30r1, {National Institute of Standards
+  and Technology}, Gaithersburg, MD, September 2012.
+
+\bibitem[{National Institute of Standards and
+  Technology}(2013)]{national_institute_of_standards_and_technology_nist_2013}
+{National Institute of Standards and Technology}.
+\newblock {{NIST Special Publication}} 800-53 {{Revision}} 4: {{Security}} and
+  {{Privacy Controls}} for {{Federal Information Systems}} and
+  {{Organizations}}.
+\newblock Technical report, April 2013.
+
+\bibitem[{National Institute of Standards and
+  Technology}(2017)]{national_institute_of_standards_and_technology_nist_2017}
+{National Institute of Standards and Technology}.
+\newblock {{NIST Special Publication}} 800-37: {{Risk Management Framework}}
+  for {{Information Systems}} and {{Organizations}}: {{A System Life Cycle
+  Approach}} for {{Security}} and {{Privacy}}.
+\newblock Technical Report NIST SP 800-37, September 2017.
+
+\bibitem[Newton(1675)]{newton_letter_1675}
+Issac Newton.
+\newblock Letter from {{Sir Isaac Newton}} to {{Robert Hooke}}, 1675.
+
+\bibitem[{Nissan Motor Corporation}(2017)]{nissan_motor_corporation_press_2017}
+{Nissan Motor Corporation}.
+\newblock {{PRESS KIT}}: {{Nissan Intelligent Mobility}} at {{CES}}.
+\newblock
+  https://newsroom.nissan-global.com/releases/press-kit-nissan-intelligent-mobility-at-ces?lang=en-US,
+  January 2017.
+
+\bibitem[{North American Electric Reliability
+  Corporation}()]{north_american_electric_reliability_corporation_critical_}
+{North American Electric Reliability Corporation}.
+\newblock Critical {{Infrastructure Protection}} standards.
+\newblock http://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx.
+
+\bibitem[Okumura and Prokhorov(2016)]{okumura_remote_2016}
+Bunyo Okumura and Danil~V. Prokhorov.
+\newblock Remote operation of autonomous vehicle in unexpected environment,
+  November 2016.
+
+\bibitem[{Open Web Application Security
+  Project}(2016)]{open_web_application_security_project_owasp_2016}
+{Open Web Application Security Project}.
+\newblock {{OWASP Risk Rating Methodology}}.
+\newblock https://www.owasp.org/index.php/OWASP\_Risk\_Rating\_Methodology, May
+  2016.
+
+\bibitem[{Open Web Application Security
+  Project}(2017)]{open_web_application_security_project_owasp_2017}
+{Open Web Application Security Project}.
+\newblock {{OWASP Top}} 10.
+\newblock https://www.owasp.org/index.php/Category:OWASP\_Top\_Ten\_Project,
+  2017.
+
+\bibitem[Oxley(2002)]{oxley_sarbanesoxley_2002}
+Michael~Garver Oxley.
+\newblock Sarbanes\textendash{{Oxley Act}} of 2002, 2002.
+
+\bibitem[{PCI Security Standards
+  Council}(2016)]{pci_security_standards_council_payment_2016}
+{PCI Security Standards Council}.
+\newblock Payment {{Card Industry}} ({{PCI}}) {{Data Security Standards}}.
+\newblock https://www.pcisecuritystandards.org/documents/PCI\_DSS\_v3-2.pdf,
+  April 2016.
+
+\bibitem[Peace(2002)]{peace_california_2002}
+Stephen Peace.
+\newblock California {{Senate Bill}} 1386, September 2002.
+
+\bibitem[Petit and Shladover(2015)]{petit_potential_2015}
+J.~Petit and S.~E. Shladover.
+\newblock Potential {{Cyberattacks}} on {{Automated Vehicles}}.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems},
+  16\penalty0 (2):\penalty0 546--556, April 2015.
+\newblock ISSN 1524-9050.
+\newblock \doi{10.1109/TITS.2014.2342271}.
+
+\bibitem[Pols(2017)]{pols_unified_2017}
+Paul Pols.
+\newblock \emph{The {{Unified Kill Chain}}: {{Designing}} a {{Unified Kill
+  Chain}} for Analyzing, Comparing and Defending against Cyber Attacks}.
+\newblock PhD thesis, Cyber Security Academy (CSA), December 2017.
+
+\bibitem[Ponemon(2017)]{ponemon_will_2017}
+Larry Ponemon.
+\newblock Will {{Privacy}} \& {{Security Concerns Stall}} the {{Adoption}} of
+  {{Autonomous Automobiles}}?, November 2017.
+
+\bibitem[Richards et~al.(2017)Richards, LaSalle, Devost, van~den Dool, and
+  {Kennedy-White}]{richards_2017_2017}
+Kevin Richards, Ryan LaSalle, Matt Devost, Floris van~den Dool, and Josh
+  {Kennedy-White}.
+\newblock 2017 {{Cost}} of {{Cyber Crime Study}}, 2017.
+
+\bibitem[Rust(2017)]{rust_expert_2017}
+Ian Rust.
+\newblock Expert mode for vehicles, July 2017.
+
+\bibitem[{SAE International}(2018)]{sae_international_taxonomy_2018}
+{SAE International}.
+\newblock Taxonomy and {{Definitions}} for {{Terms Related}} to {{Driving
+  Automation Systems}} for {{On}}-{{Road Motor Vehicles J3016}}\_201806.
+\newblock Technical report, June 2018.
+
+\bibitem[Schneier(2016)]{schneier_internet_2016}
+Bruce Schneier.
+\newblock The {{Internet}} of {{Things Will Turn Large}}-{{Scale Hacks}} into
+  {{Real World Disasters}}.
+\newblock \emph{Motherboard}, July 2016.
+
+\bibitem[Shakespeare(1599)]{shakespeare_henry_1599}
+William Shakespeare.
+\newblock Henry {{V}}, 1599.
+
+\bibitem[Shavit et~al.(2007)Shavit, Gryc, and Miucic]{2007-01-3523}
+Moshe Shavit, Andy Gryc, and Radovan Miucic.
+\newblock Firmware {{Update Over The Air}} ({{FOTA}}) for {{Automotive
+  Industry}}.
+\newblock In \emph{{{SAE Technical Paper}}}. {SAE International}, August 2007.
+\newblock \doi{10.4271/2007-01-3523}.
+
+\bibitem[Shin et~al.(2017)Shin, Kim, Kwon, and
+  Kim]{10.1007/978-3-319-66787-4_22}
+Hocheol Shin, Dohyun Kim, Yujin Kwon, and Yongdae Kim.
+\newblock Illusion and {{Dazzle}}: {{Adversarial Optical Channel Exploits
+  Against Lidars}} for {{Automotive Applications}}.
+\newblock In Wieland Fischer and Naofumi Homma, editors, \emph{Cryptographic
+  {{Hardware}} and {{Embedded Systems}} -- {{CHES}} 2017}, pages 445--467,
+  Cham, 2017. {Springer International Publishing}.
+\newblock ISBN 978-3-319-66787-4.
+
+\bibitem[Smith(2016)]{smith_car_2016}
+Craig Smith.
+\newblock \emph{The {{Car Hacker}}'s {{Handbook}}: {{A Guide}} for the
+  {{Penetration Tester}}}.
+\newblock {No Starch Press}, San Francisco, 2016.
+\newblock ISBN 978-1-59327-703-1.
+
+\bibitem[{Smith-Spark}(2017)]{smith-spark_deadly_2017}
+Laura {Smith-Spark}.
+\newblock Deadly {{Barcelona}} attack is worst in a day of violence in
+  {{Spain}}.
+\newblock \emph{CNN}, August 2017.
+
+\bibitem[Song et~al.(2016)Song, Kim, and Kim]{song_intrusion_2016}
+H.~M. Song, H.~R. Kim, and H.~K. Kim.
+\newblock Intrusion detection system based on the analysis of time intervals of
+  {{CAN}} messages for in-vehicle network.
+\newblock In \emph{2016 {{International Conference}} on {{Information
+  Networking}} ({{ICOIN}})}, pages 63--68, January 2016.
+\newblock \doi{10.1109/ICOIN.2016.7427089}.
+
+\bibitem[Soo~Hoo(2000)]{soo_hoo_how_2000}
+Kevin~J Soo~Hoo.
+\newblock How {{Much Is Enough}}? {{A Risk}}-{{Management Approach}} to
+  {{Computer Security}}, June 2000.
+
+\bibitem[Spicer(2018)]{spicer_intrusion_2018}
+Matthew~William Spicer.
+\newblock \emph{Intrusion {{Detection System}} for {{Electronic Communication
+  Buses}}: {{A New Approach}}}.
+\newblock Thesis, Virginia Tech, January 2018.
+
+\bibitem[Stallman(1985)]{stallman_hackers_1985}
+Richard Stallman.
+\newblock Hackers: {{Wizards}} of the {{Electronic Age}}, 1985.
+
+\bibitem[{Stanford University IT}()]{stanford_university_it_risk_}
+{Stanford University IT}.
+\newblock Risk {{Classifications}}.
+\newblock https://uit.stanford.edu/guide/riskclassifications.
+
+\bibitem[Sutton and Linn(2004)]{sutton_where_2004}
+Willie Sutton and Edward Linn.
+\newblock \emph{Where the {{Money Was}}: {{The Memoirs}} of a {{Bank Robber}}}.
+\newblock {Broadway Books}, New York, New York, 2004.
+
+\bibitem[Swartz(2008)]{swartz_guerilla_2008}
+Aaron Swartz.
+\newblock \emph{Guerilla {{Open Access Manifesto}}}.
+\newblock Eremo, Italy, July 2008.
+
+\bibitem[{The Mentor}(1986)]{the_mentor_conscience_1986}
+{The Mentor}.
+\newblock The {{Conscience}} of a {{Hacker}}.
+\newblock \emph{Phrack Magazine}, One\penalty0 (7), January 1986.
+
+\bibitem[{The MITRE
+  Corporation}(2018{\natexlab{a}})]{the_mitre_corporation_common_2018}
+{The MITRE Corporation}.
+\newblock Common {{Vulnerabilities}} and {{Exposures}} ({{CVE}}).
+\newblock http://cve.mitre.org/, 2018{\natexlab{a}}.
+
+\bibitem[{The MITRE
+  Corporation}(2018{\natexlab{b}})]{the_mitre_corporation_common_2018-1}
+{The MITRE Corporation}.
+\newblock Common {{Weakness Enumeration}} ({{CWE}}).
+\newblock http://cwe.mitre.org/, 2018{\natexlab{b}}.
+
+\bibitem[Thomson(1883)]{thomson_1st_baron_kelvin_electrical_1883}
+William Thomson, 1st Baron~Kelvin.
+\newblock Electrical {{Units}} of {{Measurement}}, May 1883.
+
+\bibitem[Thrun et~al.(2007)Thrun, Montemerlo, Dahlkamp, Stavens, Aron, Diebel,
+  Fong, Gale, Halpenny, Hoffmann, Lau, Oakley, Palatucci, Pratt, Stang,
+  Strohband, Dupont, Jendrossek, Koelen, Markey, Rummel, van Niekerk, Jensen,
+  Alessandrini, Bradski, Davies, Ettinger, Kaehler, Nefian, and
+  Mahoney]{thrun_stanley_2007}
+Sebastian Thrun, Mike Montemerlo, Hendrik Dahlkamp, David Stavens, Andrei Aron,
+  James Diebel, Philip Fong, John Gale, Morgan Halpenny, Gabriel Hoffmann,
+  Kenny Lau, Celia Oakley, Mark Palatucci, Vaughan Pratt, Pascal Stang, Sven
+  Strohband, Cedric Dupont, Lars-Erik Jendrossek, Christian Koelen, Charles
+  Markey, Carlo Rummel, Joe van Niekerk, Eric Jensen, Philippe Alessandrini,
+  Gary Bradski, Bob Davies, Scott Ettinger, Adrian Kaehler, Ara Nefian, and
+  Pamela Mahoney.
+\newblock Stanley: {{The Robot That Won}} the {{DARPA Grand Challenge}}.
+\newblock Springer Tracts in Advanced Robotics, pages 1--43. {Springer, Berlin,
+  Heidelberg}, 2007.
+\newblock ISBN 978-3-540-73428-4 978-3-540-73429-1.
+\newblock \doi{10.1007/978-3-540-73429-1_1}.
+
+\bibitem[Thune(2017)]{thune_av_2017}
+John Thune.
+\newblock {{AV START Act}}, November 2017.
+
+\bibitem[Tiwari and {Seltz-Axmacher}(2018)]{tiwari_vehicle_2018}
+Kartik Tiwari and Stefan {Seltz-Axmacher}.
+\newblock Vehicle control system and method of use, June 2018.
+
+\bibitem[{Trustwave}(2017)]{trustwave_2017_2017}
+{Trustwave}.
+\newblock The 2017 {{Trustwave Global Security Report}}, 2017.
+
+\bibitem[Vegge et~al.(2009)Vegge, Halvorsen, Nerg\aa{}rd, Jaatun, and
+  Jensen]{vegge_where_2009}
+H.~Vegge, F.~M. Halvorsen, R.~W. Nerg\aa{}rd, M.~G. Jaatun, and J.~Jensen.
+\newblock Where {{Only Fools Dare}} to {{Tread}}: {{An Empirical Study}} on the
+  {{Prevalence}} of {{Zero}}-{{Day Malware}}.
+\newblock In \emph{2009 {{Fourth International Conference}} on {{Internet
+  Monitoring}} and {{Protection}}}, pages 66--71, May 2009.
+\newblock \doi{10.1109/ICIMP.2009.19}.
+
+\bibitem[{Verizon}(2017)]{verizon_2017_2017}
+{Verizon}.
+\newblock 2017 {{Data Breach Investigations Report}} ({{DBIR}}), 2017.
+
+\bibitem[Waldron(2015)]{waldron_california_2015}
+Marie Waldron.
+\newblock California {{Assembly Bill}} 32 {{Computer}} crimes, August 2015.
+
+\bibitem[Waymo(2017)]{waymo_waymo_2017}
+Waymo.
+\newblock Waymo {{Safety Report}}: {{On The Road}} to {{Fully
+  Self}}-{{Driving}}.
+\newblock https://waymo.com/safetyreport/, October 2017.
+
+\bibitem[Wei et~al.(2016)Wei, Yang, and Li]{wei_authenticated_2016}
+Zhuo Wei, Yanjiang Yang, and Tieyan Li.
+\newblock Authenticated {{CAN Communications Using Standardized Cryptographic
+  Techniques}}.
+\newblock In \emph{Information {{Security Practice}} and {{Experience}}},
+  Lecture Notes in Computer Science, pages 330--343. {Springer, Cham}, November
+  2016.
+\newblock ISBN 978-3-319-49150-9 978-3-319-49151-6.
+\newblock \doi{10.1007/978-3-319-49151-6_23}.
+
+\bibitem[Yan et~al.(2016)Yan, Xu, and Liu]{yan_can_2016}
+Chen Yan, Wenyuan Xu, and Jianhao Liu.
+\newblock Can you trust autonomous vehicles: {{Contactless}} attacks against
+  sensors of self-driving vehicle.
+\newblock \emph{DEF CON}, 24, 2016.
+
+\bibitem[Zaloshnja and Miller(2004)]{zaloshnja_costs_2004}
+Eduard Zaloshnja and Ted~R Miller.
+\newblock Costs of large truck-involved crashes in the {{United States}}.
+\newblock \emph{Accident Analysis \& Prevention}, 36\penalty0 (5):\penalty0
+  801--808, September 2004.
+\newblock ISSN 0001-4575.
+\newblock \doi{10.1016/j.aap.2003.07.006}.
+
+\end{thebibliography}

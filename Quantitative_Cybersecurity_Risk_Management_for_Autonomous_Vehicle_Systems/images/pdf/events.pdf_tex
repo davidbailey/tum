@@ -1,0 +1,105 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'events.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{678.971875bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.10645823)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{events.pdf}}%
+    \put(0.03872468,0.50102711){\makebox(0,0)[rb]{\smash{Events}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{events.pdf}}%
+    \put(0.27437509,0.82881524){\makebox(0,0)[rb]{\smash{Adversarial}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{events.pdf}}%
+    \put(0.27437509,0.17323898){\makebox(0,0)[rb]{\smash{Non-adversarial}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{events.pdf}}%
+    \put(0.76452794,1.10056697){\makebox(0,0)[lb]{\smash{Injecting false commands}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{events.pdf}}%
+    \put(0.76452794,1.05692801){\makebox(0,0)[lb]{\smash{Jamming (denial of service)}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{events.pdf}}%
+    \put(0.76452794,1.01328904){\makebox(0,0)[lb]{\smash{Malware}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{events.pdf}}%
+    \put(0.76452794,0.96965008){\makebox(0,0)[lb]{\smash{Misconfiguration}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{events.pdf}}%
+    \put(0.76452794,0.92601112){\makebox(0,0)[lb]{\smash{Poisoning}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{events.pdf}}%
+    \put(0.76452794,0.88237215){\makebox(0,0)[lb]{\smash{Sensitive information disclosure/theft}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{events.pdf}}%
+    \put(0.5100255,0.77327474){\makebox(0,0)[rb]{\smash{Sniffing (wiretap)}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{events.pdf}}%
+    \put(0.76452794,0.66417733){\makebox(0,0)[lb]{\smash{Software bug}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{events.pdf}}%
+    \put(0.76452794,0.62053836){\makebox(0,0)[lb]{\smash{Spoofing}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{events.pdf}}%
+    \put(0.76452794,0.5768994){\makebox(0,0)[lb]{\smash{Theft/vandalism}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{events.pdf}}%
+    \put(0.76452794,0.53326043){\makebox(0,0)[lb]{\smash{Weak/missing encryption/access control}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{events.pdf}}%
+    \put(0.76452794,0.4459825){\makebox(0,0)[lb]{\smash{Bumps}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{events.pdf}}%
+    \put(0.5100255,0.29324613){\makebox(0,0)[rb]{\smash{Environmental}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{events.pdf}}%
+    \put(0.76452794,0.14050975){\makebox(0,0)[lb]{\smash{Fire}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{events.pdf}}%
+    \put(0.76452794,0.09687079){\makebox(0,0)[lb]{\smash{Hardware failure: complete or partial}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{events.pdf}}%
+    \put(0.76452794,0.05323182){\makebox(0,0)[lb]{\smash{Overheating}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{events.pdf}}%
+    \put(0.76452794,0.00959286){\makebox(0,0)[lb]{\smash{Vehicle crash}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{events.pdf}}%
+    \put(0.76452794,0.79509422){\makebox(0,0)[lb]{\smash{Active}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{events.pdf}}%
+    \put(0.76452794,0.75145526){\makebox(0,0)[lb]{\smash{Passive}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{events.pdf}}%
+    \put(0.76452794,0.35870458){\makebox(0,0)[lb]{\smash{Dust}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{events.pdf}}%
+    \put(0.76452794,0.31506561){\makebox(0,0)[lb]{\smash{Heat/cold}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{events.pdf}}%
+    \put(0.76452794,0.27142665){\makebox(0,0)[lb]{\smash{Rain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{events.pdf}}%
+    \put(0.76452794,0.22778768){\makebox(0,0)[lb]{\smash{Water (Rain)}}}%
+  \end{picture}%
+\endgroup%
