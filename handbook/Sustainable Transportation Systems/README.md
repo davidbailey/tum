@@ -226,4 +226,10 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 * Chapter 4: Analyzing & collecting data
 * Chapter 5: Implementation in action
 
+### [5 design principles for successful bicycle infrastructure](https://dtvcapacitybuilding.com/blog/5-design-principles-for-successful-bicycle-infrastructure/) [dtvcapacitybuilding.com]
 
+* Cohesion
+* Directness
+* Safety
+* Comfort
+* Attractiveness
