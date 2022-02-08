@@ -233,3 +233,15 @@ Road | Car, Motorcycle, Bicycle, Pedestrian | Bus, Taxi
 * Safety
 * Comfort
 * Attractiveness
+
+### [Bicycle User Experience](https://www.bicycleuserexperience.com/methods)
+* User Experience Mapping
+* Direcxted Storytelling
+* Artifact Analysis
+* Task Breakdown
+* Think Aloud Protocol
+* Heuristic Evaulation
+* Personas
+* Competitive Analysis
+* Online Journaling
+* More Methods
