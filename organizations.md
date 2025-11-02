@@ -22,3 +22,13 @@
       * [Department of Transportation](https://en.wikipedia.org/wiki/Department_of_transportation)
       * [Department of Motor Vehicles](https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles)
       * State Environmental Protection Agency
+
+
+
+to add
+
+https://community.amstat.org/tsig/home
+https://itea.science
+https://aetransport.org
+https://itsa.org
+https://www.ite.org
