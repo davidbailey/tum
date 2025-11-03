@@ -10,6 +10,22 @@
     * https://www.car-2-car.org
   * [American Railway Engineering and Maintenance-of-Way Association](https://en.wikipedia.org/wiki/American_Railway_Engineering_and_Maintenance-of-Way_Association)
     * https://www.arema.org
+  * [WRI Ross Center for Sustainable Cities](https://www.wri.org/cities)
+  * [American Statistical Association - Transportation Statistics Interest Group](https://community.amstat.org/tsig/home)
+  * [International Transportation Economics Association](https://aetransport.org)
+  * [ITS America](https://itsa.org)
+  * [Institute of Transportation Engineers](https://www.ite.org)
+  * [National Association of City Transportation Officials](https://nacto.org)
+  * [American Public Transportation Association](https://www.apta.com)
+  * [American Association of State Highway and Transportation Officials](https://transportation.org)
+  * [Association for Commuter Transportation](https://www.actweb.org)
+  * [American Planning Association - Transporation Planning Division](https://transportation.planning.org)
+  * [Young Professionals in Transportation](https://yptransportation.org)
+  * [Community Transportation Association of America](https://ctaa.org)
+  * [Association of Metropolitan Planning Organizations](https://ampo.org)
+  * [International Association for Travel Behaviour Research](https://iatbr.weebly.com)
+  * [Council of University Transportation Centers](https://mycutc.org)
+
 * Government
   * United States
     * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
@@ -22,23 +38,3 @@
       * [Department of Transportation](https://en.wikipedia.org/wiki/Department_of_transportation)
       * [Department of Motor Vehicles](https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles)
       * State Environmental Protection Agency
-
-
-
-to add
-
-https://community.amstat.org/tsig/home
-https://itea.science
-https://aetransport.org
-https://itsa.org
-https://www.ite.org
-https://nacto.org
-https://www.apta.com
-https://transportation.org
-https://www.actweb.org
-https://transportation.planning.org
-https://yptransportation.org
-https://ctaa.org
-https://ampo.org
-https://iatbr.weebly.com
-https://mycutc.org
