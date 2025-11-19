@@ -25,6 +25,7 @@
   * [Association of Metropolitan Planning Organizations](https://ampo.org)
   * [International Association for Travel Behaviour Research](https://iatbr.weebly.com)
   * [Council of University Transportation Centers](https://mycutc.org)
+  * [Association of Innovative Passenger Rail Operators](https://www.aiprorail.org)
 
 * Government
   * United States
