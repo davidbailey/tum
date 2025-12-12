@@ -26,7 +26,7 @@
   * [International Association for Travel Behaviour Research](https://iatbr.weebly.com)
   * [Council of University Transportation Centers](https://mycutc.org)
   * [Association of Innovative Passenger Rail Operators](https://www.aiprorail.org)
-
+  * [Association of Sustainable Transportation ResearchersAssociation of Sustainable Transportation Researchers](https://www.aostr.org/)
 * Government
   * United States
     * [Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation)
